@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Protocols and Performance  MacOS Meets Mixer\""
-date: 2024-05-28 11:36:51
-updated: 2024-05-30 11:51:36
+date: 2024-05-31T05:30:38.699Z
+updated: 2024-06-01T05:30:38.699Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

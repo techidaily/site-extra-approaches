@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the DJI Phantom 3 Pro's Innovations"
-date: 2024-05-27 15:27:43
-updated: 2024-05-29 12:18:52
+date: 2024-05-31T05:27:00.977Z
+updated: 2024-06-01T05:27:00.977Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

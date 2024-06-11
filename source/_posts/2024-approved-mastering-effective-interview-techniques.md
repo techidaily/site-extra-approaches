@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Effective Interview Techniques\""
-date: 2024-05-25 17:38:26
-updated: 2024-05-28 12:10:46
+date: 2024-05-31T05:30:11.605Z
+updated: 2024-06-01T05:30:11.605Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ Make a YouTube opening that's decent enough to get you started rather than aimin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

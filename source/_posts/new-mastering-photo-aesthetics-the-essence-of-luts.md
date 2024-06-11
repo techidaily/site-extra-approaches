@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Photo Aesthetics  The Essence of LUTs\""
-date: 2024-05-25 14:42:22
-updated: 2024-05-28 10:41:11
+date: 2024-05-31T05:26:16.478Z
+updated: 2024-06-01T05:26:16.478Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

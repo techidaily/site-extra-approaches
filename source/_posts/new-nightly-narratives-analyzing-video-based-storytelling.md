@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Nightly Narratives  Analyzing Video-Based Storytelling\""
-date: 2024-05-27 21:43:25
-updated: 2024-05-29 12:46:12
+date: 2024-05-31T05:26:23.671Z
+updated: 2024-06-01T05:26:23.671Z
 tags: 
   - screen-recording
   - ai video
@@ -444,4 +444,5 @@ Bedtime story videos prepare kids for sleep, provided you pick the proper ones. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

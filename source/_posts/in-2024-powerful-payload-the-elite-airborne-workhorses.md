@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Powerful Payload  The Elite Airborne Workhorses\""
-date: 2024-05-28 23:19:25
-updated: 2024-05-29 12:52:29
+date: 2024-05-31T05:27:05.328Z
+updated: 2024-06-01T05:27:05.328Z
 tags: 
   - screen-recording
   - ai video
@@ -490,4 +490,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

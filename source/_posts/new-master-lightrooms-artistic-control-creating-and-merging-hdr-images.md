@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Master Lightroom's Artistic Control  Creating & Merging HDR Images\""
-date: 2024-05-27 11:50:26
-updated: 2024-05-28 12:49:33
+date: 2024-05-31T05:30:01.557Z
+updated: 2024-06-01T05:30:01.557Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Video Editing Tools on the Latest Windows 11"
-date: 2024-05-26 18:15:10
-updated: 2024-05-29 12:15:24
+date: 2024-05-31T05:30:50.626Z
+updated: 2024-06-01T05:30:50.626Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

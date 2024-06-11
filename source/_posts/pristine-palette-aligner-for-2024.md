@@ -1,7 +1,7 @@
 ---
 title: "Pristine Palette Aligner for 2024"
-date: 2024-05-27 14:23:51
-updated: 2024-05-30 11:42:12
+date: 2024-05-31T05:27:00.825Z
+updated: 2024-06-01T05:27:00.825Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ With apps like Filmora, color correcting is simple and quick to do on mobile dev
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

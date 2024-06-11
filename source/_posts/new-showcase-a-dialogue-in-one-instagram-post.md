@@ -1,7 +1,7 @@
 ---
 title: "[New] Showcase a Dialogue in One Instagram Post"
-date: 2024-05-30 13:54:26
-updated: 2024-05-31 11:49:10
+date: 2024-05-31T05:26:29.970Z
+updated: 2024-06-01T05:26:29.970Z
 tags: 
   - screen-recording
   - ai video
@@ -468,4 +468,5 @@ While some of these tips could be more effective for you than others. Feel free 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Inside Viva's Video App  A Complete Analysis for 2024\""
-date: 2024-05-24 20:28:37
-updated: 2024-05-27 10:27:33
+date: 2024-05-31T05:30:03.889Z
+updated: 2024-06-01T05:30:03.889Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ Hopefully, you find this guide helpful and can now create fantastic videos using
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

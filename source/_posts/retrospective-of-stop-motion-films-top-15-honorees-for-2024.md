@@ -1,7 +1,7 @@
 ---
 title: "\"Retrospective of Stop-Motion Films - Top 15 Honorees for 2024\""
-date: 2024-05-28 13:51:10
-updated: 2024-05-30 12:33:56
+date: 2024-05-31T05:30:42.285Z
+updated: 2024-06-01T05:30:42.285Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ The creative industry needs to offer strong animation to bring the audience on t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

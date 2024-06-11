@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pixelated Projections  Immersive Filmscape\""
-date: 2024-05-26 22:16:10
-updated: 2024-05-29 10:41:54
+date: 2024-05-31T05:29:14.888Z
+updated: 2024-06-01T05:29:14.888Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

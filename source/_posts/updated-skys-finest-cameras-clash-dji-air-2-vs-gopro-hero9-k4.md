@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky's Finest Cameras Clash  DJi Air 2 VS GoPro HERO9 K4\""
-date: 2024-05-28 18:30:27
-updated: 2024-05-31 10:33:45
+date: 2024-05-31T05:28:36.581Z
+updated: 2024-06-01T05:28:36.581Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

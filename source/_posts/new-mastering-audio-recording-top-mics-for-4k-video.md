@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Audio Recording - Top Mics for 4K Video\""
-date: 2024-05-26 13:46:28
-updated: 2024-05-28 10:20:11
+date: 2024-05-31T05:29:28.617Z
+updated: 2024-06-01T05:29:28.617Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

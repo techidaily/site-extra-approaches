@@ -1,7 +1,7 @@
 ---
 title: "[New] Pedagogic Practices with a Focus on Visual Materials"
-date: 2024-05-27 10:58:59
-updated: 2024-05-29 11:11:10
+date: 2024-05-31T05:26:36.204Z
+updated: 2024-06-01T05:26:36.204Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

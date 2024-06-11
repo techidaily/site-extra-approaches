@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Spectrum Adjuster"
-date: 2024-05-27 12:36:50
-updated: 2024-05-29 10:39:54
+date: 2024-05-31T05:28:06.507Z
+updated: 2024-06-01T05:28:06.507Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ With apps like Filmora, color correcting is simple and quick to do on mobile dev
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

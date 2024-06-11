@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Snapshots From Videos Within Windows 11 Photos App\""
-date: 2024-05-30 17:23:59
-updated: 2024-05-31 12:35:15
+date: 2024-05-31T05:26:48.505Z
+updated: 2024-06-01T05:26:48.505Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

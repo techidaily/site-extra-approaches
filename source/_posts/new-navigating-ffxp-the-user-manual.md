@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating FFXP  The User Manual\""
-date: 2024-05-27 13:19:48
-updated: 2024-05-29 10:56:11
+date: 2024-05-31T05:27:49.119Z
+updated: 2024-06-01T05:27:49.119Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Securing Your Scene  Camera Shake Solutions\""
-date: 2024-05-29 23:59:27
-updated: 2024-05-30 12:12:51
+date: 2024-05-31T05:27:42.431Z
+updated: 2024-06-01T05:27:42.431Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ That's why awareness can go a long way towards helping you catch potential probl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

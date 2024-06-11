@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering High Definition  Selecting Prime Lenses for Professional Video\""
-date: 2024-05-25 21:22:52
-updated: 2024-05-28 10:34:26
+date: 2024-05-31T05:27:52.586Z
+updated: 2024-06-01T05:27:52.586Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

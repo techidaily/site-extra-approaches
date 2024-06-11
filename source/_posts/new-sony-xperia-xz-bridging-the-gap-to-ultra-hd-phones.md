@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sony Xperia XZ - Bridging the Gap to Ultra HD Phones\""
-date: 2024-05-30 19:56:50
-updated: 2024-05-31 11:42:32
+date: 2024-05-31T05:31:15.662Z
+updated: 2024-06-01T05:31:15.662Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

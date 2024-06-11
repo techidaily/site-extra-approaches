@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Escapes  Dodging Edgenuity Online Course Videos Easily\""
-date: 2024-05-28 16:38:23
-updated: 2024-05-30 12:20:10
+date: 2024-05-31T05:26:47.285Z
+updated: 2024-06-01T05:26:47.285Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Edgenuity is a great learning program. Not having a skip button makes it, so stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

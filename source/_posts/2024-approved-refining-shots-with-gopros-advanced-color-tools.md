@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Refining Shots with GoPro's Advanced Color Tools\""
-date: 2024-05-29 13:27:26
-updated: 2024-05-30 12:50:32
+date: 2024-05-31T05:29:11.156Z
+updated: 2024-06-01T05:29:11.156Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

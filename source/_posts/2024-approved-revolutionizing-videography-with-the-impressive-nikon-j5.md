@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revolutionizing Videography with the Impressive Nikon J5\""
-date: 2024-05-28 17:22:44
-updated: 2024-05-30 12:37:49
+date: 2024-05-31T05:26:32.701Z
+updated: 2024-06-01T05:26:32.701Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

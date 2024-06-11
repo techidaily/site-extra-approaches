@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Principles of Crafting Alluring Video Scripts"
-date: 2024-05-28 13:14:27
-updated: 2024-05-30 11:47:59
+date: 2024-05-31T05:28:43.442Z
+updated: 2024-06-01T05:28:43.442Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ So here, the conclusion is that vlogs are a great way to attract an audience on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

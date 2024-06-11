@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Screen Aspect Formulas and Alterations Online"
-date: 2024-05-29 23:22:30
-updated: 2024-05-30 12:43:17
+date: 2024-05-31T05:30:44.968Z
+updated: 2024-06-01T05:30:44.968Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

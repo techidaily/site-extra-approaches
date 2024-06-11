@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Softening Audio Levels  Alive’s Approach\""
-date: 2024-05-28 22:35:44
-updated: 2024-05-31 10:31:43
+date: 2024-05-31T05:28:30.906Z
+updated: 2024-06-01T05:28:30.906Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

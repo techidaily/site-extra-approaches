@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone & Samsung Faces  Examining Their Biometric Security\""
-date: 2024-05-27 22:42:41
-updated: 2024-05-28 12:39:23
+date: 2024-05-31T05:28:04.754Z
+updated: 2024-06-01T05:28:04.754Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

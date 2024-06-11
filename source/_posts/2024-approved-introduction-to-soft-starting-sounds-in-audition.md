@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Introduction to Soft-Starting Sounds in Audition\""
-date: 2024-05-25 12:37:51
-updated: 2024-05-27 12:16:29
+date: 2024-05-31T05:28:50.282Z
+updated: 2024-06-01T05:28:50.282Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

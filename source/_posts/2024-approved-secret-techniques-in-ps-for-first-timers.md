@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Secret Techniques in PS for First-Timers\""
-date: 2024-05-27 12:22:13
-updated: 2024-05-30 11:20:53
+date: 2024-05-31T05:26:14.473Z
+updated: 2024-06-01T05:26:14.473Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Ranking Perfect Photo & Video Shows on iPhones"
-date: 2024-05-27 21:36:22
-updated: 2024-05-30 12:54:35
+date: 2024-05-31T05:28:11.347Z
+updated: 2024-06-01T05:28:11.347Z
 tags: 
   - screen-recording
   - ai video
@@ -698,4 +698,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

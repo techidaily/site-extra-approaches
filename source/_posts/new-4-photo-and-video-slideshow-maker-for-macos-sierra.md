@@ -1,7 +1,7 @@
 ---
 title: "[New] 4 Photo and Video Slideshow Maker for macOS Sierra"
-date: 2024-05-26 18:43:33
-updated: 2024-05-29 10:51:27
+date: 2024-05-31T05:27:37.434Z
+updated: 2024-06-01T05:27:37.434Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

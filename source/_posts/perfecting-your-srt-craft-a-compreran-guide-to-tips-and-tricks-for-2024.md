@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Your SRT Craft  A Compreran Guide to Tips & Tricks for 2024\""
-date: 2024-05-27 12:27:33
-updated: 2024-05-29 12:39:27
+date: 2024-05-31T05:26:31.512Z
+updated: 2024-06-01T05:26:31.512Z
 tags: 
   - screen-recording
   - ai video
@@ -324,4 +324,5 @@ You can create SRT on Windows using Notepad or on Mac using TextEdit. However, t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

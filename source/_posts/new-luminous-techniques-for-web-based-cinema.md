@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Luminous Techniques for Web-Based Cinema\""
-date: 2024-05-27 11:26:52
-updated: 2024-05-28 11:40:23
+date: 2024-05-31T05:27:53.139Z
+updated: 2024-06-01T05:27:53.139Z
 tags: 
   - screen-recording
   - ai video
@@ -666,4 +666,5 @@ No matter which tool you are using, just follow these generic steps and you will
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Instant Impact  Applying Motion Blur to AI Artwork for 2024\""
-date: 2024-05-26 22:53:54
-updated: 2024-05-27 10:54:53
+date: 2024-05-31T05:30:37.198Z
+updated: 2024-06-01T05:30:37.198Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

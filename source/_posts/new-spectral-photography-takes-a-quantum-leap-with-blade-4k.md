@@ -1,7 +1,7 @@
 ---
 title: "[New] Spectral Photography Takes a Quantum Leap with Blade 4K"
-date: 2024-05-28 19:47:50
-updated: 2024-05-31 10:51:39
+date: 2024-05-31T05:31:18.141Z
+updated: 2024-06-01T05:31:18.141Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

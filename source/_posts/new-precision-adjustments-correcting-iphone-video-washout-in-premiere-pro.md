@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Precision Adjustments  Correcting iPhone Video Washout in Premiere Pro\""
-date: 2024-05-27 17:58:58
-updated: 2024-05-29 11:52:45
+date: 2024-05-31T05:27:41.270Z
+updated: 2024-06-01T05:27:41.270Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

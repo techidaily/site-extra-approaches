@@ -1,7 +1,7 @@
 ---
 title: "[Updated] ScreenSpectrum App Evaluation"
-date: 2024-05-28 23:38:59
-updated: 2024-05-30 10:29:19
+date: 2024-05-31T05:31:14.228Z
+updated: 2024-06-01T05:31:14.228Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ Hopefully, you find this guide helpful and can now create fantastic videos using
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

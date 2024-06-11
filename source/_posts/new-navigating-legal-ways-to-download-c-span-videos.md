@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Legal Ways to Download C-Span Videos\""
-date: 2024-05-28 15:11:17
-updated: 2024-05-29 12:56:49
+date: 2024-05-31T05:27:48.416Z
+updated: 2024-06-01T05:27:48.416Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ C-Span videos are great if you would like to keep up with the political scene in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

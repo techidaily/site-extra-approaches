@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lecture Transcription at Zero Expense\""
-date: 2024-05-26 20:29:28
-updated: 2024-05-28 12:12:34
+date: 2024-05-31T05:29:28.205Z
+updated: 2024-06-01T05:29:28.205Z
 tags: 
   - screen-recording
   - ai video
@@ -132,4 +132,5 @@ Now you know how speech recognition can be helpful in your documentation work. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Pixiz for Creating Dynamic Photo Videos"
-date: 2024-05-27 17:15:12
-updated: 2024-05-28 12:35:15
+date: 2024-05-31T05:27:56.260Z
+updated: 2024-06-01T05:27:56.260Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

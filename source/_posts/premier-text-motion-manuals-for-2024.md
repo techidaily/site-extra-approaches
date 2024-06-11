@@ -1,7 +1,7 @@
 ---
 title: "Premier Text Motion Manuals for 2024"
-date: 2024-05-28 10:44:20
-updated: 2024-05-30 12:37:15
+date: 2024-05-31T05:26:30.766Z
+updated: 2024-06-01T05:26:30.766Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ As the saying goes, the more the merrier and the more presets you have, the more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

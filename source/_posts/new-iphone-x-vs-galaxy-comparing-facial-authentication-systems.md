@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone X Vs. Galaxy  Comparing Facial Authentication Systems\""
-date: 2024-05-27 10:15:40
-updated: 2024-05-28 11:26:27
+date: 2024-05-31T05:27:53.828Z
+updated: 2024-06-01T05:27:53.828Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

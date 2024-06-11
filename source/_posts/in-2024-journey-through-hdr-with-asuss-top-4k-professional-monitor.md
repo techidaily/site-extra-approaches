@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Journey Through HDR with ASUS's Top 4K Professional Monitor"
-date: 2024-05-27 11:51:26
-updated: 2024-05-28 11:24:37
+date: 2024-05-31T05:27:18.986Z
+updated: 2024-06-01T05:27:18.986Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

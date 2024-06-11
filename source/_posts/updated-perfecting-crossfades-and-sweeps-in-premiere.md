@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Crossfades & Sweeps in Premiere"
-date: 2024-05-27 20:34:13
-updated: 2024-05-29 11:53:50
+date: 2024-05-31T05:30:41.537Z
+updated: 2024-06-01T05:30:41.537Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

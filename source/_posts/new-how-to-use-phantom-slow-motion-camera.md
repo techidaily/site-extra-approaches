@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Use Phantom Slow Motion Camera"
-date: 2024-05-26 21:56:38
-updated: 2024-05-29 11:14:28
+date: 2024-05-31T05:30:34.865Z
+updated: 2024-06-01T05:30:34.865Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

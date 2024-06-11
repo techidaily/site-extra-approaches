@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplified Steps for Photo Motion Blur in Photoshop\""
-date: 2024-05-29 19:33:29
-updated: 2024-05-31 12:35:10
+date: 2024-05-31T05:29:29.010Z
+updated: 2024-06-01T05:29:29.010Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

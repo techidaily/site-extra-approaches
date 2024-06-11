@@ -1,7 +1,7 @@
 ---
 title: "[New] Simple Definition of Storytelling"
-date: 2024-05-30 20:49:15
-updated: 2024-05-31 12:28:22
+date: 2024-05-31T05:29:33.550Z
+updated: 2024-06-01T05:29:33.550Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

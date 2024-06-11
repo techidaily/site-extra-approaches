@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplify Screenplay to Film  Use Windows Movie Maker (Win11)\""
-date: 2024-05-29 22:32:23
-updated: 2024-05-31 10:54:39
+date: 2024-05-31T05:31:01.308Z
+updated: 2024-06-01T05:31:01.308Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

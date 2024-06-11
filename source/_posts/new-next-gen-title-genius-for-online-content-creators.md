@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Next-Gen Title Genius for Online Content Creators\""
-date: 2024-05-28 12:10:40
-updated: 2024-05-29 11:55:25
+date: 2024-05-31T05:27:33.300Z
+updated: 2024-06-01T05:27:33.300Z
 tags: 
   - screen-recording
   - ai video
@@ -329,4 +329,5 @@ It is crucial to invest work into producing attention-grabbing titles for your Y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

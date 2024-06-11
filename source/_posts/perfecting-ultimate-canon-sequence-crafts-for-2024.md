@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Ultimate Canon Sequence Crafts for 2024"
-date: 2024-05-26 13:33:57
-updated: 2024-05-29 12:27:59
+date: 2024-05-31T05:28:37.197Z
+updated: 2024-06-01T05:28:37.197Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

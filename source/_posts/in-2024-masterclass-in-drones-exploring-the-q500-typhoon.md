@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Masterclass in Drones  Exploring the Q500 Typhoon\""
-date: 2024-05-26 20:10:20
-updated: 2024-05-28 10:30:17
+date: 2024-05-31T05:25:55.053Z
+updated: 2024-06-01T05:25:55.053Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

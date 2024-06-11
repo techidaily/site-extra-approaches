@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Starting Point for Motion Visual Effects\""
-date: 2024-05-28 19:57:28
-updated: 2024-05-31 10:18:35
+date: 2024-05-31T05:25:59.256Z
+updated: 2024-06-01T05:25:59.256Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

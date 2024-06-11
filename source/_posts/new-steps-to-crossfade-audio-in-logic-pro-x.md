@@ -1,7 +1,7 @@
 ---
 title: "[New] Steps To Crossfade Audio In Logic Pro X"
-date: 2024-05-25 23:49:48
-updated: 2024-05-28 11:14:19
+date: 2024-05-31T05:28:25.798Z
+updated: 2024-06-01T05:28:25.798Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

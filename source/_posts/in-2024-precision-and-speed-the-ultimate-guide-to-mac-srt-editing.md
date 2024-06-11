@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Precision and Speed  The Ultimate Guide to Mac Srt Editing\""
-date: 2024-05-27 14:25:47
-updated: 2024-05-29 11:17:17
+date: 2024-05-31T05:28:52.963Z
+updated: 2024-06-01T05:28:52.963Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

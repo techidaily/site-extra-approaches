@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Master Your Creative Process  Essential Affects Plugin Guide\""
-date: 2024-05-26 10:57:52
-updated: 2024-05-28 10:11:55
+date: 2024-05-31T05:26:50.182Z
+updated: 2024-06-01T05:26:50.182Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

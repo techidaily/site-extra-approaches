@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Fade-In/Out Processes in Audacity\""
-date: 2024-05-27 11:30:51
-updated: 2024-05-29 12:41:48
+date: 2024-05-31T05:31:05.860Z
+updated: 2024-06-01T05:31:05.860Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ You may access a variety of tools and services on the platform known as Audacity
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

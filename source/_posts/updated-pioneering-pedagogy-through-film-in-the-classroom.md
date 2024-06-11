@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pioneering Pedagogy Through Film in the Classroom"
-date: 2024-05-26 18:46:51
-updated: 2024-05-29 12:23:40
+date: 2024-05-31T05:30:54.795Z
+updated: 2024-06-01T05:30:54.795Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

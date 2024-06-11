@@ -1,7 +1,7 @@
 ---
 title: "\"[New] On-the-Go Motion Dampener for Videography\""
-date: 2024-05-26 20:53:35
-updated: 2024-05-29 10:26:29
+date: 2024-05-31T05:26:00.306Z
+updated: 2024-06-01T05:26:00.306Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

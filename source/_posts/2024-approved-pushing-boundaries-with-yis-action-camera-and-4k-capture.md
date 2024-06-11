@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pushing Boundaries with Yi's Action Camera & 4K Capture\""
-date: 2024-05-27 18:57:12
-updated: 2024-05-30 10:34:58
+date: 2024-05-31T05:28:12.525Z
+updated: 2024-06-01T05:28:12.525Z
 tags: 
   - screen-recording
   - ai video
@@ -458,4 +458,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speedy Explorer - Windows 10 Photography Interface\""
-date: 2024-05-30 12:24:58
-updated: 2024-05-31 11:11:21
+date: 2024-05-31T05:28:53.206Z
+updated: 2024-06-01T05:28:53.206Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

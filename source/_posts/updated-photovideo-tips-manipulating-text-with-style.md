@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Photo/Video Tips  Manipulating Text with Style\""
-date: 2024-05-28 11:48:33
-updated: 2024-05-29 10:22:54
+date: 2024-05-31T05:27:18.633Z
+updated: 2024-06-01T05:27:18.633Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

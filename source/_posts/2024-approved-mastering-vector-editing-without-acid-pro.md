@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Vector Editing without ACID Pro\""
-date: 2024-05-25 10:54:15
-updated: 2024-05-28 10:18:55
+date: 2024-05-31T05:26:46.812Z
+updated: 2024-06-01T05:26:46.812Z
 tags: 
   - screen-recording
   - ai video
@@ -190,4 +190,5 @@ However, ACID Pro is expensive, and some users might not be able to afford it. W
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

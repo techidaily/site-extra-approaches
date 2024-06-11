@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Rethinking Color Dynamics in Videography with HDR's Introduction\""
-date: 2024-05-28 23:47:35
-updated: 2024-05-30 10:23:15
+date: 2024-05-31T05:29:43.856Z
+updated: 2024-06-01T05:29:43.856Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

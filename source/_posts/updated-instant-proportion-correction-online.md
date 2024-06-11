@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Instant Proportion Correction Online"
-date: 2024-05-24 19:57:32
-updated: 2024-05-27 12:25:55
+date: 2024-05-31T05:26:02.185Z
+updated: 2024-06-01T05:26:02.185Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Introducing High-Quality Capture with YI for 2024\""
-date: 2024-05-24 18:12:11
-updated: 2024-05-27 11:35:22
+date: 2024-05-31T05:27:26.987Z
+updated: 2024-06-01T05:27:26.987Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

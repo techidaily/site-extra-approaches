@@ -1,7 +1,7 @@
 ---
 title: "Perfect Group Photos with iPhone's Burst Shot for 2024"
-date: 2024-05-26 19:30:30
-updated: 2024-05-29 10:52:37
+date: 2024-05-31T05:26:22.229Z
+updated: 2024-06-01T05:26:22.229Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Photographers' Guide to Top 5 Android Editors for 2024"
-date: 2024-05-30 13:14:22
-updated: 2024-05-31 12:43:28
+date: 2024-05-31T05:28:55.738Z
+updated: 2024-06-01T05:28:55.738Z
 tags: 
   - screen-recording
   - ai video
@@ -432,4 +432,5 @@ Many photo editing apps have introduced themselves in the market and online plat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

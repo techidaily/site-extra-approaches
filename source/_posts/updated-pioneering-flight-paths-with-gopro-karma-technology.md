@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pioneering Flight Paths with GoPro Karma Technology"
-date: 2024-05-26 20:41:10
-updated: 2024-05-29 11:18:42
+date: 2024-05-31T05:28:43.021Z
+updated: 2024-06-01T05:28:43.021Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

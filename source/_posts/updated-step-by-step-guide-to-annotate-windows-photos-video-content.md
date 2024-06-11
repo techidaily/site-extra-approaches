@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Annotate Windows Photos Video Content\""
-date: 2024-05-28 15:19:51
-updated: 2024-05-31 12:39:38
+date: 2024-05-31T05:26:57.943Z
+updated: 2024-06-01T05:26:57.943Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

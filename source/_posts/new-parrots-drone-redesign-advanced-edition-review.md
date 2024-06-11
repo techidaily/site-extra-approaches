@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Parrot's Drone Redesign - Advanced Edition Review\""
-date: 2024-05-26 22:21:52
-updated: 2024-05-29 11:55:11
+date: 2024-05-31T05:26:18.040Z
+updated: 2024-06-01T05:26:18.040Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

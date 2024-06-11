@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Silent Scripting  The Leading List of Offline Transcription Software\""
-date: 2024-05-28 21:37:10
-updated: 2024-05-31 12:25:27
+date: 2024-05-31T05:30:39.433Z
+updated: 2024-06-01T05:30:39.433Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Please refer to this list the next time you're looking for a speech to text serv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

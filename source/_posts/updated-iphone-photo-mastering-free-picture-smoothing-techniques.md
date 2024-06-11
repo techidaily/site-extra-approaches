@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Photo  Mastering FREE Picture Smoothing Techniques\""
-date: 2024-05-26 16:38:43
-updated: 2024-05-28 12:42:28
+date: 2024-05-31T05:26:39.656Z
+updated: 2024-06-01T05:26:39.656Z
 tags: 
   - screen-recording
   - ai video
@@ -448,4 +448,5 @@ Blurring the background in a photo ensures that the main subject remains in the 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone & iPad Video Powerhouses  The Ultimate List of 10\""
-date: 2024-05-25 12:54:58
-updated: 2024-05-27 11:21:21
+date: 2024-05-31T05:27:49.065Z
+updated: 2024-06-01T05:27:49.065Z
 tags: 
   - screen-recording
   - ai video
@@ -866,4 +866,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating the Complexities of Chroma Removal (KineMaster Edition)"
-date: 2024-05-26 20:56:16
-updated: 2024-05-29 11:49:25
+date: 2024-05-31T05:25:54.407Z
+updated: 2024-06-01T05:25:54.407Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

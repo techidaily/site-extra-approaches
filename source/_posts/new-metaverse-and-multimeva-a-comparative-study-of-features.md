@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Metaverse and Multimeva  A Comparative Study of Features\""
-date: 2024-05-27 11:33:48
-updated: 2024-05-28 11:18:35
+date: 2024-05-31T05:31:18.047Z
+updated: 2024-06-01T05:31:18.047Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Hope lies in the fact that the formation of the Metaverse vs. Multiverse discour
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

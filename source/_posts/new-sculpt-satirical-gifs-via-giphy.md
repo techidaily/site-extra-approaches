@@ -1,7 +1,7 @@
 ---
 title: "[New] Sculpt Satirical Gifs via Giphy"
-date: 2024-05-27 16:22:15
-updated: 2024-05-30 12:58:21
+date: 2024-05-31T05:30:20.196Z
+updated: 2024-06-01T05:30:20.196Z
 tags: 
   - screen-recording
   - ai video
@@ -134,4 +134,5 @@ Additionally, Giphy offers a Giphy Cam software that enables users to create cus
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

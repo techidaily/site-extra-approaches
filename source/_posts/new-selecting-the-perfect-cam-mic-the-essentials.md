@@ -1,7 +1,7 @@
 ---
 title: "[New] Selecting the Perfect Cam Mic, The Essentials"
-date: 2024-05-27 18:59:20
-updated: 2024-05-30 12:27:34
+date: 2024-05-31T05:30:16.178Z
+updated: 2024-06-01T05:30:16.178Z
 tags: 
   - screen-recording
   - ai video
@@ -770,4 +770,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

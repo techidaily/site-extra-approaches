@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scriptwriting Secrets for Docu-Films\""
-date: 2024-05-28 14:20:36
-updated: 2024-05-30 12:27:56
+date: 2024-05-31T05:27:36.444Z
+updated: 2024-06-01T05:27:36.444Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So, the last words for this educational post are that, as we all know, writing a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

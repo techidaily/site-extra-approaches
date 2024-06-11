@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Stabilizing Your GoPro Footage  A Step-by-Step Guide\""
-date: 2024-05-29 17:51:44
-updated: 2024-05-31 12:20:47
+date: 2024-05-31T05:29:59.447Z
+updated: 2024-06-01T05:29:59.447Z
 tags: 
   - screen-recording
   - ai video
@@ -538,4 +538,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

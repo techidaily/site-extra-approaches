@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Smartphone Evolution at 4K Peaks – Sony Xperia XZ Reviewed"
-date: 2024-05-28 21:51:35
-updated: 2024-05-31 11:10:53
+date: 2024-05-31T05:28:54.551Z
+updated: 2024-06-01T05:28:54.551Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

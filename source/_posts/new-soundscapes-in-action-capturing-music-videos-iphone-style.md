@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Soundscapes in Action  Capturing Music Videos iPhone Style\""
-date: 2024-05-29 13:21:23
-updated: 2024-05-31 12:18:44
+date: 2024-05-31T05:29:45.608Z
+updated: 2024-06-01T05:29:45.608Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

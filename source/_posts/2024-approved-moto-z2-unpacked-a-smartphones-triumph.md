@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Moto Z2 Unpacked  A Smartphone's Triumph\""
-date: 2024-05-26 22:13:40
-updated: 2024-05-29 12:15:30
+date: 2024-05-31T05:29:35.235Z
+updated: 2024-06-01T05:29:35.235Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

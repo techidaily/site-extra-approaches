@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Invisible Vibes  Dimming Music on Computers\""
-date: 2024-05-24 12:26:40
-updated: 2024-05-27 11:20:36
+date: 2024-05-31T05:26:49.785Z
+updated: 2024-06-01T05:26:49.785Z
 tags: 
   - screen-recording
   - ai video
@@ -212,4 +212,5 @@ Adding fade music effects is not only about making money or trying to add spine 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

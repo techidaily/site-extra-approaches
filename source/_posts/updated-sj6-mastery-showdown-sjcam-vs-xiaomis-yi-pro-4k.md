@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] SJ6 Mastery Showdown  SJCam Vs. Xiaomi's Yi Pro 4K\""
-date: 2024-05-29 14:50:35
-updated: 2024-05-31 10:38:46
+date: 2024-05-31T05:28:02.880Z
+updated: 2024-06-01T05:28:02.880Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

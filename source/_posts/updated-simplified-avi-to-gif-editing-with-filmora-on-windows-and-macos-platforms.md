@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms"
-date: 2024-05-29 11:19:56
-updated: 2024-05-31 12:21:13
+date: 2024-05-31T05:27:22.597Z
+updated: 2024-06-01T05:27:22.597Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Yes, one can add audio into GIF files with specific tools or software, but only 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

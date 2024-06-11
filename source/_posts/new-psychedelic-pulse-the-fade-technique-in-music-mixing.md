@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Psychedelic Pulse  The Fade Technique in Music Mixing\""
-date: 2024-05-29 21:39:53
-updated: 2024-05-30 11:45:17
+date: 2024-05-31T05:27:50.053Z
+updated: 2024-06-01T05:27:50.053Z
 tags: 
   - screen-recording
   - ai video
@@ -199,4 +199,5 @@ In a nutshell, we can suggest Wondershare Filmora as a fantastic video editing p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

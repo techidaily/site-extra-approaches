@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Guide to 3D Text Effects in PHOTOS\""
-date: 2024-05-29 18:36:59
-updated: 2024-05-31 12:52:27
+date: 2024-05-31T05:27:57.573Z
+updated: 2024-06-01T05:27:57.573Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

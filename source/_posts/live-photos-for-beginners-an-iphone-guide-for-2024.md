@@ -1,7 +1,7 @@
 ---
 title: "\"Live Photos for Beginners  An iPhone Guide for 2024\""
-date: 2024-05-25 12:36:58
-updated: 2024-05-28 12:49:39
+date: 2024-05-31T05:26:07.476Z
+updated: 2024-06-01T05:26:07.476Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

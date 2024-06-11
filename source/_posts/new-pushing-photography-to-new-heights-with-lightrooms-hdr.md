@@ -1,7 +1,7 @@
 ---
 title: "[New] Pushing Photography to New Heights with Lightroom's HDR"
-date: 2024-05-28 16:48:31
-updated: 2024-05-30 10:57:48
+date: 2024-05-31T05:28:30.560Z
+updated: 2024-06-01T05:28:30.560Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

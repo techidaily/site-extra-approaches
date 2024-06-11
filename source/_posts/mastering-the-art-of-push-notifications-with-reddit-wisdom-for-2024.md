@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Push Notifications with Reddit Wisdom for 2024"
-date: 2024-05-27 23:18:41
-updated: 2024-05-28 12:27:47
+date: 2024-05-31T05:28:48.298Z
+updated: 2024-06-01T05:28:48.298Z
 tags: 
   - screen-recording
   - ai video
@@ -175,4 +175,5 @@ Just remember, consistently and genuinely caring about your audience is what wil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

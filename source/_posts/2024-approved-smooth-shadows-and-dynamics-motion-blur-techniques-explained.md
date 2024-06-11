@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Smooth Shadows and Dynamics  Motion Blur Techniques Explained\""
-date: 2024-05-30 23:50:22
-updated: 2024-05-31 12:23:24
+date: 2024-05-31T05:26:52.420Z
+updated: 2024-06-01T05:26:52.420Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

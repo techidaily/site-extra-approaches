@@ -1,7 +1,7 @@
 ---
 title: "[New] Premier Top 5 Minimalist Action Cameras Review"
-date: 2024-05-28 18:13:36
-updated: 2024-05-30 12:36:40
+date: 2024-05-31T05:28:50.689Z
+updated: 2024-06-01T05:28:50.689Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Personalize Your Viewing Experience  Building a Google Cardboard VR Setup\""
-date: 2024-05-28 15:23:41
-updated: 2024-05-29 12:42:29
+date: 2024-05-31T05:28:52.002Z
+updated: 2024-06-01T05:28:52.002Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

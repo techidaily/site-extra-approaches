@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Nikon D500 Unveiled  The Frontier of High-Definition Photography\""
-date: 2024-05-28 18:13:37
-updated: 2024-05-29 10:23:50
+date: 2024-05-31T05:28:14.467Z
+updated: 2024-06-01T05:28:14.467Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

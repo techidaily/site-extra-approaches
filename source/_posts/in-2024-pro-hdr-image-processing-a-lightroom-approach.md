@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pro HDR Image Processing  A Lightroom Approach\""
-date: 2024-05-28 21:19:38
-updated: 2024-05-30 11:38:14
+date: 2024-05-31T05:27:42.660Z
+updated: 2024-06-01T05:27:42.660Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

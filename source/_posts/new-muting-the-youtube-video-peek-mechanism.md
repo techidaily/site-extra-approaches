@@ -1,7 +1,7 @@
 ---
 title: "[New] Muting the YouTube Video Peek Mechanism"
-date: 2024-05-28 23:59:34
-updated: 2024-05-29 12:13:46
+date: 2024-05-31T05:26:11.547Z
+updated: 2024-06-01T05:26:11.547Z
 tags: 
   - screen-recording
   - ai video
@@ -171,4 +171,5 @@ You can use a third-party app blocker to prevent advertising content across all 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

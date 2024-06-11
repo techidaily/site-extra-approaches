@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Social Media Excellence  A Practical Approach\""
-date: 2024-05-29 19:42:54
-updated: 2024-05-31 10:15:54
+date: 2024-05-31T05:27:24.669Z
+updated: 2024-06-01T05:27:24.669Z
 tags: 
   - screen-recording
   - ai video
@@ -159,4 +159,5 @@ We hope this post has given you some ideas of how to get started with your SMM s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

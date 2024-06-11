@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Slow It Down on iPhone  Filming & Modifying Motion Content\""
-date: 2024-05-29 11:35:34
-updated: 2024-05-31 12:15:53
+date: 2024-05-31T05:27:05.173Z
+updated: 2024-06-01T05:27:05.173Z
 tags: 
   - screen-recording
   - ai video
@@ -526,4 +526,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

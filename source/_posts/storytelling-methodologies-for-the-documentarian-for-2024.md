@@ -1,7 +1,7 @@
 ---
 title: "Storytelling Methodologies for the Documentarian for 2024"
-date: 2024-05-30 22:50:43
-updated: 2024-05-31 12:15:43
+date: 2024-05-31T05:30:43.895Z
+updated: 2024-06-01T05:30:43.895Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So, the last words for this educational post are that, as we all know, writing a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

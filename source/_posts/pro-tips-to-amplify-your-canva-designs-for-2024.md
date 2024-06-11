@@ -1,7 +1,7 @@
 ---
 title: "Pro Tips to Amplify Your Canva Designs for 2024"
-date: 2024-05-28 11:43:58
-updated: 2024-05-30 12:35:23
+date: 2024-05-31T05:31:24.726Z
+updated: 2024-06-01T05:31:24.726Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

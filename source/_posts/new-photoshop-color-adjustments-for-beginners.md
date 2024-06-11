@@ -1,7 +1,7 @@
 ---
 title: "[New] Photoshop Color Adjustments for Beginners"
-date: 2024-05-28 12:29:30
-updated: 2024-05-29 12:23:14
+date: 2024-05-31T05:29:59.125Z
+updated: 2024-06-01T05:29:59.125Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

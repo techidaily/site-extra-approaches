@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  M1 MacBook Air  Video Editor's Dream Machine?\""
-date: 2024-05-25 17:14:56
-updated: 2024-05-28 12:32:22
+date: 2024-05-31T05:26:18.502Z
+updated: 2024-06-01T05:26:18.502Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

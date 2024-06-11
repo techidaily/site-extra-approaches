@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Starting Out  Key Equipment & Software for Vlogging\""
-date: 2024-05-28 13:16:54
-updated: 2024-05-31 11:29:40
+date: 2024-05-31T05:29:48.446Z
+updated: 2024-06-01T05:29:48.446Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pixiz Workshop  The Art of Photo Video Synthesis\""
-date: 2024-05-28 16:56:34
-updated: 2024-05-29 10:37:33
+date: 2024-05-31T05:28:02.410Z
+updated: 2024-06-01T05:28:02.410Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

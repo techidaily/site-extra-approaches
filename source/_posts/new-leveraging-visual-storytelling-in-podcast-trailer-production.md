@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging Visual Storytelling in Podcast Trailer Production"
-date: 2024-05-25 18:23:23
-updated: 2024-05-28 11:22:10
+date: 2024-05-31T05:27:12.740Z
+updated: 2024-06-01T05:27:12.740Z
 tags: 
   - screen-recording
   - ai video
@@ -118,4 +118,5 @@ So, the podcast trailer is an essential tool to make your podcast even more impr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

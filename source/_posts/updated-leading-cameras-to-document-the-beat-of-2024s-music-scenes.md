@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leading Cameras to Document the Beat of 2024'S Music Scenes"
-date: 2024-05-27 19:19:33
-updated: 2024-05-28 12:21:55
+date: 2024-05-31T05:26:57.834Z
+updated: 2024-06-01T05:26:57.834Z
 tags: 
   - screen-recording
   - ai video
@@ -1110,4 +1110,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

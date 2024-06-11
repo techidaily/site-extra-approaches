@@ -1,7 +1,7 @@
 ---
 title: "[New] Snippet Storyboarding Procedure"
-date: 2024-05-28 14:57:15
-updated: 2024-05-31 10:25:53
+date: 2024-05-31T05:28:31.437Z
+updated: 2024-06-01T05:28:31.437Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

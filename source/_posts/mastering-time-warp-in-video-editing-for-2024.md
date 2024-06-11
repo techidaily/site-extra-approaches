@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time Warp in Video Editing for 2024"
-date: 2024-05-27 23:47:59
-updated: 2024-05-28 11:21:42
+date: 2024-05-31T05:26:12.203Z
+updated: 2024-06-01T05:26:12.203Z
 tags: 
   - screen-recording
   - ai video
@@ -704,4 +704,5 @@ So, decide wisely.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

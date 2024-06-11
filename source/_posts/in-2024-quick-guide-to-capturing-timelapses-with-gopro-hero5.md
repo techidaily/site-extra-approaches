@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Guide to Capturing Timelapses with GoPro Hero5"
-date: 2024-05-28 20:20:30
-updated: 2024-05-30 11:34:52
+date: 2024-05-31T05:28:24.788Z
+updated: 2024-06-01T05:28:24.788Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Redefining High Definition with Samsung's UBD K850U Update"
-date: 2024-05-29 20:51:39
-updated: 2024-05-30 10:12:27
+date: 2024-05-31T05:26:29.934Z
+updated: 2024-06-01T05:26:29.934Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

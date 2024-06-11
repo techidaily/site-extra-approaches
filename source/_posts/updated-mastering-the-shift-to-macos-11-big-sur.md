@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Shift to macOS 11 Big Sur"
-date: 2024-05-27 19:31:18
-updated: 2024-05-28 12:34:13
+date: 2024-05-31T05:29:59.315Z
+updated: 2024-06-01T05:29:59.315Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

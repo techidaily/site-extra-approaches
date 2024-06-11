@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Starting an Impactful FB Community Giving Campaign\""
-date: 2024-05-30 18:36:25
-updated: 2024-05-31 10:21:18
+date: 2024-05-31T05:29:07.877Z
+updated: 2024-06-01T05:29:07.877Z
 tags: 
   - screen-recording
   - ai video
@@ -143,4 +143,5 @@ By following these tips, you can run a successful Facebook giveaway that will he
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

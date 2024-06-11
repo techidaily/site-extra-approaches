@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Painting with Light  Advanced Color Techniques\""
-date: 2024-05-26 16:30:48
-updated: 2024-05-29 11:19:28
+date: 2024-05-31T05:26:09.773Z
+updated: 2024-06-01T05:26:09.773Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Painting with Light  An Expert's Guide to Color Grading\""
-date: 2024-05-28 15:53:45
-updated: 2024-05-29 12:43:59
+date: 2024-05-31T05:29:26.101Z
+updated: 2024-06-01T05:29:26.101Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

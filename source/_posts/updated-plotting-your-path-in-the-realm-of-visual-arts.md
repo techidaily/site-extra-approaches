@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Plotting Your Path in the Realm of Visual Arts"
-date: 2024-05-26 11:33:31
-updated: 2024-05-29 10:15:41
+date: 2024-05-31T05:28:59.774Z
+updated: 2024-06-01T05:28:59.774Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

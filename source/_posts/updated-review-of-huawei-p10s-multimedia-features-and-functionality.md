@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Review of Huawei P10’s Multimedia Features & Functionality"
-date: 2024-05-29 14:13:23
-updated: 2024-05-30 10:48:32
+date: 2024-05-31T05:28:05.263Z
+updated: 2024-06-01T05:28:05.263Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

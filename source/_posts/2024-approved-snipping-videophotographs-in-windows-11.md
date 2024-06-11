@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Snipping Videophotographs in Windows 11\""
-date: 2024-05-30 17:15:20
-updated: 2024-05-31 12:45:16
+date: 2024-05-31T05:31:22.591Z
+updated: 2024-06-01T05:31:22.591Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

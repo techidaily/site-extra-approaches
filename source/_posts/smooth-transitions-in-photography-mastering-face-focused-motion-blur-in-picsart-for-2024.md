@@ -1,7 +1,7 @@
 ---
 title: "\"Smooth Transitions in Photography  Mastering Face-Focused Motion Blur in Picsart for 2024\""
-date: 2024-05-29 22:48:45
-updated: 2024-05-31 12:59:36
+date: 2024-05-31T05:30:12.236Z
+updated: 2024-06-01T05:30:12.236Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

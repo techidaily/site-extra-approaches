@@ -1,7 +1,7 @@
 ---
 title: "Mastering Video Aspects Online for 2024"
-date: 2024-05-25 20:58:10
-updated: 2024-05-28 12:17:55
+date: 2024-05-31T05:27:27.097Z
+updated: 2024-06-01T05:27:27.097Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

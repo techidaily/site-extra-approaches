@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Pics  Windows 11'S Fast Photo Viewer\""
-date: 2024-05-28 20:21:17
-updated: 2024-05-30 10:24:40
+date: 2024-05-31T05:30:51.045Z
+updated: 2024-06-01T05:30:51.045Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

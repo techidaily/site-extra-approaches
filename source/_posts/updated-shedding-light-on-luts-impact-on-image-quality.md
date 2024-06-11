@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Shedding Light on LUTs' Impact on Image Quality"
-date: 2024-05-28 20:54:55
-updated: 2024-05-31 12:13:58
+date: 2024-05-31T05:27:28.122Z
+updated: 2024-06-01T05:27:28.122Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

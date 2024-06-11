@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premium Combo  Exclusive AFX Design Tools\""
-date: 2024-05-27 19:25:21
-updated: 2024-05-30 11:35:41
+date: 2024-05-31T05:29:04.274Z
+updated: 2024-06-01T05:29:04.274Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ Step4 You can then use the “Effects Window” to change the color as desired.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

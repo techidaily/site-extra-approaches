@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] LightRoom's 10 LUT Sensations  Transforming Photos\""
-date: 2024-05-25 22:18:22
-updated: 2024-05-28 12:19:55
+date: 2024-05-31T05:27:50.202Z
+updated: 2024-06-01T05:27:50.202Z
 tags: 
   - screen-recording
   - ai video
@@ -604,4 +604,5 @@ Therefore, you had an informative journey about the Lightroom LUTs in detail. A 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

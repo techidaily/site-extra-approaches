@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Invisible Strategies to Avoid Home School Vids"
-date: 2024-05-26 13:12:19
-updated: 2024-05-27 10:16:39
+date: 2024-05-31T05:28:28.665Z
+updated: 2024-06-01T05:28:28.665Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Edgenuity is a great learning program. Not having a skip button makes it, so stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

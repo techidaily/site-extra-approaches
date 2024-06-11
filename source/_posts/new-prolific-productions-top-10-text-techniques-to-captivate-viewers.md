@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Prolific Productions  Top 10 Text Techniques to Captivate Viewers\""
-date: 2024-05-28 20:24:58
-updated: 2024-05-30 10:38:17
+date: 2024-05-31T05:27:40.516Z
+updated: 2024-06-01T05:27:40.516Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ We have listed the most popular text effects that are widely used in today’s v
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

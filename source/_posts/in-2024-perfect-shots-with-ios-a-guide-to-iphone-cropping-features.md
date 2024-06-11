@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfect Shots with iOS  A Guide to iPhone Cropping Features\""
-date: 2024-05-27 17:19:39
-updated: 2024-05-29 10:24:31
+date: 2024-05-31T05:28:33.757Z
+updated: 2024-06-01T05:28:33.757Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

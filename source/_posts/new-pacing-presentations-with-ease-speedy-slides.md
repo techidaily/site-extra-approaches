@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pacing Presentations with Ease  Speedy Slides\""
-date: 2024-05-26 15:14:44
-updated: 2024-05-29 10:16:29
+date: 2024-05-31T05:27:49.158Z
+updated: 2024-06-01T05:27:49.158Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Some most common reasons for this issue include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

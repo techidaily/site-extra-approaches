@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Gesture Control  A Comprehensive Overview for 2024\""
-date: 2024-05-25 11:33:28
-updated: 2024-05-28 10:21:13
+date: 2024-05-31T05:31:23.526Z
+updated: 2024-06-01T05:31:23.526Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

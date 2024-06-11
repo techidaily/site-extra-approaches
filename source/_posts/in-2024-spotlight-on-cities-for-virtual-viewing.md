@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Spotlight on Cities for Virtual Viewing"
-date: 2024-05-28 20:42:25
-updated: 2024-05-31 11:15:15
+date: 2024-05-31T05:28:14.367Z
+updated: 2024-06-01T05:28:14.367Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

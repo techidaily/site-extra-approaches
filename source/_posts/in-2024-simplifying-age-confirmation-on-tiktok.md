@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Simplifying Age Confirmation on TikTok"
-date: 2024-05-30 17:18:43
-updated: 2024-05-31 11:15:13
+date: 2024-05-31T05:31:18.704Z
+updated: 2024-06-01T05:31:18.704Z
 tags: 
   - screen-recording
   - ai video
@@ -124,4 +124,5 @@ Protecting underage teens and kids from the negative side of the internet is imp
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

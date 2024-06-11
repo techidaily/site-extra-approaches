@@ -1,7 +1,7 @@
 ---
 title: "[New] Master the Art of MP4 Motion Modulation"
-date: 2024-05-27 22:27:19
-updated: 2024-05-28 10:29:56
+date: 2024-05-31T05:30:44.510Z
+updated: 2024-06-01T05:30:44.510Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Some most common reasons for this issue include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

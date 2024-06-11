@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Volume Curves in Ableton Live\""
-date: 2024-05-27 11:11:27
-updated: 2024-05-28 11:57:11
+date: 2024-05-31T05:26:44.489Z
+updated: 2024-06-01T05:26:44.489Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

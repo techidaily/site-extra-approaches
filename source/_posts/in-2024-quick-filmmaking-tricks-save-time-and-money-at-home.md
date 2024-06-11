@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Filmmaking Tricks  Save Time & Money at Home\""
-date: 2024-05-27 11:24:11
-updated: 2024-05-30 12:16:53
+date: 2024-05-31T05:30:40.386Z
+updated: 2024-06-01T05:30:40.386Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

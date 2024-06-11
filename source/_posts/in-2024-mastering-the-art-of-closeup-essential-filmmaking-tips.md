@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Art of Closeup  Essential Filmmaking Tips\""
-date: 2024-05-26 20:30:16
-updated: 2024-05-28 11:41:38
+date: 2024-05-31T05:28:04.629Z
+updated: 2024-06-01T05:28:04.629Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

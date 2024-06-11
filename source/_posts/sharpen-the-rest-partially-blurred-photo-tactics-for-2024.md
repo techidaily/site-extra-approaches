@@ -1,7 +1,7 @@
 ---
 title: "\"Sharpen the Rest  Partially Blurred Photo Tactics for 2024\""
-date: 2024-05-28 22:40:41
-updated: 2024-05-31 11:41:22
+date: 2024-05-31T05:26:56.144Z
+updated: 2024-06-01T05:26:56.144Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

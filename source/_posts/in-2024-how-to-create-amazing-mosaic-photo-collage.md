@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Create Amazing Mosaic Photo Collage"
-date: 2024-05-27 13:41:35
-updated: 2024-05-29 11:19:49
+date: 2024-05-31T05:28:28.649Z
+updated: 2024-06-01T05:28:28.649Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Canva is probably the easiest most known Digital Design software available onlin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Metaverse Top Picks  Friends-First Games\""
-date: 2024-05-26 14:37:40
-updated: 2024-05-28 11:28:58
+date: 2024-05-31T05:27:35.270Z
+updated: 2024-06-01T05:27:35.270Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ These Facebook virtual reality games are the doors to the following significant 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

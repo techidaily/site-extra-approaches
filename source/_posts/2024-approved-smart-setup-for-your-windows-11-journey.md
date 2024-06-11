@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Smart Setup for Your Windows 11 Journey\""
-date: 2024-05-28 13:55:40
-updated: 2024-05-31 12:54:44
+date: 2024-05-31T05:26:53.262Z
+updated: 2024-06-01T05:26:53.262Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

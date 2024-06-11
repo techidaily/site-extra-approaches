@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Interpreting Second Duration From MB Content"
-date: 2024-05-26 22:33:51
-updated: 2024-05-27 11:42:26
+date: 2024-05-31T05:30:29.675Z
+updated: 2024-06-01T05:30:29.675Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

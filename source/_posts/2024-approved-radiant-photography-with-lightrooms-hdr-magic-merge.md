@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Radiant Photography with Lightroom's HDR Magic Merge\""
-date: 2024-05-29 11:31:11
-updated: 2024-05-30 12:31:47
+date: 2024-05-31T05:28:45.678Z
+updated: 2024-06-01T05:28:45.678Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

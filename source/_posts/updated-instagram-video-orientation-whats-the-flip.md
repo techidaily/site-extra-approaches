@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Instagram Video Orientation - What's the Flip?\""
-date: 2024-05-25 12:29:25
-updated: 2024-05-27 11:17:26
+date: 2024-05-31T05:26:42.731Z
+updated: 2024-06-01T05:26:42.731Z
 tags: 
   - screen-recording
   - ai video
@@ -498,4 +498,5 @@ You can easily rotate your videos according to the guidelines of the social medi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

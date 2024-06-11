@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterful 80S Filters & Transitions for Editors\""
-date: 2024-05-27 15:26:48
-updated: 2024-05-28 11:25:31
+date: 2024-05-31T05:30:40.097Z
+updated: 2024-06-01T05:30:40.097Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Smartphone Winner List for Digital Artists\""
-date: 2024-05-29 13:34:21
-updated: 2024-05-31 12:49:36
+date: 2024-05-31T05:29:02.399Z
+updated: 2024-06-01T05:29:02.399Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

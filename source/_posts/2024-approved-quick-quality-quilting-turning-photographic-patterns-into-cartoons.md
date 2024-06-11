@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Quality Quilting  Turning Photographic Patterns Into Cartoons\""
-date: 2024-05-27 12:24:56
-updated: 2024-05-30 10:57:48
+date: 2024-05-31T05:31:16.048Z
+updated: 2024-06-01T05:31:16.048Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

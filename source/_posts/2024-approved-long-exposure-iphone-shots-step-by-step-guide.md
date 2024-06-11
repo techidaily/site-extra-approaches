@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Long-Exposure iPhone Shots  Step-by-Step Guide\""
-date: 2024-05-27 20:24:10
-updated: 2024-05-28 12:16:39
+date: 2024-05-31T05:26:05.539Z
+updated: 2024-06-01T05:26:05.539Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

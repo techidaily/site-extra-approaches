@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Audio Recording  The Ultimate Audacity Course\""
-date: 2024-05-28 17:59:51
-updated: 2024-05-30 10:38:37
+date: 2024-05-31T05:28:46.224Z
+updated: 2024-06-01T05:28:46.224Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ Simply select the necessary file format from the drop-down box that appears next
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

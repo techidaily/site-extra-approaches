@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  LG Unveils New Dimensions with Its 360-Degree VR Headgear\""
-date: 2024-05-26 20:42:39
-updated: 2024-05-28 12:59:42
+date: 2024-05-31T05:27:44.072Z
+updated: 2024-06-01T05:27:44.072Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Revolutionizing Imaging with Quantum HDR's Potential"
-date: 2024-05-27 11:27:38
-updated: 2024-05-30 10:22:41
+date: 2024-05-31T05:26:46.551Z
+updated: 2024-06-01T05:26:46.551Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

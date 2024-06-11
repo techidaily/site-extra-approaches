@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Start at Vector's Beginning  A Short Overview of Forms & Tools\""
-date: 2024-05-30 17:37:19
-updated: 2024-05-31 12:30:24
+date: 2024-05-31T05:30:22.120Z
+updated: 2024-06-01T05:30:22.120Z
 tags: 
   - screen-recording
   - ai video
@@ -544,4 +544,5 @@ Indeed, vector images are beneficial for creating graphic designs like logos and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of Converting Speech to Text with Google Docs"
-date: 2024-05-25 13:49:13
-updated: 2024-05-28 12:23:52
+date: 2024-05-31T05:31:13.975Z
+updated: 2024-06-01T05:31:13.975Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ No. You can access Google Docs from any device, provided you have the chrome bro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

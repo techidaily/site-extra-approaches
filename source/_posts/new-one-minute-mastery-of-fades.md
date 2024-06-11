@@ -1,7 +1,7 @@
 ---
 title: "\"[New] One-Minute Mastery of Fades\""
-date: 2024-05-27 22:33:48
-updated: 2024-05-29 11:42:17
+date: 2024-05-31T05:26:44.855Z
+updated: 2024-06-01T05:26:44.855Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ All these details will help you get some clarity to understand the best way to f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

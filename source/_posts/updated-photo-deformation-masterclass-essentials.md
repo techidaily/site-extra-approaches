@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Deformation Masterclass Essentials"
-date: 2024-05-26 22:32:56
-updated: 2024-05-29 11:46:24
+date: 2024-05-31T05:31:18.283Z
+updated: 2024-06-01T05:31:18.283Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

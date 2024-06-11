@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Storytellers Sanctum – Summit Selections\""
-date: 2024-05-28 10:33:31
-updated: 2024-05-31 12:56:11
+date: 2024-05-31T05:29:40.023Z
+updated: 2024-06-01T05:29:40.023Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ In conclusion, these were some of our recommendations for storyteller academies.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplified HDR  An In-Depth Examination\""
-date: 2024-05-29 10:29:37
-updated: 2024-05-31 11:37:51
+date: 2024-05-31T05:29:08.326Z
+updated: 2024-06-01T05:29:08.326Z
 tags: 
   - screen-recording
   - ai video
@@ -285,4 +285,5 @@ There you have it. Easy HDR is arguably the most-beginner friendly program to ed
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

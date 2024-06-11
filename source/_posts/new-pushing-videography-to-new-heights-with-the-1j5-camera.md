@@ -1,7 +1,7 @@
 ---
 title: "[New] Pushing Videography to New Heights with the 1J5 Camera"
-date: 2024-05-28 23:25:30
-updated: 2024-05-30 12:23:11
+date: 2024-05-31T05:29:04.294Z
+updated: 2024-06-01T05:29:04.294Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

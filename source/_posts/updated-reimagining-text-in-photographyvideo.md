@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Reimagining Text in Photography/Video"
-date: 2024-05-29 10:51:34
-updated: 2024-05-30 11:34:20
+date: 2024-05-31T05:31:25.726Z
+updated: 2024-06-01T05:31:25.726Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

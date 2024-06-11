@@ -1,7 +1,7 @@
 ---
 title: "[New] Pro iPhone Tips for Capturing the Perfect Landscape Moments"
-date: 2024-05-29 19:53:15
-updated: 2024-05-30 11:30:24
+date: 2024-05-31T05:28:51.526Z
+updated: 2024-06-01T05:28:51.526Z
 tags: 
   - screen-recording
   - ai video
@@ -426,4 +426,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Solo Sound Waves  Crafting a Trending Podcast Series\""
-date: 2024-05-29 11:59:34
-updated: 2024-05-31 11:58:13
+date: 2024-05-31T05:28:30.928Z
+updated: 2024-06-01T05:28:30.928Z
 tags: 
   - screen-recording
   - ai video
@@ -521,4 +521,5 @@ If you're planning to do a solo podcast, you need to create a clear outline of w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

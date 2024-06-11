@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master iPhone's Quick Focus Adjustment"
-date: 2024-05-27 14:35:31
-updated: 2024-05-28 12:10:45
+date: 2024-05-31T05:29:56.494Z
+updated: 2024-06-01T05:29:56.494Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

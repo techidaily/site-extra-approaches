@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Dialogue Designer Space"
-date: 2024-05-28 10:36:18
-updated: 2024-05-30 11:49:57
+date: 2024-05-31T05:26:05.160Z
+updated: 2024-06-01T05:26:05.160Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ To write a video script quickly, you should use templates, which are designed to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

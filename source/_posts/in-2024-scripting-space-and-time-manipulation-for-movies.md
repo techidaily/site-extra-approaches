@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Scripting Space & Time Manipulation for Movies"
-date: 2024-05-28 16:23:20
-updated: 2024-05-30 12:38:59
+date: 2024-05-31T05:28:14.295Z
+updated: 2024-06-01T05:28:14.295Z
 tags: 
   - screen-recording
   - ai video
@@ -520,4 +520,5 @@ Create for you and add different effects and experiment with new features. You w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Key Concepts in Quantum HDR Mastery"
-date: 2024-05-27 13:41:47
-updated: 2024-05-28 11:16:53
+date: 2024-05-31T05:27:13.969Z
+updated: 2024-06-01T05:27:13.969Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

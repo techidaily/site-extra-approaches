@@ -1,7 +1,7 @@
 ---
 title: "\"Phantom 3 Showdown  Golem 4 Emerges for 2024\""
-date: 2024-05-27 13:34:49
-updated: 2024-05-29 10:13:22
+date: 2024-05-31T05:30:57.895Z
+updated: 2024-06-01T05:30:57.895Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

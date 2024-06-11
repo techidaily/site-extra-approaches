@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Inside Secrets to Stunning Photography with Canva"
-date: 2024-05-26 12:54:34
-updated: 2024-05-27 10:19:30
+date: 2024-05-31T05:27:02.789Z
+updated: 2024-06-01T05:27:02.789Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

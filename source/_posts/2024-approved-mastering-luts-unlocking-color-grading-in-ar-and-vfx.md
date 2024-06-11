@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering LUTs  Unlocking Color Grading in AR & VFX\""
-date: 2024-05-26 14:34:45
-updated: 2024-05-28 11:20:55
+date: 2024-05-31T05:29:10.230Z
+updated: 2024-06-01T05:29:10.230Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

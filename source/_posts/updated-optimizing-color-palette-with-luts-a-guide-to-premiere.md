@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Optimizing Color Palette with LUTs  A Guide to Premiere\""
-date: 2024-05-28 18:20:48
-updated: 2024-05-29 10:54:31
+date: 2024-05-31T05:27:34.497Z
+updated: 2024-06-01T05:27:34.497Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

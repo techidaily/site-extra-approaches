@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Phantasm Captures  Action Tech Diary\""
-date: 2024-05-27 14:47:23
-updated: 2024-05-29 10:25:22
+date: 2024-05-31T05:28:23.161Z
+updated: 2024-06-01T05:28:23.161Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

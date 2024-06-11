@@ -1,7 +1,7 @@
 ---
 title: "[New] Srgb Encoding Versus Rgb Basics"
-date: 2024-05-30 20:40:12
-updated: 2024-05-31 12:52:55
+date: 2024-05-31T05:27:07.237Z
+updated: 2024-06-01T05:27:07.237Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

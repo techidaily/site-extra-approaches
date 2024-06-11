@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimal Cameras for Slow Motion Film"
-date: 2024-05-28 10:29:39
-updated: 2024-05-29 12:13:54
+date: 2024-05-31T05:31:19.966Z
+updated: 2024-06-01T05:31:19.966Z
 tags: 
   - screen-recording
   - ai video
@@ -1002,4 +1002,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

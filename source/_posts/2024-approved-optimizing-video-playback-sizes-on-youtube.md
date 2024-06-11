@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimizing Video Playback Sizes on YouTube\""
-date: 2024-05-27 18:18:13
-updated: 2024-05-29 12:49:26
+date: 2024-05-31T05:27:54.410Z
+updated: 2024-06-01T05:27:54.410Z
 tags: 
   - screen-recording
   - ai video
@@ -142,4 +142,5 @@ There are several ways you can zoom into YouTube videos to check out the desired
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

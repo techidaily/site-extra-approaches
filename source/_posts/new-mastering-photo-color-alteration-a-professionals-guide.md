@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Photo Color Alteration  A Professional's Guide\""
-date: 2024-05-27 20:38:11
-updated: 2024-05-28 10:53:29
+date: 2024-05-31T05:30:36.471Z
+updated: 2024-06-01T05:30:36.471Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

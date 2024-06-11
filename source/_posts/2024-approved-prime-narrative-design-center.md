@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime Narrative Design Center\""
-date: 2024-05-29 23:20:10
-updated: 2024-05-30 11:25:26
+date: 2024-05-31T05:26:10.445Z
+updated: 2024-06-01T05:26:10.445Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ To write a video script quickly, you should use templates, which are designed to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

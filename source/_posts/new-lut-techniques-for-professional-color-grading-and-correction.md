@@ -1,7 +1,7 @@
 ---
 title: "[New] LUT Techniques for Professional Color Grading and Correction"
-date: 2024-05-25 22:32:31
-updated: 2024-05-28 10:29:54
+date: 2024-05-31T05:28:32.996Z
+updated: 2024-06-01T05:28:32.996Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

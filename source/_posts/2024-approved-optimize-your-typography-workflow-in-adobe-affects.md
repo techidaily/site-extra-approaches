@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimize Your Typography Workflow in Adobe Affects\""
-date: 2024-05-28 21:36:37
-updated: 2024-05-29 10:26:56
+date: 2024-05-31T05:27:28.249Z
+updated: 2024-06-01T05:27:28.249Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

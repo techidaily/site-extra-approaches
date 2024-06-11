@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Guide  Seamless Audio Transitions\""
-date: 2024-05-29 14:35:14
-updated: 2024-05-30 10:57:47
+date: 2024-05-31T05:28:47.041Z
+updated: 2024-06-01T05:28:47.041Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

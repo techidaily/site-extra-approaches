@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How To Use Green Screen In KineMaster\""
-date: 2024-05-27 10:34:46
-updated: 2024-05-28 11:54:11
+date: 2024-05-31T05:29:19.957Z
+updated: 2024-06-01T05:29:19.957Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

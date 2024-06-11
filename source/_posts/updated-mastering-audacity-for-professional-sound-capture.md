@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Audacity for Professional Sound Capture"
-date: 2024-05-27 13:16:20
-updated: 2024-05-28 10:17:23
+date: 2024-05-31T05:29:14.837Z
+updated: 2024-06-01T05:29:14.837Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ Simply select the necessary file format from the drop-down box that appears next
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

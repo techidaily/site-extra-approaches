@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering 4K Videos with the Versatile Nikon 1J5"
-date: 2024-05-25 17:34:39
-updated: 2024-05-28 11:54:27
+date: 2024-05-31T05:28:36.027Z
+updated: 2024-06-01T05:28:36.027Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

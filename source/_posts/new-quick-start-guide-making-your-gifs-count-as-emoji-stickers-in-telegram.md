@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick-Start Guide  Making Your GIFS Count as Emoji Stickers in Telegram\""
-date: 2024-05-28 13:55:46
-updated: 2024-05-30 10:36:22
+date: 2024-05-31T05:27:09.761Z
+updated: 2024-06-01T05:27:09.761Z
 tags: 
   - screen-recording
   - ai video
@@ -208,4 +208,5 @@ Also, while doing this conversion, make customizations based on the type of comm
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

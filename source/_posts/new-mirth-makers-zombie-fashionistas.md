@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mirth Makers  Zombie Fashionistas\""
-date: 2024-05-27 14:16:20
-updated: 2024-05-28 11:18:45
+date: 2024-05-31T05:28:16.788Z
+updated: 2024-06-01T05:28:16.788Z
 tags: 
   - screen-recording
   - ai video
@@ -114,4 +114,5 @@ In a nutshell, it can be seen that online resources are widely available for cre
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

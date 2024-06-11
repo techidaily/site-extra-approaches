@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shining Up Your Videos on Android\""
-date: 2024-05-28 19:59:15
-updated: 2024-05-31 12:51:18
+date: 2024-05-31T05:26:33.600Z
+updated: 2024-06-01T05:26:33.600Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you need to adjust the brightness of your video, a video editing app like Fil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

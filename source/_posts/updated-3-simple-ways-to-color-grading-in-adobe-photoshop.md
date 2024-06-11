@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 3 Simple Ways to Color Grading in Adobe Photoshop"
-date: 2024-05-28 19:42:51
-updated: 2024-05-29 10:58:23
+date: 2024-05-31T05:26:25.439Z
+updated: 2024-06-01T05:26:25.439Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

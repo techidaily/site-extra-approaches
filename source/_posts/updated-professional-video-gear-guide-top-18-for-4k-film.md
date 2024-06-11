@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional Video Gear Guide  Top 18 for 4K Film\""
-date: 2024-05-28 20:44:11
-updated: 2024-05-30 10:27:49
+date: 2024-05-31T05:28:17.174Z
+updated: 2024-06-01T05:28:17.174Z
 tags: 
   - screen-recording
   - ai video
@@ -1066,4 +1066,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

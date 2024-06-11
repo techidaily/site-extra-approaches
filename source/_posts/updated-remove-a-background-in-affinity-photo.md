@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Remove a Background in Affinity Photo"
-date: 2024-05-27 15:16:37
-updated: 2024-05-30 11:19:39
+date: 2024-05-31T05:27:04.204Z
+updated: 2024-06-01T05:27:04.204Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article and video can help you create ideal images!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

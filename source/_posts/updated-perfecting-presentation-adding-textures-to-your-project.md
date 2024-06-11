@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting Presentation  Adding Textures to Your Project\""
-date: 2024-05-26 11:52:31
-updated: 2024-05-29 10:18:32
+date: 2024-05-31T05:29:30.447Z
+updated: 2024-06-01T05:29:30.447Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Create the Best Canon Time-Lapse Video\""
-date: 2024-05-25 11:14:15
-updated: 2024-05-28 11:43:36
+date: 2024-05-31T05:30:57.066Z
+updated: 2024-06-01T05:30:57.066Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

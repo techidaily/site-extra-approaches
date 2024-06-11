@@ -1,7 +1,7 @@
 ---
 title: "\"Social Gaming Galore  The Ultimate Metaverse List for 2024\""
-date: 2024-05-28 15:41:52
-updated: 2024-05-31 11:19:23
+date: 2024-05-31T05:31:08.509Z
+updated: 2024-06-01T05:31:08.509Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ These Facebook virtual reality games are the doors to the following significant 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

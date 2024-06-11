@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master List of Professional Windows-Based Videography Tools\""
-date: 2024-05-27 22:17:11
-updated: 2024-05-28 10:18:36
+date: 2024-05-31T05:30:01.104Z
+updated: 2024-06-01T05:30:01.104Z
 tags: 
   - screen-recording
   - ai video
@@ -1686,4 +1686,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

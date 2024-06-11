@@ -1,7 +1,7 @@
 ---
 title: "[New] Rethinking Windows Photo Viewer Usage on Modern OS"
-date: 2024-05-27 12:25:16
-updated: 2024-05-30 10:30:30
+date: 2024-05-31T05:25:56.847Z
+updated: 2024-06-01T05:25:56.847Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

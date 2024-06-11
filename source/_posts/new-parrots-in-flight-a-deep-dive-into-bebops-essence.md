@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Parrots in Flight  A Deep Dive Into Bebop's Essence\""
-date: 2024-05-26 23:28:42
-updated: 2024-05-29 10:43:13
+date: 2024-05-31T05:28:33.940Z
+updated: 2024-06-01T05:28:33.940Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

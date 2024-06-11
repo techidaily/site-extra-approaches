@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pristine Story Conception in Eight Genre Divisions"
-date: 2024-05-27 22:25:38
-updated: 2024-05-30 11:12:55
+date: 2024-05-31T05:27:36.182Z
+updated: 2024-06-01T05:27:36.182Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ Creating video content that can potentially go viral is no longer a complicated 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

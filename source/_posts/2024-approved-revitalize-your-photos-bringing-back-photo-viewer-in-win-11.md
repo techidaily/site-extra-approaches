@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revitalize Your Photos  Bringing Back Photo Viewer in Win 11\""
-date: 2024-05-28 13:13:14
-updated: 2024-05-30 12:24:57
+date: 2024-05-31T05:27:37.119Z
+updated: 2024-06-01T05:27:37.119Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

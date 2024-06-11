@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfect Text Magic for Striking Video Scenes"
-date: 2024-05-28 16:56:14
-updated: 2024-05-29 11:40:24
+date: 2024-05-31T05:26:09.980Z
+updated: 2024-06-01T05:26:09.980Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ We have listed the most popular text effects that are widely used in today’s v
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

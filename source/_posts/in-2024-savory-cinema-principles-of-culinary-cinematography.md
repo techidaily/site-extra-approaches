@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Savory Cinema  Principles of Culinary Cinematography\""
-date: 2024-05-27 15:52:48
-updated: 2024-05-30 11:32:38
+date: 2024-05-31T05:27:01.403Z
+updated: 2024-06-01T05:27:01.403Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Smooth Transition Tips for Inshot Editors"
-date: 2024-05-29 15:22:18
-updated: 2024-05-31 10:41:47
+date: 2024-05-31T05:28:12.094Z
+updated: 2024-06-01T05:28:12.094Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

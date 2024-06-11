@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Harmony  Choosing the Right Audio Mixer for Podcasts\""
-date: 2024-05-26 12:57:51
-updated: 2024-05-29 12:20:53
+date: 2024-05-31T05:26:00.335Z
+updated: 2024-06-01T05:26:00.335Z
 tags: 
   - screen-recording
   - ai video
@@ -1061,4 +1061,5 @@ Podcasts are usually elementary to start; skip the mixer if you are beginning. H
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

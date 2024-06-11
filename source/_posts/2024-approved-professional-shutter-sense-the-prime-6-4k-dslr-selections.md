@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Professional Shutter Sense  The Prime 6 4K DSLR Selections\""
-date: 2024-05-28 15:32:28
-updated: 2024-05-30 10:31:45
+date: 2024-05-31T05:29:24.145Z
+updated: 2024-06-01T05:29:24.145Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Every Shot's Hue  The Essential 11 Tutorials on Color Adjustment for 2024\""
-date: 2024-05-26 14:21:47
-updated: 2024-05-29 10:49:29
+date: 2024-05-31T05:31:19.838Z
+updated: 2024-06-01T05:31:19.838Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

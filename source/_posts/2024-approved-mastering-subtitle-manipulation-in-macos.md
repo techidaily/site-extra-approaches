@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Subtitle Manipulation in macOS\""
-date: 2024-05-26 18:31:50
-updated: 2024-05-28 11:21:37
+date: 2024-05-31T05:29:36.776Z
+updated: 2024-06-01T05:29:36.776Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

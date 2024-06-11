@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading AI Photographic Composer"
-date: 2024-05-27 10:18:45
-updated: 2024-05-28 12:47:55
+date: 2024-05-31T05:29:57.511Z
+updated: 2024-06-01T05:29:57.511Z
 tags: 
   - screen-recording
   - ai video
@@ -134,4 +134,5 @@ AI-powered tools have increasingly made human tasks comfortable and a lot easier
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

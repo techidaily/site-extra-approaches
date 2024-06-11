@@ -1,7 +1,7 @@
 ---
 title: "[New] Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve"
-date: 2024-05-26 15:46:38
-updated: 2024-05-28 10:11:21
+date: 2024-05-31T05:26:14.823Z
+updated: 2024-06-01T05:26:14.823Z
 tags: 
   - screen-recording
   - ai video
@@ -448,4 +448,5 @@ Blurring the background in a photo ensures that the main subject remains in the 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

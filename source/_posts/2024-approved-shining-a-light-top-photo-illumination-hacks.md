@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shining a Light  Top Photo Illumination Hacks\""
-date: 2024-05-28 19:29:38
-updated: 2024-05-31 10:45:36
+date: 2024-05-31T05:30:18.881Z
+updated: 2024-06-01T05:30:18.881Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

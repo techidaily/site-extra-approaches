@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Windows 11  Photo & Video Import Magic\""
-date: 2024-05-26 14:19:54
-updated: 2024-05-28 10:59:14
+date: 2024-05-31T05:26:39.893Z
+updated: 2024-06-01T05:26:39.893Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

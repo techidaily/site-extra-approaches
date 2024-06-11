@@ -1,7 +1,7 @@
 ---
 title: "IPhone HDR Photography for Enthusiasts for 2024"
-date: 2024-05-25 13:55:15
-updated: 2024-05-27 10:56:49
+date: 2024-05-31T05:29:09.555Z
+updated: 2024-06-01T05:29:09.555Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

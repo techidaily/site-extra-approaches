@@ -1,7 +1,7 @@
 ---
 title: "\"Snap with a Single Purpose - Remove Bg Using Affinity for 2024\""
-date: 2024-05-29 16:59:31
-updated: 2024-05-31 11:56:32
+date: 2024-05-31T05:30:31.779Z
+updated: 2024-06-01T05:30:31.779Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article and video can help you create ideal images!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Step Into the World of Simple NFT Production Techniques"
-date: 2024-05-29 18:31:25
-updated: 2024-05-31 12:24:10
+date: 2024-05-31T05:27:30.117Z
+updated: 2024-06-01T05:27:30.117Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Finally, we would like to conclude the queries about the NFT marketplace. Indeed
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

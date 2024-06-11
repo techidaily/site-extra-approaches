@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Photo Distortions  Adobe Photoshop Techniques for 2024\""
-date: 2024-05-25 12:39:24
-updated: 2024-05-28 11:54:13
+date: 2024-05-31T05:27:57.759Z
+updated: 2024-06-01T05:27:57.759Z
 tags: 
   - screen-recording
   - ai video
@@ -882,4 +882,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

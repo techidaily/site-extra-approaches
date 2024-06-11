@@ -1,7 +1,7 @@
 ---
 title: "\"PS5/Xbox Series X  The Elite TVs for Gamers for 2024\""
-date: 2024-05-29 10:36:14
-updated: 2024-05-30 12:41:40
+date: 2024-05-31T05:30:37.473Z
+updated: 2024-06-01T05:30:37.473Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, IPhone Photography Mastery  Focusing on the Micro & Macro\""
-date: 2024-05-25 12:32:26
-updated: 2024-05-28 11:25:38
+date: 2024-05-31T05:29:07.946Z
+updated: 2024-06-01T05:29:07.946Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

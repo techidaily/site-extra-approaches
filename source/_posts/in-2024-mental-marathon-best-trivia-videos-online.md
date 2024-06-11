@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mental Marathon  Best Trivia Videos Online\""
-date: 2024-05-26 15:50:53
-updated: 2024-05-28 11:14:41
+date: 2024-05-31T05:27:47.456Z
+updated: 2024-06-01T05:27:47.456Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ We hope you've found this article helpful and that now you know where to watch i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

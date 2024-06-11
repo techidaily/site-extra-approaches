@@ -1,7 +1,7 @@
 ---
 title: "\"Lens Leaders Battle  SJ6 Clashes with Xiaomi’s Four-K Kickstarter for 2024\""
-date: 2024-05-25 13:44:55
-updated: 2024-05-28 12:13:40
+date: 2024-05-31T05:26:19.567Z
+updated: 2024-06-01T05:26:19.567Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

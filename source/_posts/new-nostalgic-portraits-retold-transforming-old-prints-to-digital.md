@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Nostalgic Portraits Retold  Transforming Old Prints to Digital\""
-date: 2024-05-27 20:25:57
-updated: 2024-05-29 10:47:43
+date: 2024-05-31T05:25:54.430Z
+updated: 2024-06-01T05:25:54.430Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

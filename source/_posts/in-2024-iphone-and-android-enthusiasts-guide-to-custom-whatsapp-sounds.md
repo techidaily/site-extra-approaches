@@ -1,7 +1,7 @@
 ---
 title: "In 2024, IPhone & Android Enthusiast's Guide to Custom WhatsApp Sounds"
-date: 2024-05-24 10:44:46
-updated: 2024-05-27 12:53:38
+date: 2024-05-31T05:30:40.241Z
+updated: 2024-06-01T05:30:40.241Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ Hopefully, you got enlightened reading our article and can easily do WhatsApp ri
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone Photography Simplified  Adopt These 10 Easy Rules\""
-date: 2024-05-27 23:19:53
-updated: 2024-05-28 11:30:17
+date: 2024-05-31T05:31:08.665Z
+updated: 2024-06-01T05:31:08.665Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Skills for Photo Manipulation Mastery"
-date: 2024-05-28 12:34:14
-updated: 2024-05-31 12:46:19
+date: 2024-05-31T05:28:27.470Z
+updated: 2024-06-01T05:28:27.470Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

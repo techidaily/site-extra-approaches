@@ -1,7 +1,7 @@
 ---
 title: "[New] Maximizing Video Impact with Zoom in TikTok"
-date: 2024-05-25 15:34:32
-updated: 2024-05-28 10:16:45
+date: 2024-05-31T05:26:18.022Z
+updated: 2024-06-01T05:26:18.022Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ TikTok has become more than just a social media platform and these days almost e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pioneering 3D Design  Avoiding Common Pitfalls in Illustrator\""
-date: 2024-05-28 22:19:38
-updated: 2024-05-29 12:18:45
+date: 2024-05-31T05:29:08.483Z
+updated: 2024-06-01T05:29:08.483Z
 tags: 
   - screen-recording
   - ai video
@@ -144,4 +144,5 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

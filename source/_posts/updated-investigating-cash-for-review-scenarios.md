@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Investigating Cash-for-Review Scenarios\""
-date: 2024-05-26 20:13:25
-updated: 2024-05-27 12:46:48
+date: 2024-05-31T05:28:11.423Z
+updated: 2024-06-01T05:28:11.423Z
 tags: 
   - screen-recording
   - ai video
@@ -131,4 +131,5 @@ Just remember that companies are paying for your time and honest so they can bri
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pinnacle Photo Narrative Director's Set\""
-date: 2024-05-28 18:33:51
-updated: 2024-05-29 12:38:52
+date: 2024-05-31T05:27:33.851Z
+updated: 2024-06-01T05:27:33.851Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

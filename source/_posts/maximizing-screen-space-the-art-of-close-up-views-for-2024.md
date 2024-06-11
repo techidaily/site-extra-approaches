@@ -1,7 +1,7 @@
 ---
 title: "\"Maximizing Screen Space  The Art of Close Up Views for 2024\""
-date: 2024-05-26 14:39:58
-updated: 2024-05-28 10:55:17
+date: 2024-05-31T05:27:01.498Z
+updated: 2024-06-01T05:27:01.498Z
 tags: 
   - screen-recording
   - ai video
@@ -125,4 +125,5 @@ A standard photo and **zoom video online** editor is convenient when you wish to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

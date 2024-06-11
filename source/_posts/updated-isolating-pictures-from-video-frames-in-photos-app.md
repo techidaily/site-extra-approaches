@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Isolating Pictures From Video Frames in Photos App"
-date: 2024-05-26 16:35:59
-updated: 2024-05-28 10:35:36
+date: 2024-05-31T05:29:47.529Z
+updated: 2024-06-01T05:29:47.529Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

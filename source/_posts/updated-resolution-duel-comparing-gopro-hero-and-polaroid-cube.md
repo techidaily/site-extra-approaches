@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Resolution Duel  Comparing GoPro Hero and Polaroid Cube\""
-date: 2024-05-28 22:39:17
-updated: 2024-05-30 12:44:17
+date: 2024-05-31T05:26:50.680Z
+updated: 2024-06-01T05:26:50.680Z
 tags: 
   - screen-recording
   - ai video
@@ -442,4 +442,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

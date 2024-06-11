@@ -1,7 +1,7 @@
 ---
 title: "Steps for Perfect Audio Transition in Adobe Audition for 2024"
-date: 2024-05-30 23:38:39
-updated: 2024-05-31 12:38:11
+date: 2024-05-31T05:31:25.586Z
+updated: 2024-06-01T05:31:25.586Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

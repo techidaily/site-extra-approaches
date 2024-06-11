@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inshot Editing  Mastery in Video Transitions\""
-date: 2024-05-26 18:39:29
-updated: 2024-05-27 11:28:37
+date: 2024-05-31T05:26:30.177Z
+updated: 2024-06-01T05:26:30.178Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

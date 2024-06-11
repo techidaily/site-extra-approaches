@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photo Preservation 101  Digitalization of Ancestral Prints\""
-date: 2024-05-28 19:22:15
-updated: 2024-05-29 11:54:36
+date: 2024-05-31T05:27:35.537Z
+updated: 2024-06-01T05:27:35.537Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

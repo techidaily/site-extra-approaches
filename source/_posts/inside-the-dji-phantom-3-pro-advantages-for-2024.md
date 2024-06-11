@@ -1,7 +1,7 @@
 ---
 title: "Inside the DJI Phantom 3 Pro Advantages for 2024"
-date: 2024-05-25 16:27:34
-updated: 2024-05-27 10:22:54
+date: 2024-05-31T05:28:18.409Z
+updated: 2024-06-01T05:28:18.409Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

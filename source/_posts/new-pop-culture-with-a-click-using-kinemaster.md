@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pop Culture with a Click  Using KineMaster\""
-date: 2024-05-28 14:13:43
-updated: 2024-05-29 11:43:41
+date: 2024-05-31T05:30:08.887Z
+updated: 2024-06-01T05:30:08.887Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ A subscription is available for KineMaster, a free program with more features. T
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

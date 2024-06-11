@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Stitch Together Photographs  The Montage Masterclass\""
-date: 2024-05-29 22:54:44
-updated: 2024-05-31 10:22:43
+date: 2024-05-31T05:29:12.121Z
+updated: 2024-06-01T05:29:12.121Z
 tags: 
   - screen-recording
   - ai video
@@ -256,4 +256,5 @@ Move away from the general form of photography and throw in some artistic feelin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

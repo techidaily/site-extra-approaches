@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Seconds for a High-Quality 20MB Video\""
-date: 2024-05-27 11:20:29
-updated: 2024-05-30 10:26:12
+date: 2024-05-31T05:28:12.388Z
+updated: 2024-06-01T05:28:12.388Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

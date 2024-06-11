@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Optimal GPUs for High Res Media Production"
-date: 2024-05-26 12:23:16
-updated: 2024-05-29 11:35:33
+date: 2024-05-31T05:29:07.293Z
+updated: 2024-06-01T05:29:07.293Z
 tags: 
   - screen-recording
   - ai video
@@ -630,4 +630,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

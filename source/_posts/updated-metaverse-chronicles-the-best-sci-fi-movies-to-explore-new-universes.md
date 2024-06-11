@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Metaverse Chronicles  The Best Sci-Fi Movies to Explore New Universes\""
-date: 2024-05-25 20:54:31
-updated: 2024-05-28 11:12:18
+date: 2024-05-31T05:28:25.964Z
+updated: 2024-06-01T05:28:25.964Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ The world is heading for a more advanced form of technology that would go beyond
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

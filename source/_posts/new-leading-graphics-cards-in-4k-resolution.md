@@ -1,7 +1,7 @@
 ---
 title: "[New] Leading Graphics Cards in 4K Resolution"
-date: 2024-05-27 19:50:26
-updated: 2024-05-28 12:56:58
+date: 2024-05-31T05:28:36.226Z
+updated: 2024-06-01T05:28:36.226Z
 tags: 
   - screen-recording
   - ai video
@@ -822,4 +822,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

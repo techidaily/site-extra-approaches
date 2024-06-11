@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Photo Quality with Auto and Smart HDR Features for 2024"
-date: 2024-05-27 23:20:11
-updated: 2024-05-30 11:50:25
+date: 2024-05-31T05:25:59.721Z
+updated: 2024-06-01T05:25:59.721Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

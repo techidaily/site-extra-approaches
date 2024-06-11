@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Shutterbugs  Tips for Better Images\""
-date: 2024-05-27 17:37:56
-updated: 2024-05-28 11:36:11
+date: 2024-05-31T05:28:50.913Z
+updated: 2024-06-01T05:28:50.913Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

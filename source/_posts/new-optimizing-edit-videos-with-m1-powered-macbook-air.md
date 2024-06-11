@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimizing Edit Videos with M1 Powered MacBook Air"
-date: 2024-05-28 14:36:24
-updated: 2024-05-29 10:33:32
+date: 2024-05-31T05:31:03.330Z
+updated: 2024-06-01T05:31:03.330Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

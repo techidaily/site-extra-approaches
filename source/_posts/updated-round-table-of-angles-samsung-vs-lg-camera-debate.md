@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Round Table of Angles  Samsung vs LG Camera Debate\""
-date: 2024-05-28 16:15:37
-updated: 2024-05-30 10:55:51
+date: 2024-05-31T05:27:20.287Z
+updated: 2024-06-01T05:27:20.287Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

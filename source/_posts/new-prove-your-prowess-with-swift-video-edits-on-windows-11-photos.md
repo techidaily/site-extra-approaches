@@ -1,7 +1,7 @@
 ---
 title: "[New] Prove Your Prowess with Swift Video Edits on Windows 11 Photos"
-date: 2024-05-29 13:32:22
-updated: 2024-05-30 11:41:18
+date: 2024-05-31T05:26:58.521Z
+updated: 2024-06-01T05:26:58.521Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

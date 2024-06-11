@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Inside Outlook  A Study of VivaVideo Functionality\""
-date: 2024-05-24 10:28:24
-updated: 2024-05-27 11:31:23
+date: 2024-05-31T05:30:57.759Z
+updated: 2024-06-01T05:30:57.759Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ Hopefully, you find this guide helpful and can now create fantastic videos using
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

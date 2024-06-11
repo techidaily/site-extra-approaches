@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premiere Pro Quick-Fade Magic (1M)\""
-date: 2024-05-28 17:59:20
-updated: 2024-05-30 12:39:26
+date: 2024-05-31T05:26:06.698Z
+updated: 2024-06-01T05:26:06.698Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ All these details will help you get some clarity to understand the best way to f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

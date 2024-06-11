@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Setting Up Your First Zoom Call on Android\""
-date: 2024-05-29 18:52:27
-updated: 2024-05-30 10:42:51
+date: 2024-05-31T05:26:50.063Z
+updated: 2024-06-01T05:26:50.063Z
 tags: 
   - screen-recording
   - ai video
@@ -209,4 +209,5 @@ Now that you have all the steps to start Zoom on android phone, join or schedule
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

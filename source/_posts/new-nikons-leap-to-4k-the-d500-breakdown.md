@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Nikon's Leap to 4K  The D500 Breakdown\""
-date: 2024-05-27 16:59:27
-updated: 2024-05-29 11:50:20
+date: 2024-05-31T05:28:16.805Z
+updated: 2024-06-01T05:28:16.805Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

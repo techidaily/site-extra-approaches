@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sculpting Textures  Creating Realistic 3D Effects in Illustrator\""
-date: 2024-05-28 18:31:25
-updated: 2024-05-30 11:19:42
+date: 2024-05-31T05:25:55.809Z
+updated: 2024-06-01T05:25:55.809Z
 tags: 
   - screen-recording
   - ai video
@@ -144,4 +144,5 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

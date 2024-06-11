@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Culinary Cinematography  Essential Food Film Techniques for 2024\""
-date: 2024-05-25 15:10:12
-updated: 2024-05-28 10:19:44
+date: 2024-05-31T05:31:22.809Z
+updated: 2024-06-01T05:31:22.809Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

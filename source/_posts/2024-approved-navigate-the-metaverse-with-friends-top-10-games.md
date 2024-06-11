@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigate the Metaverse with Friends - Top 10 Games\""
-date: 2024-05-28 21:26:40
-updated: 2024-05-29 11:36:59
+date: 2024-05-31T05:28:12.469Z
+updated: 2024-06-01T05:28:12.469Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ These Facebook virtual reality games are the doors to the following significant 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

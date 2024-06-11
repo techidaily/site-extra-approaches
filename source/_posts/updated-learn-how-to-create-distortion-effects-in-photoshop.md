@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Learn How to Create Distortion Effects in Photoshop"
-date: 2024-05-28 12:16:38
-updated: 2024-05-29 10:58:52
+date: 2024-05-31T05:26:58.645Z
+updated: 2024-06-01T05:26:58.645Z
 tags: 
   - screen-recording
   - ai video
@@ -882,4 +882,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

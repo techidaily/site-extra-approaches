@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Master the Basics  Essential Photo Edits for Starters\""
-date: 2024-05-25 17:10:56
-updated: 2024-05-28 10:18:30
+date: 2024-05-31T05:31:15.504Z
+updated: 2024-06-01T05:31:15.504Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

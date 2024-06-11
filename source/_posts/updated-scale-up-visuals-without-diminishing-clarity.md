@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Scale Up Visuals Without Diminishing Clarity"
-date: 2024-05-28 19:11:48
-updated: 2024-05-30 12:59:57
+date: 2024-05-31T05:27:30.538Z
+updated: 2024-06-01T05:27:30.538Z
 tags: 
   - screen-recording
   - ai video
@@ -674,4 +674,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

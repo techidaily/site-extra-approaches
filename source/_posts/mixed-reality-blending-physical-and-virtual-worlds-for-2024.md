@@ -1,7 +1,7 @@
 ---
 title: "\"Mixed Reality  Blending Physical and Virtual Worlds for 2024\""
-date: 2024-05-25 22:56:46
-updated: 2024-05-28 10:45:14
+date: 2024-05-31T05:28:49.140Z
+updated: 2024-06-01T05:28:49.140Z
 tags: 
   - screen-recording
   - ai video
@@ -218,4 +218,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

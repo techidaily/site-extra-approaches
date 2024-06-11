@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Precision and Artistry  The Ultimate Crossfade Playbook with Audacity\""
-date: 2024-05-27 14:24:36
-updated: 2024-05-29 12:30:51
+date: 2024-05-31T05:30:30.468Z
+updated: 2024-06-01T05:30:30.468Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

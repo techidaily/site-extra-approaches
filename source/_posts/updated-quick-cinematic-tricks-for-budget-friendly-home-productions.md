@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Cinematic Tricks for Budget-Friendly Home Productions\""
-date: 2024-05-29 12:49:55
-updated: 2024-05-30 12:42:17
+date: 2024-05-31T05:26:19.149Z
+updated: 2024-06-01T05:26:19.149Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

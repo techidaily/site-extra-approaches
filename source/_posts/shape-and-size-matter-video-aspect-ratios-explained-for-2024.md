@@ -1,7 +1,7 @@
 ---
 title: "\"Shape & Size Matter  Video Aspect Ratios Explained for 2024\""
-date: 2024-05-29 22:54:59
-updated: 2024-05-30 11:15:53
+date: 2024-05-31T05:29:56.362Z
+updated: 2024-06-01T05:29:56.362Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

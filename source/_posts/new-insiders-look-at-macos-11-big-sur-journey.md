@@ -1,7 +1,7 @@
 ---
 title: "[New] Insider's Look at macOS 11 Big Sur Journey"
-date: 2024-05-26 10:29:37
-updated: 2024-05-27 12:30:24
+date: 2024-05-31T05:29:54.553Z
+updated: 2024-06-01T05:29:54.553Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

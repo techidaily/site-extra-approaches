@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photoshop Path to Painting-Perfect Colors\""
-date: 2024-05-27 15:45:58
-updated: 2024-05-29 12:10:19
+date: 2024-05-31T05:30:56.009Z
+updated: 2024-06-01T05:30:56.009Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

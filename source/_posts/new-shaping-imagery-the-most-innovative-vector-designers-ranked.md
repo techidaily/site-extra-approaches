@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shaping Imagery  The Most Innovative Vector Designers Ranked\""
-date: 2024-05-29 17:41:19
-updated: 2024-05-30 12:39:41
+date: 2024-05-31T05:26:09.273Z
+updated: 2024-06-01T05:26:09.273Z
 tags: 
   - screen-recording
   - ai video
@@ -544,4 +544,5 @@ Indeed, vector images are beneficial for creating graphic designs like logos and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

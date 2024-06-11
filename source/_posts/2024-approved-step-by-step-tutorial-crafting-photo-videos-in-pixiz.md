@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Tutorial  Crafting Photo Videos in Pixiz\""
-date: 2024-05-29 12:55:18
-updated: 2024-05-31 11:22:11
+date: 2024-05-31T05:26:46.149Z
+updated: 2024-06-01T05:26:46.149Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

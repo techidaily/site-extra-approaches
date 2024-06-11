@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Instant Guide  Restoring the Old-School Windows Photo Viewer on Win 11\""
-date: 2024-05-26 11:27:58
-updated: 2024-05-27 10:20:26
+date: 2024-05-31T05:27:34.925Z
+updated: 2024-06-01T05:27:34.925Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Savvy Sound Engineers' 10 Best FREE LUT Picks for 2024"
-date: 2024-05-28 22:44:59
-updated: 2024-05-30 11:15:19
+date: 2024-05-31T05:30:39.068Z
+updated: 2024-06-01T05:30:39.068Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ The LUTs are a great way to add-up effects to your photos and videos. We have in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

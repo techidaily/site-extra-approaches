@@ -1,7 +1,7 @@
 ---
 title: "[New] Solo Journey Through the World of 3D Printing in '3DR'"
-date: 2024-05-30 16:13:32
-updated: 2024-05-31 12:59:25
+date: 2024-05-31T05:31:19.788Z
+updated: 2024-06-01T05:31:19.788Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

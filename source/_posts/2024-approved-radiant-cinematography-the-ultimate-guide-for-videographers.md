@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Radiant Cinematography  The Ultimate Guide for Videographers\""
-date: 2024-05-27 22:57:24
-updated: 2024-05-30 10:59:36
+date: 2024-05-31T05:31:06.253Z
+updated: 2024-06-01T05:31:06.253Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

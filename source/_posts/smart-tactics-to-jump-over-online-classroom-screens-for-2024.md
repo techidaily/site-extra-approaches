@@ -1,7 +1,7 @@
 ---
 title: "Smart Tactics to Jump Over Online Classroom Screens for 2024"
-date: 2024-05-29 15:39:31
-updated: 2024-05-31 12:35:50
+date: 2024-05-31T05:29:37.353Z
+updated: 2024-06-01T05:29:37.353Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Edgenuity is a great learning program. Not having a skip button makes it, so stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

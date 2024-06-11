@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Spectral Footage  Innovation in Cams\""
-date: 2024-05-29 11:42:53
-updated: 2024-05-31 12:55:23
+date: 2024-05-31T05:26:37.870Z
+updated: 2024-06-01T05:26:37.870Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

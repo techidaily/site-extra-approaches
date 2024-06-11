@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Guide to Creating Breathtaking Tile Art\""
-date: 2024-05-28 20:46:54
-updated: 2024-05-31 10:18:12
+date: 2024-05-31T05:28:10.157Z
+updated: 2024-06-01T05:28:10.157Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Canva is probably the easiest most known Digital Design software available onlin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

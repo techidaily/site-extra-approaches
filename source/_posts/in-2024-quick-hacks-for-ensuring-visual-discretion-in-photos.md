@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Hacks for Ensuring Visual Discretion in Photos"
-date: 2024-05-29 19:25:12
-updated: 2024-05-30 12:27:43
+date: 2024-05-31T05:28:22.314Z
+updated: 2024-06-01T05:28:22.314Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

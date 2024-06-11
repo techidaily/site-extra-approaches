@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shaping Stories  The Art of Deformed Photography/Video Words\""
-date: 2024-05-29 19:33:22
-updated: 2024-05-30 12:17:42
+date: 2024-05-31T05:29:58.749Z
+updated: 2024-06-01T05:29:58.749Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

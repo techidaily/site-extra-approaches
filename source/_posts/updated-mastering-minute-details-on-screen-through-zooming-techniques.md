@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Minute Details On-Screen Through Zooming Techniques\""
-date: 2024-05-27 20:24:37
-updated: 2024-05-28 10:28:10
+date: 2024-05-31T05:30:40.032Z
+updated: 2024-06-01T05:30:40.032Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Intro Magic  Crafting Irresistible Podcast Openers\""
-date: 2024-05-24 11:27:16
-updated: 2024-05-27 11:20:22
+date: 2024-05-31T05:31:00.408Z
+updated: 2024-06-01T05:31:00.408Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

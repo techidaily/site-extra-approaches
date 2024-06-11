@@ -1,7 +1,7 @@
 ---
 title: "Live Photography to Continuous Visual Storytelling for 2024"
-date: 2024-05-26 14:32:25
-updated: 2024-05-28 12:48:11
+date: 2024-05-31T05:28:49.069Z
+updated: 2024-06-01T05:28:49.069Z
 tags: 
   - screen-recording
   - ai video
@@ -538,4 +538,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

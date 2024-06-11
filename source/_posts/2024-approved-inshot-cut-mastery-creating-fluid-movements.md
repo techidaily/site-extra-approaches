@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inshot Cut Mastery  Creating Fluid Movements\""
-date: 2024-05-25 21:56:47
-updated: 2024-05-27 11:50:21
+date: 2024-05-31T05:28:18.044Z
+updated: 2024-06-01T05:28:18.044Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

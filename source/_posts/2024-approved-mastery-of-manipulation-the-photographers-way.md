@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastery of Manipulation  The Photographer's Way\""
-date: 2024-05-27 11:59:28
-updated: 2024-05-28 12:33:20
+date: 2024-05-31T05:28:55.213Z
+updated: 2024-06-01T05:28:55.213Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

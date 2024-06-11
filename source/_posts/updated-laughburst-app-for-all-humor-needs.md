@@ -1,7 +1,7 @@
 ---
 title: "[Updated] LaughBurst App for All Humor Needs"
-date: 2024-05-25 12:26:47
-updated: 2024-05-28 12:49:39
+date: 2024-05-31T05:27:29.637Z
+updated: 2024-06-01T05:27:29.637Z
 tags: 
   - screen-recording
   - ai video
@@ -253,4 +253,5 @@ We have illustrated how you can create creative memes from scratch directly from
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

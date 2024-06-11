@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating Automatic Speech Conversion Into PowerPoint Presentations"
-date: 2024-05-24 16:23:39
-updated: 2024-05-27 12:45:12
+date: 2024-05-31T05:31:00.791Z
+updated: 2024-06-01T05:31:00.791Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Shield Identities  Blurring Techniques for Photos\""
-date: 2024-05-28 12:44:12
-updated: 2024-05-31 12:49:57
+date: 2024-05-31T05:28:38.243Z
+updated: 2024-06-01T05:28:38.243Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

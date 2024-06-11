@@ -1,7 +1,7 @@
 ---
 title: "[New] Methods for Smooth Volume Diminishment in Lumafusion"
-date: 2024-05-25 19:29:38
-updated: 2024-05-28 12:30:19
+date: 2024-05-31T05:30:10.431Z
+updated: 2024-06-01T05:30:10.431Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

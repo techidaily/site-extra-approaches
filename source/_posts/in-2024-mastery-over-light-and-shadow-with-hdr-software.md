@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastery Over Light and Shadow with HDR Software"
-date: 2024-05-27 17:26:17
-updated: 2024-05-28 10:16:22
+date: 2024-05-31T05:31:00.631Z
+updated: 2024-06-01T05:31:00.631Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

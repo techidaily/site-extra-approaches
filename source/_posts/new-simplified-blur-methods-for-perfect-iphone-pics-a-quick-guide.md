@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplified Blur Methods for Perfect iPhone Pics - A Quick Guide\""
-date: 2024-05-29 16:26:11
-updated: 2024-05-31 12:47:12
+date: 2024-05-31T05:31:25.442Z
+updated: 2024-06-01T05:31:25.442Z
 tags: 
   - screen-recording
   - ai video
@@ -448,4 +448,5 @@ Blurring the background in a photo ensures that the main subject remains in the 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

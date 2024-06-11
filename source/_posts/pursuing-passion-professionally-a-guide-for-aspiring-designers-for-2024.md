@@ -1,7 +1,7 @@
 ---
 title: "\"Pursuing Passion Professionally  A Guide for Aspiring Designers for 2024\""
-date: 2024-05-27 18:39:52
-updated: 2024-05-30 10:18:45
+date: 2024-05-31T05:30:12.222Z
+updated: 2024-06-01T05:30:12.222Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nix the Sneaky YouTube Quick Playback Feature\""
-date: 2024-05-26 19:53:32
-updated: 2024-05-29 11:35:18
+date: 2024-05-31T05:27:59.122Z
+updated: 2024-06-01T05:27:59.122Z
 tags: 
   - screen-recording
   - ai video
@@ -171,4 +171,5 @@ You can use a third-party app blocker to prevent advertising content across all 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

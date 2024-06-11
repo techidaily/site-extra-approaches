@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Color  The Top 15 GoPro LUTs for Filmmaking for 2024\""
-date: 2024-05-28 22:47:55
-updated: 2024-05-29 12:38:28
+date: 2024-05-31T05:29:04.307Z
+updated: 2024-06-01T05:29:04.307Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Use the above discussed GoPro LUTs to enhance the overall look. Connect with the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

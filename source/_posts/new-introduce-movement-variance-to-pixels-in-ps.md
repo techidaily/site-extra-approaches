@@ -1,7 +1,7 @@
 ---
 title: "[New] Introduce Movement Variance to Pixels in PS"
-date: 2024-05-25 17:50:24
-updated: 2024-05-27 11:40:59
+date: 2024-05-31T05:29:43.241Z
+updated: 2024-06-01T05:29:43.241Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting the Art of Interviews  IPhone & iPad Recording Techniques\""
-date: 2024-05-27 11:57:40
-updated: 2024-05-29 10:25:24
+date: 2024-05-31T05:26:24.021Z
+updated: 2024-06-01T05:26:24.021Z
 tags: 
   - screen-recording
   - ai video
@@ -404,4 +404,5 @@ All the equipment mentioned above is available at Amazon, and you should grab th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Masterclass  Transition to Mixer Broadcast on macOS\""
-date: 2024-05-26 11:53:16
-updated: 2024-05-28 12:56:43
+date: 2024-05-31T05:26:36.460Z
+updated: 2024-06-01T05:26:36.460Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

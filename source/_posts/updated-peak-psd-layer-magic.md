@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Peak PSD Layer Magic"
-date: 2024-05-28 15:47:56
-updated: 2024-05-29 12:16:54
+date: 2024-05-31T05:26:10.179Z
+updated: 2024-06-01T05:26:10.179Z
 tags: 
   - screen-recording
   - ai video
@@ -152,4 +152,5 @@ These PSD Text effect files are available for free download, and they're also a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

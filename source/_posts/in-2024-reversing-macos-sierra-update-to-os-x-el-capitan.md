@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Reversing MacOS Sierra Update to OS X El Capitan"
-date: 2024-05-28 12:59:37
-updated: 2024-05-30 10:35:38
+date: 2024-05-31T05:26:40.195Z
+updated: 2024-06-01T05:26:40.195Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

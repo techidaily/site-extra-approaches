@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating the Complexities of macOS SRT Changes\""
-date: 2024-05-27 19:43:17
-updated: 2024-05-29 12:23:56
+date: 2024-05-31T05:28:23.697Z
+updated: 2024-06-01T05:28:23.697Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

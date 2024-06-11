@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Mobile Technology for DJi Visual Storytelling"
-date: 2024-05-25 20:10:54
-updated: 2024-05-28 11:39:18
+date: 2024-05-31T05:26:52.754Z
+updated: 2024-06-01T05:26:52.754Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

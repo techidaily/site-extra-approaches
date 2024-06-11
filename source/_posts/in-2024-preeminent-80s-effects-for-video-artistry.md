@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Preeminent 80S Effects for Video Artistry"
-date: 2024-05-26 19:37:46
-updated: 2024-05-29 10:28:18
+date: 2024-05-31T05:30:38.818Z
+updated: 2024-06-01T05:30:38.818Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Standout 14 Animation Techniques for Texts for 2024"
-date: 2024-05-29 18:36:32
-updated: 2024-05-31 10:54:32
+date: 2024-05-31T05:28:43.765Z
+updated: 2024-06-01T05:28:43.765Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

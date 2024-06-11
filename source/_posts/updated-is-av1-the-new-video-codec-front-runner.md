@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Is AV1 The New Video Codec Front-Runner?\""
-date: 2024-05-26 15:13:32
-updated: 2024-05-28 12:32:52
+date: 2024-05-31T05:30:11.484Z
+updated: 2024-06-01T05:30:11.484Z
 tags: 
   - screen-recording
   - ai video
@@ -146,4 +146,5 @@ We hope this AV1 vs VP9 comparison article has dispelled all your fears about us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

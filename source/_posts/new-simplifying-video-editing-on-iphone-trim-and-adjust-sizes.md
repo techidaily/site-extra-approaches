@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplifying Video Editing on iPhone  Trim & Adjust Sizes\""
-date: 2024-05-29 22:34:33
-updated: 2024-05-31 11:46:31
+date: 2024-05-31T05:31:05.933Z
+updated: 2024-06-01T05:31:05.933Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

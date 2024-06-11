@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Make Time Lapse on Samsung Mobile\""
-date: 2024-05-27 14:36:38
-updated: 2024-05-28 10:57:39
+date: 2024-05-31T05:28:48.741Z
+updated: 2024-06-01T05:28:48.741Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ Creating a timelapse video on a Samsung device is super easy. All the latest Sam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Project Pics  Blend Outside Focus with Radial Filters PSX\""
-date: 2024-05-28 11:14:28
-updated: 2024-05-30 12:48:55
+date: 2024-05-31T05:30:54.809Z
+updated: 2024-06-01T05:30:54.809Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

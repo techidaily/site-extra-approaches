@@ -1,7 +1,7 @@
 ---
 title: "Mastering Volume Transitions in Lumafusion for 2024"
-date: 2024-05-26 20:33:38
-updated: 2024-05-28 11:16:29
+date: 2024-05-31T05:31:03.143Z
+updated: 2024-06-01T05:31:03.143Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

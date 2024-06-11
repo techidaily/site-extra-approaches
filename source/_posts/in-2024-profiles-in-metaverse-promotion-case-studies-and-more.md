@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Profiles in Metaverse Promotion  Case Studies and More\""
-date: 2024-05-28 13:13:55
-updated: 2024-05-30 10:27:45
+date: 2024-05-31T05:27:51.338Z
+updated: 2024-06-01T05:27:51.338Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ Marketing in the Metaverse is the next trending thing in the world of digital ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photo Editing Essentials  Cut Out Unwanted Borders Smoothly\""
-date: 2024-05-26 14:47:28
-updated: 2024-05-29 10:52:42
+date: 2024-05-31T05:26:24.042Z
+updated: 2024-06-01T05:26:24.042Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ With a wide range of editing tools available today, you can change any aspect of
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Pinnacle of Photography  Top 10 4K Mirrorless Cams for 2024\""
-date: 2024-05-27 15:12:14
-updated: 2024-05-29 10:41:50
+date: 2024-05-31T05:29:53.079Z
+updated: 2024-06-01T05:29:53.079Z
 tags: 
   - screen-recording
   - ai video
@@ -1710,4 +1710,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

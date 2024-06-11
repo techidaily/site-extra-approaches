@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Meta versus Omni  The Future of Digital Worlds\""
-date: 2024-05-26 13:13:35
-updated: 2024-05-28 12:42:53
+date: 2024-05-31T05:26:56.885Z
+updated: 2024-06-01T05:26:56.885Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ So, having gained knowledge on the difference between Metaverse vs. Omniverse, y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

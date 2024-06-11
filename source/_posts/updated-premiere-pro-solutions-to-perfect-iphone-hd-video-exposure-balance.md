@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance"
-date: 2024-05-27 21:47:47
-updated: 2024-05-30 10:53:26
+date: 2024-05-31T05:28:13.167Z
+updated: 2024-06-01T05:28:13.167Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

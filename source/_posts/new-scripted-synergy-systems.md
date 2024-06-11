@@ -1,7 +1,7 @@
 ---
 title: "[New] Scripted Synergy Systems"
-date: 2024-05-27 21:35:38
-updated: 2024-05-30 11:53:16
+date: 2024-05-31T05:27:31.047Z
+updated: 2024-06-01T05:27:31.047Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ As the saying goes, the more the merrier and the more presets you have, the more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

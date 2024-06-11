@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Miniature Film Script Sketch\""
-date: 2024-05-25 18:31:23
-updated: 2024-05-28 10:25:31
+date: 2024-05-31T05:28:35.875Z
+updated: 2024-06-01T05:28:35.875Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

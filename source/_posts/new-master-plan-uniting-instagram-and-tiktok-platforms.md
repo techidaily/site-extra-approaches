@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Master Plan  Uniting Instagram & TikTok Platforms\""
-date: 2024-05-25 14:41:42
-updated: 2024-05-28 12:12:32
+date: 2024-05-31T05:30:13.629Z
+updated: 2024-06-01T05:30:13.629Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ Using both platforms will take your business or content to a new height. It may 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

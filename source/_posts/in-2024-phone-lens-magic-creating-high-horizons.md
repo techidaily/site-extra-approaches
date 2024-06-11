@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Phone Lens Magic  Creating High Horizons\""
-date: 2024-05-26 20:33:35
-updated: 2024-05-29 12:54:48
+date: 2024-05-31T05:30:16.686Z
+updated: 2024-06-01T05:30:16.686Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

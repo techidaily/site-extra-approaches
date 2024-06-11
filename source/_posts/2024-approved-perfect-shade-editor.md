@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Shade Editor\""
-date: 2024-05-27 22:31:43
-updated: 2024-05-29 11:17:49
+date: 2024-05-31T05:28:09.339Z
+updated: 2024-06-01T05:28:09.339Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ With apps like Filmora, color correcting is simple and quick to do on mobile dev
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

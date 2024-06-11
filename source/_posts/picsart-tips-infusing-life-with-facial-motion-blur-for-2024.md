@@ -1,7 +1,7 @@
 ---
 title: "\"Picsart Tips  Infusing Life with Facial Motion Blur for 2024\""
-date: 2024-05-27 23:15:13
-updated: 2024-05-29 11:39:55
+date: 2024-05-31T05:28:42.790Z
+updated: 2024-06-01T05:28:42.790Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

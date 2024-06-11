@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Starting Line  The Basics of Picture Resolution\""
-date: 2024-05-29 12:17:38
-updated: 2024-05-31 10:10:17
+date: 2024-05-31T05:26:44.206Z
+updated: 2024-06-01T05:26:44.206Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ After sharing a lot of information about video resolutions, this article conclud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

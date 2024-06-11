@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premier No. 8 Digital Composer's Kit"
-date: 2024-05-28 17:32:14
-updated: 2024-05-29 11:17:41
+date: 2024-05-31T05:26:18.344Z
+updated: 2024-06-01T05:26:18.344Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ Photo and video montage makers help you make presentable and fascinating content
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

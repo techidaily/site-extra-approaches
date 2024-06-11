@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leveraging Windows 10'S Photos App  A Guide to Adding Text to Visual Content\""
-date: 2024-05-27 10:20:39
-updated: 2024-05-28 12:24:46
+date: 2024-05-31T05:26:13.277Z
+updated: 2024-06-01T05:26:13.277Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

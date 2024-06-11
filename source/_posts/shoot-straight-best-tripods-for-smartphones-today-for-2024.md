@@ -1,7 +1,7 @@
 ---
 title: "\"Shoot Straight  Best Tripods for Smartphones Today for 2024\""
-date: 2024-05-30 21:22:45
-updated: 2024-05-31 11:23:42
+date: 2024-05-31T05:27:15.364Z
+updated: 2024-06-01T05:27:15.364Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

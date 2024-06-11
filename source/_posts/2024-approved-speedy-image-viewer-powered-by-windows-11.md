@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Speedy Image Viewer Powered by Windows 11\""
-date: 2024-05-30 20:24:53
-updated: 2024-05-31 10:48:39
+date: 2024-05-31T05:30:14.221Z
+updated: 2024-06-01T05:30:14.221Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

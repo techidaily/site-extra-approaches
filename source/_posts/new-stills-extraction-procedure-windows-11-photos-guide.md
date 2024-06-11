@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stills Extraction Procedure  Windows 11 Photos Guide\""
-date: 2024-05-28 14:54:12
-updated: 2024-05-31 12:51:26
+date: 2024-05-31T05:26:41.213Z
+updated: 2024-06-01T05:26:41.213Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

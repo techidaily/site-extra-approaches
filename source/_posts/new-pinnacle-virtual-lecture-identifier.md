@@ -1,7 +1,7 @@
 ---
 title: "[New] Pinnacle Virtual Lecture Identifier"
-date: 2024-05-27 20:42:31
-updated: 2024-05-29 10:40:31
+date: 2024-05-31T05:26:44.119Z
+updated: 2024-06-01T05:26:44.119Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Are you having trouble coming up with a title for your most recent webinar? Ther
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

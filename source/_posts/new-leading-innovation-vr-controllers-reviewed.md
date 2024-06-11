@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leading Innovation  VR Controllers Reviewed\""
-date: 2024-05-25 18:35:44
-updated: 2024-05-28 11:32:56
+date: 2024-05-31T05:25:59.481Z
+updated: 2024-06-01T05:25:59.481Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

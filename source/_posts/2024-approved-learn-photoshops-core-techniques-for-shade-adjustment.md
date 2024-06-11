@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learn Photoshop's Core Techniques for Shade Adjustment\""
-date: 2024-05-26 21:29:54
-updated: 2024-05-28 10:26:27
+date: 2024-05-31T05:25:59.033Z
+updated: 2024-06-01T05:25:59.033Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

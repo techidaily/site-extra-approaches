@@ -1,7 +1,7 @@
 ---
 title: "\"Mastery Over Motion  Manipulating MP4 Playback Rate for 2024\""
-date: 2024-05-26 15:38:16
-updated: 2024-05-28 11:19:50
+date: 2024-05-31T05:28:30.527Z
+updated: 2024-06-01T05:28:30.527Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Some most common reasons for this issue include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

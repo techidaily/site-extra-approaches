@@ -1,7 +1,7 @@
 ---
 title: "[New] Screenplay Blueprint Unveiled"
-date: 2024-05-29 20:28:41
-updated: 2024-05-30 10:48:33
+date: 2024-05-31T05:28:46.087Z
+updated: 2024-06-01T05:28:46.087Z
 tags: 
   - screen-recording
   - ai video
@@ -183,4 +183,5 @@ The article has provided the most information about screenplays and how to write
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

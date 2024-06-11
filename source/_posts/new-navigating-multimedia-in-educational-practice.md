@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Multimedia in Educational Practice"
-date: 2024-05-27 14:20:30
-updated: 2024-05-29 10:34:32
+date: 2024-05-31T05:31:12.279Z
+updated: 2024-06-01T05:31:12.279Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

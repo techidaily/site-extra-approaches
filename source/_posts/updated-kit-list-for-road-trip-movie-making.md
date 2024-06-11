@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Kit List for Road-Trip Movie Making\""
-date: 2024-05-27 21:13:24
-updated: 2024-05-28 10:49:14
+date: 2024-05-31T05:27:04.167Z
+updated: 2024-06-01T05:27:04.167Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

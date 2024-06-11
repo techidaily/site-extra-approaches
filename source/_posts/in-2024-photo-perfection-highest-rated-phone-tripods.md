@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Photo Perfection  Highest Rated Phone Tripods\""
-date: 2024-05-26 14:29:58
-updated: 2024-05-29 12:36:13
+date: 2024-05-31T05:28:41.714Z
+updated: 2024-06-01T05:28:41.714Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

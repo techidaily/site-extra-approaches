@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instagram Story Mastery  Controlling Your Video Speed\""
-date: 2024-05-24 19:14:39
-updated: 2024-05-27 12:45:37
+date: 2024-05-31T05:28:27.799Z
+updated: 2024-06-01T05:28:27.799Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ We have answered the frequently asked question, "how to do slow motion on Instag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

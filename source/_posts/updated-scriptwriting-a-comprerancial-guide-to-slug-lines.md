@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Scriptwriting  A Comprerancial Guide to Slug Lines\""
-date: 2024-05-27 14:20:10
-updated: 2024-05-30 12:20:48
+date: 2024-05-31T05:25:55.578Z
+updated: 2024-06-01T05:25:55.578Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ The Slug Line is a great method and an important element to use to enhance your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to LUT Mastery for 2024\""
-date: 2024-05-30 16:15:30
-updated: 2024-05-31 11:54:32
+date: 2024-05-31T05:29:56.404Z
+updated: 2024-06-01T05:29:56.404Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ To download the app, visit the official website of 3D LUT Creator at:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

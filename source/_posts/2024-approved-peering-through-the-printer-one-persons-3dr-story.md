@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Peering Through the Printer  One Person’s '3DR' Story\""
-date: 2024-05-26 19:33:59
-updated: 2024-05-29 12:20:28
+date: 2024-05-31T05:29:38.370Z
+updated: 2024-06-01T05:29:38.370Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

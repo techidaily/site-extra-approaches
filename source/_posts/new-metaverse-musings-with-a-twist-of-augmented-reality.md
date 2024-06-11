@@ -1,7 +1,7 @@
 ---
 title: "[New] Metaverse Musings with a Twist of Augmented Reality"
-date: 2024-05-25 16:44:39
-updated: 2024-05-28 11:14:59
+date: 2024-05-31T05:29:54.621Z
+updated: 2024-06-01T05:29:54.621Z
 tags: 
   - screen-recording
   - ai video
@@ -846,4 +846,5 @@ Therefore, meta or some other organization hoping to get into the metaverse have
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

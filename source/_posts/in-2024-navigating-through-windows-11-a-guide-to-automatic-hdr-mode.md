@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating Through Windows 11  A Guide to Automatic HDR Mode\""
-date: 2024-05-28 11:24:20
-updated: 2024-05-29 11:30:43
+date: 2024-05-31T05:28:18.303Z
+updated: 2024-06-01T05:28:18.303Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

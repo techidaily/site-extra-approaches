@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speedy Movie Making Hacks  Tips to Learn and Apply at Home\""
-date: 2024-05-29 14:40:29
-updated: 2024-05-31 12:59:15
+date: 2024-05-31T05:29:39.627Z
+updated: 2024-06-01T05:29:39.627Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

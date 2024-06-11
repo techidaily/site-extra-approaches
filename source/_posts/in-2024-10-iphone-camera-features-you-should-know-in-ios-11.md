@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 10 iPhone Camera Features You Should Know in iOS 11"
-date: 2024-05-25 23:39:15
-updated: 2024-05-27 12:20:58
+date: 2024-05-31T05:29:03.948Z
+updated: 2024-06-01T05:29:03.948Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

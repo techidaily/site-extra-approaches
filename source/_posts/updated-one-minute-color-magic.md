@@ -1,7 +1,7 @@
 ---
 title: "[Updated] One Minute Color Magic"
-date: 2024-05-28 23:54:55
-updated: 2024-05-29 10:15:18
+date: 2024-05-31T05:26:06.964Z
+updated: 2024-06-01T05:26:06.964Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ All these details will help you get some clarity to understand the best way to f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

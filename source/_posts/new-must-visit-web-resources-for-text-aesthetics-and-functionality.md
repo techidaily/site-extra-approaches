@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Must-Visit Web Resources for Text Aesthetics & Functionality\""
-date: 2024-05-26 17:34:38
-updated: 2024-05-29 10:44:31
+date: 2024-05-31T05:29:05.037Z
+updated: 2024-06-01T05:29:05.037Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ If texts and titles are an important part of your graphics or videos, you should
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

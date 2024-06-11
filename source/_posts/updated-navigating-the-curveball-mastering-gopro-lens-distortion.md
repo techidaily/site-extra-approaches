@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating the Curveball  Mastering GoPro Lens Distortion\""
-date: 2024-05-26 12:53:39
-updated: 2024-05-29 10:43:45
+date: 2024-05-31T05:26:38.944Z
+updated: 2024-06-01T05:26:38.944Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

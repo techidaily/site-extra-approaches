@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photoshop's Quick Path to Contoured Images"
-date: 2024-05-28 21:21:47
-updated: 2024-05-29 10:55:36
+date: 2024-05-31T05:30:35.157Z
+updated: 2024-06-01T05:30:35.157Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Precision in Volume Decrease  Lumafusion's Methodology\""
-date: 2024-05-28 13:39:33
-updated: 2024-05-29 10:55:37
+date: 2024-05-31T05:30:25.133Z
+updated: 2024-06-01T05:30:25.133Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

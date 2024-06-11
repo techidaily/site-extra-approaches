@@ -1,7 +1,7 @@
 ---
 title: "[New] Pro Tips for Stunning GoPro Timelapse Projects"
-date: 2024-05-27 20:35:30
-updated: 2024-05-30 10:39:55
+date: 2024-05-31T05:31:04.155Z
+updated: 2024-06-01T05:31:04.155Z
 tags: 
   - screen-recording
   - ai video
@@ -550,4 +550,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

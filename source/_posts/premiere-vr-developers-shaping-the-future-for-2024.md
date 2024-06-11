@@ -1,7 +1,7 @@
 ---
 title: "Premiere VR Developers Shaping the Future for 2024"
-date: 2024-05-29 10:53:30
-updated: 2024-05-30 10:24:12
+date: 2024-05-31T05:27:26.431Z
+updated: 2024-06-01T05:27:26.431Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

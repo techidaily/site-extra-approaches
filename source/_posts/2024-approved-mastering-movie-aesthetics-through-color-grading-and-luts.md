@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Movie Aesthetics Through Color Grading and Luts\""
-date: 2024-05-27 12:17:53
-updated: 2024-05-28 10:24:18
+date: 2024-05-31T05:28:22.907Z
+updated: 2024-06-01T05:28:22.907Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

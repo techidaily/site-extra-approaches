@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplifying Media Files with XML, SSA, TTML to SRT Process"
-date: 2024-05-30 22:41:54
-updated: 2024-05-31 12:21:11
+date: 2024-05-31T05:29:37.216Z
+updated: 2024-06-01T05:29:37.216Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

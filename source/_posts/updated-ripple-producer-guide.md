@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ripple Producer Guide"
-date: 2024-05-29 11:34:42
-updated: 2024-05-30 10:54:32
+date: 2024-05-31T05:31:03.662Z
+updated: 2024-06-01T05:31:03.662Z
 tags: 
   - screen-recording
   - ai video
@@ -436,4 +436,5 @@ If you have long admired the boomerang videos that you see on social media and h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Revolutionizing Cinematography with Advanced 3D LUTs"
-date: 2024-05-27 14:55:42
-updated: 2024-05-30 11:27:33
+date: 2024-05-31T05:28:04.437Z
+updated: 2024-06-01T05:28:04.437Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ To download the app, visit the official website of 3D LUT Creator at:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Speed Photography Showdown  GoPro Hero 4 VS Ghost-S Drift\""
-date: 2024-05-28 14:33:34
-updated: 2024-05-31 10:49:45
+date: 2024-05-31T05:26:25.571Z
+updated: 2024-06-01T05:26:25.571Z
 tags: 
   - screen-recording
   - ai video
@@ -494,4 +494,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

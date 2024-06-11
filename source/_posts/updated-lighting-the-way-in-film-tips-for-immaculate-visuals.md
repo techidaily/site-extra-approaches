@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lighting the Way in Film  Tips for Immaculate Visuals\""
-date: 2024-05-25 12:35:45
-updated: 2024-05-28 12:46:31
+date: 2024-05-31T05:26:35.716Z
+updated: 2024-06-01T05:26:35.716Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

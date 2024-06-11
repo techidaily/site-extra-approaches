@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Kickstart Your Film Journey  Essential Camera Shot Knowledge\""
-date: 2024-05-25 14:16:21
-updated: 2024-05-28 10:45:27
+date: 2024-05-31T05:28:55.490Z
+updated: 2024-06-01T05:28:55.490Z
 tags: 
   - screen-recording
   - ai video
@@ -670,4 +670,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

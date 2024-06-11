@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, PicArt Privacy Filter  No More Recognizable Faces\""
-date: 2024-05-28 18:10:37
-updated: 2024-05-29 11:37:42
+date: 2024-05-31T05:27:30.825Z
+updated: 2024-06-01T05:27:30.825Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

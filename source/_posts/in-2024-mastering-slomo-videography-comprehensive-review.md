@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering SloMo Videography - Comprehensive Review\""
-date: 2024-05-26 23:26:34
-updated: 2024-05-28 12:38:38
+date: 2024-05-31T05:27:06.855Z
+updated: 2024-06-01T05:27:06.855Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ In conclusion, Slo Mo Video is a helpful tool for editing simple footage into a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

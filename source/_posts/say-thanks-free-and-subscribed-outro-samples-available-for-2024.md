@@ -1,7 +1,7 @@
 ---
 title: "Say Thanks! Free & Subscribed Outro Samples Available for 2024"
-date: 2024-05-27 22:46:43
-updated: 2024-05-30 11:19:40
+date: 2024-05-31T05:29:38.911Z
+updated: 2024-06-01T05:29:38.911Z
 tags: 
   - screen-recording
   - ai video
@@ -164,4 +164,5 @@ We hope you found this guide helpful in finding the right **Thanks for Watching 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

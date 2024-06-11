@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Nikon D 500 4K DSLR Camera Review"
-date: 2024-05-28 21:58:47
-updated: 2024-05-29 10:17:15
+date: 2024-05-31T05:27:59.282Z
+updated: 2024-06-01T05:27:59.282Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

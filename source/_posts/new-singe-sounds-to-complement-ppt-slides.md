@@ -1,7 +1,7 @@
 ---
 title: "[New] Singe Sounds to Complement PPT Slides"
-date: 2024-05-30 15:16:57
-updated: 2024-05-31 12:25:53
+date: 2024-05-31T05:28:51.565Z
+updated: 2024-06-01T05:28:51.565Z
 tags: 
   - screen-recording
   - ai video
@@ -576,4 +576,5 @@ So, we're now concluding on how to add music to PowerPoint along with describing
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

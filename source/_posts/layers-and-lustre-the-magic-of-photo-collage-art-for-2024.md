@@ -1,7 +1,7 @@
 ---
 title: "\"Layers and Lustre  The Magic of Photo Collage Art for 2024\""
-date: 2024-05-26 22:54:42
-updated: 2024-05-28 10:37:36
+date: 2024-05-31T05:27:35.760Z
+updated: 2024-06-01T05:27:35.760Z
 tags: 
   - screen-recording
   - ai video
@@ -730,4 +730,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterful Video Text Techniques - Ranked\""
-date: 2024-05-26 22:57:34
-updated: 2024-05-28 10:16:26
+date: 2024-05-31T05:30:03.065Z
+updated: 2024-06-01T05:30:03.065Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ We have listed the most popular text effects that are widely used in today’s v
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

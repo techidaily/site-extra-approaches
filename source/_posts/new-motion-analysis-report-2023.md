@@ -1,7 +1,7 @@
 ---
 title: "[New] Motion Analysis Report 2023"
-date: 2024-05-28 23:27:17
-updated: 2024-05-29 10:43:24
+date: 2024-05-31T05:27:20.708Z
+updated: 2024-06-01T05:27:20.708Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Alight Motion editing app has lived up to the expectation of being the first mot
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

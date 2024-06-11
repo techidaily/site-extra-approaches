@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Soundtracking WhatsApp Statues"
-date: 2024-05-28 19:39:57
-updated: 2024-05-31 11:46:39
+date: 2024-05-31T05:26:23.990Z
+updated: 2024-06-01T05:26:23.990Z
 tags: 
   - screen-recording
   - ai video
@@ -454,4 +454,5 @@ These are the complete details that can help you figure out how to add music to 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

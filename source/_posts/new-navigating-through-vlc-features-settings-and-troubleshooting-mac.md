@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Through VLC Features, Settings & Troubleshooting (Mac)"
-date: 2024-05-28 11:14:19
-updated: 2024-05-29 12:23:16
+date: 2024-05-31T05:30:36.489Z
+updated: 2024-06-01T05:30:36.489Z
 tags: 
   - screen-recording
   - ai video
@@ -458,4 +458,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

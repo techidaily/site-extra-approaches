@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Restore Shadows in iPhone HDR Footage Using Premiere Pro Techniques\""
-date: 2024-05-28 22:59:24
-updated: 2024-05-30 12:41:31
+date: 2024-05-31T05:27:55.142Z
+updated: 2024-06-01T05:27:55.142Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

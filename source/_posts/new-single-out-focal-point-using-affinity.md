@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Single-Out Focal Point Using Affinity\""
-date: 2024-05-28 17:21:42
-updated: 2024-05-31 11:28:58
+date: 2024-05-31T05:30:26.736Z
+updated: 2024-06-01T05:30:26.736Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article and video can help you create ideal images!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

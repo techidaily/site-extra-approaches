@@ -1,7 +1,7 @@
 ---
 title: "[New] Inside The Craft of Creating VR Films"
-date: 2024-05-24 17:49:55
-updated: 2024-05-27 12:59:31
+date: 2024-05-31T05:31:06.637Z
+updated: 2024-06-01T05:31:06.637Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

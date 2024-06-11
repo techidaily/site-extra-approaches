@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Next-Gen Patient Rehabilitation Tools\""
-date: 2024-05-26 16:27:52
-updated: 2024-05-29 11:36:35
+date: 2024-05-31T05:30:37.574Z
+updated: 2024-06-01T05:30:37.574Z
 tags: 
   - screen-recording
   - ai video
@@ -210,4 +210,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

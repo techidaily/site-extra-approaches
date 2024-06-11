@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Nine Remedies for Firefox Video Glitches on Social Media"
-date: 2024-05-26 11:23:57
-updated: 2024-05-29 12:35:41
+date: 2024-05-31T05:29:55.258Z
+updated: 2024-06-01T05:29:55.258Z
 tags: 
   - screen-recording
   - ai video
@@ -526,4 +526,5 @@ You can rename the video and alter the location where you save it if you wish to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

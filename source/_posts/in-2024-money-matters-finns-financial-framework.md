@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Money Matters  Finn's Financial Framework\""
-date: 2024-05-26 11:36:34
-updated: 2024-05-29 12:48:22
+date: 2024-05-31T05:27:26.852Z
+updated: 2024-06-01T05:27:26.852Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ PewDiePie is an apt example of earning fortunes by uploading videos and being po
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

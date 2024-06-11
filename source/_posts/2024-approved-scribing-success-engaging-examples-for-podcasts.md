@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scribing Success  Engaging Examples for Podcasts\""
-date: 2024-05-28 18:49:10
-updated: 2024-05-30 11:26:17
+date: 2024-05-31T05:26:07.118Z
+updated: 2024-06-01T05:26:07.118Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

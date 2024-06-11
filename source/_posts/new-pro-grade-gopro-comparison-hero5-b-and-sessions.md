@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro-Grade GoPro Comparison  Hero5 B & Sessions\""
-date: 2024-05-28 17:58:57
-updated: 2024-05-30 11:14:43
+date: 2024-05-31T05:27:47.778Z
+updated: 2024-06-01T05:27:47.778Z
 tags: 
   - screen-recording
   - ai video
@@ -374,4 +374,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

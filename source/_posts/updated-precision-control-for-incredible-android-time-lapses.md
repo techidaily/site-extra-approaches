@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Precision Control for Incredible Android Time-Lapses\""
-date: 2024-05-26 15:16:30
-updated: 2024-05-29 11:18:58
+date: 2024-05-31T05:26:27.830Z
+updated: 2024-06-01T05:26:27.830Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

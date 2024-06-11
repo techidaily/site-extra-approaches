@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Start Guide to Editing with Snapseed"
-date: 2024-05-27 20:36:41
-updated: 2024-05-30 11:13:23
+date: 2024-05-31T05:26:44.168Z
+updated: 2024-06-01T05:26:44.168Z
 tags: 
   - screen-recording
   - ai video
@@ -136,4 +136,5 @@ Are you tired of using various photo editors and still cannot achieve the desire
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

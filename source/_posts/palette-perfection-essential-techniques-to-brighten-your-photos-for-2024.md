@@ -1,7 +1,7 @@
 ---
 title: "\"Palette Perfection  Essential Techniques to Brighten Your Photos for 2024\""
-date: 2024-05-26 13:51:15
-updated: 2024-05-29 12:24:27
+date: 2024-05-31T05:28:23.394Z
+updated: 2024-06-01T05:28:23.394Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

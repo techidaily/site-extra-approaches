@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Introduction to Basic Storytelling Constructs"
-date: 2024-05-25 22:54:57
-updated: 2024-05-27 10:17:17
+date: 2024-05-31T05:29:19.280Z
+updated: 2024-06-01T05:29:19.280Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

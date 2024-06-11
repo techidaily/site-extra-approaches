@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shutter Excellence Roundup  Top 6 Incredible 4K DSLRs\""
-date: 2024-05-30 15:48:17
-updated: 2024-05-31 11:50:56
+date: 2024-05-31T05:31:07.550Z
+updated: 2024-06-01T05:31:07.550Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

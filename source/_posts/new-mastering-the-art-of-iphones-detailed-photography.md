@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of iPhone's Detailed Photography"
-date: 2024-05-27 13:18:38
-updated: 2024-05-28 10:42:36
+date: 2024-05-31T05:31:23.567Z
+updated: 2024-06-01T05:31:23.567Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

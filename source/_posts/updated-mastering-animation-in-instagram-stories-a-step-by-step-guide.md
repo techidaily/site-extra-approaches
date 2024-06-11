@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Animation in Instagram Stories  A Step-by-Step Guide\""
-date: 2024-05-27 11:14:36
-updated: 2024-05-28 10:51:57
+date: 2024-05-31T05:31:05.094Z
+updated: 2024-06-01T05:31:05.094Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ The success or failure of your Instagram company depends in large part on engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

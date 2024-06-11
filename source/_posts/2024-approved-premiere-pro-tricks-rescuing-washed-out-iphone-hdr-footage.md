@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premiere Pro Tricks  Rescuing Washed-Out iPhone HDR Footage\""
-date: 2024-05-27 12:38:49
-updated: 2024-05-30 11:23:31
+date: 2024-05-31T05:29:35.302Z
+updated: 2024-06-01T05:29:35.302Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

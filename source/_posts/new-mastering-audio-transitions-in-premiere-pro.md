@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Audio Transitions in Premiere Pro"
-date: 2024-05-25 15:22:25
-updated: 2024-05-28 11:10:31
+date: 2024-05-31T05:26:14.891Z
+updated: 2024-06-01T05:26:14.891Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ With this guide, you can easily understand the complete procedure for editing a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

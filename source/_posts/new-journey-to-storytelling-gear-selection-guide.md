@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Journey to Storytelling  Gear Selection Guide\""
-date: 2024-05-26 23:36:21
-updated: 2024-05-28 10:14:59
+date: 2024-05-31T05:26:49.590Z
+updated: 2024-06-01T05:26:49.590Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating LUT Technology Into Your OBS Setup"
-date: 2024-05-24 15:17:18
-updated: 2024-05-27 10:48:35
+date: 2024-05-31T05:28:04.150Z
+updated: 2024-06-01T05:28:04.150Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ As a result, adding professionalism to your talents is now even easier and more 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

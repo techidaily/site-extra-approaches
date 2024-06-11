@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Social Media Savvy  Quick-Fire Tips for Aspiring Online Marketers\""
-date: 2024-05-29 13:40:31
-updated: 2024-05-31 10:24:41
+date: 2024-05-31T05:30:21.399Z
+updated: 2024-06-01T05:30:21.399Z
 tags: 
   - screen-recording
   - ai video
@@ -175,4 +175,5 @@ Just remember, consistently and genuinely caring about your audience is what wil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premier Programs  Designing Animated 3D Worlds\""
-date: 2024-05-26 16:37:23
-updated: 2024-05-29 11:36:21
+date: 2024-05-31T05:27:45.319Z
+updated: 2024-06-01T05:27:45.319Z
 tags: 
   - screen-recording
   - ai video
@@ -231,4 +231,5 @@ As you can see there are many options and these are just a few or the ever expan
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

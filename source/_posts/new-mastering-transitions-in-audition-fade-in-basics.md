@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Transitions in Audition  Fade-In Basics\""
-date: 2024-05-26 10:15:50
-updated: 2024-05-28 10:15:25
+date: 2024-05-31T05:30:33.289Z
+updated: 2024-06-01T05:30:33.289Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

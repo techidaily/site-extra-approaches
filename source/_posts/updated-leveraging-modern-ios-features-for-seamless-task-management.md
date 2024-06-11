@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leveraging Modern iOS Features for Seamless Task Management"
-date: 2024-05-26 18:25:23
-updated: 2024-05-28 10:58:48
+date: 2024-05-31T05:27:47.028Z
+updated: 2024-06-01T05:27:47.028Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

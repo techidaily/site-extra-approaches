@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  PicScanner's Face-Blurring Made Easy for Everyone\""
-date: 2024-05-28 11:16:26
-updated: 2024-05-29 11:37:25
+date: 2024-05-31T05:30:33.639Z
+updated: 2024-06-01T05:30:33.639Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

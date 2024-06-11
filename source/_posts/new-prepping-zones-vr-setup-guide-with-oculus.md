@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Prepping Zones  VR Setup Guide with Oculus\""
-date: 2024-05-28 20:14:44
-updated: 2024-05-30 10:34:37
+date: 2024-05-31T05:25:53.728Z
+updated: 2024-06-01T05:25:53.728Z
 tags: 
   - screen-recording
   - ai video
@@ -190,4 +190,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

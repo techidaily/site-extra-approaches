@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Precision Editing  Perfecting the Art of Fades in Pro\""
-date: 2024-05-27 18:53:28
-updated: 2024-05-29 11:42:29
+date: 2024-05-31T05:29:49.705Z
+updated: 2024-06-01T05:29:49.705Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Audio Quality  Integrating SRT Into MP4\""
-date: 2024-05-26 21:33:13
-updated: 2024-05-28 12:58:24
+date: 2024-05-31T05:29:54.569Z
+updated: 2024-06-01T05:29:54.569Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Gone are the days when adding SRT to MP4 was considered a very difficult task. N
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

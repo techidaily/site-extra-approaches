@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Intense Close-Ups in Minecraft  Five Simple Steps\""
-date: 2024-05-25 16:51:59
-updated: 2024-05-27 12:46:15
+date: 2024-05-31T05:25:55.020Z
+updated: 2024-06-01T05:25:55.020Z
 tags: 
   - screen-recording
   - ai video
@@ -222,4 +222,5 @@ With the above 5 ways, the finest video game, Minecraft, has now the accessibili
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

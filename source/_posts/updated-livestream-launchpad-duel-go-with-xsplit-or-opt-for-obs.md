@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Livestream Launchpad Duel  Go with XSplit or Opt for OBS?\""
-date: 2024-05-26 13:37:29
-updated: 2024-05-28 11:48:16
+date: 2024-05-31T05:26:00.558Z
+updated: 2024-06-01T05:26:00.558Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

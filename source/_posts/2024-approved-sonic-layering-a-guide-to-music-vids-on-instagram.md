@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sonic Layering  A Guide to Music Vids on Instagram\""
-date: 2024-05-30 12:45:19
-updated: 2024-05-31 12:38:22
+date: 2024-05-31T05:26:15.250Z
+updated: 2024-06-01T05:26:15.250Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ If you want to create a video with all the bells and whistles, you're better off
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

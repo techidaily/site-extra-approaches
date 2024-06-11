@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sculpting Soft Amplitude in FL Studio Tracks\""
-date: 2024-05-27 12:20:47
-updated: 2024-05-30 12:54:31
+date: 2024-05-31T05:28:35.151Z
+updated: 2024-06-01T05:28:35.151Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Master Class on VSCO Camera & Lens for Creative Use"
-date: 2024-05-25 12:54:35
-updated: 2024-05-28 12:21:44
+date: 2024-05-31T05:29:15.398Z
+updated: 2024-06-01T05:29:15.398Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ People rely on photo editors to generate captivating results and describe the em
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

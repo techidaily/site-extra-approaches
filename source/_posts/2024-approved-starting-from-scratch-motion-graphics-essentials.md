@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Starting From Scratch  Motion Graphics Essentials\""
-date: 2024-05-29 21:11:30
-updated: 2024-05-31 10:27:39
+date: 2024-05-31T05:27:42.598Z
+updated: 2024-06-01T05:27:42.598Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

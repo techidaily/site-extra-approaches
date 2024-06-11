@@ -1,7 +1,7 @@
 ---
 title: "\"Seamless Scenes  Crafting Smooth Transitions Using Kinemaster for 2024\""
-date: 2024-05-28 12:31:27
-updated: 2024-05-30 12:25:42
+date: 2024-05-31T05:30:51.366Z
+updated: 2024-06-01T05:30:51.366Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

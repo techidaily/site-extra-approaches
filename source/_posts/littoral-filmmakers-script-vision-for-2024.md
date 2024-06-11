@@ -1,7 +1,7 @@
 ---
 title: "Littoral Filmmaker's Script Vision for 2024"
-date: 2024-05-26 14:31:54
-updated: 2024-05-28 11:37:50
+date: 2024-05-31T05:29:02.533Z
+updated: 2024-06-01T05:29:02.533Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

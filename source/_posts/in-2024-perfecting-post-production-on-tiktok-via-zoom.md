@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting Post-Production on TikTok via Zoom\""
-date: 2024-05-27 17:46:37
-updated: 2024-05-29 10:15:36
+date: 2024-05-31T05:26:28.130Z
+updated: 2024-06-01T05:26:28.130Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ TikTok has become more than just a social media platform and these days almost e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

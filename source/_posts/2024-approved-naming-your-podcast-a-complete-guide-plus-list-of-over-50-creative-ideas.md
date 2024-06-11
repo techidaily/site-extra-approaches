@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Naming Your Podcast  A Complete Guide + List of Over 50 Creative Ideas\""
-date: 2024-05-28 12:27:48
-updated: 2024-05-29 10:10:27
+date: 2024-05-31T05:28:34.224Z
+updated: 2024-06-01T05:28:34.224Z
 tags: 
   - screen-recording
   - ai video
@@ -182,4 +182,5 @@ In addition to that, keep in mind that recording quality podcast is essential. S
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

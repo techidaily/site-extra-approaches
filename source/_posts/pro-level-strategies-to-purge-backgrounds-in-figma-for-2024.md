@@ -1,7 +1,7 @@
 ---
 title: "\"Pro-Level Strategies to Purge Backgrounds in Figma for 2024\""
-date: 2024-05-29 15:12:24
-updated: 2024-05-30 10:15:34
+date: 2024-05-31T05:27:58.032Z
+updated: 2024-06-01T05:27:58.032Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

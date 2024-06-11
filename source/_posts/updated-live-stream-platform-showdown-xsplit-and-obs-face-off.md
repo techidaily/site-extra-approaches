@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Live Stream Platform Showdown  XSplit & OBS Face-Off\""
-date: 2024-05-27 16:30:44
-updated: 2024-05-28 12:46:24
+date: 2024-05-31T05:28:33.225Z
+updated: 2024-06-01T05:28:33.225Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Shaping Narratives Through Text Effects"
-date: 2024-05-29 17:19:51
-updated: 2024-05-30 12:31:34
+date: 2024-05-31T05:27:11.793Z
+updated: 2024-06-01T05:27:11.793Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ Motion title is a dynamic text effect template available in After Effects throug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

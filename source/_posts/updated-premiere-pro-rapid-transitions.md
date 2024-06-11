@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premiere Pro Rapid Transitions"
-date: 2024-05-28 13:59:31
-updated: 2024-05-30 11:19:30
+date: 2024-05-31T05:27:03.419Z
+updated: 2024-06-01T05:27:03.419Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ All these details will help you get some clarity to understand the best way to f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

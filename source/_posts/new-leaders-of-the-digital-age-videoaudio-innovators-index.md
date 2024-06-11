@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leaders of the Digital Age  Video/Audio Innovators Index\""
-date: 2024-05-27 22:43:37
-updated: 2024-05-28 12:54:25
+date: 2024-05-31T05:28:58.621Z
+updated: 2024-06-01T05:28:58.621Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ Thus, you had an interesting discussion on the best online audio to video maker 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quintessential 14 Text Motion Design Examples\""
-date: 2024-05-28 18:32:26
-updated: 2024-05-30 10:47:36
+date: 2024-05-31T05:28:52.051Z
+updated: 2024-06-01T05:28:52.051Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

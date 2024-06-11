@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of 4K Videography with Prime Optics\""
-date: 2024-05-26 11:47:15
-updated: 2024-05-28 10:11:10
+date: 2024-05-31T05:29:10.253Z
+updated: 2024-06-01T05:29:10.253Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Short-Form Script Template for 2024\""
-date: 2024-05-30 11:58:12
-updated: 2024-05-31 10:25:13
+date: 2024-05-31T05:29:57.187Z
+updated: 2024-06-01T05:29:57.187Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

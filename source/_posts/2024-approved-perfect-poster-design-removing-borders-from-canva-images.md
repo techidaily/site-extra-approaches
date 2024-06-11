@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Poster Design  Removing Borders From Canva Images\""
-date: 2024-05-27 21:17:48
-updated: 2024-05-29 12:58:20
+date: 2024-05-31T05:28:08.510Z
+updated: 2024-06-01T05:28:08.510Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Film Grading  A Deep Dive Into CG Central's Look-Up Tables for 2024\""
-date: 2024-05-27 14:30:28
-updated: 2024-05-29 10:16:27
+date: 2024-05-31T05:30:06.555Z
+updated: 2024-06-01T05:30:06.555Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

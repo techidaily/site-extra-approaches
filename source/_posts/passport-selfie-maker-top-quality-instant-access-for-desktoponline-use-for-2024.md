@@ -1,7 +1,7 @@
 ---
 title: "Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use for 2024"
-date: 2024-05-27 12:17:41
-updated: 2024-05-29 12:48:52
+date: 2024-05-31T05:30:24.428Z
+updated: 2024-06-01T05:30:24.428Z
 tags: 
   - screen-recording
   - ai video
@@ -134,4 +134,5 @@ The discussion has revolved around the best passport size photo maker tools in t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

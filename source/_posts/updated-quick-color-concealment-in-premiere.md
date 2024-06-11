@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Color Concealment in Premiere"
-date: 2024-05-28 10:45:42
-updated: 2024-05-30 12:19:16
+date: 2024-05-31T05:29:35.131Z
+updated: 2024-06-01T05:29:35.131Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ All these details will help you get some clarity to understand the best way to f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

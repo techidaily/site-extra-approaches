@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging Health Data in Online Healthcare Ads\""
-date: 2024-05-25 11:46:15
-updated: 2024-05-28 12:37:53
+date: 2024-05-31T05:30:14.828Z
+updated: 2024-06-01T05:30:14.828Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ We hope this blog post was informative and helpful. If you have any questions, f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

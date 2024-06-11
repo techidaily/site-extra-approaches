@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Parrot Bebop 2 Review\""
-date: 2024-05-27 12:43:20
-updated: 2024-05-29 10:25:55
+date: 2024-05-31T05:29:30.619Z
+updated: 2024-06-01T05:29:30.619Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

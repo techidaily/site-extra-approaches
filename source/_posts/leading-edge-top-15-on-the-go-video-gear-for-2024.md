@@ -1,7 +1,7 @@
 ---
 title: "\"Leading Edge  Top 15 On-the-Go Video Gear for 2024\""
-date: 2024-05-25 18:59:53
-updated: 2024-05-28 12:20:12
+date: 2024-05-31T05:28:24.869Z
+updated: 2024-06-01T05:28:24.869Z
 tags: 
   - screen-recording
   - ai video
@@ -866,4 +866,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

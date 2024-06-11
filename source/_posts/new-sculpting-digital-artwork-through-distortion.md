@@ -1,7 +1,7 @@
 ---
 title: "[New] Sculpting Digital Artwork Through Distortion"
-date: 2024-05-28 11:38:50
-updated: 2024-05-30 12:53:59
+date: 2024-05-31T05:26:30.657Z
+updated: 2024-06-01T05:26:30.657Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

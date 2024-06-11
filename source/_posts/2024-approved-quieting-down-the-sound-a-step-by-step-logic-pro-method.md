@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quieting Down the Sound  A Step-by-Step Logic Pro Method\""
-date: 2024-05-29 23:51:30
-updated: 2024-05-30 10:24:13
+date: 2024-05-31T05:26:55.558Z
+updated: 2024-06-01T05:26:55.558Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

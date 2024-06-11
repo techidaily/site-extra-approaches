@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, IPhone HDR Mastery  A Complete Workshop\""
-date: 2024-05-24 22:53:25
-updated: 2024-05-27 11:34:54
+date: 2024-05-31T05:26:20.968Z
+updated: 2024-06-01T05:26:20.968Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

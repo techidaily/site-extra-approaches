@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Stabilization for Mirrorless with Gimbals"
-date: 2024-05-27 10:14:44
-updated: 2024-05-29 11:15:46
+date: 2024-05-31T05:27:23.057Z
+updated: 2024-06-01T05:27:23.057Z
 tags: 
   - screen-recording
   - ai video
@@ -946,4 +946,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

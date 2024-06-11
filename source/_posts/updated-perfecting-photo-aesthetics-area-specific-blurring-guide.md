@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting Photo Aesthetics  Area-Specific Blurring Guide\""
-date: 2024-05-26 14:40:35
-updated: 2024-05-29 11:40:36
+date: 2024-05-31T05:28:11.534Z
+updated: 2024-06-01T05:28:11.534Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

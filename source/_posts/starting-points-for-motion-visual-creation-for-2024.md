@@ -1,7 +1,7 @@
 ---
 title: "Starting Points for Motion Visual Creation for 2024"
-date: 2024-05-30 12:49:24
-updated: 2024-05-31 11:20:52
+date: 2024-05-31T05:30:28.501Z
+updated: 2024-06-01T05:30:28.501Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

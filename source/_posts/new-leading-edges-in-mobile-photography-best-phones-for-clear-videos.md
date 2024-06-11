@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leading Edges in Mobile Photography  Best Phones for Clear Videos\""
-date: 2024-05-25 18:16:54
-updated: 2024-05-28 11:49:27
+date: 2024-05-31T05:26:17.219Z
+updated: 2024-06-01T05:26:17.219Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Since you don't always have a camera to capture smooth videos, having an OIS cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

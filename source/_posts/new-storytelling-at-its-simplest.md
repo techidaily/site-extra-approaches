@@ -1,7 +1,7 @@
 ---
 title: "[New] Storytelling at Its Simplest"
-date: 2024-05-29 15:16:15
-updated: 2024-05-31 10:21:48
+date: 2024-05-31T05:30:58.698Z
+updated: 2024-06-01T05:30:58.698Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Sci-Fi Virtual Voyages  The Most Immersive Movies in the Metaverse Space for 2024\""
-date: 2024-05-28 11:46:46
-updated: 2024-05-30 10:45:40
+date: 2024-05-31T05:28:21.877Z
+updated: 2024-06-01T05:28:21.877Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ The world is heading for a more advanced form of technology that would go beyond
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

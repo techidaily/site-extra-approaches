@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating the Complexities of Health Marketing on FB"
-date: 2024-05-28 10:45:57
-updated: 2024-05-29 10:49:59
+date: 2024-05-31T05:29:52.746Z
+updated: 2024-06-01T05:29:52.746Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ We hope this blog post was informative and helpful. If you have any questions, f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

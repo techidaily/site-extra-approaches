@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reviewing SJ7’s 4K Action Cam - Capturing Life to Perfection\""
-date: 2024-05-27 13:18:34
-updated: 2024-05-30 11:36:56
+date: 2024-05-31T05:31:20.589Z
+updated: 2024-06-01T05:31:20.589Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

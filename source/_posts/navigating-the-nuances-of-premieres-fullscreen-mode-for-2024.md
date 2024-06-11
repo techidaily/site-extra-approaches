@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Nuances of Premiere's Fullscreen Mode for 2024"
-date: 2024-05-28 11:10:40
-updated: 2024-05-29 11:35:13
+date: 2024-05-31T05:30:23.420Z
+updated: 2024-06-01T05:30:23.420Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ In addition, it enables you to collaborate with partners if you are working on a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

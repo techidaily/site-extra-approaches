@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Soundscape and Aesthetics in Windows Photos App\""
-date: 2024-05-26 22:28:52
-updated: 2024-05-27 12:12:34
+date: 2024-05-31T05:30:01.053Z
+updated: 2024-06-01T05:30:01.053Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

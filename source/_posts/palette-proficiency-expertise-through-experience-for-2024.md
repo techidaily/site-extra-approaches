@@ -1,7 +1,7 @@
 ---
 title: "\"Palette Proficiency  Expertise Through Experience for 2024\""
-date: 2024-05-27 18:35:47
-updated: 2024-05-29 12:23:35
+date: 2024-05-31T05:28:02.639Z
+updated: 2024-06-01T05:28:02.639Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Spectrum of Autonomous Flight Machines for 2024"
-date: 2024-05-29 15:49:30
-updated: 2024-05-31 12:42:51
+date: 2024-05-31T05:26:27.069Z
+updated: 2024-06-01T05:26:27.069Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering PIP  MacOS Sierra's Guide to Multimedia Magic for 2024\""
-date: 2024-05-27 13:46:46
-updated: 2024-05-28 12:17:39
+date: 2024-05-31T05:30:00.608Z
+updated: 2024-06-01T05:30:00.608Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

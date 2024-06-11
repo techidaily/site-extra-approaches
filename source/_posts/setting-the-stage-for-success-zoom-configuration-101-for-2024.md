@@ -1,7 +1,7 @@
 ---
 title: "\"Setting the Stage for Success  Zoom Configuration 101 for 2024\""
-date: 2024-05-27 15:44:29
-updated: 2024-05-30 10:14:45
+date: 2024-05-31T05:28:19.482Z
+updated: 2024-06-01T05:28:19.482Z
 tags: 
   - screen-recording
   - ai video
@@ -132,4 +132,5 @@ So there you have some of my favorite tips for boosting the quality of your Zoom
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

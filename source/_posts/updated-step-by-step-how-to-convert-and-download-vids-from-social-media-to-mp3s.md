@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step  How to Convert and Download Vids From Social Media to MP3s\""
-date: 2024-05-29 23:44:42
-updated: 2024-05-31 12:27:58
+date: 2024-05-31T05:29:19.089Z
+updated: 2024-06-01T05:29:19.089Z
 tags: 
   - screen-recording
   - ai video
@@ -468,4 +468,5 @@ You can use the online Pinterest video to mp3 downloader tools across different 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

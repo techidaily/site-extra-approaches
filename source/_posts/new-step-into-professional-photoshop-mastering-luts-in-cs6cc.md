@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step Into Professional Photoshop  Mastering LUTs in CS6/CC\""
-date: 2024-05-30 22:37:25
-updated: 2024-05-31 12:56:38
+date: 2024-05-31T05:28:40.429Z
+updated: 2024-06-01T05:28:40.429Z
 tags: 
   - screen-recording
   - ai video
@@ -582,4 +582,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

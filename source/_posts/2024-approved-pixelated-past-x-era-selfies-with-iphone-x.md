@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pixelated Past  X-Era Selfies with iPhone X\""
-date: 2024-05-26 22:47:33
-updated: 2024-05-29 10:53:22
+date: 2024-05-31T05:25:53.357Z
+updated: 2024-06-01T05:25:53.357Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

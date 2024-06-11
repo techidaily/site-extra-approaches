@@ -1,7 +1,7 @@
 ---
 title: "\"Scriptwriting Mastery  Conveying Emotions Through Words for 2024\""
-date: 2024-05-27 21:47:47
-updated: 2024-05-30 11:21:30
+date: 2024-05-31T05:26:06.802Z
+updated: 2024-06-01T05:26:06.802Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

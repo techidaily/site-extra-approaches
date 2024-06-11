@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating Lens Distortion  A Practical Guide for GoPro Editors for 2024\""
-date: 2024-05-27 12:58:33
-updated: 2024-05-29 11:40:51
+date: 2024-05-31T05:26:44.002Z
+updated: 2024-06-01T05:26:44.002Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

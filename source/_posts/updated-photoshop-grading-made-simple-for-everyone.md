@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photoshop Grading Made Simple for Everyone"
-date: 2024-05-28 18:37:23
-updated: 2024-05-29 12:40:47
+date: 2024-05-31T05:28:45.448Z
+updated: 2024-06-01T05:28:45.448Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

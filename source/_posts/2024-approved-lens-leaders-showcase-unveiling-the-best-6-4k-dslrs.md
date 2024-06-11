@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lens Leaders Showcase  Unveiling the Best 6 4K DSLRs\""
-date: 2024-05-25 22:39:44
-updated: 2024-05-28 11:55:56
+date: 2024-05-31T05:27:30.596Z
+updated: 2024-06-01T05:27:30.596Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

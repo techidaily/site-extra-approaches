@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Jumping From Windows  How to Get to Windows 11?\""
-date: 2024-05-27 15:47:24
-updated: 2024-05-28 10:15:13
+date: 2024-05-31T05:25:57.621Z
+updated: 2024-06-01T05:25:57.621Z
 tags: 
   - screen-recording
   - ai video
@@ -702,4 +702,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

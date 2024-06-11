@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Free Text Animation for Artists"
-date: 2024-05-28 14:58:23
-updated: 2024-05-29 11:14:20
+date: 2024-05-31T05:27:37.777Z
+updated: 2024-06-01T05:27:37.777Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ After all, during the last several years, videos have been one of the most popul
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Speech-to-Text Magic for MS Word Users\""
-date: 2024-05-29 23:13:16
-updated: 2024-05-31 12:24:54
+date: 2024-05-31T05:29:50.883Z
+updated: 2024-06-01T05:29:50.883Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

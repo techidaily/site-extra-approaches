@@ -1,7 +1,7 @@
 ---
 title: "Premier Plugins for Dynamic Type Design in AE for 2024"
-date: 2024-05-26 12:27:48
-updated: 2024-05-29 12:25:26
+date: 2024-05-31T05:28:16.926Z
+updated: 2024-06-01T05:28:16.926Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

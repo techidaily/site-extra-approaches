@@ -1,7 +1,7 @@
 ---
 title: "[New] Smoothing Out Aerial Footage Pulsation"
-date: 2024-05-29 15:43:15
-updated: 2024-05-31 12:10:29
+date: 2024-05-31T05:28:10.567Z
+updated: 2024-06-01T05:28:10.567Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

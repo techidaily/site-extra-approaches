@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photographic Poise  Achieving Dynamic Motion Blur on Facial Elements Through Picsart\""
-date: 2024-05-27 10:22:43
-updated: 2024-05-29 11:55:20
+date: 2024-05-31T05:28:08.862Z
+updated: 2024-06-01T05:28:08.862Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

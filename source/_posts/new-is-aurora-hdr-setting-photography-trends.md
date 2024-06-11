@@ -1,7 +1,7 @@
 ---
 title: "[New] Is Aurora HDR Setting Photography Trends?"
-date: 2024-05-26 22:35:41
-updated: 2024-05-28 12:20:30
+date: 2024-05-31T05:31:16.360Z
+updated: 2024-06-01T05:31:16.360Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ All these software bring forth different aspects of HDR editing, so depending on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

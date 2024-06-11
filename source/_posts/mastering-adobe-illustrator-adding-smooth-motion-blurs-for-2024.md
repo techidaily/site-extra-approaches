@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Adobe Illustrator  Adding Smooth Motion Blurs for 2024\""
-date: 2024-05-25 16:20:16
-updated: 2024-05-28 12:30:27
+date: 2024-05-31T05:31:22.792Z
+updated: 2024-06-01T05:31:22.792Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

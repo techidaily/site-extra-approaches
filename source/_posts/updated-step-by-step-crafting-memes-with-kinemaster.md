@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step  Crafting Memes with KineMaster\""
-date: 2024-05-30 19:33:15
-updated: 2024-05-31 12:38:35
+date: 2024-05-31T05:28:11.637Z
+updated: 2024-06-01T05:28:11.637Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ A subscription is available for KineMaster, a free program with more features. T
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

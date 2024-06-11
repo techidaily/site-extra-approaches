@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Mastery  Windows 11 Media Import Simplified for 2024\""
-date: 2024-05-28 22:16:54
-updated: 2024-05-31 11:34:31
+date: 2024-05-31T05:30:20.395Z
+updated: 2024-06-01T05:30:20.395Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

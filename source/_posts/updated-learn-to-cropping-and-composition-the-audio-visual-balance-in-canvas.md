@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Learn to Cropping & Composition  The Audio-Visual Balance in Canvas\""
-date: 2024-05-27 11:31:19
-updated: 2024-05-28 12:23:33
+date: 2024-05-31T05:31:23.876Z
+updated: 2024-06-01T05:31:23.876Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ All these details will help you understand how to add music on Canva without any
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

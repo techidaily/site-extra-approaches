@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stepwise Guide to Effective Keying with KineMaster's GS\""
-date: 2024-05-29 20:29:51
-updated: 2024-05-31 12:58:35
+date: 2024-05-31T05:28:02.234Z
+updated: 2024-06-01T05:28:02.234Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

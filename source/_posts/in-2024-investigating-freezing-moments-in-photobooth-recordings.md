@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Investigating Freezing Moments in Photobooth Recordings"
-date: 2024-05-25 21:28:57
-updated: 2024-05-27 11:34:46
+date: 2024-05-31T05:29:26.642Z
+updated: 2024-06-01T05:29:26.642Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Mobile Videography - The 10 Best Phones\""
-date: 2024-05-26 18:26:20
-updated: 2024-05-28 12:31:24
+date: 2024-05-31T05:28:07.133Z
+updated: 2024-06-01T05:28:07.133Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

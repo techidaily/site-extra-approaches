@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Rekindling the Classics  Top 80S Video Effects for Cutting-Edge Films\""
-date: 2024-05-29 14:24:32
-updated: 2024-05-30 10:47:24
+date: 2024-05-31T05:27:36.803Z
+updated: 2024-06-01T05:27:36.803Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Photographers Weigh In  The Aurora Verdict\""
-date: 2024-05-26 23:28:48
-updated: 2024-05-29 12:44:22
+date: 2024-05-31T05:31:01.657Z
+updated: 2024-06-01T05:31:01.657Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ All these software bring forth different aspects of HDR editing, so depending on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

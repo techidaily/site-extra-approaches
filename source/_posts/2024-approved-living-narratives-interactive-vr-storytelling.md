@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Living Narratives  Interactive VR Storytelling\""
-date: 2024-05-27 13:26:51
-updated: 2024-05-28 12:31:44
+date: 2024-05-31T05:30:28.676Z
+updated: 2024-06-01T05:30:28.676Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

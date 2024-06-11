@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfecting Ephemeral Fades in Digital Recording Software Audacity"
-date: 2024-05-28 23:56:54
-updated: 2024-05-29 10:23:48
+date: 2024-05-31T05:26:28.338Z
+updated: 2024-06-01T05:26:28.338Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ You may access a variety of tools and services on the platform known as Audacity
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

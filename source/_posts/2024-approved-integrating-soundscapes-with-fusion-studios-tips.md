@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Soundscapes with Fusion Studio's Tips\""
-date: 2024-05-24 16:52:41
-updated: 2024-05-27 12:59:41
+date: 2024-05-31T05:29:38.274Z
+updated: 2024-06-01T05:29:38.274Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

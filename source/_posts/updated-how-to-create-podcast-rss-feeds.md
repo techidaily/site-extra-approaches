@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How To Create Podcast RSS Feeds"
-date: 2024-05-26 21:53:13
-updated: 2024-05-29 10:40:11
+date: 2024-05-31T05:30:29.393Z
+updated: 2024-06-01T05:30:29.393Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ Nevertheless, if you're looking for a reliable program to record and edit high-q
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

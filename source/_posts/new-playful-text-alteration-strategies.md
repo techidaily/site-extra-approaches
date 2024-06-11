@@ -1,7 +1,7 @@
 ---
 title: "[New] Playful Text Alteration Strategies"
-date: 2024-05-27 20:21:42
-updated: 2024-05-29 11:18:48
+date: 2024-05-31T05:31:26.334Z
+updated: 2024-06-01T05:31:26.334Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

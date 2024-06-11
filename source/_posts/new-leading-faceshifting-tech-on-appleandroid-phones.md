@@ -1,7 +1,7 @@
 ---
 title: "[New] Leading Faceshifting Tech on Apple/Android Phones"
-date: 2024-05-27 23:17:13
-updated: 2024-05-28 12:19:16
+date: 2024-05-31T05:29:43.283Z
+updated: 2024-06-01T05:29:43.283Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ No matter how perfectly a picture is captured, post-production and editing has a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

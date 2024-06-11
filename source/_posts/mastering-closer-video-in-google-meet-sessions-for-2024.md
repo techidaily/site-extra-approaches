@@ -1,7 +1,7 @@
 ---
 title: "Mastering Closer Video in Google Meet Sessions for 2024"
-date: 2024-05-25 11:23:23
-updated: 2024-05-28 10:50:18
+date: 2024-05-31T05:26:54.211Z
+updated: 2024-06-01T05:26:54.211Z
 tags: 
   - screen-recording
   - ai video
@@ -95,4 +95,5 @@ You may show additional information on your Google Meet by zooming in and out. O
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

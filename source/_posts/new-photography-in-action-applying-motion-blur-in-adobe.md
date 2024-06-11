@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photography in Action  Applying Motion Blur in Adobe\""
-date: 2024-05-28 14:20:23
-updated: 2024-05-29 12:57:43
+date: 2024-05-31T05:29:17.069Z
+updated: 2024-06-01T05:29:17.069Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

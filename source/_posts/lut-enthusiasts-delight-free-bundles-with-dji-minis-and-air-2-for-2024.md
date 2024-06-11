@@ -1,7 +1,7 @@
 ---
 title: "LUT Enthusiasts' Delight – Free Bundles with DJI Minis & Air 2 for 2024"
-date: 2024-05-26 14:40:47
-updated: 2024-05-28 10:57:12
+date: 2024-05-31T05:30:15.876Z
+updated: 2024-06-01T05:30:15.876Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

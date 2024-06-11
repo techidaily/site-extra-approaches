@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Quantum HDR Principles\""
-date: 2024-05-25 19:17:46
-updated: 2024-05-28 10:22:45
+date: 2024-05-31T05:30:58.118Z
+updated: 2024-06-01T05:30:58.119Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Seamless Audio Transition - Crossfade Explained\""
-date: 2024-05-27 13:57:32
-updated: 2024-05-30 11:57:36
+date: 2024-05-31T05:26:51.947Z
+updated: 2024-06-01T05:26:51.947Z
 tags: 
   - screen-recording
   - ai video
@@ -199,4 +199,5 @@ In a nutshell, we can suggest Wondershare Filmora as a fantastic video editing p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

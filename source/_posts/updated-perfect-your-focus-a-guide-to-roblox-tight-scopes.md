@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfect Your Focus  A Guide to Roblox Tight Scopes\""
-date: 2024-05-27 10:28:38
-updated: 2024-05-29 11:44:28
+date: 2024-05-31T05:28:34.889Z
+updated: 2024-06-01T05:28:34.889Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ You may wish to change your viewpoint when playing games on Roblox, the most cut
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

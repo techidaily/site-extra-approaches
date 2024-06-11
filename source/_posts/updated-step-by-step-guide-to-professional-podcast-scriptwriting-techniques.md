@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Professional Podcast Scriptwriting Techniques\""
-date: 2024-05-30 12:51:17
-updated: 2024-05-31 11:53:19
+date: 2024-05-31T05:26:38.284Z
+updated: 2024-06-01T05:26:38.284Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

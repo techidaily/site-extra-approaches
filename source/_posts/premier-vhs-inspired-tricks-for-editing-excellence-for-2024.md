@@ -1,7 +1,7 @@
 ---
 title: "\"Premier VHS-Inspired Tricks for Editing Excellence for 2024\""
-date: 2024-05-29 19:14:24
-updated: 2024-05-30 12:29:17
+date: 2024-05-31T05:27:38.402Z
+updated: 2024-06-01T05:27:38.402Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

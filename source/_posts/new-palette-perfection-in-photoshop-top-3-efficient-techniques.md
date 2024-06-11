@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Palette Perfection in Photoshop  Top 3 Efficient Techniques\""
-date: 2024-05-26 22:14:34
-updated: 2024-05-29 11:55:37
+date: 2024-05-31T05:27:04.018Z
+updated: 2024-06-01T05:27:04.018Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

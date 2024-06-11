@@ -1,7 +1,7 @@
 ---
 title: "\"Metaverse vs Multiverse  What's the Difference for 2024\""
-date: 2024-05-27 17:59:11
-updated: 2024-05-28 11:41:45
+date: 2024-05-31T05:25:54.315Z
+updated: 2024-06-01T05:25:54.315Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Hope lies in the fact that the formation of the Metaverse vs. Multiverse discour
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

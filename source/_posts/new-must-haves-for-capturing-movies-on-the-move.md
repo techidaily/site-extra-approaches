@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Must-Haves for Capturing Movies on the Move\""
-date: 2024-05-28 21:55:18
-updated: 2024-05-29 10:25:51
+date: 2024-05-31T05:28:32.138Z
+updated: 2024-06-01T05:28:32.138Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

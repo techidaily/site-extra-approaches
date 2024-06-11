@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  SRT Decoded  Core Concepts Simplified and Explained\""
-date: 2024-05-30 10:10:45
-updated: 2024-05-31 10:34:14
+date: 2024-05-31T05:26:53.279Z
+updated: 2024-06-01T05:26:53.279Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ That being said, if you plan on using SRT for your videos you can employ the sim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

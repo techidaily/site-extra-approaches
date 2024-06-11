@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Revamping Videography  The Story of Nikon 1J5’s 4K Achievement\""
-date: 2024-05-28 18:34:53
-updated: 2024-05-30 11:32:19
+date: 2024-05-31T05:30:32.739Z
+updated: 2024-06-01T05:30:32.739Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

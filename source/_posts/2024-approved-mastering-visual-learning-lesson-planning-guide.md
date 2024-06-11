@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Visual Learning  Lesson Planning Guide\""
-date: 2024-05-27 21:22:20
-updated: 2024-05-28 11:37:30
+date: 2024-05-31T05:29:44.522Z
+updated: 2024-06-01T05:29:44.522Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

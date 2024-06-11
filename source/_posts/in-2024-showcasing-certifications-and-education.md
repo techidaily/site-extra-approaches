@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Showcasing Certifications & Education"
-date: 2024-05-28 16:50:38
-updated: 2024-05-31 12:26:26
+date: 2024-05-31T05:28:52.181Z
+updated: 2024-06-01T05:28:52.181Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

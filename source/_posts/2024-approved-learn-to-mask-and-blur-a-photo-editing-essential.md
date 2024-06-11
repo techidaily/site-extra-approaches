@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learn to Mask & Blur  A Photo Editing Essential\""
-date: 2024-05-26 22:29:48
-updated: 2024-05-28 12:55:56
+date: 2024-05-31T05:31:05.434Z
+updated: 2024-06-01T05:31:05.434Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

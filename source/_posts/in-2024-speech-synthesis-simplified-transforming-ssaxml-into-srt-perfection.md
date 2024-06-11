@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Speech Synthesis Simplified  Transforming SSA/XML Into SRT Perfection\""
-date: 2024-05-30 20:35:35
-updated: 2024-05-31 10:14:36
+date: 2024-05-31T05:26:43.939Z
+updated: 2024-06-01T05:26:43.939Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

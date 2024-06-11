@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Palette Perfection in 11 Step-by-Step Lessons\""
-date: 2024-05-27 16:26:23
-updated: 2024-05-29 11:14:34
+date: 2024-05-31T05:30:16.050Z
+updated: 2024-06-01T05:30:16.050Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

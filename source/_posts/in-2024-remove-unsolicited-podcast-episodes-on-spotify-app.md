@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Remove Unsolicited Podcast Episodes on Spotify App"
-date: 2024-05-28 19:12:13
-updated: 2024-05-30 10:42:32
+date: 2024-05-31T05:30:12.672Z
+updated: 2024-06-01T05:30:12.672Z
 tags: 
   - screen-recording
   - ai video
@@ -130,4 +130,5 @@ So, now you know **how to remove a podcast from your shows on Spotify**. Whether
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

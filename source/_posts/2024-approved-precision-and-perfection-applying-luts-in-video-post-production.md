@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Precision and Perfection  Applying LUTs in Video Post-Production\""
-date: 2024-05-28 15:47:47
-updated: 2024-05-29 10:50:22
+date: 2024-05-31T05:27:07.481Z
+updated: 2024-06-01T05:27:07.481Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

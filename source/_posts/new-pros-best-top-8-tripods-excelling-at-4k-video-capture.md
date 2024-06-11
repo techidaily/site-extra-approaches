@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro's Best  Top 8 Tripods Excelling at 4K Video Capture\""
-date: 2024-05-28 10:14:48
-updated: 2024-05-30 10:18:30
+date: 2024-05-31T05:31:02.606Z
+updated: 2024-06-01T05:31:02.606Z
 tags: 
   - screen-recording
   - ai video
@@ -894,4 +894,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

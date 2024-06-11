@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  10 Photography Composition Rules for iPhone\""
-date: 2024-05-27 16:20:44
-updated: 2024-05-29 12:49:43
+date: 2024-05-31T05:31:03.743Z
+updated: 2024-06-01T05:31:03.743Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

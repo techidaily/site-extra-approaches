@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering 3D Text in Adobe Photoshop"
-date: 2024-05-27 14:50:42
-updated: 2024-05-28 12:20:10
+date: 2024-05-31T05:31:22.930Z
+updated: 2024-06-01T05:31:22.930Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

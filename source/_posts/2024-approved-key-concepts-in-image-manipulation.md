@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Key Concepts in Image Manipulation\""
-date: 2024-05-27 15:54:31
-updated: 2024-05-28 10:35:38
+date: 2024-05-31T05:27:12.278Z
+updated: 2024-06-01T05:27:12.278Z
 tags: 
   - screen-recording
   - ai video
@@ -152,4 +152,5 @@ These PSD Text effect files are available for free download, and they're also a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

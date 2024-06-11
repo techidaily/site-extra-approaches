@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inshot Video Magic  Mastering Segment Shifts\""
-date: 2024-05-25 15:53:48
-updated: 2024-05-27 12:24:37
+date: 2024-05-31T05:31:02.148Z
+updated: 2024-06-01T05:31:02.148Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

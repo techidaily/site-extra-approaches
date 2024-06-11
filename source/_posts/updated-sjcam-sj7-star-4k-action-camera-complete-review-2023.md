@@ -1,7 +1,7 @@
 ---
 title: "[Updated] SJCam SJ7 Star 4K Action Camera Complete Review 2023"
-date: 2024-05-29 11:10:52
-updated: 2024-05-31 10:47:41
+date: 2024-05-31T05:28:59.008Z
+updated: 2024-06-01T05:28:59.008Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Overview of Various Cameras Used in Film & TV\""
-date: 2024-05-27 20:58:51
-updated: 2024-05-29 11:14:54
+date: 2024-05-31T05:28:45.623Z
+updated: 2024-06-01T05:28:45.623Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Pro Video Excellence with iPhone  Learn 8 Crucial Techniques Today for 2024\""
-date: 2024-05-28 19:19:28
-updated: 2024-05-30 12:31:51
+date: 2024-05-31T05:30:45.530Z
+updated: 2024-06-01T05:30:45.530Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

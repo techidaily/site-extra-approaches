@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Spark's Endgame  DJI Mavic Air Challenges Its Successor\""
-date: 2024-05-28 20:34:47
-updated: 2024-05-31 11:21:55
+date: 2024-05-31T05:26:54.511Z
+updated: 2024-06-01T05:26:54.511Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

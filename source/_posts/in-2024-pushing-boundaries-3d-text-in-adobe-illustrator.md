@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pushing Boundaries  3D Text in Adobe Illustrator\""
-date: 2024-05-29 19:52:23
-updated: 2024-05-30 11:34:59
+date: 2024-05-31T05:28:11.083Z
+updated: 2024-06-01T05:28:11.083Z
 tags: 
   - screen-recording
   - ai video
@@ -144,4 +144,5 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

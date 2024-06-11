@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Instant Window Photo Viewer"
-date: 2024-05-29 21:30:34
-updated: 2024-05-30 11:35:29
+date: 2024-05-31T05:26:44.136Z
+updated: 2024-06-01T05:26:44.136Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Why Does My Photo Booth Videos Keep Freezing?\""
-date: 2024-05-26 17:27:52
-updated: 2024-05-29 10:13:29
+date: 2024-05-31T05:28:44.824Z
+updated: 2024-06-01T05:28:44.824Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

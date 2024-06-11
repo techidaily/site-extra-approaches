@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro Video Cinematography  Choosing the Right Lenses\""
-date: 2024-05-28 18:15:28
-updated: 2024-05-30 11:11:54
+date: 2024-05-31T05:27:21.916Z
+updated: 2024-06-01T05:27:21.916Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

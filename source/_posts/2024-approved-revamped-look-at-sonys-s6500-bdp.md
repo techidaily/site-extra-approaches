@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revamped Look at Sony's S6500 BDP\""
-date: 2024-05-29 22:14:34
-updated: 2024-05-30 12:56:49
+date: 2024-05-31T05:27:00.448Z
+updated: 2024-06-01T05:27:00.448Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

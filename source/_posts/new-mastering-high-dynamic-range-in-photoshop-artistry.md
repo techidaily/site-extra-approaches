@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering High Dynamic Range in Photoshop Artistry"
-date: 2024-05-27 12:27:39
-updated: 2024-05-28 12:18:53
+date: 2024-05-31T05:31:15.522Z
+updated: 2024-06-01T05:31:15.522Z
 tags: 
   - screen-recording
   - ai video
@@ -455,4 +455,5 @@ We've also explained the different key features of Photoshop, and if perhaps you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

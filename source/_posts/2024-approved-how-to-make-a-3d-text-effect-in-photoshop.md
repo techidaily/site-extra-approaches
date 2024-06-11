@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Make a 3D Text Effect in Photoshop\""
-date: 2024-05-26 21:55:20
-updated: 2024-05-28 11:22:16
+date: 2024-05-31T05:29:50.896Z
+updated: 2024-06-01T05:29:50.896Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

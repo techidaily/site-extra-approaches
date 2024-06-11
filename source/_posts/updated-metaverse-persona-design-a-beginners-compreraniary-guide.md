@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Metaverse Persona Design  A Beginner's Compreraniary Guide\""
-date: 2024-05-25 14:16:39
-updated: 2024-05-28 12:25:51
+date: 2024-05-31T05:27:20.178Z
+updated: 2024-06-01T05:27:20.178Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ After this technological evolution took the internet on a storm, we often hear t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Luminaries Crafting Spectaculous VR Journeys for 2024"
-date: 2024-05-26 10:47:28
-updated: 2024-05-28 12:50:56
+date: 2024-05-31T05:28:41.874Z
+updated: 2024-06-01T05:28:41.874Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

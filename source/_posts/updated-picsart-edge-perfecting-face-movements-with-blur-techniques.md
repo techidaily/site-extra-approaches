@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Picsart Edge  Perfecting Face Movements with Blur Techniques\""
-date: 2024-05-28 13:32:54
-updated: 2024-05-29 12:12:53
+date: 2024-05-31T05:31:03.624Z
+updated: 2024-06-01T05:31:03.624Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

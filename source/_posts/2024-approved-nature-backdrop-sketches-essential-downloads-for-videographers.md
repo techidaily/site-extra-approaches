@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nature Backdrop Sketches  Essential Downloads for Videographers\""
-date: 2024-05-26 13:33:42
-updated: 2024-05-29 11:19:31
+date: 2024-05-31T05:30:40.151Z
+updated: 2024-06-01T05:30:40.151Z
 tags: 
   - screen-recording
   - ai video
@@ -192,4 +192,5 @@ Using a green screen template for your project outweighs other processes. Howeve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering YouTube Captions  3 Effective Methods to Download SRT Files\""
-date: 2024-05-26 13:26:24
-updated: 2024-05-28 12:21:11
+date: 2024-05-31T05:28:08.807Z
+updated: 2024-06-01T05:28:08.807Z
 tags: 
   - screen-recording
   - ai video
@@ -368,4 +368,5 @@ So, we hope we are able to clear all your queries related to downloading and ext
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Invigorate Snaps  Implement Inner Blur Spread in CS\""
-date: 2024-05-25 15:16:55
-updated: 2024-05-27 10:40:44
+date: 2024-05-31T05:30:14.623Z
+updated: 2024-06-01T05:30:14.623Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

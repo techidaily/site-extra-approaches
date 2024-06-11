@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Hue Shifts  A Guide to Efficient Photoshop Corrections\""
-date: 2024-05-26 20:14:50
-updated: 2024-05-28 11:20:15
+date: 2024-05-31T05:29:44.509Z
+updated: 2024-06-01T05:29:44.509Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

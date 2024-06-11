@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reviewing Ingenuity  Moto Z2's Intelligent Evolution\""
-date: 2024-05-27 14:42:42
-updated: 2024-05-30 12:33:44
+date: 2024-05-31T05:30:29.180Z
+updated: 2024-06-01T05:30:29.180Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

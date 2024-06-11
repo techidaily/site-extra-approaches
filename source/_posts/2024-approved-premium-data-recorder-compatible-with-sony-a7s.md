@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premium Data Recorder Compatible with Sony A7S\""
-date: 2024-05-27 14:38:13
-updated: 2024-05-30 11:41:58
+date: 2024-05-31T05:25:58.258Z
+updated: 2024-06-01T05:25:58.258Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

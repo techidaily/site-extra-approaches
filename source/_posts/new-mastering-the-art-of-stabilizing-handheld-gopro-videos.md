@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of Stabilizing Handheld GoPro Videos"
-date: 2024-05-25 18:12:55
-updated: 2024-05-28 11:30:57
+date: 2024-05-31T05:27:45.264Z
+updated: 2024-06-01T05:27:45.264Z
 tags: 
   - screen-recording
   - ai video
@@ -538,4 +538,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering XML & TTML Conversion to SRT"
-date: 2024-05-26 13:25:49
-updated: 2024-05-28 12:26:32
+date: 2024-05-31T05:28:00.231Z
+updated: 2024-06-01T05:28:00.231Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

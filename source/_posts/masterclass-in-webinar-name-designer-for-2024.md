@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in Webinar Name Designer for 2024"
-date: 2024-05-27 20:44:38
-updated: 2024-05-28 10:20:46
+date: 2024-05-31T05:31:15.455Z
+updated: 2024-06-01T05:31:15.455Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Are you having trouble coming up with a title for your most recent webinar? Ther
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

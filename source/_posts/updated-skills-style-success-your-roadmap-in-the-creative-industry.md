@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Skills, Style, Success  Your Roadmap in the Creative Industry\""
-date: 2024-05-29 12:31:58
-updated: 2024-05-31 10:15:24
+date: 2024-05-31T05:26:06.226Z
+updated: 2024-06-01T05:26:06.226Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

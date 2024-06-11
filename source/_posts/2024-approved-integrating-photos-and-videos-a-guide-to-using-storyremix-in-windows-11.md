@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Photos & Videos  A Guide to Using StoryRemix in Windows 11\""
-date: 2024-05-25 19:16:12
-updated: 2024-05-27 12:42:22
+date: 2024-05-31T05:30:59.684Z
+updated: 2024-06-01T05:30:59.684Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

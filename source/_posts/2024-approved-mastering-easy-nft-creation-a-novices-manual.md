@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Easy NFT Creation  A Novice's Manual\""
-date: 2024-05-27 12:23:24
-updated: 2024-05-28 12:54:36
+date: 2024-05-31T05:30:40.121Z
+updated: 2024-06-01T05:30:40.121Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Finally, we would like to conclude the queries about the NFT marketplace. Indeed
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Video Cuts  The Essential Guide for Windows 11 Users for 2024\""
-date: 2024-05-27 20:35:26
-updated: 2024-05-28 12:24:59
+date: 2024-05-31T05:30:28.132Z
+updated: 2024-06-01T05:30:28.132Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Penning Perfectly Captivating Podcast Descriptions"
-date: 2024-05-28 17:59:12
-updated: 2024-05-29 10:53:31
+date: 2024-05-31T05:29:08.472Z
+updated: 2024-06-01T05:29:08.472Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

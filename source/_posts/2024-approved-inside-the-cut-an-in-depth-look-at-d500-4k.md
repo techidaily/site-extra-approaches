@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside the Cut  An In-Depth Look at D500 4K\""
-date: 2024-05-24 15:51:15
-updated: 2024-05-27 12:24:43
+date: 2024-05-31T05:27:35.418Z
+updated: 2024-06-01T05:27:35.418Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

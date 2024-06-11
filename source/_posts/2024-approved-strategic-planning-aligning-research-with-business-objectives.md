@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Strategic Planning  Aligning Research with Business Objectives\""
-date: 2024-05-29 23:26:36
-updated: 2024-05-31 12:54:12
+date: 2024-05-31T05:27:51.978Z
+updated: 2024-06-01T05:27:51.978Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

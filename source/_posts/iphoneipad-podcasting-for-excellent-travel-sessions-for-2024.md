@@ -1,7 +1,7 @@
 ---
 title: "IPhone/iPad Podcasting for Excellent Travel Sessions for 2024"
-date: 2024-05-27 16:37:55
-updated: 2024-05-28 10:16:51
+date: 2024-05-31T05:28:40.237Z
+updated: 2024-06-01T05:28:40.237Z
 tags: 
   - screen-recording
   - ai video
@@ -404,4 +404,5 @@ All the equipment mentioned above is available at Amazon, and you should grab th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

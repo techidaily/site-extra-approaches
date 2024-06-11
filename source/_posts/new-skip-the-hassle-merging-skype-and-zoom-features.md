@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Skip the Hassle  Merging Skype & Zoom Features\""
-date: 2024-05-29 12:50:33
-updated: 2024-05-31 10:43:15
+date: 2024-05-31T05:27:22.352Z
+updated: 2024-06-01T05:27:22.352Z
 tags: 
   - screen-recording
   - ai video
@@ -102,4 +102,5 @@ As Microsoft has concentrated on enhancing Microsoft Teams for business users an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

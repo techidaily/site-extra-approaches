@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering iPhone Macro Photography  Detailed Images at Your Fingertips for 2024\""
-date: 2024-05-27 20:54:51
-updated: 2024-05-28 12:27:27
+date: 2024-05-31T05:27:56.231Z
+updated: 2024-06-01T05:27:56.231Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

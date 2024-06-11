@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Newbie’s Manual to Vector Art  Grasping Different Kinds & Software\""
-date: 2024-05-26 23:49:40
-updated: 2024-05-29 11:58:38
+date: 2024-05-31T05:27:58.644Z
+updated: 2024-06-01T05:27:58.644Z
 tags: 
   - screen-recording
   - ai video
@@ -544,4 +544,5 @@ Indeed, vector images are beneficial for creating graphic designs like logos and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

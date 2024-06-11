@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Haul Vids  Creation & Editing Basics\""
-date: 2024-05-26 10:53:49
-updated: 2024-05-28 11:26:43
+date: 2024-05-31T05:26:44.346Z
+updated: 2024-06-01T05:26:44.346Z
 tags: 
   - screen-recording
   - ai video
@@ -184,4 +184,5 @@ And if you're looking for a simple but powerful video editor for Personal Comput
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

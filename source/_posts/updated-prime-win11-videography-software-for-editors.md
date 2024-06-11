@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prime Win11 Videography Software for Editors"
-date: 2024-05-27 14:56:44
-updated: 2024-05-30 12:35:48
+date: 2024-05-31T05:29:57.782Z
+updated: 2024-06-01T05:29:57.782Z
 tags: 
   - screen-recording
   - ai video
@@ -1686,4 +1686,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

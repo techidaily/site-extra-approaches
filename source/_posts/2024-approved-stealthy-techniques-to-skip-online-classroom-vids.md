@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stealthy Techniques to Skip Online Classroom Vids\""
-date: 2024-05-29 11:19:56
-updated: 2024-05-31 12:25:26
+date: 2024-05-31T05:27:00.464Z
+updated: 2024-06-01T05:27:00.464Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Edgenuity is a great learning program. Not having a skip button makes it, so stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Visuals  How to Remove Images' Edges in Canva\""
-date: 2024-05-28 13:48:10
-updated: 2024-05-29 11:47:12
+date: 2024-05-31T05:25:59.970Z
+updated: 2024-06-01T05:25:59.970Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

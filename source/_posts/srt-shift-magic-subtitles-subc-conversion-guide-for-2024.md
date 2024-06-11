@@ -1,7 +1,7 @@
 ---
 title: "\"SRT Shift Magic  Subtitles (SUBC) Conversion Guide for 2024\""
-date: 2024-05-29 12:55:33
-updated: 2024-05-31 11:39:38
+date: 2024-05-31T05:31:13.325Z
+updated: 2024-06-01T05:31:13.325Z
 tags: 
   - screen-recording
   - ai video
@@ -543,4 +543,5 @@ If you are facing issues opening and playing SRT subtitle files on your device, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

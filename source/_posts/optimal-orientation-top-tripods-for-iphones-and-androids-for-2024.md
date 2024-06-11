@@ -1,7 +1,7 @@
 ---
 title: "\"Optimal Orientation  Top Tripods for iPhones & Androids for 2024\""
-date: 2024-05-28 11:34:51
-updated: 2024-05-29 11:59:46
+date: 2024-05-31T05:29:50.731Z
+updated: 2024-06-01T05:29:50.731Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

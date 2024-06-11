@@ -1,7 +1,7 @@
 ---
 title: "Professional Tips for Erasing Borders in Canva Graphics for 2024"
-date: 2024-05-28 17:55:45
-updated: 2024-05-30 11:22:58
+date: 2024-05-31T05:26:22.274Z
+updated: 2024-06-01T05:26:22.274Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

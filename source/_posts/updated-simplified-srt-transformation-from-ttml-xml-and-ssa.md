@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplified SRT Transformation From TTML, XML & SSA"
-date: 2024-05-29 10:12:16
-updated: 2024-05-31 10:45:29
+date: 2024-05-31T05:29:55.715Z
+updated: 2024-06-01T05:29:55.715Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Multimedia Production  A Guide to Editing Videos on Windows 10\""
-date: 2024-05-25 15:45:40
-updated: 2024-05-28 12:26:44
+date: 2024-05-31T05:29:16.187Z
+updated: 2024-06-01T05:29:16.187Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

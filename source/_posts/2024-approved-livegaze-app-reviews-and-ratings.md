@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  LiveGaze App Reviews & Ratings\""
-date: 2024-05-27 10:35:27
-updated: 2024-05-28 11:36:21
+date: 2024-05-31T05:27:44.087Z
+updated: 2024-06-01T05:27:44.087Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ Hopefully, you find this guide helpful and can now create fantastic videos using
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

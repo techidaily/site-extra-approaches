@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quickening PPT Tempo  A Guide to Faster Slides\""
-date: 2024-05-29 14:35:46
-updated: 2024-05-30 11:59:58
+date: 2024-05-31T05:29:02.773Z
+updated: 2024-06-01T05:29:02.773Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Some most common reasons for this issue include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Play SRT on PC/OS X"
-date: 2024-05-26 22:19:14
-updated: 2024-05-29 12:58:54
+date: 2024-05-31T05:30:02.869Z
+updated: 2024-06-01T05:30:02.869Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ The above listed are several ways by which an SRT subtitle file can be opened on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  M1-Powered MacBook Air  A New Era for Editors?\""
-date: 2024-05-27 13:23:26
-updated: 2024-05-28 11:50:22
+date: 2024-05-31T05:31:11.085Z
+updated: 2024-06-01T05:31:11.085Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

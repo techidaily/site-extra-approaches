@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Image Text Overlay Online\""
-date: 2024-05-30 22:55:31
-updated: 2024-05-31 10:39:24
+date: 2024-05-31T05:27:31.904Z
+updated: 2024-06-01T05:27:31.904Z
 tags: 
   - screen-recording
   - ai video
@@ -470,4 +470,5 @@ The best illustration of images is not possible without adding typography to the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Screenplay Foundations  A Guide\""
-date: 2024-05-28 23:47:52
-updated: 2024-05-30 12:38:43
+date: 2024-05-31T05:26:51.334Z
+updated: 2024-06-01T05:26:51.334Z
 tags: 
   - screen-recording
   - ai video
@@ -183,4 +183,5 @@ The article has provided the most information about screenplays and how to write
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

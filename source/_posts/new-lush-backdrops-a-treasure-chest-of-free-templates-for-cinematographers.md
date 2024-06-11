@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Lush Backdrops  A Treasure Chest of Free Templates for Cinematographers\""
-date: 2024-05-26 16:12:22
-updated: 2024-05-28 12:25:30
+date: 2024-05-31T05:29:05.007Z
+updated: 2024-06-01T05:29:05.007Z
 tags: 
   - screen-recording
   - ai video
@@ -192,4 +192,5 @@ Using a green screen template for your project outweighs other processes. Howeve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

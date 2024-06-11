@@ -1,7 +1,7 @@
 ---
 title: "\"Lightroom Guide  Blending High Dynamic Range Magic for 2024\""
-date: 2024-05-25 15:30:17
-updated: 2024-05-28 12:18:16
+date: 2024-05-31T05:25:53.568Z
+updated: 2024-06-01T05:25:53.568Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

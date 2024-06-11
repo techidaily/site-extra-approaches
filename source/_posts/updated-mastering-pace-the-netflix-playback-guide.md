@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Pace  The Netflix Playback Guide\""
-date: 2024-05-26 23:28:20
-updated: 2024-05-28 10:46:15
+date: 2024-05-31T05:29:49.892Z
+updated: 2024-06-01T05:29:49.892Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ Netflix allows you to adjust the playback speed of the video to 0.75x and 0.5x t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

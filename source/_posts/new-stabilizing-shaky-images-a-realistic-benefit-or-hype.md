@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stabilizing Shaky Images  A Realistic Benefit or Hype?\""
-date: 2024-05-30 18:28:51
-updated: 2024-05-31 12:57:53
+date: 2024-05-31T05:29:43.463Z
+updated: 2024-06-01T05:29:43.463Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

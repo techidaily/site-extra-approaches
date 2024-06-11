@@ -1,7 +1,7 @@
 ---
 title: "[New] Instagram Music Copyright Rules"
-date: 2024-05-26 22:26:10
-updated: 2024-05-27 11:16:29
+date: 2024-05-31T05:27:59.405Z
+updated: 2024-06-01T05:27:59.405Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ Hopefully, you’ve found this article helpful and can now understand the dos an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

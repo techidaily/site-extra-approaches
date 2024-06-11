@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading Apps for DJi Video Manipulation and Mixing"
-date: 2024-05-27 22:51:33
-updated: 2024-05-28 12:15:38
+date: 2024-05-31T05:30:51.817Z
+updated: 2024-06-01T05:30:51.817Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] IOS Device Integration with Android Images"
-date: 2024-05-25 22:59:57
-updated: 2024-05-27 12:15:34
+date: 2024-05-31T05:25:58.749Z
+updated: 2024-06-01T05:25:58.749Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

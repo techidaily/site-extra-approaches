@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Next-Gen Titans  Windows 10'S Newest Games and Apps\""
-date: 2024-05-26 14:42:13
-updated: 2024-05-29 10:40:48
+date: 2024-05-31T05:31:16.651Z
+updated: 2024-06-01T05:31:16.651Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lens Legends  Best Video Cameras for Professional Use\""
-date: 2024-05-25 11:16:49
-updated: 2024-05-28 12:44:13
+date: 2024-05-31T05:30:01.829Z
+updated: 2024-06-01T05:30:01.829Z
 tags: 
   - screen-recording
   - ai video
@@ -238,4 +238,5 @@ To sum things up besides the specifications of this camera, we find this one of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

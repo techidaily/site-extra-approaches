@@ -1,7 +1,7 @@
 ---
 title: "Masterful iPhone Images Through Strategic Leading Lines for 2024"
-date: 2024-05-27 17:58:39
-updated: 2024-05-28 10:41:39
+date: 2024-05-31T05:28:23.986Z
+updated: 2024-06-01T05:28:23.986Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

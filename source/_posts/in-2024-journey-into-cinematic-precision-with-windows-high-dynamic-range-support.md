@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Journey Into Cinematic Precision with Windows High-Dynamic Range Support\""
-date: 2024-05-27 10:20:37
-updated: 2024-05-28 11:45:17
+date: 2024-05-31T05:30:53.434Z
+updated: 2024-06-01T05:30:53.434Z
 tags: 
   - screen-recording
   - ai video
@@ -220,4 +220,5 @@ We are sure that with the help of the above content, you will be able to play th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

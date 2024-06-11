@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Premier Online Repositories for Typography"
-date: 2024-05-28 16:46:22
-updated: 2024-05-29 10:38:48
+date: 2024-05-31T05:28:39.319Z
+updated: 2024-06-01T05:28:39.319Z
 tags: 
   - screen-recording
   - ai video
@@ -487,4 +487,5 @@ Hopefully, you've found this article helpful and can now get the proper 3D fonts
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

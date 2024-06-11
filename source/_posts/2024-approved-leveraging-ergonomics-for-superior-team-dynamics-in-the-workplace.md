@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging Ergonomics for Superior Team Dynamics in the Workplace\""
-date: 2024-05-25 20:25:41
-updated: 2024-05-28 12:11:10
+date: 2024-05-31T05:28:49.520Z
+updated: 2024-06-01T05:28:49.520Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

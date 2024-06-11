@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterworks of Screenwriting by Thematic Quarters"
-date: 2024-05-27 11:42:35
-updated: 2024-05-28 12:59:51
+date: 2024-05-31T05:31:11.660Z
+updated: 2024-06-01T05:31:11.660Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ Creating video content that can potentially go viral is no longer a complicated 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

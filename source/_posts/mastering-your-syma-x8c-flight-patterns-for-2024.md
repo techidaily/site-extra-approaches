@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Syma X8C Flight Patterns for 2024"
-date: 2024-05-25 18:36:44
-updated: 2024-05-28 10:46:26
+date: 2024-05-31T05:30:33.915Z
+updated: 2024-06-01T05:30:33.915Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

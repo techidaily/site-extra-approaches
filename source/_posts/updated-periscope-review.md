@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Periscope Review"
-date: 2024-05-27 12:12:39
-updated: 2024-05-29 11:36:21
+date: 2024-05-31T05:29:04.534Z
+updated: 2024-06-01T05:29:04.534Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

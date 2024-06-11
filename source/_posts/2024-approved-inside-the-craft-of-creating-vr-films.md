@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside The Craft of Creating VR Films\""
-date: 2024-05-24 19:26:21
-updated: 2024-05-27 12:52:15
+date: 2024-05-31T05:30:13.997Z
+updated: 2024-06-01T05:30:13.997Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

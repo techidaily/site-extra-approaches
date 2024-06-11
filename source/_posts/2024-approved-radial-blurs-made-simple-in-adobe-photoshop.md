@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Radial Blurs Made Simple in Adobe Photoshop\""
-date: 2024-05-27 18:23:32
-updated: 2024-05-30 10:20:31
+date: 2024-05-31T05:27:01.977Z
+updated: 2024-06-01T05:27:01.977Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

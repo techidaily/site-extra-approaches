@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Realistic Facial Rendering  Implementing Motion Blur in Photo Editing via Picsart\""
-date: 2024-05-28 23:50:26
-updated: 2024-05-30 10:53:50
+date: 2024-05-31T05:26:39.178Z
+updated: 2024-06-01T05:26:39.178Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

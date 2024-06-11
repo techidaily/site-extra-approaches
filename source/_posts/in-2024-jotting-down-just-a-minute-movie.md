@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Jotting Down Just a Minute Movie"
-date: 2024-05-27 16:14:53
-updated: 2024-05-28 12:24:41
+date: 2024-05-31T05:29:50.317Z
+updated: 2024-06-01T05:29:50.317Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

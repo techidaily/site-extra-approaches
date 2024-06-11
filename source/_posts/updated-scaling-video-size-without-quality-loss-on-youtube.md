@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Scaling Video Size Without Quality Loss on YouTube"
-date: 2024-05-28 22:56:19
-updated: 2024-05-30 12:55:46
+date: 2024-05-31T05:28:26.928Z
+updated: 2024-06-01T05:28:26.928Z
 tags: 
   - screen-recording
   - ai video
@@ -142,4 +142,5 @@ There are several ways you can zoom into YouTube videos to check out the desired
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

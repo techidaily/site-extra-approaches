@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Sony Xperia XZ Premium 4K Smartphone Review"
-date: 2024-05-30 22:44:28
-updated: 2024-05-31 12:32:22
+date: 2024-05-31T05:27:22.935Z
+updated: 2024-06-01T05:27:22.935Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

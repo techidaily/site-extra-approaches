@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Guide to Control Video Pace in Instagram\""
-date: 2024-05-29 23:43:41
-updated: 2024-05-31 10:34:28
+date: 2024-05-31T05:30:28.822Z
+updated: 2024-06-01T05:30:28.822Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ We have answered the frequently asked question, "how to do slow motion on Instag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] LightRoom LUT Essentials for Professional Imagery"
-date: 2024-05-27 17:42:12
-updated: 2024-05-28 11:15:58
+date: 2024-05-31T05:26:57.858Z
+updated: 2024-06-01T05:26:57.858Z
 tags: 
   - screen-recording
   - ai video
@@ -604,4 +604,5 @@ Therefore, you had an informative journey about the Lightroom LUTs in detail. A 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

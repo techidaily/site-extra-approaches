@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Video Conversions  Moving From Basic SDR to Vivid HDR\""
-date: 2024-05-26 16:16:35
-updated: 2024-05-28 12:46:33
+date: 2024-05-31T05:29:52.120Z
+updated: 2024-06-01T05:29:52.120Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ You can choose a proper way, like a video editor or encoder to convert the SDR v
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

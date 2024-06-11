@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premium After Effects Essentials  Compact, No-Cost Bundle\""
-date: 2024-05-28 21:40:24
-updated: 2024-05-30 12:37:49
+date: 2024-05-31T05:28:40.800Z
+updated: 2024-06-01T05:28:40.800Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ Step4 You can then use the “Effects Window” to change the color as desired.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

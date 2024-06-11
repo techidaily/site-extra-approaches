@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smart Techniques to Curve and Sculpt Pixels"
-date: 2024-05-28 11:17:11
-updated: 2024-05-31 10:34:10
+date: 2024-05-31T05:30:26.201Z
+updated: 2024-06-01T05:30:26.201Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

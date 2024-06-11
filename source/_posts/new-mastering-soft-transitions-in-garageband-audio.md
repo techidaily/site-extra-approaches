@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Soft Transitions in Garageband Audio"
-date: 2024-05-25 17:15:28
-updated: 2024-05-28 12:42:36
+date: 2024-05-31T05:25:57.695Z
+updated: 2024-06-01T05:25:57.695Z
 tags: 
   - screen-recording
   - ai video
@@ -150,4 +150,5 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

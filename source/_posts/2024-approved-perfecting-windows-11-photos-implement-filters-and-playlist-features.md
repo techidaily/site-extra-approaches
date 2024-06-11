@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Windows 11 Photos  Implement Filters and Playlist Features\""
-date: 2024-05-26 19:43:10
-updated: 2024-05-29 12:28:55
+date: 2024-05-31T05:29:48.536Z
+updated: 2024-06-01T05:29:48.536Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

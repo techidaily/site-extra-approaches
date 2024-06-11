@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Leveraging XML & TTML for Cutting-Edge SRT Creation Processes\""
-date: 2024-05-26 17:19:44
-updated: 2024-05-28 12:32:52
+date: 2024-05-31T05:29:45.147Z
+updated: 2024-06-01T05:29:45.147Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

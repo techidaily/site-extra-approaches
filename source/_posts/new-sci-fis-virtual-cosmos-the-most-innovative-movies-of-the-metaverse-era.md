@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sci-Fi's Virtual Cosmos  The Most Innovative Movies of the Metaverse Era\""
-date: 2024-05-28 12:16:36
-updated: 2024-05-30 10:13:33
+date: 2024-05-31T05:29:08.293Z
+updated: 2024-06-01T05:29:08.293Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ The world is heading for a more advanced form of technology that would go beyond
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

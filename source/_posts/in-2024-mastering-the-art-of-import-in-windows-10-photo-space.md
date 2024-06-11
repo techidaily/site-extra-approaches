@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of Import in Windows 10 Photo Space"
-date: 2024-05-27 22:10:29
-updated: 2024-05-28 12:28:19
+date: 2024-05-31T05:30:00.483Z
+updated: 2024-06-01T05:30:00.483Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

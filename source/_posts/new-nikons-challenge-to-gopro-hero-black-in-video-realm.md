@@ -1,7 +1,7 @@
 ---
 title: "[New] Nikon's Challenge to GoPro HERO Black in Video Realm"
-date: 2024-05-26 17:21:41
-updated: 2024-05-29 12:46:34
+date: 2024-05-31T05:28:33.898Z
+updated: 2024-06-01T05:28:33.898Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Sharpen Your Footage with Videoleap's ZOOM"
-date: 2024-05-29 19:51:39
-updated: 2024-05-31 11:15:14
+date: 2024-05-31T05:30:34.428Z
+updated: 2024-06-01T05:30:34.428Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

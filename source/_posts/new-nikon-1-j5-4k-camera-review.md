@@ -1,7 +1,7 @@
 ---
 title: "[New] Nikon 1 J5 4K Camera Review"
-date: 2024-05-27 23:12:34
-updated: 2024-05-29 11:22:14
+date: 2024-05-31T05:29:16.243Z
+updated: 2024-06-01T05:29:16.243Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

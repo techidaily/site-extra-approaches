@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, PS5/Xbox Series X Gaming Sets  The Top 5 List\""
-date: 2024-05-27 15:45:32
-updated: 2024-05-30 10:23:27
+date: 2024-05-31T05:28:40.947Z
+updated: 2024-06-01T05:28:40.947Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

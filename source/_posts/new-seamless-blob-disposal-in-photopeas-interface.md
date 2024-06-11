@@ -1,7 +1,7 @@
 ---
 title: "[New] Seamless Blob Disposal in Photopea's Interface"
-date: 2024-05-28 15:51:55
-updated: 2024-05-30 12:31:43
+date: 2024-05-31T05:28:37.112Z
+updated: 2024-06-01T05:28:37.112Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Podcast Writing  Tips & Free Template Samples\""
-date: 2024-05-25 14:50:58
-updated: 2024-05-28 10:36:34
+date: 2024-05-31T05:28:25.605Z
+updated: 2024-06-01T05:28:25.605Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

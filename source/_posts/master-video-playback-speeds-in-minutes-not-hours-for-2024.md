@@ -1,7 +1,7 @@
 ---
 title: "Master Video Playback Speeds in Minutes, Not Hours for 2024"
-date: 2024-05-25 23:13:22
-updated: 2024-05-28 10:44:18
+date: 2024-05-31T05:30:35.635Z
+updated: 2024-06-01T05:30:35.635Z
 tags: 
   - screen-recording
   - ai video
@@ -704,4 +704,5 @@ So, decide wisely.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

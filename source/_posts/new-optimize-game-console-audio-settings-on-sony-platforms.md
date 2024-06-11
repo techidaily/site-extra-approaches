@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimize Game Console Audio Settings on Sony Platforms"
-date: 2024-05-28 20:50:21
-updated: 2024-05-29 10:43:15
+date: 2024-05-31T05:26:29.099Z
+updated: 2024-06-01T05:26:29.099Z
 tags: 
   - screen-recording
   - ai video
@@ -212,4 +212,5 @@ The recent version of Wondershare's professional video editing software is tailo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

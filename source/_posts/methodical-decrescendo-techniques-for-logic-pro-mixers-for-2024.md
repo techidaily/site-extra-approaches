@@ -1,7 +1,7 @@
 ---
 title: "Methodical Decrescendo Techniques for Logic Pro Mixers for 2024"
-date: 2024-05-27 22:49:57
-updated: 2024-05-28 10:18:21
+date: 2024-05-31T05:28:32.077Z
+updated: 2024-06-01T05:28:32.077Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

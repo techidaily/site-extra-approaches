@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Job Interviews with Confidence and Competence"
-date: 2024-05-26 12:43:16
-updated: 2024-05-29 11:15:17
+date: 2024-05-31T05:27:58.625Z
+updated: 2024-06-01T05:27:58.625Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ Make a YouTube opening that's decent enough to get you started rather than aimin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

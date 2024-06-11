@@ -1,7 +1,7 @@
 ---
 title: "\"Precision in Portability  The Ultimate List of 35 Free Android Video Compressors for 2024\""
-date: 2024-05-28 15:19:16
-updated: 2024-05-29 11:27:53
+date: 2024-05-31T05:29:55.563Z
+updated: 2024-06-01T05:29:55.563Z
 tags: 
   - screen-recording
   - ai video
@@ -718,4 +718,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

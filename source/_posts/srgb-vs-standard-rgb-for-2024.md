@@ -1,7 +1,7 @@
 ---
 title: "Srgb vs Standard Rgb for 2024"
-date: 2024-05-30 14:52:41
-updated: 2024-05-31 12:39:47
+date: 2024-05-31T05:29:07.632Z
+updated: 2024-06-01T05:29:07.632Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

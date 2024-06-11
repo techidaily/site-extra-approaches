@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reel of Excellence - Ice Artistry in '22 Summary\""
-date: 2024-05-29 14:26:38
-updated: 2024-05-30 10:16:29
+date: 2024-05-31T05:28:01.341Z
+updated: 2024-06-01T05:28:01.341Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

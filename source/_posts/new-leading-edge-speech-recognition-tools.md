@@ -1,7 +1,7 @@
 ---
 title: "[New] Leading Edge Speech Recognition Tools"
-date: 2024-05-26 19:49:16
-updated: 2024-05-28 12:21:13
+date: 2024-05-31T05:26:33.016Z
+updated: 2024-06-01T05:26:33.016Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Please refer to this list the next time you're looking for a speech to text serv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

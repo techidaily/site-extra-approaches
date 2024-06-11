@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Luts Techniques for Movie Visuals Enhancement"
-date: 2024-05-27 23:55:48
-updated: 2024-05-28 11:44:14
+date: 2024-05-31T05:27:59.562Z
+updated: 2024-06-01T05:27:59.562Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

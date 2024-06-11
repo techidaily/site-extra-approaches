@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Art of Photo Retouching"
-date: 2024-05-27 18:15:58
-updated: 2024-05-28 12:29:32
+date: 2024-05-31T05:30:44.871Z
+updated: 2024-06-01T05:30:44.871Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ This article has featured a detailed discussion on iPiccy online photo editor. U
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

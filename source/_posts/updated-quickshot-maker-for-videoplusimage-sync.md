@@ -1,7 +1,7 @@
 ---
 title: "[Updated] QuickShot Maker for Video+Image Sync"
-date: 2024-05-28 16:27:58
-updated: 2024-05-30 12:23:18
+date: 2024-05-31T05:25:55.562Z
+updated: 2024-06-01T05:25:55.562Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

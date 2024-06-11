@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sculpting Stories with Specialty Fonts in After Effects\""
-date: 2024-05-28 13:57:50
-updated: 2024-05-30 12:30:19
+date: 2024-05-31T05:27:29.084Z
+updated: 2024-06-01T05:27:29.084Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

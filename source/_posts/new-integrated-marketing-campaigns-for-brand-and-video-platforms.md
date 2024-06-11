@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrated Marketing Campaigns for Brand and Video Platforms"
-date: 2024-05-25 22:37:16
-updated: 2024-05-27 12:57:59
+date: 2024-05-31T05:29:00.997Z
+updated: 2024-06-01T05:29:00.997Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ When doing a brand collaboration, you must remember don’t lose hope, your firs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

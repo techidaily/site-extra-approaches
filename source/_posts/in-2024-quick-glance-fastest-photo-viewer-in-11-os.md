@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Glance  Fastest Photo Viewer in 11 OS\""
-date: 2024-05-28 12:46:29
-updated: 2024-05-30 12:46:28
+date: 2024-05-31T05:25:55.140Z
+updated: 2024-06-01T05:25:55.140Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

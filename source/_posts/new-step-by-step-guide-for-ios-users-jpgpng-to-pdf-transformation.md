@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide for iOS Users  JPG/PNG to PDF Transformation\""
-date: 2024-05-29 11:37:45
-updated: 2024-05-31 12:44:45
+date: 2024-05-31T05:26:36.311Z
+updated: 2024-06-01T05:26:36.311Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

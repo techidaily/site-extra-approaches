@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro Photo & Video with GoPro  Hero5 Black Mastery Essentials\""
-date: 2024-05-27 13:56:31
-updated: 2024-05-30 11:29:24
+date: 2024-05-31T05:26:06.318Z
+updated: 2024-06-01T05:26:06.318Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

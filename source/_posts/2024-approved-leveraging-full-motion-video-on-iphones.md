@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging Full Motion Video on iPhones\""
-date: 2024-05-26 14:25:48
-updated: 2024-05-28 11:44:25
+date: 2024-05-31T05:30:05.242Z
+updated: 2024-06-01T05:30:05.242Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

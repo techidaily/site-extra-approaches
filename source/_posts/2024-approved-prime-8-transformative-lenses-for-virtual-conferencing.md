@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime 8 Transformative Lenses for Virtual Conferencing\""
-date: 2024-05-28 16:12:20
-updated: 2024-05-30 10:15:53
+date: 2024-05-31T05:31:20.161Z
+updated: 2024-06-01T05:31:20.161Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ As a result, you can make your videos attractive and presentable with a **beauty
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

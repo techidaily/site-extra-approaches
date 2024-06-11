@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplifying Cinematography  Best Film Cameras for Newbies\""
-date: 2024-05-30 21:44:29
-updated: 2024-05-31 12:11:32
+date: 2024-05-31T05:29:23.202Z
+updated: 2024-06-01T05:29:23.202Z
 tags: 
   - screen-recording
   - ai video
@@ -734,4 +734,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

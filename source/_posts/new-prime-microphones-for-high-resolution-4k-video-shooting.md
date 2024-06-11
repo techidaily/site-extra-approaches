@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Prime Microphones for High-Resolution 4K Video Shooting\""
-date: 2024-05-28 22:33:10
-updated: 2024-05-30 10:42:47
+date: 2024-05-31T05:29:01.942Z
+updated: 2024-06-01T05:29:01.942Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Lightning Lens Work  Efficiently Producing Google Collage Shots for 2024\""
-date: 2024-05-25 22:37:42
-updated: 2024-05-28 12:29:40
+date: 2024-05-31T05:29:19.478Z
+updated: 2024-06-01T05:29:19.478Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

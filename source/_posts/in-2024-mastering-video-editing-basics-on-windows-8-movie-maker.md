@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Video Editing Basics on Windows 8 Movie Maker"
-date: 2024-05-26 21:13:18
-updated: 2024-05-28 10:11:15
+date: 2024-05-31T05:26:49.242Z
+updated: 2024-06-01T05:26:49.242Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ If you are looking for an alternative that can replace windows movie maker with 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quantifying Videography Storage Needs, 128GB\""
-date: 2024-05-29 22:46:56
-updated: 2024-05-30 11:12:27
+date: 2024-05-31T05:27:47.327Z
+updated: 2024-06-01T05:27:47.327Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

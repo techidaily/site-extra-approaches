@@ -1,7 +1,7 @@
 ---
 title: "[New] Insightful Evaluation of the Latest LG 360 Cam Model"
-date: 2024-05-26 17:42:10
-updated: 2024-05-27 12:10:44
+date: 2024-05-31T05:28:45.954Z
+updated: 2024-06-01T05:28:45.954Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

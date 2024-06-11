@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Fixes  Enhancing Images in Windows 10'S Photos Editor\""
-date: 2024-05-28 19:14:23
-updated: 2024-05-30 10:16:17
+date: 2024-05-31T05:29:18.486Z
+updated: 2024-06-01T05:29:18.486Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

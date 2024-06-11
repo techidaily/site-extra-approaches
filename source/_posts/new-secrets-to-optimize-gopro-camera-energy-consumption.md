@@ -1,7 +1,7 @@
 ---
 title: "[New] Secrets to Optimize GoPro Camera Energy Consumption"
-date: 2024-05-27 14:47:41
-updated: 2024-05-30 10:13:32
+date: 2024-05-31T05:29:06.764Z
+updated: 2024-06-01T05:29:06.764Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

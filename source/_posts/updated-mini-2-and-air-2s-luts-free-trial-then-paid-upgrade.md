@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade\""
-date: 2024-05-26 14:16:32
-updated: 2024-05-28 10:16:25
+date: 2024-05-31T05:28:10.713Z
+updated: 2024-06-01T05:28:10.713Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

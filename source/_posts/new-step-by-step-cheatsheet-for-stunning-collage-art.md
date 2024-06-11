@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Cheatsheet for Stunning Collage Art\""
-date: 2024-05-29 11:24:27
-updated: 2024-05-31 12:25:15
+date: 2024-05-31T05:28:22.696Z
+updated: 2024-06-01T05:28:22.696Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

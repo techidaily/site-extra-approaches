@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mixing Made Easy  Free LUTS Bundle Includes DJI Mini/Air 2\""
-date: 2024-05-25 14:27:40
-updated: 2024-05-28 12:45:30
+date: 2024-05-31T05:30:17.203Z
+updated: 2024-06-01T05:30:17.203Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

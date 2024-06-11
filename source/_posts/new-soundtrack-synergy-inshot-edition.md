@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Soundtrack Synergy  InShot Edition\""
-date: 2024-05-30 15:53:17
-updated: 2024-05-31 12:34:43
+date: 2024-05-31T05:25:58.872Z
+updated: 2024-06-01T05:25:58.872Z
 tags: 
   - screen-recording
   - ai video
@@ -454,4 +454,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

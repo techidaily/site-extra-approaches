@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Tips for Impressive GoPro Time-Lapse Cinematography\""
-date: 2024-05-29 12:29:48
-updated: 2024-05-30 10:43:51
+date: 2024-05-31T05:29:28.814Z
+updated: 2024-06-01T05:29:28.814Z
 tags: 
   - screen-recording
   - ai video
@@ -550,4 +550,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

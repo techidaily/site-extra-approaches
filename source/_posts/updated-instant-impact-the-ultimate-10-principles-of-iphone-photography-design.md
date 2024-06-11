@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Instant Impact  The Ultimate 10 Principles of iPhone Photography Design\""
-date: 2024-05-26 17:18:35
-updated: 2024-05-27 11:21:59
+date: 2024-05-31T05:29:22.264Z
+updated: 2024-06-01T05:29:22.264Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

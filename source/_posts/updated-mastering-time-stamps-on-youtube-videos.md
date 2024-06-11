@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Time Stamps on YouTube Videos"
-date: 2024-05-27 14:57:41
-updated: 2024-05-28 10:44:31
+date: 2024-05-31T05:31:06.876Z
+updated: 2024-06-01T05:31:06.876Z
 tags: 
   - screen-recording
   - ai video
@@ -252,4 +252,5 @@ Timestamps can help you share information with your audience without having to w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

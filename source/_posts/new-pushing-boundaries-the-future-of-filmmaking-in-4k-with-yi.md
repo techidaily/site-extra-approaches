@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pushing Boundaries  The Future of Filmmaking in 4K With Yi\""
-date: 2024-05-29 17:24:31
-updated: 2024-05-30 12:18:30
+date: 2024-05-31T05:29:12.374Z
+updated: 2024-06-01T05:29:12.374Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

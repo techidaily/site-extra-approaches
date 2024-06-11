@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool"
-date: 2024-05-26 19:35:48
-updated: 2024-05-28 12:37:39
+date: 2024-05-31T05:30:52.259Z
+updated: 2024-06-01T05:30:52.259Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

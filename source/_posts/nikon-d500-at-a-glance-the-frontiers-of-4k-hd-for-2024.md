@@ -1,7 +1,7 @@
 ---
 title: "\"Nikon D500 at a Glance  The Frontiers of 4K HD for 2024\""
-date: 2024-05-27 12:37:44
-updated: 2024-05-29 12:27:14
+date: 2024-05-31T05:28:49.246Z
+updated: 2024-06-01T05:28:49.246Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

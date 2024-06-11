@@ -1,7 +1,7 @@
 ---
 title: "\"Smoothing Playback  The Truth Behind Frozen Photo Booth Videos for 2024\""
-date: 2024-05-29 11:54:38
-updated: 2024-05-31 12:59:30
+date: 2024-05-31T05:30:46.402Z
+updated: 2024-06-01T05:30:46.402Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Overview of DJi Flyer X20 Virtual Reality Lenses for 2024"
-date: 2024-05-27 21:43:45
-updated: 2024-05-29 12:41:14
+date: 2024-05-31T05:30:13.796Z
+updated: 2024-06-01T05:30:13.796Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

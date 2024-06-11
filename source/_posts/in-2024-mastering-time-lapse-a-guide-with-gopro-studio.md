@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Time-Lapse  A Guide with GoPro Studio\""
-date: 2024-05-27 14:49:58
-updated: 2024-05-28 10:19:51
+date: 2024-05-31T05:29:08.824Z
+updated: 2024-06-01T05:29:08.824Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

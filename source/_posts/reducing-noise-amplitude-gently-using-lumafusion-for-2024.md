@@ -1,7 +1,7 @@
 ---
 title: "Reducing Noise Amplitude Gently Using Lumafusion for 2024"
-date: 2024-05-27 16:41:12
-updated: 2024-05-30 12:31:36
+date: 2024-05-31T05:29:35.059Z
+updated: 2024-06-01T05:29:35.059Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

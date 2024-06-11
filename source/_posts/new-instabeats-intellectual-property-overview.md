@@ -1,7 +1,7 @@
 ---
 title: "\"[New] InstaBeats  Intellectual Property Overview\""
-date: 2024-05-24 23:33:16
-updated: 2024-05-27 12:51:44
+date: 2024-05-31T05:28:58.602Z
+updated: 2024-06-01T05:28:58.602Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ Hopefully, you’ve found this article helpful and can now understand the dos an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

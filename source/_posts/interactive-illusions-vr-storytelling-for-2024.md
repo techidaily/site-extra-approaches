@@ -1,7 +1,7 @@
 ---
 title: "\"Interactive Illusions  VR Storytelling for 2024\""
-date: 2024-05-25 11:16:11
-updated: 2024-05-27 12:11:36
+date: 2024-05-31T05:26:01.804Z
+updated: 2024-06-01T05:26:01.804Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

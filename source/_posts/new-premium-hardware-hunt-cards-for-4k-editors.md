@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premium Hardware Hunt  Cards for 4K Editors\""
-date: 2024-05-29 16:46:50
-updated: 2024-05-30 12:11:32
+date: 2024-05-31T05:29:52.196Z
+updated: 2024-06-01T05:29:52.196Z
 tags: 
   - screen-recording
   - ai video
@@ -630,4 +630,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

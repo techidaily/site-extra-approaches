@@ -1,7 +1,7 @@
 ---
 title: "Seamless Integration of Video Filters in Zoom for 2024"
-date: 2024-05-27 19:41:41
-updated: 2024-05-30 12:45:20
+date: 2024-05-31T05:26:34.885Z
+updated: 2024-06-01T05:26:34.885Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ You must have heard that Zoom lets you use a virtual background to make your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

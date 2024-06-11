@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Scriptwriting for Sound  A Step-by-Step Guide with Examples\""
-date: 2024-05-29 18:58:12
-updated: 2024-05-30 10:12:27
+date: 2024-05-31T05:26:20.751Z
+updated: 2024-06-01T05:26:20.751Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

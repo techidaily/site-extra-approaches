@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Lustrous Frameworks  Structuring Illumination in Film\""
-date: 2024-05-26 13:21:56
-updated: 2024-05-28 12:58:29
+date: 2024-05-31T05:30:27.960Z
+updated: 2024-06-01T05:30:27.960Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

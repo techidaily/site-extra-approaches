@@ -1,7 +1,7 @@
 ---
 title: "[New] Sleek Design and Stunning Video Quality in Sony Xperia XZ"
-date: 2024-05-28 17:10:11
-updated: 2024-05-31 11:16:58
+date: 2024-05-31T05:28:21.803Z
+updated: 2024-06-01T05:28:21.803Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

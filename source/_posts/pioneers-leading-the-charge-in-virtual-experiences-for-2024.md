@@ -1,7 +1,7 @@
 ---
 title: "Pioneers Leading the Charge in Virtual Experiences for 2024"
-date: 2024-05-26 16:30:42
-updated: 2024-05-29 12:58:22
+date: 2024-05-31T05:30:59.506Z
+updated: 2024-06-01T05:30:59.506Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

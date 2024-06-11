@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Single Frame, Solo Shot  Extracting Visual Elements From Windows 10 Videos\""
-date: 2024-05-30 20:49:31
-updated: 2024-05-31 10:39:17
+date: 2024-05-31T05:29:08.343Z
+updated: 2024-06-01T05:29:08.343Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

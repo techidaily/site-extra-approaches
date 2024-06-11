@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Kinemaster  The Ultimate Guide to Smooth Video Edits\""
-date: 2024-05-25 19:31:38
-updated: 2024-05-28 10:43:39
+date: 2024-05-31T05:28:01.193Z
+updated: 2024-06-01T05:28:01.193Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

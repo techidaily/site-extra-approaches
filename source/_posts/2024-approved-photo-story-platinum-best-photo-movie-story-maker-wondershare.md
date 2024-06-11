@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photo Story Platinum - Best Photo Movie Story Maker | Wondershare\""
-date: 2024-05-28 15:22:19
-updated: 2024-05-29 10:11:33
+date: 2024-05-31T05:30:59.017Z
+updated: 2024-06-01T05:30:59.017Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

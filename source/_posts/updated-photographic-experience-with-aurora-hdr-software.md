@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photographic Experience with Aurora HDR Software"
-date: 2024-05-27 11:39:15
-updated: 2024-05-29 10:30:36
+date: 2024-05-31T05:29:42.821Z
+updated: 2024-06-01T05:29:42.821Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ All these software bring forth different aspects of HDR editing, so depending on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

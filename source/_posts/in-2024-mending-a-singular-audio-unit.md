@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mending a Singular Audio Unit"
-date: 2024-05-26 14:59:36
-updated: 2024-05-28 10:48:42
+date: 2024-05-31T05:27:21.970Z
+updated: 2024-06-01T05:27:21.970Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

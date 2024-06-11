@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Review of the Lightroom App on Android for 2024"
-date: 2024-05-26 16:11:52
-updated: 2024-05-28 12:43:26
+date: 2024-05-31T05:27:30.731Z
+updated: 2024-06-01T05:27:30.731Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ We hope you find this review informative, and that you can edit your photos with
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

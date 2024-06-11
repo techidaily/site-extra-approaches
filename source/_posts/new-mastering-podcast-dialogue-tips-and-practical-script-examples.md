@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Podcast Dialogue  Tips & Practical Script Examples\""
-date: 2024-05-25 17:58:33
-updated: 2024-05-28 11:30:54
+date: 2024-05-31T05:30:41.232Z
+updated: 2024-06-01T05:30:41.232Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

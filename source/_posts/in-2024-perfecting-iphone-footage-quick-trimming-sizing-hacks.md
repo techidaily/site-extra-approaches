@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting iPhone Footage  Quick Trimming, Sizing Hacks\""
-date: 2024-05-26 15:51:17
-updated: 2024-05-29 12:36:46
+date: 2024-05-31T05:27:03.700Z
+updated: 2024-06-01T05:27:03.700Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Master Premiere Pro's Art  Free Template Pack 2023\""
-date: 2024-05-26 17:33:47
-updated: 2024-05-28 11:13:17
+date: 2024-05-31T05:28:41.149Z
+updated: 2024-06-01T05:28:41.149Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ Adobe Premiere Pro may look complex, but ready-made pro templates reduce the com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

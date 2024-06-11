@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Proportional Adjustments Online"
-date: 2024-05-25 15:40:44
-updated: 2024-05-28 11:10:40
+date: 2024-05-31T05:28:05.166Z
+updated: 2024-06-01T05:28:05.166Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

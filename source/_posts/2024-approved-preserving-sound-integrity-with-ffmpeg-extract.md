@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Preserving Sound Integrity with FFmpeg Extract\""
-date: 2024-05-29 20:10:34
-updated: 2024-05-30 11:21:47
+date: 2024-05-31T05:31:17.689Z
+updated: 2024-06-01T05:31:17.689Z
 tags: 
   - screen-recording
   - ai video
@@ -658,4 +658,5 @@ Knowing every detail of FFmpeg is a remarkable experience. We all are aware of F
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

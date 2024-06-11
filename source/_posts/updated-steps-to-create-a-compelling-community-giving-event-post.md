@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Steps to Create a Compelling Community Giving Event Post"
-date: 2024-05-29 10:25:58
-updated: 2024-05-31 12:58:25
+date: 2024-05-31T05:28:52.698Z
+updated: 2024-06-01T05:28:52.698Z
 tags: 
   - screen-recording
   - ai video
@@ -143,4 +143,5 @@ By following these tips, you can run a successful Facebook giveaway that will he
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

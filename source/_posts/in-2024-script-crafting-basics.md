@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Script Crafting Basics"
-date: 2024-05-27 19:55:23
-updated: 2024-05-30 11:13:10
+date: 2024-05-31T05:28:41.001Z
+updated: 2024-06-01T05:28:41.001Z
 tags: 
   - screen-recording
   - ai video
@@ -183,4 +183,5 @@ The article has provided the most information about screenplays and how to write
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

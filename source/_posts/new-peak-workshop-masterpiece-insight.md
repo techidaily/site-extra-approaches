@@ -1,7 +1,7 @@
 ---
 title: "[New] Peak Workshop Masterpiece Insight"
-date: 2024-05-27 21:10:28
-updated: 2024-05-29 12:40:14
+date: 2024-05-31T05:26:22.161Z
+updated: 2024-06-01T05:26:22.161Z
 tags: 
   - screen-recording
   - ai video
@@ -90,4 +90,5 @@ There were already some decent audio editing features in  Studio. The audio part
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

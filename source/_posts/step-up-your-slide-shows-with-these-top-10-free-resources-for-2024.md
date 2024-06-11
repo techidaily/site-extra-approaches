@@ -1,7 +1,7 @@
 ---
 title: "Step Up Your Slide Shows with These Top 10 Free Resources for 2024"
-date: 2024-05-29 15:14:20
-updated: 2024-05-31 12:31:48
+date: 2024-05-31T05:27:08.809Z
+updated: 2024-06-01T05:27:08.809Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

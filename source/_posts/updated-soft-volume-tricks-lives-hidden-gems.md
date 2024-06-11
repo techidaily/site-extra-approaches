@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Soft Volume Tricks  Live’s Hidden Gems\""
-date: 2024-05-30 17:21:18
-updated: 2024-05-31 10:59:42
+date: 2024-05-31T05:28:46.254Z
+updated: 2024-06-01T05:28:46.254Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

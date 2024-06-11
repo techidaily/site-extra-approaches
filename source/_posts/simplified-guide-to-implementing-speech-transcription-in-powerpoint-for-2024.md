@@ -1,7 +1,7 @@
 ---
 title: "Simplified Guide to Implementing Speech Transcription in PowerPoint for 2024"
-date: 2024-05-29 15:57:32
-updated: 2024-05-31 12:50:55
+date: 2024-05-31T05:29:34.220Z
+updated: 2024-06-01T05:29:34.220Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

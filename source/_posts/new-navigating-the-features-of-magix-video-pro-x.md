@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating the Features of Magix Video Pro X"
-date: 2024-05-26 11:26:46
-updated: 2024-05-29 11:38:15
+date: 2024-05-31T05:29:12.271Z
+updated: 2024-06-01T05:29:12.271Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ Gratitude for reading.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

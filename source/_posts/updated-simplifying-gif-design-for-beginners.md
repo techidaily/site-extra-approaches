@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplifying GIF Design for Beginners"
-date: 2024-05-29 13:50:11
-updated: 2024-05-31 11:31:53
+date: 2024-05-31T05:29:18.306Z
+updated: 2024-06-01T05:29:18.306Z
 tags: 
   - screen-recording
   - ai video
@@ -440,4 +440,5 @@ Hopefully, you liked our guide on **GIF format outros** and can now find the per
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

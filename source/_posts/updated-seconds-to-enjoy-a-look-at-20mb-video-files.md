@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Seconds to Enjoy - A Look at 20MB Video Files\""
-date: 2024-05-28 17:23:26
-updated: 2024-05-30 10:40:15
+date: 2024-05-31T05:25:57.124Z
+updated: 2024-06-01T05:25:57.124Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

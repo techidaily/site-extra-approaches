@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sony's X1000V  Detailed Recording Experience Review\""
-date: 2024-05-28 18:40:18
-updated: 2024-05-31 10:36:14
+date: 2024-05-31T05:26:59.318Z
+updated: 2024-06-01T05:26:59.318Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

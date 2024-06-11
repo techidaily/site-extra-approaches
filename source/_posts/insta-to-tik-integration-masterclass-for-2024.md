@@ -1,7 +1,7 @@
 ---
 title: "\"Insta-to-Tik Integration Masterclass for 2024\""
-date: 2024-05-24 10:37:49
-updated: 2024-05-27 12:14:20
+date: 2024-05-31T05:28:48.285Z
+updated: 2024-06-01T05:28:48.285Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ Using both platforms will take your business or content to a new height. It may 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

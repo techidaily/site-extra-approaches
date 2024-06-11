@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Script Mastery Online Academy\""
-date: 2024-05-29 10:17:46
-updated: 2024-05-30 11:28:31
+date: 2024-05-31T05:27:14.795Z
+updated: 2024-06-01T05:27:14.795Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ To write a video script quickly, you should use templates, which are designed to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Splicing Sounds to Videos on W11 Desktop"
-date: 2024-05-28 22:49:12
-updated: 2024-05-31 12:13:14
+date: 2024-05-31T05:28:47.604Z
+updated: 2024-06-01T05:28:47.604Z
 tags: 
   - screen-recording
   - ai video
@@ -590,4 +590,5 @@ Filmora is easier to learn, more powerful. It's packed with advanced features th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

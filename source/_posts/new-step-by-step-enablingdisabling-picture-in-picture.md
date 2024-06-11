@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step by Step  Enabling/Disabling Picture-in-Picture\""
-date: 2024-05-30 17:18:39
-updated: 2024-05-31 10:10:47
+date: 2024-05-31T05:26:39.538Z
+updated: 2024-06-01T05:26:39.538Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

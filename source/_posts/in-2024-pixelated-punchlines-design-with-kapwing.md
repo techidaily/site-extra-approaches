@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pixelated Punchlines  Design with Kapwing\""
-date: 2024-05-27 14:33:56
-updated: 2024-05-29 10:12:15
+date: 2024-05-31T05:26:56.677Z
+updated: 2024-06-01T05:26:56.677Z
 tags: 
   - screen-recording
   - ai video
@@ -168,4 +168,5 @@ In the Meme world, there are numerous tools available for creating memes. Among 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

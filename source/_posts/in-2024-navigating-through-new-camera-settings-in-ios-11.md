@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Through New Camera Settings in iOS 11"
-date: 2024-05-27 15:30:17
-updated: 2024-05-29 11:59:33
+date: 2024-05-31T05:26:12.107Z
+updated: 2024-06-01T05:26:12.107Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

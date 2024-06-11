@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Peek Into Innovation with Microsoft's HoloLens Review\""
-date: 2024-05-27 12:25:29
-updated: 2024-05-29 12:18:37
+date: 2024-05-31T05:30:27.910Z
+updated: 2024-06-01T05:30:27.910Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

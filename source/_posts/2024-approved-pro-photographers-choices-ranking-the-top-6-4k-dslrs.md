@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro Photographers’ Choices  Ranking the Top 6 4K DSLRs\""
-date: 2024-05-28 11:59:43
-updated: 2024-05-30 11:37:27
+date: 2024-05-31T05:31:05.528Z
+updated: 2024-06-01T05:31:05.528Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

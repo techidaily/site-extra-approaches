@@ -1,7 +1,7 @@
 ---
 title: "Intuitive Audio Fading Strategies with Garageband for 2024"
-date: 2024-05-24 20:37:23
-updated: 2024-05-27 11:55:39
+date: 2024-05-31T05:26:10.654Z
+updated: 2024-06-01T05:26:10.654Z
 tags: 
   - screen-recording
   - ai video
@@ -150,4 +150,5 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

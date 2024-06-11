@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learning the Art of Soundshaping in Audacity\""
-date: 2024-05-27 20:30:56
-updated: 2024-05-28 10:22:41
+date: 2024-05-31T05:29:04.712Z
+updated: 2024-06-01T05:29:04.712Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ You may access a variety of tools and services on the platform known as Audacity
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

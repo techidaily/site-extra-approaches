@@ -1,7 +1,7 @@
 ---
 title: "[New] Smartphones' Ultimate Guide to Image Editing & Annotation"
-date: 2024-05-28 21:45:32
-updated: 2024-05-31 10:49:17
+date: 2024-05-31T05:26:37.847Z
+updated: 2024-06-01T05:26:37.847Z
 tags: 
   - screen-recording
   - ai video
@@ -485,4 +485,5 @@ It's now a difficult task if you want to add text to your photos. Instead, it's 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

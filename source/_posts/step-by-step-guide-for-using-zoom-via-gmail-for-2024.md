@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide for Using Zoom via Gmail for 2024\""
-date: 2024-05-29 11:17:50
-updated: 2024-05-31 10:47:46
+date: 2024-05-31T05:30:15.512Z
+updated: 2024-06-01T05:30:15.512Z
 tags: 
   - screen-recording
   - ai video
@@ -240,4 +240,5 @@ In a nutshell, so that everyone can arrive on time, you would be able to easily 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

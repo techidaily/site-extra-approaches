@@ -1,7 +1,7 @@
 ---
 title: "[New] Layering YT Music with Visual Expressions"
-date: 2024-05-25 19:59:17
-updated: 2024-05-28 12:44:51
+date: 2024-05-31T05:28:28.878Z
+updated: 2024-06-01T05:28:28.878Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ With the help of all these things, you can easily use YouTube music and its feat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional Tips  Top 10 Text Effects\""
-date: 2024-05-28 20:57:56
-updated: 2024-05-30 12:33:21
+date: 2024-05-31T05:27:08.228Z
+updated: 2024-06-01T05:27:08.228Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ We have listed the most popular text effects that are widely used in today’s v
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

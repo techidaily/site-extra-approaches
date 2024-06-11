@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimizing Playback Rate of Presentation Videos"
-date: 2024-05-28 20:34:46
-updated: 2024-05-29 10:52:17
+date: 2024-05-31T05:27:44.730Z
+updated: 2024-06-01T05:27:44.730Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Some most common reasons for this issue include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Numeral 8 Innovative Image Fusion Application"
-date: 2024-05-27 14:11:48
-updated: 2024-05-29 11:43:33
+date: 2024-05-31T05:30:34.965Z
+updated: 2024-06-01T05:30:34.965Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ Photo and video montage makers help you make presentable and fascinating content
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

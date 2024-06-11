@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Your Phone's Pixels  Top 10 Facial Modifiers\""
-date: 2024-05-28 18:51:42
-updated: 2024-05-29 11:36:53
+date: 2024-05-31T05:28:06.531Z
+updated: 2024-06-01T05:28:06.531Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ No matter how perfectly a picture is captured, post-production and editing has a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

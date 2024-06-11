@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Kinemaster Pro Guide  Crafting Uninterrupted Storytelling\""
-date: 2024-05-25 20:46:11
-updated: 2024-05-28 11:29:11
+date: 2024-05-31T05:25:55.249Z
+updated: 2024-06-01T05:25:55.249Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

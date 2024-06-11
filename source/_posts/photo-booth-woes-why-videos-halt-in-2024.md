@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Booth Woes  Why Videos Halt, In 2024\""
-date: 2024-05-28 19:34:19
-updated: 2024-05-29 10:21:14
+date: 2024-05-31T05:26:12.436Z
+updated: 2024-06-01T05:26:12.436Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

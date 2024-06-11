@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, SharpFocusX7  Size Your Photography Right\""
-date: 2024-05-28 16:57:30
-updated: 2024-05-31 11:31:15
+date: 2024-05-31T05:26:10.623Z
+updated: 2024-06-01T05:26:10.623Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Master the Technique of Radial Distortion in Adobe PS"
-date: 2024-05-27 22:41:30
-updated: 2024-05-28 11:48:33
+date: 2024-05-31T05:28:35.226Z
+updated: 2024-06-01T05:28:35.226Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

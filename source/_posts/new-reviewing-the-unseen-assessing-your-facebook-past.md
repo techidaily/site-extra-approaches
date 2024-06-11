@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reviewing the Unseen  Assessing Your Facebook Past\""
-date: 2024-05-28 23:38:29
-updated: 2024-05-30 11:20:36
+date: 2024-05-31T05:26:49.670Z
+updated: 2024-06-01T05:26:49.670Z
 tags: 
   - screen-recording
   - ai video
@@ -125,4 +125,5 @@ No. Facebook is a cross-platform program, meaning the changes apply to all devic
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

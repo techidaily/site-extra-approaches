@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Make a Statement  Crafting Memes on Kapwing\""
-date: 2024-05-25 21:50:24
-updated: 2024-05-28 10:26:18
+date: 2024-05-31T05:26:59.433Z
+updated: 2024-06-01T05:26:59.433Z
 tags: 
   - screen-recording
   - ai video
@@ -168,4 +168,5 @@ In the Meme world, there are numerous tools available for creating memes. Among 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

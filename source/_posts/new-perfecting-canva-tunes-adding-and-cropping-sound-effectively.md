@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting Canva Tunes  Adding and Cropping Sound Effectively\""
-date: 2024-05-26 20:36:52
-updated: 2024-05-29 12:39:28
+date: 2024-05-31T05:29:03.452Z
+updated: 2024-06-01T05:29:03.452Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ All these details will help you understand how to add music on Canva without any
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

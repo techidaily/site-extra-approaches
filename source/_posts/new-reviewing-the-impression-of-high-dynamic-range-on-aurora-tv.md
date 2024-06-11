@@ -1,7 +1,7 @@
 ---
 title: "[New] Reviewing the Impression of High Dynamic Range on Aurora TV"
-date: 2024-05-29 15:45:33
-updated: 2024-05-30 11:10:11
+date: 2024-05-31T05:27:02.414Z
+updated: 2024-06-01T05:27:02.414Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ All these software bring forth different aspects of HDR editing, so depending on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

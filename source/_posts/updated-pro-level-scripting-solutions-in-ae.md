@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro-Level Scripting Solutions in AE\""
-date: 2024-05-27 15:33:43
-updated: 2024-05-30 11:19:46
+date: 2024-05-31T05:29:11.730Z
+updated: 2024-06-01T05:29:11.730Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

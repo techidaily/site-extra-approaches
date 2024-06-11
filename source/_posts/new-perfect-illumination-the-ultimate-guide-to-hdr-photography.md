@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Illumination  The Ultimate Guide to HDR Photography\""
-date: 2024-05-28 12:47:15
-updated: 2024-05-29 10:27:14
+date: 2024-05-31T05:29:02.726Z
+updated: 2024-06-01T05:29:02.726Z
 tags: 
   - screen-recording
   - ai video
@@ -455,4 +455,5 @@ We've also explained the different key features of Photoshop, and if perhaps you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

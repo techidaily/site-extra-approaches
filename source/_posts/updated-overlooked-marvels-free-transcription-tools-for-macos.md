@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Overlooked Marvels  Free Transcription Tools for macOS\""
-date: 2024-05-28 15:38:21
-updated: 2024-05-29 12:30:15
+date: 2024-05-31T05:26:33.349Z
+updated: 2024-06-01T05:26:33.349Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

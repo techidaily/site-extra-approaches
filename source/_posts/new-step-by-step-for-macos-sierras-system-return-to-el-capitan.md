@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step for MacOS Sierra's System Return to El Capitan\""
-date: 2024-05-28 21:15:35
-updated: 2024-05-31 12:33:56
+date: 2024-05-31T05:29:49.005Z
+updated: 2024-06-01T05:29:49.005Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

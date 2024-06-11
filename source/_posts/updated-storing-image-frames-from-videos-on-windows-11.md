@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Storing Image Frames From Videos on Windows 11"
-date: 2024-05-29 17:30:38
-updated: 2024-05-31 12:55:46
+date: 2024-05-31T05:30:00.290Z
+updated: 2024-06-01T05:30:00.290Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

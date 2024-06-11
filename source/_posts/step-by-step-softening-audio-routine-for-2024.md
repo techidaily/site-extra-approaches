@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Softening Audio Routine for 2024\""
-date: 2024-05-28 16:32:20
-updated: 2024-05-31 12:19:22
+date: 2024-05-31T05:27:41.469Z
+updated: 2024-06-01T05:27:41.469Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Fixes to Keep Your Photos App Fixed on Win 11"
-date: 2024-05-27 23:53:13
-updated: 2024-05-30 10:50:21
+date: 2024-05-31T05:28:53.129Z
+updated: 2024-06-01T05:28:53.129Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

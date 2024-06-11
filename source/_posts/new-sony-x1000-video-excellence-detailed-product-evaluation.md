@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sony X1000 Video Excellence  Detailed Product Evaluation\""
-date: 2024-05-29 19:28:53
-updated: 2024-05-31 11:58:56
+date: 2024-05-31T05:30:57.855Z
+updated: 2024-06-01T05:30:57.855Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

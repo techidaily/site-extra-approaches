@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Lights, Camera, Action! Mastering Fundamental Shots First"
-date: 2024-05-26 10:23:45
-updated: 2024-05-28 11:51:57
+date: 2024-05-31T05:28:42.507Z
+updated: 2024-06-01T05:28:42.507Z
 tags: 
   - screen-recording
   - ai video
@@ -670,4 +670,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

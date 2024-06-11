@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reviewing ASUS's 4K Spectacle - The MG28UQ Unboxed\""
-date: 2024-05-28 22:25:50
-updated: 2024-05-30 10:28:45
+date: 2024-05-31T05:29:36.459Z
+updated: 2024-06-01T05:29:36.459Z
 tags: 
   - screen-recording
   - ai video
@@ -426,4 +426,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Spark Creativity  Get to Know Windows 11'S Movie Maker App\""
-date: 2024-05-30 10:40:29
-updated: 2024-05-31 12:31:32
+date: 2024-05-31T05:30:20.237Z
+updated: 2024-06-01T05:30:20.237Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scriptwriting Essentials for Authentic and Engaging Documentaries\""
-date: 2024-05-27 11:13:47
-updated: 2024-05-30 11:18:16
+date: 2024-05-31T05:28:24.635Z
+updated: 2024-06-01T05:28:24.635Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So, the last words for this educational post are that, as we all know, writing a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

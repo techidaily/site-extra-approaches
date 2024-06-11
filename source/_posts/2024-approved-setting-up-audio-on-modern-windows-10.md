@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Setting Up Audio on Modern Windows 10\""
-date: 2024-05-27 19:34:47
-updated: 2024-05-30 11:32:24
+date: 2024-05-31T05:27:36.456Z
+updated: 2024-06-01T05:27:36.456Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ We have how to record audio on Windows 10 using free as well as premium software
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Master Curves  Transforming Photos in PS\""
-date: 2024-05-27 21:29:13
-updated: 2024-05-28 10:30:52
+date: 2024-05-31T05:29:02.411Z
+updated: 2024-06-01T05:29:02.411Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

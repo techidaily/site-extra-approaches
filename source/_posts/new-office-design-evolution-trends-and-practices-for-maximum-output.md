@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Office Design Evolution  Trends and Practices for Maximum Output\""
-date: 2024-05-27 23:57:38
-updated: 2024-05-29 10:46:20
+date: 2024-05-31T05:27:08.647Z
+updated: 2024-06-01T05:27:08.647Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

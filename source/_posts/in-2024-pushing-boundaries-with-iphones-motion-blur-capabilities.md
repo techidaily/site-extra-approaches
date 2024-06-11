@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pushing Boundaries with iPhone’s Motion-Blur Capabilities\""
-date: 2024-05-28 10:42:30
-updated: 2024-05-30 12:43:54
+date: 2024-05-31T05:28:31.948Z
+updated: 2024-06-01T05:28:31.948Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

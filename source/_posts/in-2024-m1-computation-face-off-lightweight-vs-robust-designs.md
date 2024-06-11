@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, M1 Computation Face-Off  Lightweight vs Robust Designs\""
-date: 2024-05-26 13:22:12
-updated: 2024-05-28 10:17:27
+date: 2024-05-31T05:27:20.491Z
+updated: 2024-06-01T05:27:20.491Z
 tags: 
   - screen-recording
   - ai video
@@ -910,4 +910,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

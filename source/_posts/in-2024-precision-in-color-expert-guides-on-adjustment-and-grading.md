@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Precision in Color  Expert Guides on Adjustment & Grading\""
-date: 2024-05-28 16:31:13
-updated: 2024-05-29 11:47:46
+date: 2024-05-31T05:29:00.067Z
+updated: 2024-06-01T05:29:00.067Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

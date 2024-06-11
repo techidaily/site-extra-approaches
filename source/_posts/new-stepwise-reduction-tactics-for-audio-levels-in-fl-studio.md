@@ -1,7 +1,7 @@
 ---
 title: "[New] Stepwise Reduction Tactics for Audio Levels in FL Studio"
-date: 2024-05-29 23:45:48
-updated: 2024-05-31 11:10:39
+date: 2024-05-31T05:31:19.800Z
+updated: 2024-06-01T05:31:19.800Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

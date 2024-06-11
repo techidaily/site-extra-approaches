@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Win11  A Detailed Look at Zoom Functions\""
-date: 2024-05-28 20:54:26
-updated: 2024-05-29 12:19:20
+date: 2024-05-31T05:30:10.444Z
+updated: 2024-06-01T05:30:10.444Z
 tags: 
   - screen-recording
   - ai video
@@ -178,4 +178,5 @@ Zoom may be used on Windows devices to start new meetings, join existing ones, s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

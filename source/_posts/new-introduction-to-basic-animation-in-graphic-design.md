@@ -1,7 +1,7 @@
 ---
 title: "[New] Introduction to Basic Animation in Graphic Design"
-date: 2024-05-25 22:26:40
-updated: 2024-05-27 10:58:48
+date: 2024-05-31T05:29:17.025Z
+updated: 2024-06-01T05:29:17.025Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

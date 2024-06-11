@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Lore Masters Collective - Essential Eight\""
-date: 2024-05-25 19:16:27
-updated: 2024-05-28 10:50:28
+date: 2024-05-31T05:27:33.987Z
+updated: 2024-06-01T05:27:33.987Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ In conclusion, these were some of our recommendations for storyteller academies.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

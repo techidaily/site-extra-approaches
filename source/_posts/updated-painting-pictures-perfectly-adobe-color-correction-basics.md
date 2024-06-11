@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Painting Pictures Perfectly  Adobe Color Correction Basics\""
-date: 2024-05-26 21:21:15
-updated: 2024-05-29 12:34:14
+date: 2024-05-31T05:29:13.254Z
+updated: 2024-06-01T05:29:13.254Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

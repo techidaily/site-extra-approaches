@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  SRT to SUBCAP Mastery in 3 Steps\""
-date: 2024-05-28 14:42:12
-updated: 2024-05-31 12:40:35
+date: 2024-05-31T05:29:43.873Z
+updated: 2024-06-01T05:29:43.873Z
 tags: 
   - screen-recording
   - ai video
@@ -543,4 +543,5 @@ If you are facing issues opening and playing SRT subtitle files on your device, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Fades in Adobe Audition Basics"
-date: 2024-05-25 23:13:28
-updated: 2024-05-28 11:42:13
+date: 2024-05-31T05:29:00.244Z
+updated: 2024-06-01T05:29:00.244Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

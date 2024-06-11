@@ -1,7 +1,7 @@
 ---
 title: "[New] Insight Into Burst Mode for Dynamic Photography"
-date: 2024-05-25 16:24:33
-updated: 2024-05-27 12:16:45
+date: 2024-05-31T05:29:47.971Z
+updated: 2024-06-01T05:29:47.971Z
 tags: 
   - screen-recording
   - ai video
@@ -198,4 +198,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

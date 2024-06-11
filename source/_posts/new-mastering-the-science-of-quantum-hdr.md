@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Science of Quantum HDR"
-date: 2024-05-27 21:57:39
-updated: 2024-05-28 12:47:15
+date: 2024-05-31T05:29:06.648Z
+updated: 2024-06-01T05:29:06.648Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

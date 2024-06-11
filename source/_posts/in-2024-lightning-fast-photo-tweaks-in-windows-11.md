@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Lightning-Fast Photo Tweaks in Windows 11\""
-date: 2024-05-25 23:59:31
-updated: 2024-05-28 10:33:30
+date: 2024-05-31T05:26:23.341Z
+updated: 2024-06-01T05:26:23.341Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

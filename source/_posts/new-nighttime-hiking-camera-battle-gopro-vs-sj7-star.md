@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Nighttime Hiking Camera Battle  GoPro Vs SJ7 Star\""
-date: 2024-05-28 20:30:54
-updated: 2024-05-29 11:31:49
+date: 2024-05-31T05:28:42.685Z
+updated: 2024-06-01T05:28:42.685Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

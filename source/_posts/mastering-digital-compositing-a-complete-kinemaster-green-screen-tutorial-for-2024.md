@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Digital Compositing  A Complete Kinemaster Green Screen Tutorial for 2024\""
-date: 2024-05-26 14:25:17
-updated: 2024-05-28 10:32:43
+date: 2024-05-31T05:25:57.596Z
+updated: 2024-06-01T05:25:57.596Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Motion Review  Full Scope 2023\""
-date: 2024-05-27 17:21:48
-updated: 2024-05-29 12:45:25
+date: 2024-05-31T05:27:13.120Z
+updated: 2024-06-01T05:27:13.120Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Alight Motion editing app has lived up to the expectation of being the first mot
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro Filmmaking Lenses  The Ten Most Critical Choices\""
-date: 2024-05-28 12:24:28
-updated: 2024-05-30 11:48:10
+date: 2024-05-31T05:27:50.463Z
+updated: 2024-06-01T05:27:50.463Z
 tags: 
   - screen-recording
   - ai video
@@ -722,4 +722,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

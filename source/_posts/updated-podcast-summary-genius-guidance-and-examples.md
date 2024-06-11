@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Podcast Summary Genius  Guidance & Examples\""
-date: 2024-05-27 13:11:42
-updated: 2024-05-29 11:58:41
+date: 2024-05-31T05:26:49.876Z
+updated: 2024-06-01T05:26:49.876Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Standout Book Trailer Highlights"
-date: 2024-05-30 13:58:46
-updated: 2024-05-31 11:41:29
+date: 2024-05-31T05:27:49.225Z
+updated: 2024-06-01T05:27:49.225Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ This article concludes that book trailers mean a lot in this digital era. To gen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

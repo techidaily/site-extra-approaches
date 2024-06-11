@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Precision Subtitle Tweaking for the Mac Pro User\""
-date: 2024-05-27 20:46:56
-updated: 2024-05-29 11:36:18
+date: 2024-05-31T05:26:12.777Z
+updated: 2024-06-01T05:26:12.777Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

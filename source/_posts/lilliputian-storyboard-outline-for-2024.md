@@ -1,7 +1,7 @@
 ---
 title: "Lilliputian Storyboard Outline for 2024"
-date: 2024-05-27 23:26:20
-updated: 2024-05-28 12:53:28
+date: 2024-05-31T05:29:58.149Z
+updated: 2024-06-01T05:29:58.149Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

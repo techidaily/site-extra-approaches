@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfect Zooming Techniques for Google Meet"
-date: 2024-05-27 14:54:49
-updated: 2024-05-29 12:50:10
+date: 2024-05-31T05:30:33.300Z
+updated: 2024-06-01T05:30:33.300Z
 tags: 
   - screen-recording
   - ai video
@@ -95,4 +95,5 @@ You may show additional information on your Google Meet by zooming in and out. O
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

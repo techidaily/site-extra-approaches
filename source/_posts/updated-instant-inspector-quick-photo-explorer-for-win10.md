@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Instant Inspector - Quick Photo Explorer for Win10\""
-date: 2024-05-25 23:14:12
-updated: 2024-05-27 12:23:40
+date: 2024-05-31T05:26:05.279Z
+updated: 2024-06-01T05:26:05.279Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

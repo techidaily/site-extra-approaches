@@ -1,7 +1,7 @@
 ---
 title: "[New] Is Optimal HDR with Aurora Worth It?"
-date: 2024-05-27 15:41:12
-updated: 2024-05-28 12:47:51
+date: 2024-05-31T05:29:51.346Z
+updated: 2024-06-01T05:29:51.346Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ All these software bring forth different aspects of HDR editing, so depending on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

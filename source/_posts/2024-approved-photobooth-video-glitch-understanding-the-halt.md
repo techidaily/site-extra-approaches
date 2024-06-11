@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photobooth Video Glitch - Understanding the Halt\""
-date: 2024-05-28 15:29:46
-updated: 2024-05-29 11:11:58
+date: 2024-05-31T05:29:41.451Z
+updated: 2024-06-01T05:29:41.451Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

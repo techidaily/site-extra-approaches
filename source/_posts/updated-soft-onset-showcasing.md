@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Soft Onset Showcasing"
-date: 2024-05-30 11:20:40
-updated: 2024-05-31 10:36:29
+date: 2024-05-31T05:28:05.983Z
+updated: 2024-06-01T05:28:05.983Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

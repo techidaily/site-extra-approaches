@@ -1,7 +1,7 @@
 ---
 title: "[New] Stepwise Unveiling Effect"
-date: 2024-05-29 22:17:25
-updated: 2024-05-31 10:53:24
+date: 2024-05-31T05:30:14.500Z
+updated: 2024-06-01T05:30:14.500Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

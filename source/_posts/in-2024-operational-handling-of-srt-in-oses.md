@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Operational Handling of SRT in OSes"
-date: 2024-05-28 14:43:56
-updated: 2024-05-29 10:36:53
+date: 2024-05-31T05:26:28.117Z
+updated: 2024-06-01T05:26:28.117Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ The above listed are several ways by which an SRT subtitle file can be opened on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

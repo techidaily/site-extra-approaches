@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Through the Codec Complexity  AV1 Vs. VP9\""
-date: 2024-05-28 21:36:54
-updated: 2024-05-29 12:54:45
+date: 2024-05-31T05:28:53.111Z
+updated: 2024-06-01T05:28:53.111Z
 tags: 
   - screen-recording
   - ai video
@@ -146,4 +146,5 @@ We hope this AV1 vs VP9 comparison article has dispelled all your fears about us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

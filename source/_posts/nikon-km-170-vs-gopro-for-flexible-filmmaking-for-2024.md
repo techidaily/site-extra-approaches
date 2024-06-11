@@ -1,7 +1,7 @@
 ---
 title: "\"Nikon KM-170 Vs GoPro for Flexible Filmmaking for 2024\""
-date: 2024-05-28 13:58:51
-updated: 2024-05-29 10:21:45
+date: 2024-05-31T05:28:50.802Z
+updated: 2024-06-01T05:28:50.802Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

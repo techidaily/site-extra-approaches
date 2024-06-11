@@ -1,7 +1,7 @@
 ---
 title: "[New] Masterpiece Narratives Across the Eightfold Genre Spectrum"
-date: 2024-05-26 10:37:52
-updated: 2024-05-28 11:11:37
+date: 2024-05-31T05:26:44.082Z
+updated: 2024-06-01T05:26:44.082Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ Creating video content that can potentially go viral is no longer a complicated 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

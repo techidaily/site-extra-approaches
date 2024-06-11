@@ -1,7 +1,7 @@
 ---
 title: "[New] Learn How to Directly Control Your iPhone's Orientation"
-date: 2024-05-25 17:15:31
-updated: 2024-05-28 11:46:27
+date: 2024-05-31T05:26:27.493Z
+updated: 2024-06-01T05:26:27.493Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

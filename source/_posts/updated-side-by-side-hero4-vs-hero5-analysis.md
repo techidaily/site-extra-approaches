@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Side by Side  Hero4 vs Hero5 Analysis\""
-date: 2024-05-29 19:52:45
-updated: 2024-05-31 12:20:34
+date: 2024-05-31T05:29:43.687Z
+updated: 2024-06-01T05:29:43.687Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

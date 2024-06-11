@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Solo Journey Through the World of 3D Printing in '3DR'\""
-date: 2024-05-28 10:40:42
-updated: 2024-05-31 12:17:16
+date: 2024-05-31T05:30:57.408Z
+updated: 2024-06-01T05:30:57.408Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

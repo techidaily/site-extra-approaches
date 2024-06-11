@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instantly Hide Faces with PicScanner Tricks\""
-date: 2024-05-24 18:32:17
-updated: 2024-05-27 10:58:57
+date: 2024-05-31T05:26:51.547Z
+updated: 2024-06-01T05:26:51.547Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

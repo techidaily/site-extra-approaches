@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Fixes for Color Balancing in PS"
-date: 2024-05-29 11:25:13
-updated: 2024-05-30 11:58:28
+date: 2024-05-31T05:29:05.992Z
+updated: 2024-06-01T05:29:05.992Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

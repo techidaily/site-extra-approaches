@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Photo Capture  Techniques of Smart HDR 3 & 4 Modules\""
-date: 2024-05-25 22:56:52
-updated: 2024-05-28 12:38:43
+date: 2024-05-31T05:29:21.630Z
+updated: 2024-06-01T05:29:21.630Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

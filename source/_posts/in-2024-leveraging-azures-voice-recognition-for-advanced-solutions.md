@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leveraging Azure's Voice Recognition for Advanced Solutions"
-date: 2024-05-26 20:23:40
-updated: 2024-05-28 12:46:17
+date: 2024-05-31T05:28:45.765Z
+updated: 2024-06-01T05:28:45.765Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

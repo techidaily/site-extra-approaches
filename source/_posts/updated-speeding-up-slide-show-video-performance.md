@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Speeding Up Slide Show Video Performance"
-date: 2024-05-29 20:38:44
-updated: 2024-05-31 12:33:42
+date: 2024-05-31T05:26:25.593Z
+updated: 2024-06-01T05:26:25.593Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Some most common reasons for this issue include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

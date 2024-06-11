@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating New Norms  Metaverse Marketing 101 for 2024\""
-date: 2024-05-26 21:20:28
-updated: 2024-05-29 11:23:28
+date: 2024-05-31T05:30:33.242Z
+updated: 2024-06-01T05:30:33.242Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ Marketing in the Metaverse is the next trending thing in the world of digital ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

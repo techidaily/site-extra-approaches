@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional 4K Capture  Selecting Top Gimbals\""
-date: 2024-05-29 11:33:36
-updated: 2024-05-30 11:11:53
+date: 2024-05-31T05:31:04.947Z
+updated: 2024-06-01T05:31:04.947Z
 tags: 
   - screen-recording
   - ai video
@@ -946,4 +946,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

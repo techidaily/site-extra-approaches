@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Photographic Power-Up  Grid Software of the Decade\""
-date: 2024-05-28 18:14:10
-updated: 2024-05-29 10:19:27
+date: 2024-05-31T05:29:12.797Z
+updated: 2024-06-01T05:29:12.797Z
 tags: 
   - screen-recording
   - ai video
@@ -662,4 +662,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

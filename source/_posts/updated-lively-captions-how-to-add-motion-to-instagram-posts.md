@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lively Captions  How to Add Motion to Instagram Posts\""
-date: 2024-05-27 22:51:19
-updated: 2024-05-28 11:49:17
+date: 2024-05-31T05:28:06.789Z
+updated: 2024-06-01T05:28:06.789Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ The success or failure of your Instagram company depends in large part on engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

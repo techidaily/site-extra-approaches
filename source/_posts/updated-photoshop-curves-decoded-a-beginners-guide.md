@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Photoshop Curves Decoded  A Beginner's Guide\""
-date: 2024-05-28 20:15:29
-updated: 2024-05-29 12:45:31
+date: 2024-05-31T05:28:41.426Z
+updated: 2024-06-01T05:28:41.426Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

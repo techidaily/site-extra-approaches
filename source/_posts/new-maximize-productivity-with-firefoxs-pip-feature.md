@@ -1,7 +1,7 @@
 ---
 title: "[New] Maximize Productivity with Firefox’s PIP Feature"
-date: 2024-05-27 22:44:56
-updated: 2024-05-28 12:46:34
+date: 2024-05-31T05:27:30.226Z
+updated: 2024-06-01T05:27:30.226Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

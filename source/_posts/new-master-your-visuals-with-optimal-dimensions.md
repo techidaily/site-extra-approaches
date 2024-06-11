@@ -1,7 +1,7 @@
 ---
 title: "[New] Master Your Visuals with Optimal Dimensions"
-date: 2024-05-27 17:15:39
-updated: 2024-05-28 12:17:36
+date: 2024-05-31T05:28:03.203Z
+updated: 2024-06-01T05:28:03.203Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

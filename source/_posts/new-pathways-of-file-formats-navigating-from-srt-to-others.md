@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pathways of File Formats  Navigating From SRT to Others\""
-date: 2024-05-27 10:35:35
-updated: 2024-05-29 11:20:36
+date: 2024-05-31T05:28:37.963Z
+updated: 2024-06-01T05:28:37.963Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ There’s no doubt that the SRT file format is one of the most popular subtitle 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

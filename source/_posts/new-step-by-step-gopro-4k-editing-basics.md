@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step GoPro 4K Editing Basics\""
-date: 2024-05-30 10:20:10
-updated: 2024-05-31 12:50:52
+date: 2024-05-31T05:26:44.226Z
+updated: 2024-06-01T05:26:44.226Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

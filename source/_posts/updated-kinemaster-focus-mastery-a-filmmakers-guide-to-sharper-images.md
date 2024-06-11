@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Kinemaster Focus Mastery  A Filmmaker's Guide to Sharper Images\""
-date: 2024-05-25 13:33:35
-updated: 2024-05-28 11:21:58
+date: 2024-05-31T05:27:17.845Z
+updated: 2024-06-01T05:27:17.845Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

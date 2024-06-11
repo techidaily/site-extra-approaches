@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pinnacle of Video  Top 5 Slow Motion Cams\""
-date: 2024-05-28 18:51:20
-updated: 2024-05-29 11:55:17
+date: 2024-05-31T05:28:12.672Z
+updated: 2024-06-01T05:28:12.672Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ Both in controlled lab settings and in actual shooting scenarios, we evaluate ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 
