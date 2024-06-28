@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Storing Image Frames From Videos on Windows 11"
-date: 2024-05-31T05:30:00.290Z
-updated: 2024-06-01T05:30:00.290Z
+date: 2024-06-27T22:54:22.203Z
+updated: 2024-06-28T22:54:22.203Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Storing Image Frames From Videos on Windows 11"
 excerpt: "This Article Describes [Updated] Storing Image Frames From Videos on Windows 11"
 keywords: "Win11 Image Frame Storage,Video to Image Save Win11,Windows 11 Photo Extraction,Storing Images From Video Win11,Convert Video Frames Win11,Windows 11 Video Resize,Save Video Frames on Win11"
-thumbnail: https://www.lifewire.com/thmb/aGZqNAAWZxGqTIdxV5jFhxBFP10=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/firetvremoteapp-5c05dd3546e0fb0001924ea6.jpg
+thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45d452041bd7c83bf359b02fd.jpg
 ---
 
 ## Storing Image Frames From Videos on Windows 11
@@ -45,7 +45,7 @@ Creating a living image:
 * Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
 * Right-click within the player > Edit and create > Save photos.
 
-![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
+![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 * Now, you can see the living picture by tapping ‘Play’ button.
 
@@ -99,256 +99,30 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-With the galore of features loaded on Windows 10, it comes as no surprise that it can save photo from video using [Windows 10 Photos app](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab). You can not only edit photos using this app, but capture a still photograph from a video by reviewing it frame by frame. The photo quality is similar to as that of the video’s quality that you have used to capture the still from. These live photos are in JPEG format.
-
-In this article, you will learn how to save photo from Windows 10 Photos app and the alternative way to save photo from video.
-
-* [**Part1: How to save photo from Windows 10 Photos app**](#part1)
-* [**Part2: Why I can’t save photo from video**](#part2)
-* [**Part3: Alternative way to save photo from video**](#part3)
-
-## Part 1: How to save photo from Windows 10 Photos app
-
-In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
-
-First you need to create a living image and then save it as a still image.
-
-Creating a living image:
-
-* Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
-* Right-click within the player > Edit and create > Save photos.
-
-![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
-
-* Now, you can see the living picture by tapping ‘Play’ button.
-
-These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
-
-* Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
-* Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
-
-![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
-
-* This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
-
-## Part 2: Why I can’t save photo from video
-
-In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
-
-We are explaining the solutions here –
-
-### 1\. Check the update
-
-Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
-
-### 2\. Sign in a different account in Microsoft Store
-
-You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-## Part 3: Alternative way to save photo from video
-
-When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
-
-Here comes the guide –
-
-* Browse [ScreenShot](https://screenshot.net/) and hit ‘Take Screenshot’
-* Now, run the java applet and just hit the camera icon to capture shots.
-* See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
-
-![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
-
-* Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
-* Now, hit the ‘Save’ icon and get the image saved on your computer.
-
-## Conclusion
-
-We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-With the galore of features loaded on Windows 10, it comes as no surprise that it can save photo from video using [Windows 10 Photos app](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab). You can not only edit photos using this app, but capture a still photograph from a video by reviewing it frame by frame. The photo quality is similar to as that of the video’s quality that you have used to capture the still from. These live photos are in JPEG format.
-
-In this article, you will learn how to save photo from Windows 10 Photos app and the alternative way to save photo from video.
-
-* [**Part1: How to save photo from Windows 10 Photos app**](#part1)
-* [**Part2: Why I can’t save photo from video**](#part2)
-* [**Part3: Alternative way to save photo from video**](#part3)
-
-## Part 1: How to save photo from Windows 10 Photos app
-
-In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
-
-First you need to create a living image and then save it as a still image.
-
-Creating a living image:
-
-* Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
-* Right-click within the player > Edit and create > Save photos.
-
-![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
-
-* Now, you can see the living picture by tapping ‘Play’ button.
-
-These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
-
-* Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
-* Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
-
-![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
-
-* This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
-
-## Part 2: Why I can’t save photo from video
-
-In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
-
-We are explaining the solutions here –
-
-### 1\. Check the update
-
-Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
-
-### 2\. Sign in a different account in Microsoft Store
-
-You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-## Part 3: Alternative way to save photo from video
-
-When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
-
-Here comes the guide –
-
-* Browse [ScreenShot](https://screenshot.net/) and hit ‘Take Screenshot’
-* Now, run the java applet and just hit the camera icon to capture shots.
-* See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
-
-![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
-
-* Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
-* Now, hit the ‘Save’ icon and get the image saved on your computer.
-
-## Conclusion
-
-We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-With the galore of features loaded on Windows 10, it comes as no surprise that it can save photo from video using [Windows 10 Photos app](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab). You can not only edit photos using this app, but capture a still photograph from a video by reviewing it frame by frame. The photo quality is similar to as that of the video’s quality that you have used to capture the still from. These live photos are in JPEG format.
-
-In this article, you will learn how to save photo from Windows 10 Photos app and the alternative way to save photo from video.
-
-* [**Part1: How to save photo from Windows 10 Photos app**](#part1)
-* [**Part2: Why I can’t save photo from video**](#part2)
-* [**Part3: Alternative way to save photo from video**](#part3)
-
-## Part 1: How to save photo from Windows 10 Photos app
-
-In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
-
-First you need to create a living image and then save it as a still image.
-
-Creating a living image:
-
-* Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
-* Right-click within the player > Edit and create > Save photos.
-
-![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
-
-* Now, you can see the living picture by tapping ‘Play’ button.
-
-These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
-
-* Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
-* Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
-
-![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
-
-* This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
-
-## Part 2: Why I can’t save photo from video
-
-In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
-
-We are explaining the solutions here –
-
-### 1\. Check the update
-
-Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
-
-### 2\. Sign in a different account in Microsoft Store
-
-You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-## Part 3: Alternative way to save photo from video
-
-When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
-
-Here comes the guide –
-
-* Browse [ScreenShot](https://screenshot.net/) and hit ‘Take Screenshot’
-* Now, run the java applet and just hit the camera icon to capture shots.
-* See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
-
-![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
-
-* Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
-* Now, hit the ‘Save’ icon and get the image saved on your computer.
-
-## Conclusion
-
-We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/premier-tools-upload-and-convert-vids-for-tweeting-for-2024/"><u>Premier Tools  Upload & Convert Vids for Tweeting for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-access-to-royalty-free-design-tools/"><u>[Updated] Mastering Access to Royalty-Free Design Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-mobile-captions-ios-and-androids-leading-helpers/"><u>[Updated] Mastering Mobile Captions  IOS & Android's Leading Helpers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sonys-bdp-s6700-a-modernized-take/"><u>In 2024, Sony's BDP-S6700  A Modernized Take</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-social-connectivity-from-instagram-to-tiktoks-playground/"><u>In 2024, Mastering Social Connectivity  From Instagram to TikTok's Playground</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-picsweets-where-free-tiktok-bgs-and-beauty-meet/"><u>[New] PicSweets  Where Free TikTok BGs and Beauty Meet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picsart-app-insights-comprehensive-review-and-walkthrough-for-2024/"><u>PicsArt App Insights  Comprehensive Review and Walkthrough for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-solo-speaker-fault-fix-guide/"><u>2024 Approved  Solo Speaker Fault  Fix Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro-for-2024/"><u>Guide To Creating The Perfect VHS Effect Look in Premiere Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tips-for-trimming-down-facebook-vids-intrusions/"><u>[Updated] 2024 Approved  Tips for Trimming Down Facebook Vids' Intrusions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-adventure-awaits-in-these-top-5-samsung-gear-vr-titles/"><u>[New] Adventure Awaits in These Top 5 Samsung Gear VR Titles</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/harmonizing-hands-on-an-in-depth-look-at-tools-for-extracting-the-essence-of-a-tune-for-2024/"><u>Harmonizing Hands-On An In-Depth Look at Tools for Extracting the Essence of a Tune for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/direct-mac-pics-to-a-new-saving-area-for-2024/"><u>Direct Mac Pics to a New Saving Area for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-maximizing-youtube-revenue-understanding-adsense-payments-per-thousand-views/"><u>[Updated] In 2024, Maximizing Youtube Revenue  Understanding AdSense Payments per Thousand Views</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-figures-unveiled-exploring-youtubes-curious-numbers-2017/"><u>2024 Approved  Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/dominate-igtv-with-follower-growth-essential-techniques-reviewed/"><u>Dominate IGTV With Follower Growth  Essential Techniques Reviewed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-12-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
+</ul></div>
 
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins>
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins>
-
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-
-
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Insider Tips for FFXP Functionality"
-date: 2024-05-31T05:27:13.956Z
-updated: 2024-06-01T05:27:13.956Z
+date: 2024-06-27T22:53:19.055Z
+updated: 2024-06-28T22:53:19.055Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Insider Tips for FFXP Functionality"
 excerpt: "This Article Describes In 2024, Insider Tips for FFXP Functionality"
 keywords: "FFXP Secrets,XP Rush Guide,Level Up Quickly,Mastery in FFXP,Efficient XP Gain,Unlocking FFXP,Advance FFXP Methods"
-thumbnail: https://www.lifewire.com/thmb/vNiduGzd38MaH6SQoi23lWSaGTw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-122061346-f4d63be5cfde470e9b7192d89497b501.jpg
+thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec122694d578843a25c7f44c71.jpg
 ---
 
 ## Insider Tips for FFXP Functionality
@@ -22,7 +22,7 @@ Using your PC to watch films while working on something else has recently been p
 
 This feature is an important tool to help you multitask by dragging videos from web pages and navigating to another tab so you can continue working on other tabs while the video keeps playing. In this article, you will understand everything about this feature and how to enable this feature.
 
-![the firefox]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-1.jpg)
+![the firefox](https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-1.jpg)
 
 ## Part 1\. How Picture-in-Picture Mode Works
 
@@ -52,16 +52,16 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 2. Click on the 3 horizontal lines in the top-right menu.
 3. Choose the **Options/Settings** from the menu list. This opens the settings mode and its general model.
 
-![choose the options/settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-2.jpg)
+![choose the options/settings](https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-2.jpg)
 
 1. Scroll down in the General mode to locate the **Browsing** settings option.
 2. Here, you will see a list of browsing settings; click to select the '**Enable picture in picture video controls'**, and check the box.
 
-![a list of browsing settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-3.jpg)
+![a list of browsing settings](https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-3.jpg)
 
 Following the above procedure, you may now see the Firefox Picture-in-Picture symbol in the video streaming player. Whenever you visit a streaming site, a symbol for pip mode appears as an overlay on the video screen.
 
-![the firefox picture in picture symbol]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-4.jpg)
+![the firefox picture in picture symbol](https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-4.jpg)
 
 You can load only a single video using the above guideline. Suppose you want to lunch multiple videos to increase your multitasking experience. In that case, follow the outlined procedure:
 
@@ -71,7 +71,7 @@ You can load only a single video using the above guideline. Suppose you want to 
 4. Repeat the preceding steps on the same page or in a separate tab to open several movies.
 5. Firefox plays the new video above the first. Drag and drop it anywhere to display both.
 
-![the new video above the first]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-5.jpg)
+![the new video above the first](https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-5.jpg)
 
 By following these steps, videos appear on the screen at the same time. For all tabs containing open videos, the main Firefox window shows a "play" symbol. Even if you dismiss Firefox, numerous videos will continue to play in other programs or on your desktop.
 
@@ -79,7 +79,7 @@ By following these steps, videos appear on the screen at the same time. For all 
 
 Sometimes, the PiP mode can disturb necessary research or task that needs your full concentration. In this scenario, disabling the Picture-in-Picture mode is a way to get your task done with the optimum attention. If you want to turn off Picture-in-Picture mode and return to the video tab, hover over the video, then click the following icon **“X”**.
 
-![click the following icon]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-6.jpg)
+![click the following icon](https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-6.jpg)
 
 ## Part 4\. Other tips about Picture-in-Picture Mode in Firefox
 
@@ -91,7 +91,7 @@ Another mode of having your picture-in-picture mode on Firefox is using the avai
 
 It is also possible to enable and disable the picture-in-picture mode using keyboard shortcuts. To get this done, use the key combination of **'Ctrl + Shift + \]'**. By simultaneously holding these keys, Firefox will launch the relevant video on the web page into a picture-in-picture mode. However, if the feature has been enabled before pressing the key combination, it automatically disables the feature.
 
-![the key combination]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-7.jpg)
+![the key combination](https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-7.jpg)
 
 ## Part 5\. FAQs
 
@@ -139,3 +139,22 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-whatsapp-ringtones-for-iphone-and-android-users/"><u>[Updated] Perfect WhatsApp Ringtones for iPhone & Android Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-instagram-the-ultimate-guide-to-viral-popularity/"><u>[Updated] Mastering Instagram  The Ultimate Guide to Viral Popularity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-edge-the-ultimate-15-camera-guide/"><u>[Updated] Leading Edge  The Ultimate 15 Camera Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nikon-d500-unveiled-the-frontier-of-high-definition-photography/"><u>[New] Nikon D500 Unveiled  The Frontier of High-Definition Photography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sony-bdp-s6700-fresh-perspective/"><u>In 2024, Sony BDP-S6700 - Fresh Perspective</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-mobile-media-6-leading-video-apps-without-periscope/"><u>[New] Revolutionizing Mobile Media  6 Leading Video Apps without Periscope</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instantaneous-access-to-high-quality-passport-selfies-free-desktopweb-tool/"><u>[Updated] Instantaneous Access to High-Quality Passport Selfies – Free Desktop/Web Tool</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-which-is-the-ultimate-screen-recorder-analyzing-bandicam-vs-camtasia/"><u>[Updated] 2024 Approved  Which Is the Ultimate Screen Recorder? Analyzing Bandicam vs Camtasia</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/ultimate-list-of-the-most-effective-no-cost-tiktok-to-mp3-apps-6-for-2024/"><u>Ultimate List of the Most Effective, No-Cost TikTok To MP3 Apps (6) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-filming-made-simple-top-5-techniques-for-superior-webcam-video-on-mac/"><u>[New] In 2024, Filming Made Simple  Top 5 Techniques for Superior Webcam Video on Mac</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exclusive-list-20-complimentary-tools-for-fb-ad-producers/"><u>[Updated] Exclusive List  20 Complimentary Tools for Fb Ad Producers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-podcast-choices-for-gpodc-users/"><u>Premier Podcast Choices for GPodC Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-8-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 8 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis/"><u>From Viewers to Profits  An Authoritative Guide on YouTube Revenue and Popularity Analysis</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-trimming-sound-out-of-mp4-videos-for-editing-purposes/"><u>New 2024 Approved Trimming Sound Out of MP4 Videos for Editing Purposes</u></a></li>
+</ul></div>

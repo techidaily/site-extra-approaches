@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Single-Out Focal Point Using Affinity\""
-date: 2024-05-31T05:26:23.295Z
-updated: 2024-06-01T05:26:23.295Z
+date: 2024-06-27T22:53:00.347Z
+updated: 2024-06-28T22:53:00.347Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Single-Out Focal Point Using Affinity\""
 excerpt: "\"This Article Describes 2024 Approved: Single-Out Focal Point Using Affinity\""
 keywords: "Sound Engine Simplify,Diminish Lumafusion,Simplified Audio Tech,Gradual Volume Reduce,Lumafusion Echo Decline,Sound Technique Basics,Fusion Audio Management"
-thumbnail: https://www.lifewire.com/thmb/eHXngyyoX5Le8j_8_iSN0qts3UM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/projectorheadlights-5c252a8446e0fb0001500eef.jpg
+thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44e5497cff1919865c9f50ec3.jpg
 ---
 
 ## Single-Out Focal Point Using Affinity
@@ -30,7 +30,7 @@ Affinity Photo is a simple and easy-to-use editing software, and you can remove 
 
 To erase a white background in Affinity Designer, do these steps:
 
-Step1 In the first step, install the [Affinity Designer](https://affinity.serif.com/en-us/designer/)software and launch it on your computer. Go to **"File" > "Open"** and head to the location of your image with a white background on your drive to import it.
+Step1 In the first step, install the [Affinity Designer](https://affinity.serif.com/en-us/designer/) software and launch it on your computer. Go to **"File" > "Open"** and head to the location of your image with a white background on your drive to import it.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
@@ -89,7 +89,7 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
-Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
+Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by [Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
@@ -123,7 +123,7 @@ Hopefully, this article and video can help you create ideal images!
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
-Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
+Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by [Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
@@ -175,3 +175,26 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-pathway-to-royalty-free-images-for-2024/"><u>Navigating the Pathway to Royalty-Free Images for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/podcast-prominence-with-powerful-seo-insights-and-strategies-for-2024/"><u>Podcast Prominence with Powerful SEO Insights and Strategies for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skyrocket-your-marketing-game-on-reddit-proven-success-techniques/"><u>[Updated] Skyrocket Your Marketing Game on Reddit  Proven Success Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-the-color-grading-revolution-with-lightrooms-best-10-luts/"><u>[New] Leading the Color Grading Revolution with LightRoom’s Best 10 LUTs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pocketful-skies-affordable-large-file-allocator-for-2024/"><u>Pocketful Skies - Affordable Large File Allocator for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-novice-path-to-prosperity-making-money-on-periscope/"><u>In 2024, Novice Path to Prosperity  Making Money on Periscope</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-green-screen-landscape-for-webcam-enthusiasts-for-2024/"><u>Navigating the Green Screen Landscape for Webcam Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smiles-to-text-where-to-find-amusing-tones-for-2024/"><u>Smiles to Text  Where to Find Amusing Tones for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-filmmaking-lenses-the-ten-most-critical-choices-for-2024/"><u>Pro Filmmaking Lenses  The Ten Most Critical Choices for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-note-12-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi Note 12 Pro 5G Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-explore-elite-gaming-opening-tutorials-free-and-premium-alternatives-for-2024/"><u>[New] Explore Elite Gaming Opening Tutorials  Free & Premium Alternatives for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-extracting-srt-from-a-zip-archive-for-2024/"><u>Guide to Extracting SRT From a ZIP Archive for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-unleash-your-inner-filmmaker-a-step-by-step-guide-to-professional-movie-making/"><u>2024 Approved Unleash Your Inner Filmmaker A Step-by-Step Guide to Professional Movie Making</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-explore-the-premier-video-grabbing-tools-on-windows-10-for-2024/"><u>[New] Explore the Premier Video Grabbing Tools on Windows 10 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-xs-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone XS? Complete Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/budget-friendly-tactics-to-increase-your-youtube-video-impact/"><u>Budget-Friendly Tactics to Increase Your YouTube Video Impact</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-mastering-3d-video-effects-a-windows-tutorial-for-beginners/"><u>New 2024 Approved Mastering 3D Video Effects A Windows Tutorial for Beginners</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/reversing-video-in-final-cut-pro-tips-tricks-and-techniques/"><u>Reversing Video in Final Cut Pro Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+</ul></div>
