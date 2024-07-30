@@ -1,7 +1,7 @@
 ---
 title: "\"Professional Take  The Syma X5C – Ideal First-Timer's Droning Companion for 2024\""
-date: 2024-05-31T05:27:51.704Z
-updated: 2024-06-01T05:27:51.704Z
+date: 2024-07-27T19:49:00.406Z
+updated: 2024-07-28T19:49:00.406Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Professional Take: The Syma X5C – Ideal First-Timer's Droning Companion for 2024\""
 excerpt: "\"This Article Describes Professional Take: The Syma X5C – Ideal First-Timer's Droning Companion for 2024\""
 keywords: "\"Drone for Beginners,X5C Drone Review,First-Time Droning Guide,Syma X5C Pros & Cons,Ideal Entry-Level Drone,Best First-Timer Drone,Professional Drone Insights\""
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## Professional Take: The Syma X5C – Ideal First-Timer's Droning Companion
@@ -28,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/fi
 
  Syma is a well known name in the world of toy RC segment and this company has released about 20 quadcopters and helicopters till now. Syma X5C is designed with all good features that a beginner demands from his drone. It is definitely not a good idea to spend $1000 or [$500](<https://filmora.wondershare.com/drones/affordable-drones-under-500-dollars.html>) for buying a camera drone when you can own a feature rich quadcopter by making payment of $50 only. It is well designed with all simple and intuitive controls; the camera offers 720p resolution with stunning clarity. It is capable enough to have safe flight in light wind conditions whereas users can put a 4GB Micro SSD card inside it to serve instant video recording needs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![syma x5c explorers](https://images.wondershare.com/filmora/article-images/syma-x5c-explorers.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CNGT0DG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CNGT0DG&linkId=57d2a66ecb7fdd24814d14d9272a2f49)
@@ -89,16 +92,26 @@ thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/fi
 
 #### 5. Control Range
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
@@ -123,6 +136,10 @@ Follow @Max Wales
 
 **You may also like:** [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Pros and Cons of Syma X5C
 
 **Pros:**
@@ -178,12 +195,18 @@ Follow @Max Wales
 
 #### 5. Control Range
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
@@ -206,12 +229,18 @@ Follow @Max Wales
 
  Syma is a well known name in the world of toy RC segment and this company has released about 20 quadcopters and helicopters till now. Syma X5C is designed with all good features that a beginner demands from his drone. It is definitely not a good idea to spend $1000 or [$500](<https://filmora.wondershare.com/drones/affordable-drones-under-500-dollars.html>) for buying a camera drone when you can own a feature rich quadcopter by making payment of $50 only. It is well designed with all simple and intuitive controls; the camera offers 720p resolution with stunning clarity. It is capable enough to have safe flight in light wind conditions whereas users can put a 4GB Micro SSD card inside it to serve instant video recording needs.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![syma x5c explorers](https://images.wondershare.com/filmora/article-images/syma-x5c-explorers.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CNGT0DG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CNGT0DG&linkId=57d2a66ecb7fdd24814d14d9272a2f49)
 
 **You may also like:** [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and Cons of Syma X5C
 
 **Pros:**
@@ -238,6 +267,9 @@ Follow @Max Wales
 
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Syma X5C
 
 #### 1\.  Basic Specs Info
@@ -267,6 +299,11 @@ Follow @Max Wales
 
 #### 5. Control Range
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
@@ -281,6 +318,9 @@ Follow @Max Wales
 
  Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -301,6 +341,9 @@ Follow @Max Wales
 
 **You may also like:** [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and Cons of Syma X5C
 
 **Pros:**
@@ -356,6 +399,9 @@ Follow @Max Wales
 
 #### 5. Control Range
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
@@ -400,3 +446,44 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-snapchats-photo-alterations-a-step-by-step-guide-for-2024/"><u>[New] Mastering Snapchat's Photo Alterations  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-amazon-prime-and-twitter-most-shared-and-liked-shows-23-for-2024/"><u>[Updated] Amazon Prime and Twitter  Most Shared & Liked Shows, '23 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-browse-backwards-a-guide-to-facebook-archives/"><u>[Updated] Browse Backwards  A Guide to Facebook Archives</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-crafting-engaging-tiktok-content-with-text-additions-for-2024/"><u>[Updated] Crafting Engaging TikTok Content with Text Additions for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-flawless-sound-overlap-exploring-crossfade-for-2024/"><u>[Updated] Flawless Sound Overlap  Exploring Crossfade for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-stepwise-discovery-of-covert-youtube-archives/"><u>[Updated] Stepwise Discovery of Covert YouTube Archives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos/"><u>[Updated] Tailored Touch-Up  Top 6 Apps to Exclude Unwanted Elements From Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-adventures-with-the-foremost-6-gopro-mounts-revealed/"><u>2024 Approved  Mastering Adventures with the Foremost 6 GoPro Mounts Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-music-making-magic-selecting-background-beats-for-vids/"><u>2024 Approved  Music Making Magic  Selecting Background Beats for Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-obs-and-wirecast-bout-which-broadcast-tool-is-king/"><u>2024 Approved  OBS and Wirecast Bout  Which Broadcast Tool Is King?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-selection-top-cost-effective-iosandroid-live-streamers/"><u>2024 Approved  Optimal Selection  Top Cost-Effective iOS/Android Live Streamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-perfecting-live-footage-with-fbx-recorder/"><u>2024 Approved  Perfecting Live Footage with FBX Recorder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-periscope-pro-the-in-depth-usage-guidebook/"><u>2024 Approved  Periscope Pro  The In-Depth Usage Guidebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-editing-at-your-fingertips-canvas-boundary-eradication/"><u>2024 Approved  Precision Editing at Your Fingertips  Canva's Boundary Eradication</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rhythmic-reworks-for-enhanced-imovie-experience/"><u>2024 Approved  Rhythmic Reworks for Enhanced iMovie Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skin-the-subject-eradicate-bg-in-affinity/"><u>2024 Approved  Skin the Subject, Eradicate Bg in Affinity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-soulful-selection-candid-songs-that-perfectly-match-your-yes/"><u>2024 Approved  Soulful Selection  Candid Songs that Perfectly Match Your 'Yes'</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-google-pixel-fold-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Google Pixel Fold</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/how-to-edit-blur-or-remove-photo-background-in-2024/"><u>How to Edit, Blur or Remove Photo Background, In 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-down-average-podcaster-salary/"><u>In 2024, Breaking Down Average Podcaster Salary</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-building-relationships-one-post-at-a-time-on-fb/"><u>In 2024, Building Relationships One Post at a Time on FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-luminalabs-exploring-affordable-video-editors/"><u>In 2024, LuminaLabs  Exploring Affordable Video Editors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-quantum-hdr-techniques-for-professionals/"><u>In 2024, Mastering Quantum HDR Techniques for Professionals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-windows-media-player-for-cd-extraction-and-recordings/"><u>In 2024, Mastering Windows Media Player for CD Extraction and Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-max-effects-for-vector-files/"><u>In 2024, Max Effects for Vector Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-podcast-discoverability-through-effective-seo/"><u>In 2024, Maximizing Podcast Discoverability Through Effective SEO</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mystery-of-missing-movies-a6400s-quandary/"><u>In 2024, Mystery of Missing Movies  A6400's Quandary</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pickup-vs-competitors-an-incisive-review-of-androids-top-editor/"><u>In 2024, PickUp Vs. Competitors  An Incisive Review of Android's Top Editor</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-cameras-for-360-film-enthusiasts/"><u>In 2024, Premium Cameras for 360° Film Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reducing-inertia-induced-jello-in-uav-videos/"><u>In 2024, Reducing Inertia-Induced Jello in UAV Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-slay-the-game-designing-quirky-text-memes/"><u>In 2024, Slay the Game  Designing Quirky Text Memes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-choices-8-best-convertors-from-sub-to-srt-format/"><u>In 2024, Smart Choices  8 Best Convertors From Sub to SRT Format</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-legal-to-record-youtube-in-2024/"><u>Is It Legal to Record YouTube, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mac-high-quality-video-and-audible-recording-for-2024/"><u>Mac High-Quality Video & Audible Recording for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-nokia-c12-pro-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Nokia C12 Pro.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-action-recorder-an-overview-of-panasonics-hx-a1/"><u>The Ultimate Action Recorder  An Overview of Panasonic's HX-A1</u></a></li>
+</ul></div>

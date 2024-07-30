@@ -1,7 +1,7 @@
 ---
 title: "\"Setting up PIP Mode on iOS  YouTube's Picture-in-Picture for 2024\""
-date: 2024-05-31T05:27:54.093Z
-updated: 2024-06-01T05:27:54.093Z
+date: 2024-07-27T19:51:23.601Z
+updated: 2024-07-28T19:51:23.601Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Setting up PIP Mode on iOS: YouTube's Picture-in-Picture for 2024\""
 excerpt: "\"This Article Describes Setting up PIP Mode on iOS: YouTube's Picture-in-Picture for 2024\""
 keywords: "\"PiP on iOS,IOS PiP Mode,Setting PiP,Video PiP iOS,Picture in iOS,IOS Picture-In-Picture,YouTube PiP iOS\""
-thumbnail: https://www.lifewire.com/thmb/bMOUH6OkpRF5_MrN2lrqa_1fgSk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-700130756-5bc55813c9e77c00516913eb.jpg
+thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57b569d8f39427b85787484d2.jpg
 ---
 
 ## Setting up PIP Mode on iOS: YouTube's Picture-in-Picture
@@ -32,6 +32,9 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 2. Tap the **Shortcut** extension in Settings
 3. Turn on **Allow Untrusted Shortcuts**. If this option is not available for your device, go to **Screen Time extension** and disable any screen time restrictions. So, you will proceed successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![enable pip on iphone](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-1.jpg)
 
 1. If you require a **YouTube PIP** shortcut app on your device to proceed, you can download it from App Store or [the Shortcuts Gallery browser](https://shortcutsgallery.com/shortcuts/youtube-pip/) and then add it to your Shortcut Library.
@@ -46,15 +49,24 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 5. Tap on **YouTube PIP** and a burner will pop out at the top of your phone.
 6. Tap on the burner that pops out. It will direct you to the actual shortcut for YouTube. And you will need to install an additional Application (Scriptable App).
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![scriptable app](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-3.jpg)
 
 1. Tap on **View in App Store** on the screen that appears. This will direct you to the App Store.
 2. On the next screen that appears, download [**Scriptable App**](https://apps.apple.com/us/app/scriptable/id1405459188). Get back to the home screen and launch Scriptable App once.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download scriptable app](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-4.jpg)
 
 1. Go to YouTube again and start any video. Tap the **Share icon**, scroll to the right and tap the **More icon**, go ahead and tap the YouTube PIP. And on the burner that pops up at the top of the screen of your phone, tap **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![floating screen](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-5.jpg)
 
 And there you go, now you will be able to watch your videos on a floating screen. This procedure may be pretty tedious, but it is all worth it if you follow keenly to the end. You will do it only once.
@@ -91,6 +103,9 @@ Before you use Picture in Picture in YouTube, you require two Apps on your devic
 4. Tap the **More icon**.
 5. Tap **YouTube PIP** and select **OK** on the burner that appears on the screen. This will produce a new floating window automatically on the screen. You can select a window resolution that fits you and go back to Home Screen. Your video will play in a floating window on your home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![floating window](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-6.jpg)
 
 ### PIP on Mac
@@ -108,6 +123,9 @@ And with the Control Commands, you can get into PIP on Mac very easily in only t
 1. Open a video on YouTube on a Web browser
 2. Press and hold on to the **Ctrl key** on your keyboard as you **left click** on the video twice, and you will be successful.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into pip on mac](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-7.jpg)
 
 ## Conclusion
@@ -142,3 +160,39 @@ Picture in Picture is a computer utility feature in the USA. It has not been lau
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-how-to-take-landscape-photos-on-iphone-killer-tips/"><u>[New] How to Take Landscape Photos on iPhone [Killer Tips]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphoneipad-masterclass-crafting-engaging-interview-and-exploration-podcasts/"><u>[New] IPhone/iPad Masterclass  Crafting Engaging Interview and Exploration Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nail-the-art-of-time-lapses-with-your-gopro-hero5-black/"><u>[New] Nail the Art of Time-Lapses with Your GoPro Hero5 Black</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-lut-use-in-professional-video-editing/"><u>[New] Navigating LUT Use in Professional Video Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-guide-capturing-time-lapses-on-samsung-devices/"><u>[New] Quick Guide  Capturing Time-Lapses on Samsung Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reach-new-heights-top-7-applications-turning-your-art-into-nfts/"><u>[New] Reach New Heights  Top 7 Applications Turning Your Art Into NFTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-avoid-the-spinning-room-top-5-vr-motion-control-techniques/"><u>[Updated] Avoid the Spinning Room  Top 5 VR Motion Control Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations/"><u>[Updated] The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-vimeo-integration-for-professional-instagram-users/"><u>[Updated] Vimeo Integration for Professional Instagram Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mastering-the-art-of-using-ez-grabber-with-this-tutorial/"><u>2024 Approved  Mastering the Art of Using EZ Grabber with This Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-zoom-optimizing-kinemasters-viewer-engagement/"><u>2024 Approved  Perfect Zoom  Optimizing Kinemaster's Viewer Engagement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precious-chrome-companion-ringtones/"><u>2024 Approved  Precious Chrome Companion Ringtones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-visual-quality-leaks/"><u>2024 Approved  Premier Visual Quality Leaks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-streaming-platforms-for-authors/"><u>2024 Approved  Prime Streaming Platforms for Authors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speedy-fixes-for-slow-mo-videos-in-a-flash/"><u>2024 Approved  Speedy Fixes for Slow-Mo Videos in a Flash</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-best-racing-simulator-games-you-can-find-for-2024/"><u>5 Best Racing Simulator Games You Can Find for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/expanding-your-fb-video-scope-full-hd/"><u>Expanding Your Fb Video Scope  Full HD</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-10t-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme 10T 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-11-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 11 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-with-3d-text-effects-in-adobe-photoshop/"><u>In 2024, Innovating with 3D Text Effects in Adobe Photoshop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-mobile-collage-with-android-pros/"><u>In 2024, Mastering the Art of Mobile Collage with Android Pros</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pricing-strategies-for-youtube-video-promotions/"><u>In 2024, Pricing Strategies for YouTube Video Promotions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-focus-systems-ultimate-4k-dslr-rig-guide/"><u>In 2024, Prime Focus Systems  Ultimate 4K DSLR Rig Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-quality-edits-the-ultimate-guide-to-pixlr/"><u>In 2024, Quick, Quality Edits  The Ultimate Guide to Pixlr</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi A2</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/jaunt-vr-a-gateway-to-virtual-worlds-for-2024/"><u>Jaunt VR  A Gateway to Virtual Worlds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/kinetic-control-on-android-the-kinemaster-dive-for-2024/"><u>Kinetic Control on Android  The KineMaster Dive for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-pip-chromes-full-screen-multi-tasking-guide-for-2024/"><u>Mastering PIP  Chrome's Full-Screen Multi-Tasking Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mobile-magic-transform-your-snaps-at-zero-cost-for-2024/"><u>Mobile Magic  Transform Your Snaps at Zero Cost for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-to-precision-in-picking-drone-power-units-for-2024/"><u>Secrets to Precision in Picking Drone Power Units for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-broadcast-blueprint-for-enthralling-cricket-matches/"><u>The Ultimate Broadcast Blueprint for Enthralling Cricket Matches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-srt-into-subc-top-3-actionable-steps/"><u>Transforming SRT Into SUBC  Top 3 Actionable Steps</u></a></li>
+</ul></div>

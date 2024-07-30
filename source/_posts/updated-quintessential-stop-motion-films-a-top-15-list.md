@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quintessential Stop-Motion Films  A Top 15 List\""
-date: 2024-05-31T05:30:45.729Z
-updated: 2024-06-01T05:30:45.729Z
+date: 2024-07-27T22:47:41.101Z
+updated: 2024-07-28T22:47:41.101Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Quintessential Stop-Motion Films: A Top 15 List\""
 excerpt: "\"This Article Describes [Updated] Quintessential Stop-Motion Films: A Top 15 List\""
 keywords: "\"Stop-Motion Magic,Animation Classics,Film Noir Creativity,Top Stop-Movies List,Animated Films 15 Greatest,Movie Animation Picks,Cinema Stop-Motion Essentials\""
-thumbnail: https://www.lifewire.com/thmb/JnBSFSr8YQadpLe99CkaKn6MzEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/title-c0a673f2ceec4e48bf0388773f3bd360.jpg
+thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea338695faa58de9221c96a80.jpg
 ---
 
 ## Quintessential Stop-Motion Films: A Top 15 List
@@ -40,6 +40,9 @@ Consuming Spirits is an animated movie about three residents who lead interconne
 
 ![consuming spirits](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### 2\. [Coraline](https://www.imdb.com/title/tt0327597/)
 
 Movie Name: Coraline
@@ -52,6 +55,9 @@ Quote: "When you're scared, but you still do it anyway, that's brave."
 
 Coraline is a film stop motion where an adventurous girl finds a secret door in her new house and knows some sinister secrets about the family.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![coraline](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-2.jpg)
 
 ### 3\. [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/)
@@ -82,6 +88,15 @@ The famous animated stop motion film is about Lady Tottington and Wallace, who g
 
 ![wellace & gromit in the curse of the were-rabbit](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### 5\. [Early Man](https://www.imdb.com/title/tt4701724/)
 
 Movie Name: Early Man
@@ -96,6 +111,9 @@ Early Man is yet another stop motion film that got considerable fame. The story 
 
 ![early man](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. [Kubo and Two Strings](https://www.imdb.com/title/tt4302938/)
 
 Movie Name: Kubo and Two Strings
@@ -108,8 +126,15 @@ Quote: "If you must blink, do it now."
 
 Kubo and Two Strings is one of the best stop motion films. The movie is about Kubo and his two strings, Monkey and Beetle. All three of them are expected to find a legendary suit of armor to defeat an evil spirit.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![kubo and two strings](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 7\. [My Life as a Zucchini](https://www.imdb.com/title/tt2321405/)
 
 Movie Name: My Life as a Zucchini
@@ -124,6 +149,9 @@ My Life as a Zucchini is about an orphan who is sent to the orphanage where he l
 
 ![my life as a zucchini](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. [Corpse Bride](https://www.imdb.com/title/tt0121164/)
 
 Movie Name: Corpse Bride
@@ -136,6 +164,9 @@ Quote: "I was a bride. My dreams were taken from me. But now I've stolen them fr
 
 Corpse Bride is one of the best stop motion films in the industry. The story is about Victor practicing his wedding vows in the forest where he accidentally marries skeleton-shaped Emily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![corpse bride](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-8.jpg)
 
 ### 9\. [Chicken Run](https://www.imdb.com/title/tt0120630/)
@@ -150,8 +181,14 @@ Quote: "The most important thing is, we have to work as a team, which means you 
 
 Chicken Run is a movie about Rocky and Ginger, a rooster and a chicken. They decide to run from the chicken farm when they find out their owner is trying to kill them.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![chicken run](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10\. [Mary and Max](https://www.imdb.com/title/tt0978762/)
 
 Movie Name: Mary and Max
@@ -164,8 +201,14 @@ Quote: "The reason I forgive you is that you are not perfect. You are imperfect.
 
 Mary and Max is a story about two unlikely people who befriended each other in a long-distance relationship through letters. Mary is an 8-year old lonely girl, and Max is a 44-year old obese man.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![mary and max](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### 11\. [ParaNorman](https://www.imdb.com/title/tt1623288/)
 
 Movie Name: ParaNorman
@@ -194,6 +237,9 @@ As the best stop motion film, Missing Link is about Mr.Link, who hired a private
 
 ![missing link](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 13\. [The Pirates! In An Adventure With Scientists](https://www.imdb.com/title/tt1430626/)
 
 Movie Name: The Pirates! In An Adventure With Scientists
@@ -206,6 +252,10 @@ Quote: "Don't look so worried. I've sailed the seven seas, and I've never had an
 
 The movie The Pirates! In An Adventure With Scientists is about a Pirate Captain and his crew who want to win the Pirate of the Year Award. They have to travel to the Victorian land and pillage the booty.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![the pirates in an adventure with scientists](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-13.jpg)
 
 ### 14\. [The Boxtrolls](https://www.imdb.com/title/tt0787474/)
@@ -234,6 +284,9 @@ Quote: "You don't have to be the bad guy. You are the most talented, interesting
 
 The LEGO movie is about a LEGO construction worker recruited to stop an evil tyrant from destroying the world of LEGO. Emmet is a lead character in this best stop motion film.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![the lego](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-15.jpg)
 
 ### Conclusion
@@ -262,3 +315,40 @@ The creative industry needs to offer strong animation to bring the audience on t
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-pursuit-for-full-viewable-content-from-friends-on-direct-chat-platforms/"><u>[New] 2024 Approved  Pursuit for Full Viewable Content From Friends on Direct Chat Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-joke-tastic-iphones-today/"><u>[New] Joke-Tastic iPhones Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proarts-pa-329q-monitor-a-critical-look-at-its-4k-performance/"><u>[New] ProArt's PA 329Q Monitor  A Critical Look at Its 4K Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-transition-turning-mac-videos-into-discs/"><u>[New] Seamless Transition  Turning Mac Videos Into Discs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seo-masterclass-unlocking-the-secrets-to-higher-podcast-visibility/"><u>[New] SEO Masterclass  Unlocking the Secrets to Higher Podcast Visibility</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-step-by-step-installed-vrecorder-software-for-2024/"><u>[New] Step-by-Step  Installed VRecorder Software for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-edge-no-8-online-photomontage-toolkit/"><u>[Updated] Leading Edge  No. 8 Online Photomontage Toolkit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-methods-for-subtle-audio-softening-with-lumafusion/"><u>[Updated] Methods for Subtle Audio Softening with Lumafusion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ois-enhanced-smartphones-for-seamless-video-filming-experience/"><u>[Updated] OIS-Enhanced Smartphones for Seamless Video Filming Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pixelated-personae-effective-face-covering-tactics/"><u>[Updated] Pixelated Personae  Effective Face Covering Tactics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reinstate-windows-photo-viewer-on-windows-10-dual-fixes-explained/"><u>[Updated] Reinstate Windows Photo Viewer on Windows 10  Dual Fixes Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selecting-the-best-sketchpad-and-design-tools-for-windows/"><u>[Updated] Selecting the Best Sketchpad and Design Tools for Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-art-of-capturing-conversations-iphoneipad-tips-for-top-quality-interviews/"><u>[Updated] The Art of Capturing Conversations  IPhone/iPad Tips for Top Quality Interviews</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tips-and-tricks-perfecting-webcam-recordings-on-macbook-for-2024/"><u>[Updated] Tips & Tricks  Perfecting Webcam Recordings on MacBook for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-language-free-top-8-srt-translation-websites/"><u>2024 Approved  Mastering Language  Free, Top 8 SRT Translation Websites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-in-voice-change-with-morphvox/"><u>2024 Approved  Mastery in Voice Change with MorphVOX</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-quick-access-to-quality-sound-with-easy-vrecorder-downloads/"><u>2024 Approved  Quick Access to Quality Sound with Easy VRecorder Downloads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-tips-to-resurrect-windows-photo-viewer-on-windows-11/"><u>2024 Approved  Quick Tips to Resurrect Windows Photo Viewer on Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-windows-data-assessment-tutorial/"><u>2024 Approved  Quick Windows Data Assessment Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-nine-remedies-for-firefox-video-glitches-on-social-media/"><u>In 2024, Nine Remedies for Firefox Video Glitches on Social Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-guide-posting-podcast-on-instagram/"><u>In 2024, Quick Guide  Posting Podcast on Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-samsungs-rival-the-leading-cameras-to-match-your-gear-360-needs/"><u>In 2024, Samsung’s Rival  The Leading Cameras to Match Your Gear 360 Needs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-x-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone X | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneously-enhance-sound-quality/"><u>Instantaneously Enhance Sound Quality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-steps-in-manipulating-song-pace-in-spotify-app-for-2024/"><u>Key Steps in Manipulating Song Pace in Spotify App for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-lenovo-thinkphone-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Lenovo ThinkPhone? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterclass-15-color-grading-look-ups-for-camcorder-for-2024/"><u>Masterclass 15 Color Grading Look-Ups for Camcorder for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastery-unleashed-top-10-no-cost-mac-painting-tools/"><u>Mastery Unleashed  Top 10 No-Cost Mac Painting Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimum-affordable-asmr-microphones-with-incredible-performance-for-2024/"><u>Optimum Affordable ASMR Microphones with Incredible Performance for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-a58-4g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from A58 4G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-video-creators-choice-10-exceptional-photo-background-alternators-for-2024/"><u>Pro Video Creators' Choice  10 Exceptional Photo-Background Alternators for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-visual-enhancements-using-portable-lut-tools-for-2024/"><u>Quick Visual Enhancements Using Portable LUT Tools for 2024</u></a></li>
+</ul></div>

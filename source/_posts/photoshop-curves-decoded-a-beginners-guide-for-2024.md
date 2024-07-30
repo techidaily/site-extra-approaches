@@ -1,7 +1,7 @@
 ---
 title: "\"Photoshop Curves Decoded  A Beginner's Guide for 2024\""
-date: 2024-05-31T05:30:43.829Z
-updated: 2024-06-01T05:30:43.829Z
+date: 2024-07-27T22:45:52.855Z
+updated: 2024-07-28T22:45:52.855Z
 tags: 
   - screen-recording
   - ai video
@@ -13,15 +13,23 @@ categories:
 description: "\"This Article Describes Photoshop Curves Decoded: A Beginner's Guide for 2024\""
 excerpt: "\"This Article Describes Photoshop Curves Decoded: A Beginner's Guide for 2024\""
 keywords: "Photoshop Curves Basics,Learn Curves in PS,PS Curve Techniques,Understanding PS Curves,Introduction to PS Curves,Beginner's PS Curves Guide,Mastering Curves in Photo Editing"
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## Photoshop Curves Decoded: A Beginner's Guide
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -48,14 +56,32 @@ Play around with the settings in the options bar. There are quite a few differen
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
 The **Bend Direction** option rotates the angle of the bend.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
@@ -68,6 +94,9 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -100,3 +129,49 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-archive-all-highlights-no-limit-savers-available/"><u>[New] 2024 Approved  Archive All Highlights  No Limit Savers Available</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-innovative-daily-vlog-themes/"><u>[New] 2024 Approved  Innovative Daily Vlog Themes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-look-apples-m1-max-attachments/"><u>[New] Inside Look  Apple's M1 Max Attachments</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>[New] Inside Triller  An Oasis in the Sea of Standard Video Platforms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastery-guide-sync-videos-to-facebook-pc-and-android-way/"><u>[New] Mastery Guide  Sync Videos to Facebook - PC & Android Way</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-motion-magic-quick-photography-tricks-for-samsung-users/"><u>[New] Motion Magic  Quick Photography Tricks for Samsung Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-at-a-glance-hps-4k-z32-x-examination/"><u>[New] Precision at a Glance  HP’s 4K Z32 X Examination</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-methods-for-gameplay-recording-for-2024/"><u>[New] Step-by-Step Methods for Gameplay Recording for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-harness-the-power-of-video-editing-cropping-to-perfect-instagram-posts/"><u>[Updated] Harness the Power of Video Editing  Cropping to Perfect Instagram Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instantpodstreams-a-step-by-step-approach-to-live-broadcasting/"><u>[Updated] InstantPodStreams  A Step-by-Step Approach to Live Broadcasting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lut-techniques-for-enhanced-ae-visuals/"><u>[Updated] LUT Techniques for Enhanced AE Visuals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-world-with-a-fisheye-lens/"><u>[Updated] Navigating the World with a Fisheye Lens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-pixels-with-pro-android-tips/"><u>[Updated] Perfect Pixels with Pro Android Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2022s-speed-demon-olympic-crossers-greatest-hits-for-2024/"><u>2022'S Speed Demon  Olympic Crossers' Greatest Hits for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-calm-time-chronicles-film-analysis/"><u>2024 Approved  Calm-Time Chronicles  Film Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-get-top-quality-gifs-on-your-mac-instantly/"><u>2024 Approved  Get Top-Quality GIFs on Your Mac Instantly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterpiece-creation-in-ae-with-top-tier-plugin-selection/"><u>2024 Approved  Masterpiece Creation in AE with Top-Tier Plugin Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>2024 Approved  Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-overcoming-iphones-difficulty-in-auto-focusing-issues/"><u>2024 Approved  Overcoming iPhone's Difficulty in Auto-Focusing Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfected-text-templates-for-professional-use/"><u>2024 Approved  Perfected Text Templates for Professional Use</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-select-the-superior-a-guide-to-8-outstanding-free-android-mp3-downloaders/"><u>2024 Approved  Select the Superior  A Guide to 8 Outstanding Free Android MP3 Downloaders</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nubia-red-magic-9-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nubia Red Magic 9 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-zte-nubia-flip-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on ZTE Nubia Flip 5G Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-livestreaming-three-key-approaches-subscriber-less-style/"><u>In 2024, Master the Art of Livestreaming  Three Key Approaches, Subscriber-Less Style</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-attracting-more-youtube-admirers/"><u>In 2024, Mastering the Art of Attracting More YouTube Admirers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-iphone-cinematography-learn-and-apply-top-8-insights/"><u>In 2024, Professional iPhone Cinematography  Learn and Apply Top 8 Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-safari-screens-freeze-heres-how-to-fix-black-screen-on-fb/"><u>In 2024, Safari Screens Freeze? Here's How to Fix Black Screen on FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamlessly-navigating-ifunnys-meme-space/"><u>In 2024, Seamlessly Navigating iFunny's Meme Space</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-setting-pip-mode-in-the-youtube-app-for-mobile-viewing/"><u>In 2024, Setting PIP Mode in the YouTube App for Mobile Viewing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-skys-the-limit-for-your-shots-blend-free-space-and-premium-subscriptions/"><u>In 2024, Sky's the Limit for Your Shots  Blend Free Space and Premium Subscriptions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sleeksky-saver-the-frugal-file-nest/"><u>In 2024, SleekSky Saver - The Frugal File Nest</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-spectral-imagery-phantasmal-camera-analysis/"><u>In 2024, Spectral Imagery  Phantasmal Camera Analysis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-realme-narzo-60x-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Realme Narzo 60x 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-redmi-13c-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Redmi 13C 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphones-a-compreenas-guide-to-storing-and-sharing-gifs-for-2024/"><u>IPhones  A Compreenas Guide to Storing & Sharing GIFs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-smooth-playback-on-instagram-videos/"><u>Mastering Smooth Playback on Instagram Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/nurturing-natural-light-within-domestic-spaces-for-2024/"><u>Nurturing Natural Light Within Domestic Spaces for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pixel-perfecting-free-high-quality-mobile-photography-boost-for-2024/"><u>Pixel Perfecting  Free, High-Quality Mobile Photography Boost for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-cinema-experience-free-and-paid-iphones-app-list-for-2024/"><u>Seamless Cinema Experience  Free & Paid iPhones App List for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speaking-through-screens-effective-communication-on-youtube-for-2024/"><u>Speaking Through Screens  Effective Communication on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-edges-pip-functionality-for-2024/"><u>Step-by-Step Guide to Edge’s PIP Functionality for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Phantom V Fold | Dr.fone</u></a></li>
+</ul></div>

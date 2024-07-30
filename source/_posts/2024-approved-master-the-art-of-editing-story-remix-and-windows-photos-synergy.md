@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master the Art of Editing  Story Remix & Windows Photos Synergy\""
-date: 2024-05-31T05:29:28.226Z
-updated: 2024-06-01T05:29:28.226Z
+date: 2024-07-27T21:27:46.987Z
+updated: 2024-07-28T21:27:46.987Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes 2024 Approved: Master the Art of Editing: Story Remix & Windows Photos Synergy\""
 excerpt: "\"This Article Describes 2024 Approved: Master the Art of Editing: Story Remix & Windows Photos Synergy\""
 keywords: "Editing Mastery,Story Remix Skills,Photography Edits,Windows Photo Edit,Synergy in Editing,Photo Edit Art,Creative Editing Guide"
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## Master the Art of Editing: Story Remix & Windows Photos Synergy
 
 # How to Use Story Remix to Edit a Video in Windows 10 Photos
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -49,8 +52,392 @@ Downloading Photos App will add Story Remix to your system for brilliant video e
 
 Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+## Part 2: How to create Story Remix automatically and randomly
+
+In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
+
+How to create a Story Remix project automatically –
+
+   1. Launch **Photos** \> **Collection**.
+   2. You got to choose the image and videos and click **New video**. Then choose Automatic video with music.
+   3. Give a name and tap on **OK**.
+
+![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
+
+   1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
+   2. You can rearrange the content by tapping **Remix it for me** button.
+
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: How to create a Story Remix project from scratch
+
+Here is the guide –
+
+   1. Launch **Photos** and hit on **Create**.
+   2. Hit **Video project** and pick out the images/videos you wish.
+   3. Tap on the **Add** button and give a name.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-random-min.jpg)
+
+1. Hit on **Create video** afterwards.
+2. Now, you can preview, edit or share your video.
+
+## Part 4: How to edit a Story Remix video
+
+Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
+
+In the following sections, we have segregated each editing feature of Story Mix for you to explore –
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Adding a new theme
+
+A theme is a built-in feature in Photos, just like music, filters, and text styles. Adding a theme does everything on the go.
+
+1. First all the things are added to your timeline followed by adding to the toolbar. Hit on **Themes** subsequently.
+2. You can select one theme from the listed options namely, "No theme", "Adventure", "Chilled", "Classic", "Electric", "Joy" and "Loved". Preview the selected theme and if satisfied, click on "Done".
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
+
+### Adding image duration
+
+While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
+
+Tap the ‘Duration’ button > pick another value or manually set the seconds.
+
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+### Adding custom text
+
+1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
+2. Use layout option and select location so that you can make the caption or title show up in a different place.
+3. Hit ‘Done’ after that.
+
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
+### Adding motion
+
+1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
+2. Preview the changes and click ‘Done’.
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
+
+### Trimming video clips
+
+1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
+2. Hit ‘Done’ in the end.
+
+## Part 5: How to add 3D effects to a Story Remix project
+
+Adding 3D special effects to video clips is one of the lucrative features of Photos app.
+
+1. You can add 3D effects by selecting the clip in timeline and clicking the ‘3D effects’ button.
+2. Position the effect by dragging/dropping and via preview panel > set the time range for effect > adjust the Y and Z co-ordinates for the effect. Some of the effects are applicable to the whole clip, while some are meant to be placed at particular locations over the clip. Slide on the ‘Attach to a point’ toggle, so it makes the effect move or stay fixed, depending on the object it is fixed to.
+3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
+
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
+
+## Part 6: How to export a Story Remix video
+
+Now that you have learnt how to edit videos in Story Remix, let’s see how can you export or share them with the world. You can directly share from Photos or use a USB drive to do the needful.
+
+1. Click on the project name > give a new name > ‘Enter’.
+2. Press ‘Export or share’ > ‘S’/’M’/’L’.
+
+**Note**: S is for mobile and email with a small video, M is for social media uploads, and L is meant for large Remix videos meant for large screens.
+
+The file location is displayed soon after you create the video by the Photos app. On wanting to share the video, just hit on ‘Share to social media, email, or other apps’.
+
+Now, pick the app or contact and send the video.
+
+Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
+
+Why bother for messy and complex video editing tools, when you can get everything at your fingertips using this photo and video editing app. In case you are up for some advanced features and functionalities, then you might opt for a paid program.
+
+If you want to edit video, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+When it comes to Windows 10 systems, the offering in terms of features and functionalities surpass the earlier versions. Just talk about the Windows Photo Viewer and it brings a fresh air to Windows Photo Viewer by updating to [Microsoft Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab).
+
+For video editing, it has great things to offer, such as Story Remix.
+
+If you are wondering, what Story Remix is, then we must tell you that, it is the advanced feather on the Photos App’s cap. This is meant to adapt artificial intelligence technology and automatically collate relevant content to create videos. These videos are shareable and you can save, edit or delete them as you wish.
+
+Moreover, creating own videos is also possible with this tool.
+
+* [**Part1: How to download Story Remix in Windows**](#part1)
+* [**Part2: How to create Story Remix automatically and randomly**](#part2)
+* [**Part3: How to create a Story Remix project from scratch**](#part3)
+* [**Part4: How to edit a Story Remix video**](#part4)
+* [**Part5: How to add 3D effects to a Story Remix project**](#part5)
+* [**Part6: How to export a Story Remix video**](#part6)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: How to download Story Remix in Windows
+
+In case you want to download Story Remix, we must tell you it is not a standalone product. It is bundled within the Windows Photos App.
+
+Downloading Photos App will add Story Remix to your system for brilliant video editing. But, you got to update Photos with ‘Fall Creators Update’ in order to activate the Story Remix feature.
+
+Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+## Part 2: How to create Story Remix automatically and randomly
+
+In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
+
+How to create a Story Remix project automatically –
+
+   1. Launch **Photos** \> **Collection**.
+   2. You got to choose the image and videos and click **New video**. Then choose Automatic video with music.
+   3. Give a name and tap on **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
+
+   1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
+   2. You can rearrange the content by tapping **Remix it for me** button.
+
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
+
+## Part 3: How to create a Story Remix project from scratch
+
+Here is the guide –
+
+   1. Launch **Photos** and hit on **Create**.
+   2. Hit **Video project** and pick out the images/videos you wish.
+   3. Tap on the **Add** button and give a name.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-random-min.jpg)
+
+1. Hit on **Create video** afterwards.
+2. Now, you can preview, edit or share your video.
+
+## Part 4: How to edit a Story Remix video
+
+Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
+
+In the following sections, we have segregated each editing feature of Story Mix for you to explore –
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Adding a new theme
+
+A theme is a built-in feature in Photos, just like music, filters, and text styles. Adding a theme does everything on the go.
+
+1. First all the things are added to your timeline followed by adding to the toolbar. Hit on **Themes** subsequently.
+2. You can select one theme from the listed options namely, "No theme", "Adventure", "Chilled", "Classic", "Electric", "Joy" and "Loved". Preview the selected theme and if satisfied, click on "Done".
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
+
+### Adding image duration
+
+While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
+
+Tap the ‘Duration’ button > pick another value or manually set the seconds.
+
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Adding custom text
+
+1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
+2. Use layout option and select location so that you can make the caption or title show up in a different place.
+3. Hit ‘Done’ after that.
+
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
+
+### Adding motion
+
+1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
+2. Preview the changes and click ‘Done’.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+### Trimming video clips
+
+1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
+2. Hit ‘Done’ in the end.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Part 5: How to add 3D effects to a Story Remix project
+
+Adding 3D special effects to video clips is one of the lucrative features of Photos app.
+
+1. You can add 3D effects by selecting the clip in timeline and clicking the ‘3D effects’ button.
+2. Position the effect by dragging/dropping and via preview panel > set the time range for effect > adjust the Y and Z co-ordinates for the effect. Some of the effects are applicable to the whole clip, while some are meant to be placed at particular locations over the clip. Slide on the ‘Attach to a point’ toggle, so it makes the effect move or stay fixed, depending on the object it is fixed to.
+3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
+
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+## Part 6: How to export a Story Remix video
+
+Now that you have learnt how to edit videos in Story Remix, let’s see how can you export or share them with the world. You can directly share from Photos or use a USB drive to do the needful.
+
+1. Click on the project name > give a new name > ‘Enter’.
+2. Press ‘Export or share’ > ‘S’/’M’/’L’.
+
+**Note**: S is for mobile and email with a small video, M is for social media uploads, and L is meant for large Remix videos meant for large screens.
+
+The file location is displayed soon after you create the video by the Photos app. On wanting to share the video, just hit on ‘Share to social media, email, or other apps’.
+
+Now, pick the app or contact and send the video.
+
+Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+## Conclusion
+
+From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
+
+Why bother for messy and complex video editing tools, when you can get everything at your fingertips using this photo and video editing app. In case you are up for some advanced features and functionalities, then you might opt for a paid program.
+
+If you want to edit video, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+When it comes to Windows 10 systems, the offering in terms of features and functionalities surpass the earlier versions. Just talk about the Windows Photo Viewer and it brings a fresh air to Windows Photo Viewer by updating to [Microsoft Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab).
+
+For video editing, it has great things to offer, such as Story Remix.
+
+If you are wondering, what Story Remix is, then we must tell you that, it is the advanced feather on the Photos App’s cap. This is meant to adapt artificial intelligence technology and automatically collate relevant content to create videos. These videos are shareable and you can save, edit or delete them as you wish.
+
+Moreover, creating own videos is also possible with this tool.
+
+* [**Part1: How to download Story Remix in Windows**](#part1)
+* [**Part2: How to create Story Remix automatically and randomly**](#part2)
+* [**Part3: How to create a Story Remix project from scratch**](#part3)
+* [**Part4: How to edit a Story Remix video**](#part4)
+* [**Part5: How to add 3D effects to a Story Remix project**](#part5)
+* [**Part6: How to export a Story Remix video**](#part6)
+
+## Part 1: How to download Story Remix in Windows
+
+In case you want to download Story Remix, we must tell you it is not a standalone product. It is bundled within the Windows Photos App.
+
+Downloading Photos App will add Story Remix to your system for brilliant video editing. But, you got to update Photos with ‘Fall Creators Update’ in order to activate the Story Remix feature.
+
+Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 2: How to create Story Remix automatically and randomly
 
 In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
@@ -81,6 +468,9 @@ Here is the guide –
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to edit a Story Remix video
 
 Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
@@ -124,6 +514,9 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
 2. Hit ‘Done’ in the end.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Part 5: How to add 3D effects to a Story Remix project
 
 Adding 3D special effects to video clips is one of the lucrative features of Photos app.
@@ -194,8 +587,14 @@ Downloading Photos App will add Story Remix to your system for brilliant video e
 
 Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 2: How to create Story Remix automatically and randomly
 
 In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
@@ -206,6 +605,9 @@ How to create a Story Remix project automatically –
    2. You got to choose the image and videos and click **New video**. Then choose Automatic video with music.
    3. Give a name and tap on **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
 
    1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
@@ -226,6 +628,9 @@ Here is the guide –
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to edit a Story Remix video
 
 Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
@@ -241,14 +646,23 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
 
 Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Adding custom text
 
 1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
@@ -257,6 +671,9 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adding motion
 
 1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
@@ -279,6 +696,10 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Part 6: How to export a Story Remix video
 
 Now that you have learnt how to edit videos in Story Remix, let’s see how can you export or share them with the world. You can directly share from Photos or use a USB drive to do the needful.
@@ -294,6 +715,9 @@ Now, pick the app or contact and send the video.
 
 Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
@@ -304,296 +728,9 @@ If you want to edit video, we recommend [Wondershare Filmora](https://tools.tech
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-When it comes to Windows 10 systems, the offering in terms of features and functionalities surpass the earlier versions. Just talk about the Windows Photo Viewer and it brings a fresh air to Windows Photo Viewer by updating to [Microsoft Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab).
-
-For video editing, it has great things to offer, such as Story Remix.
-
-If you are wondering, what Story Remix is, then we must tell you that, it is the advanced feather on the Photos App’s cap. This is meant to adapt artificial intelligence technology and automatically collate relevant content to create videos. These videos are shareable and you can save, edit or delete them as you wish.
-
-Moreover, creating own videos is also possible with this tool.
-
-* [**Part1: How to download Story Remix in Windows**](#part1)
-* [**Part2: How to create Story Remix automatically and randomly**](#part2)
-* [**Part3: How to create a Story Remix project from scratch**](#part3)
-* [**Part4: How to edit a Story Remix video**](#part4)
-* [**Part5: How to add 3D effects to a Story Remix project**](#part5)
-* [**Part6: How to export a Story Remix video**](#part6)
-
-## Part 1: How to download Story Remix in Windows
-
-In case you want to download Story Remix, we must tell you it is not a standalone product. It is bundled within the Windows Photos App.
-
-Downloading Photos App will add Story Remix to your system for brilliant video editing. But, you got to update Photos with ‘Fall Creators Update’ in order to activate the Story Remix feature.
-
-Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
-
-## Part 2: How to create Story Remix automatically and randomly
-
-In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
-
-How to create a Story Remix project automatically –
-
-   1. Launch **Photos** \> **Collection**.
-   2. You got to choose the image and videos and click **New video**. Then choose Automatic video with music.
-   3. Give a name and tap on **OK**.
-
-![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
-
-   1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
-   2. You can rearrange the content by tapping **Remix it for me** button.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
-
-## Part 3: How to create a Story Remix project from scratch
-
-Here is the guide –
-
-   1. Launch **Photos** and hit on **Create**.
-   2. Hit **Video project** and pick out the images/videos you wish.
-   3. Tap on the **Add** button and give a name.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-random-min.jpg)
-
-1. Hit on **Create video** afterwards.
-2. Now, you can preview, edit or share your video.
-
-## Part 4: How to edit a Story Remix video
-
-Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
-
-In the following sections, we have segregated each editing feature of Story Mix for you to explore –
-
-### Adding a new theme
-
-A theme is a built-in feature in Photos, just like music, filters, and text styles. Adding a theme does everything on the go.
-
-1. First all the things are added to your timeline followed by adding to the toolbar. Hit on **Themes** subsequently.
-2. You can select one theme from the listed options namely, "No theme", "Adventure", "Chilled", "Classic", "Electric", "Joy" and "Loved". Preview the selected theme and if satisfied, click on "Done".
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
-
-### Adding image duration
-
-While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
-
-Tap the ‘Duration’ button > pick another value or manually set the seconds.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
-
-### Adding custom text
-
-1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
-2. Use layout option and select location so that you can make the caption or title show up in a different place.
-3. Hit ‘Done’ after that.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
-
-### Adding motion
-
-1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
-2. Preview the changes and click ‘Done’.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
-
-### Trimming video clips
-
-1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
-2. Hit ‘Done’ in the end.
-
-## Part 5: How to add 3D effects to a Story Remix project
-
-Adding 3D special effects to video clips is one of the lucrative features of Photos app.
-
-1. You can add 3D effects by selecting the clip in timeline and clicking the ‘3D effects’ button.
-2. Position the effect by dragging/dropping and via preview panel > set the time range for effect > adjust the Y and Z co-ordinates for the effect. Some of the effects are applicable to the whole clip, while some are meant to be placed at particular locations over the clip. Slide on the ‘Attach to a point’ toggle, so it makes the effect move or stay fixed, depending on the object it is fixed to.
-3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
-
-## Part 6: How to export a Story Remix video
-
-Now that you have learnt how to edit videos in Story Remix, let’s see how can you export or share them with the world. You can directly share from Photos or use a USB drive to do the needful.
-
-1. Click on the project name > give a new name > ‘Enter’.
-2. Press ‘Export or share’ > ‘S’/’M’/’L’.
-
-**Note**: S is for mobile and email with a small video, M is for social media uploads, and L is meant for large Remix videos meant for large screens.
-
-The file location is displayed soon after you create the video by the Photos app. On wanting to share the video, just hit on ‘Share to social media, email, or other apps’.
-
-Now, pick the app or contact and send the video.
-
-Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
-
-## Conclusion
-
-From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
-
-Why bother for messy and complex video editing tools, when you can get everything at your fingertips using this photo and video editing app. In case you are up for some advanced features and functionalities, then you might opt for a paid program.
-
-If you want to edit video, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) .
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-When it comes to Windows 10 systems, the offering in terms of features and functionalities surpass the earlier versions. Just talk about the Windows Photo Viewer and it brings a fresh air to Windows Photo Viewer by updating to [Microsoft Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab).
-
-For video editing, it has great things to offer, such as Story Remix.
-
-If you are wondering, what Story Remix is, then we must tell you that, it is the advanced feather on the Photos App’s cap. This is meant to adapt artificial intelligence technology and automatically collate relevant content to create videos. These videos are shareable and you can save, edit or delete them as you wish.
-
-Moreover, creating own videos is also possible with this tool.
-
-* [**Part1: How to download Story Remix in Windows**](#part1)
-* [**Part2: How to create Story Remix automatically and randomly**](#part2)
-* [**Part3: How to create a Story Remix project from scratch**](#part3)
-* [**Part4: How to edit a Story Remix video**](#part4)
-* [**Part5: How to add 3D effects to a Story Remix project**](#part5)
-* [**Part6: How to export a Story Remix video**](#part6)
-
-## Part 1: How to download Story Remix in Windows
-
-In case you want to download Story Remix, we must tell you it is not a standalone product. It is bundled within the Windows Photos App.
-
-Downloading Photos App will add Story Remix to your system for brilliant video editing. But, you got to update Photos with ‘Fall Creators Update’ in order to activate the Story Remix feature.
-
-Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
-
-## Part 2: How to create Story Remix automatically and randomly
-
-In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
-
-How to create a Story Remix project automatically –
-
-   1. Launch **Photos** \> **Collection**.
-   2. You got to choose the image and videos and click **New video**. Then choose Automatic video with music.
-   3. Give a name and tap on **OK**.
-
-![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
-
-   1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
-   2. You can rearrange the content by tapping **Remix it for me** button.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
-
-## Part 3: How to create a Story Remix project from scratch
-
-Here is the guide –
-
-   1. Launch **Photos** and hit on **Create**.
-   2. Hit **Video project** and pick out the images/videos you wish.
-   3. Tap on the **Add** button and give a name.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-random-min.jpg)
-
-1. Hit on **Create video** afterwards.
-2. Now, you can preview, edit or share your video.
-
-## Part 4: How to edit a Story Remix video
-
-Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
-
-In the following sections, we have segregated each editing feature of Story Mix for you to explore –
-
-### Adding a new theme
-
-A theme is a built-in feature in Photos, just like music, filters, and text styles. Adding a theme does everything on the go.
-
-1. First all the things are added to your timeline followed by adding to the toolbar. Hit on **Themes** subsequently.
-2. You can select one theme from the listed options namely, "No theme", "Adventure", "Chilled", "Classic", "Electric", "Joy" and "Loved". Preview the selected theme and if satisfied, click on "Done".
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
-
-### Adding image duration
-
-While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
-
-Tap the ‘Duration’ button > pick another value or manually set the seconds.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
-
-### Adding custom text
-
-1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
-2. Use layout option and select location so that you can make the caption or title show up in a different place.
-3. Hit ‘Done’ after that.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
-
-### Adding motion
-
-1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
-2. Preview the changes and click ‘Done’.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
-
-### Trimming video clips
-
-1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
-2. Hit ‘Done’ in the end.
-
-## Part 5: How to add 3D effects to a Story Remix project
-
-Adding 3D special effects to video clips is one of the lucrative features of Photos app.
-
-1. You can add 3D effects by selecting the clip in timeline and clicking the ‘3D effects’ button.
-2. Position the effect by dragging/dropping and via preview panel > set the time range for effect > adjust the Y and Z co-ordinates for the effect. Some of the effects are applicable to the whole clip, while some are meant to be placed at particular locations over the clip. Slide on the ‘Attach to a point’ toggle, so it makes the effect move or stay fixed, depending on the object it is fixed to.
-3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
-
-![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
-
-## Part 6: How to export a Story Remix video
-
-Now that you have learnt how to edit videos in Story Remix, let’s see how can you export or share them with the world. You can directly share from Photos or use a USB drive to do the needful.
-
-1. Click on the project name > give a new name > ‘Enter’.
-2. Press ‘Export or share’ > ‘S’/’M’/’L’.
-
-**Note**: S is for mobile and email with a small video, M is for social media uploads, and L is meant for large Remix videos meant for large screens.
-
-The file location is displayed soon after you create the video by the Photos app. On wanting to share the video, just hit on ‘Share to social media, email, or other apps’.
-
-Now, pick the app or contact and send the video.
-
-Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
-
-## Conclusion
-
-From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
-
-Why bother for messy and complex video editing tools, when you can get everything at your fingertips using this photo and video editing app. In case you are up for some advanced features and functionalities, then you might opt for a paid program.
-
-If you want to edit video, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) .
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -624,3 +761,40 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>[New] Mobile Cinema  Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-gen-escapades-upcoming-best-playstation-vr-games-to-try/"><u>[New] Next-Gen Escapades  Upcoming Best PlayStation VR Games to Try</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-start-guide-zooming-into-fb-live-on-the-web/"><u>[New] Quick Start Guide  Zooming Into FB Live on the Web</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reigniting-creativity-exclusive-free-drawing-tools-for-mac-users/"><u>[New] Reigniting Creativity  Exclusive FREE Drawing Tools for Mac Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sculpting-images-creative-distortion-with-adobe-ph/"><u>[New] Sculpting Images  Creative Distortion with Adobe PH</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sharing-tunes-instagram-copyright-edicts/"><u>[New] Sharing Tunes  Instagram Copyright Edicts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-list-11-streamers-go-to-audio-devices/"><u>[Updated] 2024 Approved  Essential List  11 Streamers' Go-To Audio Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-from-mobile-to-hard-drive-best-online-and-os-x-exporters-for-instagram-videos/"><u>[Updated] 2024 Approved  From Mobile to Hard Drive  Best Online and OS X Exporters for Instagram Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-list-of-text-tools-and-plugins/"><u>[Updated] 2024 Approved  Ultimate List of Text Tools & Plugins</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-video-host-vs-stream-pro-the-battle-of-obs-and-twitch-studio/"><u>[Updated] In 2024, Video Host Vs. Stream Pro - The Battle of OBS and Twitch Studio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-jovial-access-key-strategies/"><u>[Updated] Jovial Access Key Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-license-free-meditation-songs-your-ultimate-selection/"><u>[Updated] License-Free Meditation Songs – Your Ultimate Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigate-to-new-horizinas-top-win11-gaming-delights/"><u>[Updated] Navigate to New Horizinas  Top Win11 Gaming Delights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-oral-outputs-the-ultimate-list-for-offline-transcription-apps/"><u>[Updated] Oral Outputs  The Ultimate List for Offline Transcription Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-pixels-select-the-leading-video-editors-for-big-sur/"><u>[Updated] Pioneering Pixels  Select the Leading Video Editors for Big Sur</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stay-focused-with-no-youtube-thumbnail-view/"><u>[Updated] Stay Focused with No YouTube Thumbnail View</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-exclusive-list-best-fb-video-mp4-extractors/"><u>2024 Approved  Exclusive List  Best FB Video MP4 Extractors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-alternative-footage-in-filmmaking/"><u>2024 Approved  Leveraging Alternative Footage in Filmmaking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-light-on-shadows-techniques-for-depth-in-illustrator/"><u>2024 Approved  Light on Shadows  Techniques for Depth in Illustrator</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-like-a-pro-with-top-windows-10-hacks/"><u>2024 Approved  Navigate Like a Pro with Top WINDOWS 10 Hacks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-new-to-telegram-heres-your-guide-to-getting-started-with-marketing/"><u>2024 Approved  New to Telegram? Here's Your Guide to Getting Started with Marketing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-pieces-captivating-collages/"><u>2024 Approved  Perfect Pieces, Captivating Collages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-video-conferencing-with-zoom-and-gmail/"><u>2024 Approved  Seamless Video Conferencing with Zoom & Gmail</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stay-on-the-edge-insights-into-panasonics-hx-a1-actionrecorder/"><u>2024 Approved  Stay on the Edge  Insights Into Panasonic's HX-A1 ActionRecorder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-8-low-lag-screen-snipters-overview/"><u>2024 Approved  Top 8 Low-Lag Screen Snipters Overview</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discovering-the-most-trusted-mac-snipers/"><u>Discovering the Most Trusted Mac Snipers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-note-30-vip-racing-edition-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Note 30 VIP Racing Edition Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-s17t-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo S17t? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-vidgrabber-mobilepc-for-fb-streams/"><u>In 2024, VidGrabber  Mobile/PC for Fb Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-logo-design-10-keys-to-podcast-prominence-for-2024/"><u>Mastering Logo Design  10 Keys to Podcast Prominence for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/motivating-moments-on-the-silver-screen-for-2024/"><u>Motivating Moments on the Silver Screen for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/no-frills-affordable-camera-selections-for-2024/"><u>No-Frills, Affordable Camera Selections for 2024</u></a></li>
+</ul></div>

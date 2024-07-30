@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional Vision  Optimizing Video Lighting Techniques\""
-date: 2024-05-31T05:27:57.423Z
-updated: 2024-06-01T05:27:57.423Z
+date: 2024-07-27T19:54:47.235Z
+updated: 2024-07-28T19:54:47.235Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Professional Vision: Optimizing Video Lighting Techniques\""
 excerpt: "\"This Article Describes [Updated] Professional Vision: Optimizing Video Lighting Techniques\""
 keywords: "Video Light Boost,Optimal Film Illumination,Professional Lightscape,Bright Videography,Expert Video Lighting,Techie Visuals Enhance,Video Shine Technique"
-thumbnail: https://www.lifewire.com/thmb/4tUkHI9DMwB9qvnmAkwvCvX7ps8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GIF-Gallery-Instagram-iPhone-8635408-3bc01cb02a56401883d0b483d91a57f0.jpg
+thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a1cf9aa58c2806ddb93b59d9.jpg
 ---
 
 ## Professional Vision: Optimizing Video Lighting Techniques
@@ -52,12 +52,18 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -70,10 +76,21 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -90,8 +107,14 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -124,3 +147,54 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-your-communication-master-skype-calls-recording/"><u>[New] In 2024, Elevate Your Communication  Master Skype Calls Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-video-tips-trim-to-size-with-precision-cutting/"><u>[New] IPhone Video Tips  Trim to Size with Precision Cutting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-radio-at-your-fingertips-an-easy-recording-guide/"><u>[New] Live Radio at Your Fingertips  An Easy Recording Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-gen-thrills-with-intova-x-action-tech/"><u>[New] Next-Gen Thrills with Intova X Action Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nikon-j5-in-4k-the-ultimate-camera-review/"><u>[New] Nikon J5 in 4K  The Ultimate Camera Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-changes-to-your-pubg-characters-speech/"><u>[New] Pioneering Changes to Your PUBG Character's Speech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-picks-cutting-edge-content-from-googloud/"><u>[New] Premium Picks  Cutting-Edge Content From GooGloud</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-list-of-affordable-high-definition-cameras/"><u>[New] Prime List of Affordable High Definition Cameras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snapping-multiple-images-on-iphone-in-a-blink/"><u>[New] Snapping Multiple Images on iPhone in a Blink</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-srt-pinnacle-selecting-the-premier-turbo-charger-systems-for-os-xwin/"><u>[New] SRT Pinnacle  Selecting the Premier Turbo Charger Systems for OS X/Win</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-dive-deep-into-video-mastery-with-vida-reviewed-here/"><u>[Updated] Dive Deep Into Video Mastery with Vida Reviewed Here</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-elevate-video-quality-with-vlcs-high-resolution-webcam-recording/"><u>[Updated] In 2024, Elevate Video Quality with VLC's High-Resolution Webcam Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-lens-magic-perfecting-close-up-and-macro-shots/"><u>[Updated] IPhone Lens Magic  Perfecting Close-Up and Macro Shots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-keep-your-digital-treasures-storing-insta-media-on-iphone/"><u>[Updated] Keep Your Digital Treasures  Storing Insta Media on iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-luminous-videos-unveiling-5-pioneering-apps/"><u>[Updated] Luminous Videos  Unveiling 5 Pioneering Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-on-the-lookout-for-economical-vr-experience-china/"><u>[Updated] On the Lookout for Economical VR Experience (China)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>[Updated] Picture-in-Picture Unveiled  Your Guide to Firefox’s PIP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-parchment-creators/"><u>[Updated] Premier Parchment Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sleep-soundly-top-aspers-techniques-unveiled/"><u>[Updated] Sleep Soundly  Top Asper's Techniques Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-subscribe-like-a-pro-true-or-false/"><u>[Updated] Subscribe Like a Pro  True or False?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unrestricted-creativity-the-ultimate-android-editing-selection/"><u>[Updated] Unrestricted Creativity  The Ultimate Android Editing Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-complex-video-effects-and-transitions-in-gopro-studio/"><u>2024 Approved  Mastering Complex Video Effects and Transitions in GoPro Studio</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-quieter-recordings-basic-or-advanced-techniques/"><u>2024 Approved  Mastering Quieter Recordings - Basic or Advanced Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photodirector-masterclass-review/"><u>2024 Approved  PhotoDirector Masterclass Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixel-power-the-top-10-cameras-for-clear-images/"><u>2024 Approved  Pixel Power  The Top 10 Cameras for Clear Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-profit-on-reddit-here-are-your-13-most-accessible-ways/"><u>2024 Approved  Quick Profit on Reddit? Here Are Your 13 Most Accessible Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skip-the-hassle-find-4-ringtone-sources-here/"><u>2024 Approved  Skip the Hassle  Find 4 Ringtone Sources Here</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smoothly-softening-endings-audio-fades-made-simple-with-adobe-premiere-pro/"><u>2024 Approved  Smoothly Softening Endings  Audio Fades Made Simple with Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-spin-cycle-in-the-ice-arena-of-22/"><u>2024 Approved  Spin Cycle in the Ice Arena of '22</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a78-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-camon-20-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Camon 20 Pro 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-listening-in-text-out-no-fee-required/"><u>In 2024, Listening In, Text Out – No Fee Required</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-luminous-landscapes-designing-visuals-that-dazzle-viewers/"><u>In 2024, Luminous Landscapes  Designing Visuals that Dazzle Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-video-on-ios-top-10-applications-to-watch/"><u>In 2024, Mastering Video on iOS  Top 10 Applications to Watch</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-preventing-motion-sickness-in-virtual-worlds/"><u>In 2024, Preventing Motion Sickness in Virtual Worlds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-the-digital-experience-through-zooming/"><u>In 2024, Sculpting the Digital Experience Through Zooming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-spectacular-visuals-the-power-of-tiktok-effects/"><u>In 2024, Spectacular Visuals  The Power of TikTok Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/peek-into-hidden-social-interaction-on-platforms-like-youtube-for-2024/"><u>Peek Into Hidden Social Interaction on Platforms Like YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premiere-pros-best-practices-free-template-samples-for-2024/"><u>Premiere Pro's Best Practices  FREE Template Samples for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-level-drone-racing-techniques-and-quintessential-fpvs-for-2024/"><u>Pro-Level Drone Racing Techniques & Quintessential FPVs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secure-and-convenient-content-with-funimate-tools-for-2024/"><u>Secure and Convenient Content with Funimate Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/strategic-planning-of-podcast-drop-times-for-2024/"><u>Strategic Planning of Podcast Drop Times for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-c12-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia C12 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-xr-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone XR</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/viral-visionaries-top-ten-meme-templates-exposed-for-2024/"><u>Viral Visionaries  Top Ten Meme Templates Exposed for 2024</u></a></li>
+</ul></div>

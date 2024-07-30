@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating FFXP  The User Manual\""
-date: 2024-05-31T05:27:49.119Z
-updated: 2024-06-01T05:27:49.119Z
+date: 2024-07-27T19:46:15.587Z
+updated: 2024-07-28T19:46:15.587Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Navigating FFXP: The User Manual\""
 excerpt: "\"This Article Describes [New] Navigating FFXP: The User Manual\""
 keywords: "FFXP Guidebook,XP Progression Tips,FFXP Strategies,Understanding FFXP,Player's X Mastery (FFXP),Path to X Mastery (FFXP),Navigating FFX Progressions"
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Navigating FFXP: The User Manual
@@ -24,6 +24,9 @@ This feature is an important tool to help you multitask by dragging videos from 
 
 ![the firefox]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. How Picture-in-Picture Mode Works
 
 Picture-in-Picture allows for simple tab navigation without interfering with the video you are viewing. Enabling this feature allows your videos to play in a tiny overlay utilizing a separate video player. Users may move, resize and even pin the player on the screen. You may even switch between tabs without interfering with video playing.
@@ -34,6 +37,9 @@ When your video is in picture-in-picture mode, the video placeholder also displa
 
 Using keyboard shortcuts, you can make adjustments for loudness but not for the video quality. However, you may make these adjustments from the original web page of the film. Also, keep in mind that any modifications to its initial position will affect the floating player. The video will immediately disappear when you refresh or open a new website in that tab.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Part 2\. How to activate Picture-in-Picture (PiP) in Firefox
 
 Firefox is often considered one of the most data-protective browsers, but that is not all. Mozilla Firefox also comes with a variety of useful tools and features. It even incorporates certain features you can only find through extensions in other browsers.
@@ -52,6 +58,9 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 2. Click on the 3 horizontal lines in the top-right menu.
 3. Choose the **Options/Settings** from the menu list. This opens the settings mode and its general model.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the options/settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-2.jpg)
 
 1. Scroll down in the General mode to locate the **Browsing** settings option.
@@ -61,6 +70,9 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 
 Following the above procedure, you may now see the Firefox Picture-in-Picture symbol in the video streaming player. Whenever you visit a streaming site, a symbol for pip mode appears as an overlay on the video screen.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the firefox picture in picture symbol]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-4.jpg)
 
 You can load only a single video using the above guideline. Suppose you want to lunch multiple videos to increase your multitasking experience. In that case, follow the outlined procedure:
@@ -83,14 +95,23 @@ Sometimes, the PiP mode can disturb necessary research or task that needs your f
 
 ## Part 4\. Other tips about Picture-in-Picture Mode in Firefox
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### 4.1 Picture-in-Picture extension in Firefox
 
 Another mode of having your picture-in-picture mode on Firefox is using the available add-on features. You can access several add-on extensions available on Firefox by tapping the **Menu** button. Locate the [add-on menu item](https://addons.mozilla.org/en-US/firefox/) and click it. Once it loads, you can use the search bar at the top right corner to select your preferred picture-in-picture add-on.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.2 Keyboard shortcuts about Picture-in-Picture in Firefox
 
 It is also possible to enable and disable the picture-in-picture mode using keyboard shortcuts. To get this done, use the key combination of **'Ctrl + Shift + \]'**. By simultaneously holding these keys, Firefox will launch the relevant video on the web page into a picture-in-picture mode. However, if the feature has been enabled before pressing the key combination, it automatically disables the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the key combination]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-7.jpg)
 
 ## Part 5\. FAQs
@@ -99,10 +120,16 @@ It is also possible to enable and disable the picture-in-picture mode using keyb
 
 After opening the tab, drag the application up, then scroll down to the bottom right corner to select the desk pin. Finally, click on the tab opened with the pin cursor, and it will be on top always.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why is picture-in-picture in Firefox not working?
 
 On Firefox, this mode is always on by default, but when the picture-in-picture feature is not working; follow the step-by-step guideline explained above to enable it manually. Once you perform these procedures using the keyboard shortcut or settings mode, it will start working.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How do I resize the picture-in-picture window in Firefox?
 
 You can, of course, resize it and move it wherever you want. Hold down the left click and move it with your mouse to do this. Simply place your cursor in a corner to expand or shrink the window.
@@ -139,3 +166,44 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-mechanics-of-parody-video-making-101/"><u>[New] In 2024, The Mechanics of Parody  Video Making 101</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-laptop-editing-beyond-inshot-tools/"><u>[New] Laptop Editing  Beyond Inshot Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-lumapro-the-budget-friendly-lightroom-pairings/"><u>[New] LumaPro  The Budget-Friendly Lightroom Pairings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-musical-beginnings-the-top-10-tracks-for-engaging-podcast-intros/"><u>[New] Musical Beginnings  The Top 10 Tracks for Engaging Podcast Intros</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfectly-sync-apple-music-to-your-videos/"><u>[New] Perfectly Sync Apple Music to Your Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-audio-edits-with-garageband-features/"><u>[New] Seamless Audio Edits with GarageBand Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-integration-of-skype-and-zoom-for-businesses/"><u>[New] Seamless Integration of Skype and Zoom for Businesses</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-securing-your-scene-minimize-camera-jostle/"><u>[New] Securing Your Scene  Minimize Camera Jostle</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>[New] Sound Engineering Simplified  Gradual Diminishment in Lumafusion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/treamline-your-content-with-essential-ratio-knowledge-for-youtube/"><u>[New] Streamline Your Content with Essential Ratio Knowledge for YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-look-whatsapps-voice-message-technology/"><u>[Updated] Inside Look  WhatsApp's Voice Message Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-interactive-solutions-with-vr/"><u>[Updated] Interactive Solutions with VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-length-and-style-in-your-instagram-videos/"><u>[Updated] Leveraging Length and Style in Your Instagram Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-podcast-upload-on-itunes/"><u>[Updated] Mastering Podcast Upload on iTunes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-superior-soundscape-top-tunes-for-unboxing-vids/"><u>[Updated] Secrets to Superior Soundscape  Top Tunes for Unboxing Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-6-social-media-channels-fostering-business-innovation/"><u>2024 Approved  Leading 6 Social Media Channels Fostering Business Innovation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-storytelling-on-screen-crafting-compelling-narratives-for-instareels/"><u>2024 Approved  Storytelling on Screen  Crafting Compelling Narratives for InstaReels</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/driving-audience-growth-with-smart-fb-video-tactics/"><u>Driving Audience Growth with Smart FB Video Tactics</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nokia-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nokia Pattern Lock Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incremental-diminution-strategies-for-fl-studio-enthusiasts/"><u>In 2024, Incremental Diminution Strategies for FL Studio Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-titles-for-3d-visuals-and-lustrous-text-online/"><u>In 2024, Leading Titles for 3D Visuals & Lustrous Text Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-level-up-your-playtime-examining-kinemaster-on-android/"><u>In 2024, Level Up Your Playtime  Examining KineMaster on Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-mp4-files-with-srt-a-modern-methodology/"><u>In 2024, Perfecting MP4 Files with SRT - A Modern Methodology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photography-tips-for-iphone/"><u>In 2024, Photography Tips for iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-plays-premieres-audio-switching/"><u>In 2024, Precision Plays  Premiere’s Audio Switching</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-6-choices-for-cost-effective-4k-projection/"><u>In 2024, Premium 6 Choices for Cost-Effective 4K Projection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-six-visionaries-revolutionizing-the-nft-art-scene/"><u>In 2024, Six Visionaries Revolutionizing the NFT Art Scene</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soften-image-periphery-with-circular-light-blend-photoshop/"><u>In 2024, Soften Image Periphery with Circular Light Blend Photoshop</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-12-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus 12 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-the-backlink-jungle-a-video-content-guide-for-2024/"><u>Navigating the Backlink Jungle  A Video Content Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/noir-effects-in-adobe-premiere-for-2024/"><u>Noir Effects in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-places-for-accessible-outstanding-vector-design-tools-for-2024/"><u>Prime Places for Accessible, Outstanding Vector Design Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/resizing-imagery-on-iphone-without-hassle-for-2024/"><u>Resizing Imagery on iPhone Without Hassle for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sculpt-comical-visuals-for-digital-sharing-for-2024/"><u>Sculpt Comical Visuals for Digital Sharing for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-poco-m6-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Poco M6 5G Device</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/transform-photos-with-the-premier-11-edits/"><u>Transform Photos with the Premier 11 Edits</u></a></li>
+</ul></div>

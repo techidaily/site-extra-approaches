@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Practical Steps to Remove the Cluttered Background in Figma"
-date: 2024-05-31T05:27:55.275Z
-updated: 2024-06-01T05:27:55.275Z
+date: 2024-07-27T19:52:35.708Z
+updated: 2024-07-28T19:52:35.708Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Practical Steps to Remove the Cluttered Background in Figma"
 excerpt: "This Article Describes In 2024, Practical Steps to Remove the Cluttered Background in Figma"
 keywords: "\"Green Design Plans,Blueprint Templates,Eco-Friendly Builds,FREE Architect Guide,Practical Design Tools,Free Template Downloads,Sustainable Construction Aids\""
-thumbnail: https://www.lifewire.com/thmb/XgfyBKYvqv8gtnRlFpU9E6AWsUg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/savescreenshotonxboxseriesxs-4f0cc19fdaa4472a9f607b07a85e75f9.jpg
+thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b573d2796a1411e612ad84808.jpg
 ---
 
 ## Practical Steps to Remove the Cluttered Background in Figma
@@ -26,12 +26,18 @@ To make things easier, we've written a comprehensive step-by-step guide on **rem
 
 So, keep reading to find out about removing an image's background in Figma!
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Option to Remove Image's Background in Figma
 
 As aforementioned, **Figma** does not offer a **Background Remover** tool but comes with a Plugins menu to help you find the required tool.
 
 Since you want to remove the image's background, there is no better plugin than [Wondershare PixCut](https://pixcut.wondershare.com/), a free tool that helps you erase your picture's BG instantly. With this plugin, you can edit up to files per day, and that too in high-quality resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Why Use The PixCut Tool?
 
 Here's how the PixCut tool stands out from the rest of the image editing tools available in the digital market:
@@ -58,6 +64,9 @@ Here's how you can get the PixCut plugin in Figma and use it to remove the backg
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
@@ -68,6 +77,9 @@ To get the APPkey, visit **"Wondershare PixCut,"** log in to your account using 
 
 Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, click the **"Main Menu"** icon and navigate to **"Plugins" > "PixCut Background Remover" > "Run."**
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
@@ -76,6 +88,9 @@ The program will start running the plugin, and the background of your image will
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
 Follow these tips to remove the background of images with transparent or solid color:
@@ -83,6 +98,9 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -111,6 +129,9 @@ Another alternative is to use any tool that **removes the image background onlin
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
@@ -145,6 +166,9 @@ To use the Remove BG tool, visit its website, drop your image file, or click the
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -175,3 +199,39 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-comedy-kings-and-queens-whos-tops-for-2024/"><u>[New] Comedy Kings and Queens  Who's Tops for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-landscape-of-firefox-picture-in-picture/"><u>[New] Navigating the Landscape of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pathway-from-srt-to-subc-3-actionable-methods/"><u>[New] Pathway From SRT to SUBC  3 Actionable Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-vr-manipulators-to-try-now/"><u>[New] Premier VR Manipulators to Try Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smart-strategies-showcase-ranking-best-trivia-video-streams/"><u>[New] Smart Strategies Showcase  Ranking Best Trivia Video Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spotlight-on-snapchat-a-step-by-step-guide/"><u>[New] Spotlight on Snapchat  A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-starters-guide-select-the-best-10-editors/"><u>[Updated] 2024 Approved  Instagram Starters Guide - Select the Best 10 Editors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-media-production-magix-video-pro-x-insights/"><u>[Updated] Mastering Media Production  Magix Video Pro X Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-oculus-odyssey-a-journey-through-best-vr-headsets/"><u>[Updated] Oculus Odyssey  A Journey Through Best VR Headsets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-timekeeping-for-your-nuptials-appleandroid-selection/"><u>[Updated] Premium Timekeeping For Your Nuptials  Apple/Android Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ringing-in-the-faith-customizing-your-mobile-music/"><u>[Updated] Ringing in the Faith - Customizing Your Mobile Music</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-scaling-up-likes-in-tiktok-unboxing-videos/"><u>[Updated] Scaling up 'Likes' In TikTok Unboxing Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-setting-the-stage-for-success-zoom-configuration-101/"><u>[Updated] Setting the Stage for Success  Zoom Configuration 101</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-top-10-techniques-live-cricket-broadcasting-for-2024/"><u>[Updated] Unveiling Top 10 Techniques  Live Cricket Broadcasting for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-players-guide-rift-vive-vs-ps-vr-games/"><u>2024 Approved  Next-Gen Players Guide  Rift, Vive, vs PS VR Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-free-template-pack-top-titles-for-ae-dreamers/"><u>2024 Approved  Premium FREE Template Pack  Top Titles for AE Dreamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-iphone-guide-for-stunning-photo-mashups/"><u>2024 Approved  Step-by-Step iPhone Guide for Stunning Photo Mashups</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/farm-tastic-fun-and-games-top-friendly-farming-titles/"><u>Farm-Tastic Fun & Games  Top Friendly Farming Titles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-xcover-6-pro-tactical-edition-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy XCover 6 Pro Tactical Edition Phone that is Locked?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-social-connectivity-from-instagram-to-tiktoks-playground/"><u>In 2024, Mastering Social Connectivity  From Instagram to TikTok's Playground</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaversal-journey-versus-omniverse-quest/"><u>In 2024, Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-aerial-companions-for-gopro-hd-adventures/"><u>In 2024, Premium Aerial Companions for GoPro HD Adventures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-professionals-complete-handbook-to-fcp-mastery/"><u>In 2024, Professional's Complete Handbook to FCP Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-steps-to-crossfade-audio-in-logic-pro-x/"><u>In 2024, Steps To Crossfade Audio In Logic Pro X</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tailoring-melodies-for-youtube-personalized-list-creation/"><u>In 2024, Tailoring Melodies for YouTube  Personalized List Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-collage-crafting-made-simple-for-2024/"><u>IPhone Collage Crafting Made Simple for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/livestream-launchpad-duel-go-with-xsplit-or-opt-for-obs-for-2024/"><u>Livestream Launchpad Duel  Go with XSplit or Opt for OBS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-text-warping-techniques-in-photos-and-videos-for-2024/"><u>Mastering Text Warping Techniques in Photos & Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/maximizing-hd-playback-on-social-media-fb/"><u>Maximizing HD Playback on Social Media (FB)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-tips-for-iphone-burst-photo-sequences/"><u>Pro Tips for iPhone Burst Photo Sequences</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-most-popular-anime-themed-tiktok-videos-of-all-time/"><u>The Most Popular Anime-Themed TikTok Videos of All Time</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-xr-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone XR? 5 Tips You Must Know</u></a></li>
+</ul></div>

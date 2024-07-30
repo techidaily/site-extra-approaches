@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect 360° Rotation Visual Exploration\""
-date: 2024-07-07T04:35:34.502Z
-updated: 2024-07-08T04:35:34.502Z
+date: 2024-07-27T20:44:29.926Z
+updated: 2024-07-28T20:44:29.926Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
 # Giroptic 360cam Complete Review
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 * [Part 3:Basic specs](#part3)
 * [Part 4:Should I buy](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Complete Review of Giroptic 360cam
 
  **Brief introduction**
@@ -65,6 +71,132 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
  **Video and Image Quality**
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+![Giroptic- image quality](https://images.wondershare.com/filmora/article-images/giroptic-360-cam-image-quality.jpg)
+
+ The camera can capture 4K photos at up to three shots per second and record 2K videos at 30 frames per second. However, its maker Ollier admits that Giroptic 360cam can’t compete with high-end professional 360 cams of Nikon or GoPro. The 2K videos created by the camera have slightly visible stitching lines. However, the sophisticated digital stabilization technology used in the camera ensures that the processed footages run smooth and look good. For amateur shooting purposes, it is no doubt the best!
+
+ **How to edit**
+
+ You don’t need any extra software or external accessory to process the captured images and videos and stitch them into single 360-degree spherical shot. Your Giroptic cam will do that automatically and make the stitched video file ready for social media sites like YouTube, Facebook and Instagram right in the camera itself. It is a smart gadget that knows which sites accept what file formats.
+
+ With the help of the Giroptic's mobile app lets you can easily adjust a few settings, activate camera stabilization during a live feed.
+
+ The stitched photos and videos can be easily transferred to any device including smartphones, tablets, PCs and virtual reality headsets.
+
+## Part 2:Pros and Cons of Giroptic 360cam at a glance
+
+ Giroptic 360cam provides you with a number of definite advantages over its competitors in the market.
+
+| Pros                                                            | Cons                                                          |
+| --------------------------------------------------------------- | ------------------------------------------------------------- |
+| Replaceable battery/SD card                                     | Video isn't as detailed as that from other 360-degree cameras |
+| Water-resistant                                                 | Has trouble stitching video                                   |
+| Light bulb and Ethernet accessories                             | Quite expensive                                               |
+| Takes true 360-degree images                                    | Low video quality                                             |
+| Has an impressive storage space.                                | \-                                                            |
+| Live stream feature                                             | \-                                                            |
+| Rubberized skin.                                                | \-                                                            |
+| Has a universal mount and micro USB port.                       | \-                                                            |
+| Its egg shaped design makes it compact and portable.            | \-                                                            |
+| Shock and water resistant.                                      | \-                                                            |
+| 360cam has native apps both for Android and iOS mobile devices. | \-                                                            |
+| Stitching done in-camera                                        | \-                                                            |
+
+## Part 3:Basic specs of Giroptic 360cam
+
+| Full name                | Giroptic 360cam                                                      |                   |                                 |
+| ------------------------ | -------------------------------------------------------------------- | ----------------- | ------------------------------- |
+| Price                    | Official: $499                                                       |                   |                                 |
+| **Basic specifications** |                                                                      |                   |                                 |
+| Date Available           | 2016-05-24                                                           | Manufacturer      | Giroptic                        |
+| Weight                   | 180g                                                                 | Size              | 70x70x71 mm                     |
+| Memory                   | internal standard SD card slot support is up to 128GB                | Accessible        | WIFI/In-built GPS               |
+| Battery                  | Rechargeable Li-ion Battery 1180mAH, 3.7V up to 1 hour in video mode | Body material     | Magnesium alloy and rubber      |
+| Sensor                   | custom-made CMOS sensors                                             | Lenses            | Three 185 degree fisheye lenses |
+| Image resolution         | Max 4096 x 2048                                                      | Video resolution  | Max 2048 x 1024                 |
+| Aspect Ratio             | 16:9                                                                 | Tripod Mount      | regular mount thread            |
+| Image format             | JPEG                                                                 | Video file format | Video file format               |
+
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 4: Should I buy
+
+ Though the video quality is not as good as Kodak’s or 360fly’s, Giroptic 360cam is certainly a good HD cam which records true 360-degree images. It is also more compatible and works with more smartphone models than cameras like Samsung Gear 360\. With its shock and water resistant features and the tough rubber coating on the body, it is certainly more durable than many other cameras in the market. Although Giroptic is costlier than LG’s 360-degree camera, the video captured by the former is much better in quality. Finally, Giroptic 360cam is more versatile and resistant to elements than most of its near competitors. It is no doubt an all-purpose 360-degree cam that will provide you with a faithful 360-degree experience.
+
+ Check this video to watch a full review of Giroptic 360cam
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+ The Giroptic 360cam is a 360-degree camera built to easily capture video and photos from every angle. Compared with other 360-degree cameras, it’s shape is very unique and crashproof. Below are the complete specs, pros and cons, reviews and suggestions about Giroptic 360cam, hope these can give you a reference if you want to buy a 360-degree camera.
+
+**Related article:** [Top 5 360 Degree Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+* [Part 1:Complete Review](#part1)
+* [Part 2:Pros and Cons at a glance](#part2)
+* [Part 3:Basic specs](#part3)
+* [Part 4:Should I buy](#part4)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+## Part 1: Complete Review of Giroptic 360cam
+
+ **Brief introduction**
+
+ Giroptic 360cam is the first consumer-ready camera that was born out of a Kickstarter campaign two years ago that brought in $ 1.4 million of crowdfunding. With access to this affordable full HD camera one no longer needs expensive camera rigs and post-processing software to create 360 degree images or videos with Virtual Reality (VR) experience. Armed with three equidistant optical lenses and three microphones, it records full spherical videos and high quality JPEG images that can be shared via your smartphone or computers without any extra software.
+
+ **Design**
+
+![Giroptic Design](https://images.wondershare.com/filmora/article-images/giroptic-360cam-details.png)
+
+ The funky pear or egg shaped design of Giroptic 360cam not only makes it totally compact and compatible to all kinds of environments and uses but also quite unique in the market. While the top houses the lenses, the bottom third of the body is detachable and holds that battery and the micro-SD card. The tripod mount and the Ethernet port are also located at the bottom of the camera. The black rubber coating makes it extremely suitable for rugged use and also water-resistant; it can survive up to 30 feet deep underwater for 30 minutes.
+
+ **How to use it**
+
+ Operating Giroptic is very easy as it is essentially one-button process. You only need to press once to record, once to stop; leave the stitching and processing of the frames to your camera. The stitched videos/images will be automatically ready to be uploaded to social sites.
+
+ Apart from the button to start/stop recording, there’s another small button in the camera that lets you switch between different shooting modes like Video, Photo, Burst and Timelapse.
+
+ It uses a small LED display to show you the current shooting mode and the power level of the camera.
+
+ An inbuilt adaptor allows you to look at photos as soon as you take them and decide whether to delete the unwanted photos.
+
+ **Where to use Giroptic 360cam**
+
+![Giroptic- Where to use](https://images.wondershare.com/filmora/article-images/giroptic-360cam-where-to-use.JPG)
+
+ Giroptic 360cam is capable of functioning as a good surveillance camera in your home or workspace. This smart camera can be the diligent record-keeper of all your important business meetings, travels, memorable gathering of family and friends or any sports event.
+
+ **Video and Image Quality**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Giroptic- image quality](https://images.wondershare.com/filmora/article-images/giroptic-360-cam-image-quality.jpg)
 
  The camera can capture 4K photos at up to three shots per second and record 2K videos at 30 frames per second. However, its maker Ollier admits that Giroptic 360cam can’t compete with high-end professional 360 cams of Nikon or GoPro. The 2K videos created by the camera have slightly visible stitching lines. However, the sophisticated digital stabilization technology used in the camera ensures that the processed footages run smooth and look good. For amateur shooting purposes, it is no doubt the best!
@@ -146,6 +278,9 @@ Follow @Benjamin Arango
 
  **Design**
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Giroptic Design](https://images.wondershare.com/filmora/article-images/giroptic-360cam-details.png)
 
  The funky pear or egg shaped design of Giroptic 360cam not only makes it totally compact and compatible to all kinds of environments and uses but also quite unique in the market. While the top houses the lenses, the bottom third of the body is detachable and holds that battery and the micro-SD card. The tripod mount and the Ethernet port are also located at the bottom of the camera. The black rubber coating makes it extremely suitable for rugged use and also water-resistant; it can survive up to 30 feet deep underwater for 30 minutes.
@@ -162,6 +297,9 @@ Follow @Benjamin Arango
 
  **Where to use Giroptic 360cam**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Giroptic- Where to use](https://images.wondershare.com/filmora/article-images/giroptic-360cam-where-to-use.JPG)
 
  Giroptic 360cam is capable of functioning as a good surveillance camera in your home or workspace. This smart camera can be the diligent record-keeper of all your important business meetings, travels, memorable gathering of family and friends or any sports event.
@@ -180,6 +318,9 @@ Follow @Benjamin Arango
 
  The stitched photos and videos can be easily transferred to any device including smartphones, tablets, PCs and virtual reality headsets.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 2:Pros and Cons of Giroptic 360cam at a glance
 
  Giroptic 360cam provides you with a number of definite advantages over its competitors in the market.
@@ -199,6 +340,9 @@ Follow @Benjamin Arango
 | 360cam has native apps both for Android and iOS mobile devices. | \-                                                            |
 | Stitching done in-camera                                        | \-                                                            |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3:Basic specs of Giroptic 360cam
 
 | Full name                | Giroptic 360cam                                                      |                   |                                 |
@@ -241,6 +385,9 @@ Follow @Benjamin Arango
 * [Part 3:Basic specs](#part3)
 * [Part 4:Should I buy](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Part 1: Complete Review of Giroptic 360cam
 
  **Brief introduction**
@@ -283,6 +430,9 @@ Follow @Benjamin Arango
 
  The stitched photos and videos can be easily transferred to any device including smartphones, tablets, PCs and virtual reality headsets.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2:Pros and Cons of Giroptic 360cam at a glance
 
  Giroptic 360cam provides you with a number of definite advantages over its competitors in the market.
@@ -302,6 +452,18 @@ Follow @Benjamin Arango
 | 360cam has native apps both for Android and iOS mobile devices. | \-                                                            |
 | Stitching done in-camera                                        | \-                                                            |
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3:Basic specs of Giroptic 360cam
 
 | Full name                | Giroptic 360cam                                                      |                   |                                 |
@@ -317,109 +479,9 @@ Follow @Benjamin Arango
 | Aspect Ratio             | 16:9                                                                 | Tripod Mount      | regular mount thread            |
 | Image format             | JPEG                                                                 | Video file format | Video file format               |
 
-## Part 4: Should I buy
-
- Though the video quality is not as good as Kodak’s or 360fly’s, Giroptic 360cam is certainly a good HD cam which records true 360-degree images. It is also more compatible and works with more smartphone models than cameras like Samsung Gear 360\. With its shock and water resistant features and the tough rubber coating on the body, it is certainly more durable than many other cameras in the market. Although Giroptic is costlier than LG’s 360-degree camera, the video captured by the former is much better in quality. Finally, Giroptic 360cam is more versatile and resistant to elements than most of its near competitors. It is no doubt an all-purpose 360-degree cam that will provide you with a faithful 360-degree experience.
-
- Check this video to watch a full review of Giroptic 360cam
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
- The Giroptic 360cam is a 360-degree camera built to easily capture video and photos from every angle. Compared with other 360-degree cameras, it’s shape is very unique and crashproof. Below are the complete specs, pros and cons, reviews and suggestions about Giroptic 360cam, hope these can give you a reference if you want to buy a 360-degree camera.
-
-**Related article:** [Top 5 360 Degree Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-* [Part 1:Complete Review](#part1)
-* [Part 2:Pros and Cons at a glance](#part2)
-* [Part 3:Basic specs](#part3)
-* [Part 4:Should I buy](#part4)
-
-## Part 1: Complete Review of Giroptic 360cam
-
- **Brief introduction**
-
- Giroptic 360cam is the first consumer-ready camera that was born out of a Kickstarter campaign two years ago that brought in $ 1.4 million of crowdfunding. With access to this affordable full HD camera one no longer needs expensive camera rigs and post-processing software to create 360 degree images or videos with Virtual Reality (VR) experience. Armed with three equidistant optical lenses and three microphones, it records full spherical videos and high quality JPEG images that can be shared via your smartphone or computers without any extra software.
-
- **Design**
-
-![Giroptic Design](https://images.wondershare.com/filmora/article-images/giroptic-360cam-details.png)
-
- The funky pear or egg shaped design of Giroptic 360cam not only makes it totally compact and compatible to all kinds of environments and uses but also quite unique in the market. While the top houses the lenses, the bottom third of the body is detachable and holds that battery and the micro-SD card. The tripod mount and the Ethernet port are also located at the bottom of the camera. The black rubber coating makes it extremely suitable for rugged use and also water-resistant; it can survive up to 30 feet deep underwater for 30 minutes.
-
- **How to use it**
-
- Operating Giroptic is very easy as it is essentially one-button process. You only need to press once to record, once to stop; leave the stitching and processing of the frames to your camera. The stitched videos/images will be automatically ready to be uploaded to social sites.
-
- Apart from the button to start/stop recording, there’s another small button in the camera that lets you switch between different shooting modes like Video, Photo, Burst and Timelapse.
-
- It uses a small LED display to show you the current shooting mode and the power level of the camera.
-
- An inbuilt adaptor allows you to look at photos as soon as you take them and decide whether to delete the unwanted photos.
-
- **Where to use Giroptic 360cam**
-
-![Giroptic- Where to use](https://images.wondershare.com/filmora/article-images/giroptic-360cam-where-to-use.JPG)
-
- Giroptic 360cam is capable of functioning as a good surveillance camera in your home or workspace. This smart camera can be the diligent record-keeper of all your important business meetings, travels, memorable gathering of family and friends or any sports event.
-
- **Video and Image Quality**
-
-![Giroptic- image quality](https://images.wondershare.com/filmora/article-images/giroptic-360-cam-image-quality.jpg)
-
- The camera can capture 4K photos at up to three shots per second and record 2K videos at 30 frames per second. However, its maker Ollier admits that Giroptic 360cam can’t compete with high-end professional 360 cams of Nikon or GoPro. The 2K videos created by the camera have slightly visible stitching lines. However, the sophisticated digital stabilization technology used in the camera ensures that the processed footages run smooth and look good. For amateur shooting purposes, it is no doubt the best!
-
- **How to edit**
-
- You don’t need any extra software or external accessory to process the captured images and videos and stitch them into single 360-degree spherical shot. Your Giroptic cam will do that automatically and make the stitched video file ready for social media sites like YouTube, Facebook and Instagram right in the camera itself. It is a smart gadget that knows which sites accept what file formats.
-
- With the help of the Giroptic's mobile app lets you can easily adjust a few settings, activate camera stabilization during a live feed.
-
- The stitched photos and videos can be easily transferred to any device including smartphones, tablets, PCs and virtual reality headsets.
-
-## Part 2:Pros and Cons of Giroptic 360cam at a glance
-
- Giroptic 360cam provides you with a number of definite advantages over its competitors in the market.
-
-| Pros                                                            | Cons                                                          |
-| --------------------------------------------------------------- | ------------------------------------------------------------- |
-| Replaceable battery/SD card                                     | Video isn't as detailed as that from other 360-degree cameras |
-| Water-resistant                                                 | Has trouble stitching video                                   |
-| Light bulb and Ethernet accessories                             | Quite expensive                                               |
-| Takes true 360-degree images                                    | Low video quality                                             |
-| Has an impressive storage space.                                | \-                                                            |
-| Live stream feature                                             | \-                                                            |
-| Rubberized skin.                                                | \-                                                            |
-| Has a universal mount and micro USB port.                       | \-                                                            |
-| Its egg shaped design makes it compact and portable.            | \-                                                            |
-| Shock and water resistant.                                      | \-                                                            |
-| 360cam has native apps both for Android and iOS mobile devices. | \-                                                            |
-| Stitching done in-camera                                        | \-                                                            |
-
-## Part 3:Basic specs of Giroptic 360cam
-
-| Full name                | Giroptic 360cam                                                      |                   |                                 |
-| ------------------------ | -------------------------------------------------------------------- | ----------------- | ------------------------------- |
-| Price                    | Official: $499                                                       |                   |                                 |
-| **Basic specifications** |                                                                      |                   |                                 |
-| Date Available           | 2016-05-24                                                           | Manufacturer      | Giroptic                        |
-| Weight                   | 180g                                                                 | Size              | 70x70x71 mm                     |
-| Memory                   | internal standard SD card slot support is up to 128GB                | Accessible        | WIFI/In-built GPS               |
-| Battery                  | Rechargeable Li-ion Battery 1180mAH, 3.7V up to 1 hour in video mode | Body material     | Magnesium alloy and rubber      |
-| Sensor                   | custom-made CMOS sensors                                             | Lenses            | Three 185 degree fisheye lenses |
-| Image resolution         | Max 4096 x 2048                                                      | Video resolution  | Max 2048 x 1024                 |
-| Aspect Ratio             | 16:9                                                                 | Tripod Mount      | regular mount thread            |
-| Image format             | JPEG                                                                 | Video file format | Video file format               |
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Part 4: Should I buy
 
  Though the video quality is not as good as Kodak’s or 360fly’s, Giroptic 360cam is certainly a good HD cam which records true 360-degree images. It is also more compatible and works with more smartphone models than cameras like Samsung Gear 360\. With its shock and water resistant features and the tough rubber coating on the body, it is certainly more durable than many other cameras in the market. Although Giroptic is costlier than LG’s 360-degree camera, the video captured by the former is much better in quality. Finally, Giroptic 360cam is more versatile and resistant to elements than most of its near competitors. It is no doubt an all-purpose 360-degree cam that will provide you with a faithful 360-degree experience.
@@ -458,3 +520,59 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-animated-adventures-easy-steps-for-snapchats-cute-filters/"><u>[New] Animated Adventures  Easy Steps for Snapchat's Cute Filters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-the-right-platform-a-look-at-vimeo-youtube-and-dailymotion-for-2024/"><u>[New] Choosing the Right Platform  A Look at Vimeo, YouTube & DailyMotion for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-earn-extra-bucks-maximizing-youtubes-mobile-revenue-opportunities-for-2024/"><u>[New] Earn Extra Bucks  Maximizing YouTube's Mobile Revenue Opportunities for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-game-on-selecting-the-finest-displays-for-your-xbox-series-x-console/"><u>[New] Game On  Selecting the Finest Displays for Your Xbox Series X Console</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-10-windows-11-webcam-capturers/"><u>[New] In 2024, Top 10 Windows 11 Webcam Capturers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instabeats-intellectual-property-overview/"><u>[New] InstaBeats  Intellectual Property Overview</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-sports-viewership-in-the-digital-age/"><u>[New] Mastering Sports Viewership in the Digital Age</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-multitask-media-magic-harnessing-netflixs-picture-in-picture-feature/"><u>[New] Multitask Media Magic  Harnessing Netflix's Picture-in-Picture Feature</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-hashtag-use-for-maximum-marketing-reach-for-2024/"><u>[New] Navigating Hashtag Use for Maximum Marketing Reach for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peak-performance-sd-card-for-sony-a7s-series/"><u>[New] Peak Performance SD Card for Sony A7S Series</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamlessly-blend-sound-and-visuals-editing-tips-for-canva-videos/"><u>[New] Seamlessly Blend Sound & Visuals  Editing Tips for Canva Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-simplified-ratio-changes-on-web-dev-platforms/"><u>[New] Simplified Ratio Changes on Web Dev Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snap-better-pics-with-radial-blur-and-shadow-features-in-photoshop/"><u>[New] Snap Better Pics with Radial Blur and Shadow Features in Photoshop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spark-ar-maximizing-realism-with-downloadable-lut-files/"><u>[New] Spark AR  Maximizing Realism with Downloadable LUT Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-chromium-connection-pixel-phone-rhythms/"><u>[New] The Chromium Connection  Pixel Phone Rhythms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-firefox-x-pie-mode-decoded-for-everyday-users/"><u>[Updated] Firefox X-Pie Mode Decoded for Everyday Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-7-best-vocal-modification-software-on-the-market/"><u>[Updated] In 2024, 7 Best Vocal Modification Software on the Market</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-simplifying-live-broadcasts-with-efficient-obs-tips/"><u>[Updated] In 2024, Simplifying Live Broadcasts with Efficient OBS Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-make-every-listen-count-with-these-15-powerful-activities/"><u>[Updated] Make Every Listen Count with These 15 Powerful Activities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-portrait-maker-for-passports-desktop-and-online-access-only/"><u>[Updated] Professional Portrait Maker for Passports – Desktop & Online Access Only</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pros-cons-and-guide-to-utilizing-samsung-photo-editor/"><u>[Updated] Pros, Con's, and Guide to Utilizing Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-achieve-sharp-footage-with-best-rated-camera-gimbals/"><u>2024 Approved  Achieve Sharp Footage with Best-Rated Camera Gimbals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-kinemaster-a-comprehensive-guide-and-top-online-platforms/"><u>2024 Approved  Mastering KineMaster  A Comprehensive Guide & Top Online Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-zoom-for-effective-fb-live-broadcasts/"><u>2024 Approved  Mastering Zoom for Effective FB Live Broadcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-pixizs-tools-for-photo-video-craftsmanship/"><u>2024 Approved  Navigating Pixiz's Tools for Photo-Video Craftsmanship</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-tomorrow-visionary-developments-in-vr/"><u>2024 Approved  Pioneering Tomorrow  Visionary Developments in VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-and-easy-increase-or-decrease-story-video-speed/"><u>2024 Approved  Quick and Easy  Increase or Decrease Story Video Speed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-screencasting-app-performance-examination/"><u>2024 Approved  ScreenCasting App Performance Examination</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-slide-show-software-selection-from-ix-ios13/"><u>2024 Approved  Slide Show Software Selection From IX-IOS13</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-enhancing-your-apple-podcast-visibility/"><u>2024 Approved  Strategies for Enhancing Your Apple Podcast Visibility</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-evolution-of-camera-features-for-dynamic-range-mastery/"><u>2024 Approved  The Evolution of Camera Features for Dynamic Range Mastery</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y17s-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y17s FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-level-partition-fixers-recover-inaccessible-or-missing-drives-easily/"><u>Expert-Level Partition Fixers: Recover Inaccessible or Missing Drives Easily</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-learning-on-film-school-vid-editing-best-practices/"><u>In 2024, Learning on Film  School Vid Editing Best Practices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-learning-the-art-of-soundshaping-in-audacity/"><u>In 2024, Learning the Art of Soundshaping in Audacity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-m1-pro-vs-m1-max-examining-the-advancements-in-apples-cpu-technology/"><u>In 2024, M1 Pro Vs. M1 Max  Examining the Advancements in Apple's CPU Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-picture-in-picture-feature-in-chrome-anywhere/"><u>In 2024, Mastering Picture In Picture Feature in Chrome, Anywhere</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-your-way-to-the-perfect-4k-lens-purchase/"><u>In 2024, Navigating Your Way to the Perfect 4K Lens Purchase</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speeding-up-slide-show-video-performance/"><u>In 2024, Speeding Up Slide Show Video Performance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-tv-deactivation-made-easy-for-2024/"><u>Instagram TV Deactivation Made Easy for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lessons-on-screen-essential-classroom-videography-tips-for-2024/"><u>Lessons on Screen  Essential Classroom Videography Tips for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-name-game-for-top-podcast-titles-for-2024/"><u>Mastering the Name Game for Top Podcast Titles for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/newbies-navigation-to-net-worth-on-periscope-for-2024/"><u>Newbie's Navigation to Net Worth on Periscope for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/paint-jocular-visuals-with-giphy-in-mind-for-2024/"><u>Paint Jocular Visuals with Giphy in Mind for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/personalize-your-viewing-experience-building-a-google-cardboard-vr-setup-for-2024/"><u>Personalize Your Viewing Experience  Building a Google Cardboard VR Setup for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids-for-2024/"><u>Pixel Pizzazz  Top 10 Screenshot Sticker Enhancers for iPhones/Androids for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-vector-image-hubs-ranked-1-to-10-for-2024/"><u>Premium Vector Image Hubs Ranked #1 to #10 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/shining-scenes-quick-tips-to-transform-your-iphone-video-brilliance-for-2024/"><u>Shining Scenes  Quick Tips to Transform Your iPhone Video Brilliance for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smart-shopping-for-cloud-storages-best-price-secrets-revealed-for-2024/"><u>Smart Shopping for Cloud Storages  Best Price Secrets Revealed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlock-the-power-of-instagram-reels-with-these-strategies/"><u>Unlock the Power of Instagram Reels with These Strategies</u></a></li>
+</ul></div>

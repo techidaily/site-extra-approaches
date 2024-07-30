@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Microphone Modifications for VTubers"
-date: 2024-05-31T05:27:32.815Z
-updated: 2024-06-01T05:27:32.815Z
+date: 2024-07-27T19:29:14.023Z
+updated: 2024-07-28T19:29:14.023Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Mastering Microphone Modifications for VTubers"
 excerpt: "This Article Describes [Updated] Mastering Microphone Modifications for VTubers"
 keywords: "MicMods for Vtuber,VTuber MicTech,TubeVoice Adjust,VTuber SoundBoost,Microphone ProTips,VTuber AudioCraft,Voice Mod Tools"
-thumbnail: https://www.lifewire.com/thmb/dMPS7xdJyHFzVyJkCHD1luzOMsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1307216070-0e099dda13034522b872849a6b02d975.jpg
+thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8de831308f2fd3fe15c5bbed.jpg
 ---
 
 ## Mastering Microphone Modifications for VTubers
@@ -42,10 +42,21 @@ Step1 Download and install Voicemeeter from the official webpage via an internet
 
 Locate the **Start** icon at the bottom left corner of your screen and click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![start](https://images.wondershare.com/filmora/article-images/2022/11/image-000.png)
 
 Select **Settings** from the options that comes up, and the interface below will come up:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![settings](https://images.wondershare.com/filmora/article-images/2022/11/image-001.png)
 
 Step2 Next, click on **Sounds** to configure some defaults
@@ -106,14 +117,24 @@ Open the **Sounds** setting panel on your computer, go to the Audio input settin
 
 Step2 Next, scroll down and configure the Active Input Channel. Select the right channel so audio signals can be sent to Voidol2 input. Should you select the wrong option, you may not have the opportunity to change your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![scroll down and configure the active input](https://images.wondershare.com/filmora/article-images/2022/11/image-008.png)
 
 Step3 Now navigate down Voidol2 page, and tap on **Control Panel**. Make the necessary adjustments, reset your device and start using Voidol2 to change your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![navigate down voidol2 page](https://images.wondershare.com/filmora/article-images/2022/11/image-009.png)
 
 ## Part 3\. FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Q1\. What voice changer do Vtubers use?
 
 There's no exact voice changer Vtubers use. Depending on what you need, you can install any one, and test it to see whether it suits your requirements. To avoid this stress, we advise that you select from the aforementioned voice changer. Both tools are industry-leading voice changers popular for their quality features.
@@ -122,6 +143,10 @@ There's no exact voice changer Vtubers use. Depending on what you need, you can 
 
 Yes, Hoolive members use voice changers. The majority of Hoolive users often tune their voices so it sounds engaging and entertaining to their target audience.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Q3\. What is the best audio editing software for Vtubers?
 
 Presently, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best audio editing tool because of the outstanding results it generates. With the impressive audio editing features it holds, the software can help you manipulate your audio recordings without distorting the quality. The software allows you to adjust sound pitch, remove background noise, adjust voice speed, and more.
@@ -136,6 +161,9 @@ End users find it easy to operate because of the intuitive interface. Filmora ma
 
 The software edits video clips at a remarkably high speed with ease. It uses the built-in AI feature to analyze and edit your clips so they come out stunning. Add effects, transitions, remove background sound, detach audio from video, and lots more within the snap of a finger using the Wondershare Filmora video editing tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Surviving the fierce competition in the Vtube industry can be challenging if you don't have the right voice-changing app. We have selected and introduced the best voice changer for Vtubers. Pick one and use it in your next project. Remember, for every audio and video production process, editing is crucial. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is an all-in-one tool you could use to edit your video and audio recordings.
@@ -168,18 +196,27 @@ Locate the **Start** icon at the bottom left corner of your screen and click on 
 
 Select **Settings** from the options that comes up, and the interface below will come up:
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![settings](https://images.wondershare.com/filmora/article-images/2022/11/image-001.png)
 
 Step2 Next, click on **Sounds** to configure some defaults
 
 Click on the **Playback** panel, and scroll to where you have VoiceMeeter Input. Right-click on **VoiceMeeter Input** and a couple of options will come up. Select **Set as Default Device** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![set as default device](https://images.wondershare.com/filmora/article-images/2022/11/image-002.png)
 
 Next, right-click **VoiceMeeter Aux Input**, and select **Set as Default Communication Device**.
 
 Step3 Now navigate to the **Recording** panel to configure it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recording](https://images.wondershare.com/filmora/article-images/2022/11/image-003.png)
 
 Some options will come up underneath just as in the Playback panel. Scroll down and right-click **VoiceMeeter Input**. Tap on **Set as Default Device**.
@@ -188,12 +225,18 @@ Locate the **VoiceMeeter Aux Input**, right-click on it and pick **Set as Defaul
 
 Step4 Now that you've successfully configured your computer sound system with VoiceMeeter, let's move to setting up the VoiceMeeter app itself. Open VoiceMeeter, and click the **HARDWARE INPUT 1, 2,** and **3**. Rename each of them. To do that, right-click on any one of the **HARDWARE INPUT** icon, and the screen below will come up:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hardware input](https://images.wondershare.com/filmora/article-images/2022/11/image-004.png)
 
 Enter your preferred name in the space, and hit the **Enter** button on your keyboard. Once you are done with that, proceed to the next step.
 
 Step5 Next, you need to set up the Virtual Audio Input section. There are three (3) Virtual Audio Inputs just as seen below:
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual audio input section](https://images.wondershare.com/filmora/article-images/2022/11/image-005.png)
 
 Virtual Audio Input 1: This is where windows will send your voice recordings by default.
@@ -210,6 +253,9 @@ Step6 Once the above setup is complete, move to the **Hardware Outputs** section
 
 Step7 Now route the different apps to the correct VoiceMeeter input, and make other necessary adjustments. Once that's set, you can start using VoiceMeeter voice-changing app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. Voidol2 Voice Changer
 
 Voidol2 Voice Changer is another good app Vtubers like yourself often use to adjust audio recordings before uploading online. It allows you to switch your voice with zero stress. This real-time voice-changing app helps you transform your voice into fun and entertaining sounds.
@@ -228,12 +274,21 @@ Open the **Sounds** setting panel on your computer, go to the Audio input settin
 
 Step2 Next, scroll down and configure the Active Input Channel. Select the right channel so audio signals can be sent to Voidol2 input. Should you select the wrong option, you may not have the opportunity to change your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![scroll down and configure the active input](https://images.wondershare.com/filmora/article-images/2022/11/image-008.png)
 
 Step3 Now navigate down Voidol2 page, and tap on **Control Panel**. Make the necessary adjustments, reset your device and start using Voidol2 to change your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![navigate down voidol2 page](https://images.wondershare.com/filmora/article-images/2022/11/image-009.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. FAQs
 
 ### Q1\. What voice changer do Vtubers use?
@@ -244,6 +299,9 @@ There's no exact voice changer Vtubers use. Depending on what you need, you can 
 
 Yes, Hoolive members use voice changers. The majority of Hoolive users often tune their voices so it sounds engaging and entertaining to their target audience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Q3\. What is the best audio editing software for Vtubers?
 
 Presently, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best audio editing tool because of the outstanding results it generates. With the impressive audio editing features it holds, the software can help you manipulate your audio recordings without distorting the quality. The software allows you to adjust sound pitch, remove background noise, adjust voice speed, and more.
@@ -258,6 +316,9 @@ End users find it easy to operate because of the intuitive interface. Filmora ma
 
 The software edits video clips at a remarkably high speed with ease. It uses the built-in AI feature to analyze and edit your clips so they come out stunning. Add effects, transitions, remove background sound, detach audio from video, and lots more within the snap of a finger using the Wondershare Filmora video editing tool.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Surviving the fierce competition in the Vtube industry can be challenging if you don't have the right voice-changing app. We have selected and introduced the best voice changer for Vtubers. Pick one and use it in your next project. Remember, for every audio and video production process, editing is crucial. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is an all-in-one tool you could use to edit your video and audio recordings.
@@ -288,3 +349,40 @@ Surviving the fierce competition in the Vtube industry can be challenging if you
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-revive-the-unseen-watch-video-icon-on-fb/"><u>[New] 2024 Approved  Revive the Unseen Watch Video Icon on FB</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-harnessing-gopros-power-for-compelling-time-lapse-clips-for-2024/"><u>[New] Harnessing GoPro's Power for Compelling Time-Lapse Clips for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unveiling-the-path-to-your-facebook-status-video-archive/"><u>[New] In 2024, Unveiling the Path to Your Facebook Status Video Archive</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-picture-holding-portals/"><u>[New] Leading Picture Holding Portals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-creators-of-screenplay-world/"><u>[New] Prime Creators of Screenplay World</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reviewing-the-gopro-hero5-session-series/"><u>[New] Reviewing the GoPro Hero5 Session Series</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snap-fast-moments-iphone-methods-for-blur-effects/"><u>[New] Snap Fast Moments  IPhone Methods for Blur Effects</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-revolutionizing-fb-ads-through-innovative-and-effective-video-techniques/"><u>[Updated] 2024 Approved  Revolutionizing FB Ads Through Innovative and Effective Video Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterful-techniques-for-swift-blurring-in-picture-editing/"><u>[Updated] Masterful Techniques for Swift Blurring in Picture Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-filming-experience-the-10-devices-that-make-every-shot-perfect/"><u>[Updated] Seamless Filming Experience  The 10 Devices That Make Every Shot Perfect</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-speeding-up-your-streams-the-netflix-efficiency-guide/"><u>[Updated] Speeding Up Your Streams  The Netflix Efficiency Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-vsco-into-social-media-strategy/"><u>2024 Approved  Integrating VSCO Into Social Media Strategy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-stream-on-youtube-without-1000-subscribers-on-a-mobile/"><u>2024 Approved  Live Stream on YouTube without 1000 Subscribers on a Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-lut-manipulation-a-comprehensive-photoshop-guide/"><u>2024 Approved  Mastering LUT Manipulation  A Comprehensive PhotoShop Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-your-shots-with-pro-light-tips-for-iphones/"><u>2024 Approved  Optimize Your Shots with Pro Light Tips for IPhones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pictopeekles-easy-memes-with-a-twist/"><u>2024 Approved  PictoPeekles  Easy Memes with a Twist</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplifying-hue-correction-with-photoshop-tips/"><u>2024 Approved  Simplifying Hue Correction with Photoshop Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>2024 Approved  Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u/"><u>2024 Approved  The Elevation of Professional Display  An In-Depth Examination of the BL2711U</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s18-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo S18 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-12r-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus 12R to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-movements-intova-xs-video-excellence/"><u>In 2024, Mastering Movements  Intova X's Video Excellence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecti-essential-apps-for-iphone-slide-show-creation/"><u>In 2024, Perfecti  Essential Apps for iPhone Slide Show Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proven-strategies-for-effective-chromebook-zooming/"><u>In 2024, Proven Strategies for Effective Chromebook Zooming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sharing-the-spotlight-involving-viewers-in-your-journey/"><u>In 2024, Sharing the Spotlight  Involving Viewers in Your Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/jest-jammer-photo-assembler-for-2024/"><u>Jest Jammer  Photo Assembler for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-steps-to-ace-zoom-with-a-chromebook-for-2024/"><u>Key Steps to Ace Zoom with a Chromebook for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/macrofocusadvance-magnify-and-resize-pristine-pics-for-2024/"><u>MacroFocusAdvance  Magnify & Resize Pristine Pics for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-safe-browsing-in-microsofts-win11/"><u>Managing Safe Browsing in Microsoft’s Win11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-viewing-youtube-video-reactions-and-votes-for-2024/"><u>Mastering the Art of Viewing YouTube Video Reactions and Votes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/orchestrate-online-albums-photos-pair-with-songs-for-2024/"><u>Orchestrate Online Albums  Photos Pair With Songs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/preserving-sound-integrity-with-ffmpeg-extract-for-2024/"><u>Preserving Sound Integrity with FFmpeg Extract for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-3-key-approaches-to-efficiently-change-your-podcast-audio-to-mp3/"><u>Updated 3 Key Approaches to Efficiently Change Your Podcast Audio to MP3</u></a></li>
+</ul></div>

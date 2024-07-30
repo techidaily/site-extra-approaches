@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Batch Background Erasure in Affinity Photo"
-date: 2024-05-31T05:28:25.141Z
-updated: 2024-06-01T05:28:25.141Z
+date: 2024-07-27T20:23:32.379Z
+updated: 2024-07-28T20:23:32.379Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Mastering Batch Background Erasure in Affinity Photo"
 excerpt: "This Article Describes [Updated] Mastering Batch Background Erasure in Affinity Photo"
 keywords: "\"Photo Erase Tech,Easy Photo Blur,Digital Shutter Silence,Clearer Imagery,Noise-Free Pictures,Quick Background Wipe,HDR Erase Method\""
-thumbnail: https://www.lifewire.com/thmb/zBEl_bEu07nfTMzj3iet9cEOY3E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Kruzadar2-997fddec8bfa45e5895b020f282d02aa.jpg
+thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b086086a9248bc69fcf254fa.jpg
 ---
 
 ## Mastering Batch Background Erasure in Affinity Photo
@@ -22,6 +22,9 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -50,12 +53,18 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,10 +90,17 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -109,6 +125,10 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -119,6 +139,9 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -175,3 +198,42 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebooks-pivot-to-short-form-content-unpacking-2023-changes/"><u>[New] 2024 Approved  Facebook's Pivot to Short-Form Content  Unpacking 2023 Changes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-find-the-perfect-mix-funny-touching-ig-meme-stories-of-ten/"><u>[New] 2024 Approved  Find the Perfect Mix  Funny, Touching IG Meme Stories of Ten</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-automate-iphones-video-repetition/"><u>[New] 2024 Approved  How to Automate iPhone's Video Repetition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instantaneous-aspect-alteration-for-visual-content/"><u>[New] Instantaneous Aspect Alteration for Visual Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-memory-allocation-elevating-minecraft-experience/"><u>[New] Mastering Memory Allocation  Elevating Minecraft Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-vector-art-our-picks-for-top-10-tools-in-industry/"><u>[New] Mastering Vector Art  Our Picks for Top 10 Tools in Industry</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-motion-perception-systems/"><u>[New] Navigating Through Motion Perception Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sharpening-zoom-visuals-immediate-upgrades/"><u>[New] Sharpening Zoom Visuals  Immediate Upgrades</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-screen-recording-app-for-no-popups/"><u>[Updated] Elite Screen Recording App for No Popups</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lock-and-load-effortless-profile-url-addition-on-tiktok/"><u>[Updated] Lock-and-Load  Effortless Profile URL Addition on TikTok</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-palette-wisdom-essential-color-theory-explained/"><u>[Updated] Palette Wisdom  Essential Color Theory Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-and-easy-nft-generation-a-beginners-playbook/"><u>[Updated] Quick and Easy NFT Generation  A Beginner's Playbook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-storage-exploration-how-many-vids-can-64128gb-hold/"><u>[Updated] Storage Exploration  How Many Vids Can 64/128GB Hold?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instant-annotation-text-overlaying-on-images-and-videos-using-windows-photos/"><u>2024 Approved  Instant Annotation  Text Overlaying on Images & Videos Using Windows Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-ion-air-pro-3-breakdown-review-of-the-latest-action-cam/"><u>2024 Approved  ION Air Pro 3 Breakdown - Review of the Latest Action Cam</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-slow-motion-photography-in-phantom-cameras/"><u>2024 Approved  Mastering Slow-Motion Photography in Phantom Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mirth-mechanics-gratis-tools-to-amuse-and-entertain/"><u>2024 Approved  Mirth Mechanics  Gratis Tools to Amuse and Entertain</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-maze-of-multi-service-playlist-transfer/"><u>2024 Approved  Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-twisting-with-professional-tools/"><u>2024 Approved  Photo Twisting with Professional Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photobooth-recording-stalls-whats-goin-on/"><u>2024 Approved  Photobooth Recording Stalls  What's Goin' On?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sony-bdp-s3700-review-latest-update-summary/"><u>2024 Approved  Sony BDP-S3700 Review  Latest Update Summary</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-lava-agni-2-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Lava Agni 2 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-vlc-a-deep-dive-into-media-players/"><u>In 2024, Beyond VLC  A Deep Dive Into Media Players</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-high-impact-spotify-marketing-plans/"><u>In 2024, Crafting High-Impact Spotify Marketing Plans</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-selected-best-gimbals-for-ultimate-camera-stability/"><u>In 2024, Expertly Selected Best Gimbals for Ultimate Camera Stability</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-10-sticker-adding-tools-for-iphone-and-android-photos/"><u>In 2024, Prime 10 Sticker-Adding Tools for iPhone and Android Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-techniques-for-vhs-photo-effects-on-pconline-platforms/"><u>In 2024, Prime Techniques for VHS Photo Effects on PC/Online Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pristine-visionary-storytelling-system/"><u>In 2024, Pristine Visionary Storytelling System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-infinix-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Infinix</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-techniques-for-editing-copious-amounts-of-tiktoks-for-2024/"><u>Master Techniques for Editing Copious Amounts of TikToks for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-modern-photographys-dynamic-range-capabilities-for-2024/"><u>Mastering Modern Photography's Dynamic Range Capabilities for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-through-virtual-realms-with-headgear-for-2024/"><u>Navigating Through Virtual Realms with Headgear for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/slash-prices-on-cameras-best-value-list-of-top-6-under-100-for-2024/"><u>Slash Prices on Cameras  Best Value List of Top 6 Under $100 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smooth-integration-of-macos-sierra-on-old-systems-for-2024/"><u>Smooth Integration of macOS Sierra on Old Systems for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-blueprint-for-impressive-photographic-mosaics/"><u>Step-by-Step Blueprint for Impressive Photographic Mosaics</u></a></li>
+</ul></div>

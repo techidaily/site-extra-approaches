@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Tutorial  Crafting Photo Videos in Pixiz\""
-date: 2024-05-31T05:26:46.149Z
-updated: 2024-06-01T05:26:46.149Z
+date: 2024-07-27T18:40:32.076Z
+updated: 2024-07-28T18:40:32.076Z
 tags: 
   - screen-recording
   - ai video
@@ -13,15 +13,21 @@ categories:
 description: "\"This Article Describes 2024 Approved: Step-by-Step Tutorial: Crafting Photo Videos in Pixiz\""
 excerpt: "\"This Article Describes 2024 Approved: Step-by-Step Tutorial: Crafting Photo Videos in Pixiz\""
 keywords: "Pixiz Video Guide,Photo to Video Pixiz,Pixiz Photobooks,Creating Pixiz Videos,Learn Pixiz Techniques,Photo Crafting in Pixiz,Pixiz Visual Storytelling"
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## Step-by-Step Tutorial: Crafting Photo Videos in Pixiz
 
 Hello guys, we all love to click photos and make minor edits to make it look more fabulous in the presentation. However, one of the best practices to make your photos look more gorgeous is making a slideshow of them. There are numerous tools available online and offline to make a photo video. Today I will share the two best ones, pixiz **online slideshow maker** and Wondershare Filmora. This article will give you a step-by-step guide to making a **pixiz photo video** and Wondershare Filmora slideshow. Let's begin!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. Practical advice about Pixiz
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### About Pixiz
 
 Don't know about Pixiz? Let me introduce you! Pixiz is an online photo editor platform where you can edit your photos and add them to frames and animation, and most importantly, pixiz is an online slideshow maker. It also provides collages, effects, and combining image options. Its killing feature is that you only have to upload images. Pixiz will make one for you, and you'll get your photo video within minutes of downloading.
@@ -44,6 +50,9 @@ Don't know about Pixiz? Let me introduce you! Pixiz is an online photo editor pl
 * Short videos only
 * Not much customizable
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do you make photo videos using Pixiz?
 
 So let's discuss how to make a slideshow using Pixiz Online. You have to follow these steps, and your fantastic photo video will be ready.
@@ -58,6 +67,9 @@ Step2Now select any slideshow template by clicking on it.
 
 Step3Click on the select photo option and choose a photo.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose a photo](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-3.jpg)
 
 Step4You can add more photos, in the same way, one by one (till the maximum number). Check below if the template you've chosen has the option to control the effect and speed (optional). Then, click on the **Go** button.
@@ -70,6 +82,9 @@ Step5Now click on download and then save. Your photo video will be saved in GIF 
 
 ## Part 2\. The best software for creating slideshows - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### About Filmora
 
 The powerful video editing program Filmora is offered by Wondershare. It offers you a wealth of sophisticated video editing features in a straightforward and user-friendly setting. A slideshow, commonly referred to as a photo video, also known as a slideshow. You can also add text, subtitles, effects, and other things to your movie. Although the software for Filmora can be downloaded for free, it has a watermark and few capabilities. The premium edition, on the other hand, has more features without a watermark.
@@ -88,6 +103,9 @@ Step2Now **open** **Filmora** and **click** **new project**.
 
 Step3**Import** photos by **clicking** (import media) and then drag and drop them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![import photos](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-7.jpg)
 
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
@@ -100,24 +118,42 @@ Step5**Click** on the **Title** option in the top right and select the **title t
 
 Step6**Double click the text** to open the box for **making edits in text**, font, color, and other options.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![double click on the text box](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-10.jpg)
 
 Step7Let's add some music. **Click** the **audio tab** at the top right. Now **choose** some **music** and then **drag and drop** to add.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add some music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-11.jpg)
 
 Step8You can **double-click** the music to open the **settings box** and make changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![change music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-12.jpg)
 
 Step9To make your slideshow more appealing, you can also add transitions or effects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
 
 Step10After finishing all the editing, you can export your creation to any format you want.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export creation to any format](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 So, Pixiz is an excellent service to make photo videos online by just uploading photos and clicking to generate. But there aren't many ways to customize it. Additionally, there are a lot of problems with the commercials, the little selection of templates, and the brief movie length. On the other hand, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) offers more advanced tools than Pixiz online slideshow maker to create more attractive and advanced slideshows or photo videos. However, you must buy the premium version to unlock its full potential and remove the watermark. I hope you'll find this article helpful. Thanks for Reading!
@@ -146,6 +182,9 @@ Step4 **Double-click the photo** to open options to make your photos fit the scr
 
 Step5**Click** on the **Title** option in the top right and select the **title template**. **Drag and drop** the **title template** at the point of the video you want it to appear.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on the title](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-9.jpg)
 
 Step6**Double click the text** to open the box for **making edits in text**, font, color, and other options.
@@ -158,6 +197,10 @@ Step7Let's add some music. **Click** the **audio tab** at the top right. Now **c
 
 Step8You can **double-click** the music to open the **settings box** and make changes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![change music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-12.jpg)
 
 Step9To make your slideshow more appealing, you can also add transitions or effects.
@@ -168,6 +211,9 @@ Step10After finishing all the editing, you can export your creation to any forma
 
 ![export creation to any format](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 So, Pixiz is an excellent service to make photo videos online by just uploading photos and clicking to generate. But there aren't many ways to customize it. Additionally, there are a lot of problems with the commercials, the little selection of templates, and the brief movie length. On the other hand, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) offers more advanced tools than Pixiz online slideshow maker to create more attractive and advanced slideshows or photo videos. However, you must buy the premium version to unlock its full potential and remove the watermark. I hope you'll find this article helpful. Thanks for Reading!
@@ -198,3 +244,44 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-boosting-collaboration-mastering-real-time-photography-on-google-meet/"><u>[New] 2024 Approved  Boosting Collaboration  Mastering Real-Time Photography on Google Meet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>[New] 2024 Approved  Guide  Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-latest-leap-in-tech-samsungs-ultrablade-k850-update/"><u>[New] Latest Leap in Tech - Samsung's UltraBlade K850 Update</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-macos-11-big-sur-essential-guide-for-upgrades/"><u>[New] MacOS 11 Big Sur  Essential Guide for Upgrades</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-paint-picture-humor/"><u>[New] Paint Picture Humor</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proven-strategies-for-masterful-fisheye-photography/"><u>[New] Proven Strategies for Masterful Fisheye Photography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-cheatsheet-for-stunning-collage-art/"><u>[New] Step-by-Step Cheatsheet for Stunning Collage Art</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unfollow-patterns-on-instagram-explored-for-2024/"><u>[New] Unfollow Patterns on Instagram Explored for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-generating-income-with-every-swipe-up/"><u>[Updated] In 2024, Generating Income with Every Swipe Up</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-fbs-buzz-essential-strategies-revealed/"><u>[Updated] Mastering FB's Buzz  Essential Strategies Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-comedy-crafting-top-tips-for-diy-memetic-mastery/"><u>[Updated] Metaverse Comedy Crafting  Top Tips for DIY Memetic Mastery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-dual-display-the-netflix-floating-window-guide/"><u>[Updated] Navigating Dual Display  The Netflix Floating Window Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-next-level-entertainment-the-rise-of-vr-applications/"><u>[Updated] Next-Level Entertainment  The Rise of VR Applications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-skill-enhancing-images-in-windows-11/"><u>[Updated] Quick Skill  Enhancing Images in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-restful-reelings-audiovisual-storytelling/"><u>[Updated] Restful Reelings  Audiovisual Storytelling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-soundtracks-for-snickers-ringtones-best-online-sources/"><u>[Updated] Soundtracks for Snickers  Ringtones' Best Online Sources</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stable-shooting-ultimate-iphoneandroid-tripod-hits/"><u>[Updated] Stable Shooting  Ultimate iPhone/Android Tripod Hits</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-path-to-making-popular-twitch-channels-for-2024/"><u>[Updated] The Path to Making Popular Twitch Channels for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-6-virtual-venues-propelling-professional-connections/"><u>2024 Approved  Leading 6 Virtual Venues Propelling Professional Connections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-srs-tuning-methods-for-macwin-users/"><u>2024 Approved  Leading SRS Tuning Methods for Mac/Win Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lens-legends-library-your-query-guide/"><u>2024 Approved  Lens Legends' Library  Your Query Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximize-your-streams-impact-our-recommendations-for-best-9-filters/"><u>2024 Approved  Maximize Your Stream's Impact  Our Recommendations for Best 9 Filters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-peak-visionary-suite-feedback/"><u>2024 Approved  Peak Visionary Suite Feedback</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-visual-enhancements-using-portable-lut-tools/"><u>2024 Approved  Quick Visual Enhancements Using Portable LUT Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-soundtrack-your-storytelling-youtube-music-for-video-content/"><u>2024 Approved  Soundtrack Your Storytelling  YouTube Music for Video Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-visual-joke-maker-snapsnicker/"><u>2024 Approved  Visual Joke Maker  SnapSnicker</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-what-is-apple-m1-chip/"><u>2024 Approved  What Is Apple M1 Chip?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/detailed-instructions-maximizing-mobizen-record-functionality/"><u>Detailed Instructions  Maximizing Mobizen Record Functionality</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-14-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone 14 and iPad</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-advanced-audio-editing-apps-ranked-by-users/"><u>In 2024, Advanced Audio Editing Apps Ranked by Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scouting-for-subtle-sophisticated-and-spare-tiktok-screenshots/"><u>In 2024, Scouting for Subtle, Sophisticated, and Spare TikTok Screenshots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-10-moba-games-for-android-gamers-unveiled/"><u>In 2024, Top 10 MOBA Games for Android Gamers Unveiled</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-google-photos-essential-tips-and-tricks-for-2024/"><u>Mastering Google Photos  Essential Tips and Tricks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-livestran-interactions-with-these-ten-backtrack-techniques-for-2024/"><u>Mastering Livestran Interactions with These Ten Backtrack Techniques for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-digital-sound-capture-a-deep-dive-for-2024/"><u>Navigating the World of Digital Sound Capture  A Deep Dive for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/personalizing-presents-top-ten-e-commerce-stores-for-custom-boxes-for-2024/"><u>Personalizing Presents? Top Ten E-Commerce Stores for Custom Boxes for 2024</u></a></li>
+</ul></div>

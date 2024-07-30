@@ -1,7 +1,7 @@
 ---
 title: "\"Panasonic HX-A1 ActionCam  In-Depth Review for 2024\""
-date: 2024-05-31T05:29:17.203Z
-updated: 2024-06-01T05:29:17.203Z
+date: 2024-07-27T21:16:54.121Z
+updated: 2024-07-28T21:16:54.121Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/m0kpslEgrnZU3NyfOpkK0bna68A=/400x300/fi
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -63,6 +66,10 @@ thumbnail: https://www.lifewire.com/thmb/m0kpslEgrnZU3NyfOpkK0bna68A=/400x300/fi
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Accessories in the box
 
  The box obviously contains one of the best products from Panasonic which is the camera but also has little surprising accessories which will alleviate your shooting experience.
@@ -128,6 +135,9 @@ thumbnail: https://www.lifewire.com/thmb/m0kpslEgrnZU3NyfOpkK0bna68A=/400x300/fi
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
@@ -152,6 +162,9 @@ Follow @Max Wales
 
  With an unconventional cylindrical design, this digital camcorder is ready to make you fall for it. Panasonic has always tried to add versatility to their product and this focus has helped to win the hearts of its fans! HX-A1 Wearable Action Camera, as its name suggests, helps to mount it to any ideal spot. Its elongated torch-like shape helps in mounting it to your helmet, board or any other piece of mountain gear. You can attach it to your bag, hat or backpack or just put it like a headband! The twin mount helps in clicking in dark situations especially where you need an IR flashlight. Its 0 lux night vision mode allows IR flashlight to be mounted in addition to A1\. The camera allows to film in 1080p at 30fps, 720p at 60fps and 480p at 240fps. Available at a very affordable price of $101.95, A1 is certainly compatible to exceed your expectations. Let us unfold aspects of this A1 camera in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Design and Usability
 
 ![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
@@ -220,6 +233,9 @@ Follow @Max Wales
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Features
 
 #### **1. Video and photo quality**
@@ -248,6 +264,9 @@ Follow @Max Wales
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
@@ -303,6 +322,10 @@ Follow @Max Wales
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Accessories in the box
 
  The box obviously contains one of the best products from Panasonic which is the camera but also has little surprising accessories which will alleviate your shooting experience.
@@ -340,6 +363,9 @@ Follow @Max Wales
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features
 
 #### **1. Video and photo quality**
@@ -368,6 +394,14 @@ Follow @Max Wales
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
@@ -394,6 +428,9 @@ Follow @Max Wales
 
 ## Design and Usability
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
@@ -423,6 +460,9 @@ Follow @Max Wales
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Accessories in the box
 
  The box obviously contains one of the best products from Panasonic which is the camera but also has little surprising accessories which will alleviate your shooting experience.
@@ -460,6 +500,9 @@ Follow @Max Wales
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features
 
 #### **1. Video and photo quality**
@@ -488,12 +531,19 @@ Follow @Max Wales
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
 
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -524,3 +574,39 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-enhancing-viewers-interest-with-innovative-valorant-thumbnail-ideas/"><u>[New] 2024 Approved  Enhancing Viewers' Interest with Innovative Valorant Thumbnail Ideas</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-choreographers-for-visual-and-auditory-crafting/"><u>[New] In 2024, Top Choreographers for Visual & Auditory Crafting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-picture-in-picture-settings-for-youtube-ios/"><u>[New] Mastering Picture-in-Picture Settings for YouTube (iOS)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-pip-a-complete-overview-on-edge-browser/"><u>[New] Mastering PIP  A Complete Overview on Edge Browser</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spark-ars-color-palette-expansion-via-free-accessible-lut-downloads/"><u>[New] Spark AR's Color Palette Expansion via Free, Accessible LUT Downloads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mobiles-leading-free-image-enhancement-and-layer-apps-ranked/"><u>[Updated] Mobile's Leading Free Image Enhancement & Layer Apps Ranked</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-olympic-ice-showdown-highlights-of-speed-skating-short-track/"><u>[Updated] Olympic Ice Showdown  Highlights of Speed Skating Short Track</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photobooth-lags-steadying-the-playback-journey/"><u>[Updated] Photobooth Lags  Steadying the Playback Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-ai-image-manipulation-suite/"><u>[Updated] Pinnacle AI Image Manipulation Suite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-anglers-choice-the-top-5-cameras-for-fishing/"><u>[Updated] Pro Angler's Choice  The Top 5 Cameras For Fishing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ringtone-revolution-transforming-your-ios-sound/"><u>[Updated] Ringtone Revolution  Transforming Your iOS Sound</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stealth-in-social-media-going-unseen-with-live-feeds/"><u>[Updated] Stealth in Social Media  Going Unseen with Live Feeds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-memes-top-ten-template-showcase/"><u>2024 Approved  Mastering Memes  Top Ten Template Showcase</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-youtube-accessing-video-comments-easily/"><u>2024 Approved  Mastering YouTube  Accessing Video Comments Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photoshop-grading-made-simple-for-everyone/"><u>2024 Approved  Photoshop Grading Made Simple for Everyone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-sdr-upgrade-manual-unveiling-the-secrets-of-hdr-transformation/"><u>2024 Approved  SDR Upgrade Manual  Unveiling the Secrets of HDR Transformation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-lava-yuva-2-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Lava Yuva 2 Pro Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia C12 Pro Bootloader Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-technologies-vr-applications/"><u>In 2024, Pioneering Technologies  VR Applications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-tips-for-captivating-vr-videos-top-9-strategies/"><u>In 2024, Pro Tips for Captivating VR Videos  Top 9 Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-projection-vs-television-best-device-for-immersive-4k-content/"><u>In 2024, Projection vs Television  Best Device for Immersive 4K Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screen-capture-mastery-a-closer-look-at-recmeister-tech/"><u>In 2024, Screen Capture Mastery  A Closer Look at Recmeister Tech</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-simplified-guide-uploading-urls-to-instagram-media/"><u>In 2024, Simplified Guide  Uploading URLs to Instagram Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/integrating-custom-luts-into-your-post-production-workflow-for-2024/"><u>Integrating Custom LUTs Into Your Post-Production Workflow for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-podcast-titling-a-comprehensive-approach-for-2024/"><u>Mastering Podcast Titling  A Comprehensive Approach for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/old-to-new-crafting-a-video-journey-from-classic-photos-for-2024/"><u>Old to New  Crafting a Video Journey From Classic Photos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/play-with-perspective-learning-warp-effects-in-adobe-ph-for-2024/"><u>Play With Perspective  Learning Warp Effects in Adobe PH for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplified-processes-inshot-for-pc-and-laptop-video-creation-for-2024/"><u>Simplified Processes  Inshot for PC and Laptop Video Creation for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-backchannel-bridge-engaging-with-your-audience/"><u>The Backchannel Bridge  Engaging with Your Audience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-infographic-lens-on-2017s-youtube-numerical-truths-for-2024/"><u>The Infographic Lens on 2017'S Youtube Numerical Truths for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-note-30-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Note 30 Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>

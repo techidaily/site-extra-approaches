@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Journey to the Heart of Windows 11'S Newest Gems"
-date: 2024-05-31T05:28:05.073Z
-updated: 2024-06-01T05:28:05.073Z
+date: 2024-07-27T20:02:57.447Z
+updated: 2024-07-28T20:02:57.447Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,9 @@ Once you have found your app tap or click on the install button right below the 
 
 #### 1. App for Flipboard is Free
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![flipboard](https://images.wondershare.com/filmora/article-images/flipboard.jpg)
 
 If you like to follow news or spend time on social networks then perhaps you would like to download Flipboard. The App collects all the latest feeds from social networks and news sites and delivers them in package to you. You have stories from around the world to read or save for later. Try it since it’s all free
@@ -46,12 +49,162 @@ If you are into presentations then you could find Templates for PowerPoint App r
 
 #### 3. Adobe's Photoshop Express
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adobe](https://images.wondershare.com/filmora/article-images/adobe.png)
 
 Another app that is free is the Photoshop Express. Users can load photos into the software and tweak the images. It might not be a total Photoshop but does a good job and since it is touch compatible you can work with it on a tablet too.
 
 #### 4. Netflix for video streaming
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+![netflix](https://images.wondershare.com/filmora/article-images/netflix.jpg)
+
+This App allows you to use the streaming video service and is available on tablets, phones and PC. The app remembers where you left off watching and even shows you lists for TV shows and movies. It is likely to be aligned with Xbox app.
+
+#### 5. Microsoft SmartGlass App
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![smart](https://images.wondershare.com/filmora/article-images/smart.jpg)
+
+This app enables PCs to connect to and also control the Xbox console. You can also track game player achievements and buy Xbox games online. Since Xbox One doubles up as media box users can also control their TVs from the PC with SmartGlass.
+
+With Windows 10, it is now easy to create several desktops as well as run applications from each, so every desktop is showing only those apps that are running in a particular virtual desktop. In case that you do not want to make use of this feature, you may simply remove the “Task View” button.
+
+#### Installing games on Windows 10
+
+Window 10 is going to have an Xbox App which will integrate Xbox One into the PC. The App will also allow you to access games from Steam as well as Microsoft. What is a really exciting feature is that the App will allow you to play on Xbox One with people on the PC version. [Windows game](https://tools.techidaily.com/wondershare/filmora/download/) Apps store offers a wide range of games both free and paid.
+
+Of course the Microsoft Solitaire Collection as well as the traditional Minesweeper and Hearts are still going to be there and also you’ll be able to have games like the Windows 10 version of ‘Square Enix’s Rise of the Tomb Raider’, a sequel to Tomb raider reboot. Here you will see Lara Croft in Siberia. Also there is ‘Minecraft’ (Mojang) with new features and a reboot of the 90s Killer Instinct. Gears of War: Ultimate Edition is a remake of the original with improved graphics and Dolby surround sound 7.1 while Wasteland 2 is a sequel to their 25 year-old game and is a post-apocalyptic RPG that promises over 80,000 of game-time. Some other popular games that will be available are Fable Legends, Sea of Thieves, Shovel Knight, Pinball FX2, Candy Crush Saga etc.
+
+Any game that has an Xbox logo on it means that it also offers Xbox Live achievements and is synced with you Xbox Live profile. Microsoft is not accepting games from developers without a rating so you can have a look at the rating before you buy a game that is appropriate for you. At the bottom of the page you will also get information about how big the game is and on what devices it will run. The quality of games at the Windows 10 store could pose a challenge for Steam some say!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Windows 10 has done something that brings good advantages to game lovers and App users. Windows 10 has an inbuilt Xbox which allows you to stream games and play right there on your PC, mobile or tabs. Another advantage of the Xbox Live integration is that no matter where you go you have access to the gaming community and your friends and achievements go with you. Since Windows 10 is all about games and apps you can go to the Windows store and download apps all of your favorite services.
+
+The first step towards downloading apps and games is that you need to have a Microsoft Account that is assigned to Windows 10\. If you are upgrading from Windows 8 or have Xbox One or use Skype then you probably have a Microsoft account. From the Windows store you can download free or paid apps, games, music and movies. Any app or game that you purchase can be installed on up to 10 PCs with Microsoft Accounts. If its Apps you are looking for then click on the Apps section, on the search bar in the top right corner type in the specific App you are looking for. You can browse the store to see what’s interesting.
+
+Once you have found your app tap or click on the install button right below the description. Button changes color. Read through the apps reviews and price to see if it’s for you. At the bottom of the individual store page you will see what platform the app works on and also the languages it supports. Here are some Apps you might find useful besides the music, videos and movie Apps.
+
+#### 1. App for Flipboard is Free
+
+![flipboard](https://images.wondershare.com/filmora/article-images/flipboard.jpg)
+
+If you like to follow news or spend time on social networks then perhaps you would like to download Flipboard. The App collects all the latest feeds from social networks and news sites and delivers them in package to you. You have stories from around the world to read or save for later. Try it since it’s all free
+
+#### 2. PowerPoint Template App
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![powerpoint](https://images.wondershare.com/filmora/article-images/powerpoint.jpg)
+
+If you are into presentations then you could find Templates for PowerPoint App really useful. You can access a wide number of templates for PowerPoint and even modify them and customize features according to your requirements. It integrates easily into PowerPoint and has some worthwhile designs but you have to download it for $7.99.
+
+#### 3. Adobe's Photoshop Express
+
+![adobe](https://images.wondershare.com/filmora/article-images/adobe.png)
+
+Another app that is free is the Photoshop Express. Users can load photos into the software and tweak the images. It might not be a total Photoshop but does a good job and since it is touch compatible you can work with it on a tablet too.
+
+#### 4. Netflix for video streaming
+
+![netflix](https://images.wondershare.com/filmora/article-images/netflix.jpg)
+
+This App allows you to use the streaming video service and is available on tablets, phones and PC. The app remembers where you left off watching and even shows you lists for TV shows and movies. It is likely to be aligned with Xbox app.
+
+#### 5. Microsoft SmartGlass App
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![smart](https://images.wondershare.com/filmora/article-images/smart.jpg)
+
+This app enables PCs to connect to and also control the Xbox console. You can also track game player achievements and buy Xbox games online. Since Xbox One doubles up as media box users can also control their TVs from the PC with SmartGlass.
+
+With Windows 10, it is now easy to create several desktops as well as run applications from each, so every desktop is showing only those apps that are running in a particular virtual desktop. In case that you do not want to make use of this feature, you may simply remove the “Task View” button.
+
+#### Installing games on Windows 10
+
+Window 10 is going to have an Xbox App which will integrate Xbox One into the PC. The App will also allow you to access games from Steam as well as Microsoft. What is a really exciting feature is that the App will allow you to play on Xbox One with people on the PC version. [Windows game](https://tools.techidaily.com/wondershare/filmora/download/) Apps store offers a wide range of games both free and paid.
+
+Of course the Microsoft Solitaire Collection as well as the traditional Minesweeper and Hearts are still going to be there and also you’ll be able to have games like the Windows 10 version of ‘Square Enix’s Rise of the Tomb Raider’, a sequel to Tomb raider reboot. Here you will see Lara Croft in Siberia. Also there is ‘Minecraft’ (Mojang) with new features and a reboot of the 90s Killer Instinct. Gears of War: Ultimate Edition is a remake of the original with improved graphics and Dolby surround sound 7.1 while Wasteland 2 is a sequel to their 25 year-old game and is a post-apocalyptic RPG that promises over 80,000 of game-time. Some other popular games that will be available are Fable Legends, Sea of Thieves, Shovel Knight, Pinball FX2, Candy Crush Saga etc.
+
+Any game that has an Xbox logo on it means that it also offers Xbox Live achievements and is synced with you Xbox Live profile. Microsoft is not accepting games from developers without a rating so you can have a look at the rating before you buy a game that is appropriate for you. At the bottom of the page you will also get information about how big the game is and on what devices it will run. The quality of games at the Windows 10 store could pose a challenge for Steam some say!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Windows 10 has done something that brings good advantages to game lovers and App users. Windows 10 has an inbuilt Xbox which allows you to stream games and play right there on your PC, mobile or tabs. Another advantage of the Xbox Live integration is that no matter where you go you have access to the gaming community and your friends and achievements go with you. Since Windows 10 is all about games and apps you can go to the Windows store and download apps all of your favorite services.
+
+The first step towards downloading apps and games is that you need to have a Microsoft Account that is assigned to Windows 10\. If you are upgrading from Windows 8 or have Xbox One or use Skype then you probably have a Microsoft account. From the Windows store you can download free or paid apps, games, music and movies. Any app or game that you purchase can be installed on up to 10 PCs with Microsoft Accounts. If its Apps you are looking for then click on the Apps section, on the search bar in the top right corner type in the specific App you are looking for. You can browse the store to see what’s interesting.
+
+Once you have found your app tap or click on the install button right below the description. Button changes color. Read through the apps reviews and price to see if it’s for you. At the bottom of the individual store page you will see what platform the app works on and also the languages it supports. Here are some Apps you might find useful besides the music, videos and movie Apps.
+
+#### 1. App for Flipboard is Free
+
+![flipboard](https://images.wondershare.com/filmora/article-images/flipboard.jpg)
+
+If you like to follow news or spend time on social networks then perhaps you would like to download Flipboard. The App collects all the latest feeds from social networks and news sites and delivers them in package to you. You have stories from around the world to read or save for later. Try it since it’s all free
+
+#### 2. PowerPoint Template App
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![powerpoint](https://images.wondershare.com/filmora/article-images/powerpoint.jpg)
+
+If you are into presentations then you could find Templates for PowerPoint App really useful. You can access a wide number of templates for PowerPoint and even modify them and customize features according to your requirements. It integrates easily into PowerPoint and has some worthwhile designs but you have to download it for $7.99.
+
+#### 3. Adobe's Photoshop Express
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![adobe](https://images.wondershare.com/filmora/article-images/adobe.png)
+
+Another app that is free is the Photoshop Express. Users can load photos into the software and tweak the images. It might not be a total Photoshop but does a good job and since it is touch compatible you can work with it on a tablet too.
+
+#### 4. Netflix for video streaming
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![netflix](https://images.wondershare.com/filmora/article-images/netflix.jpg)
 
 This App allows you to use the streaming video service and is available on tablets, phones and PC. The app remembers where you left off watching and even shows you lists for TV shows and movies. It is likely to be aligned with Xbox app.
@@ -98,12 +251,18 @@ If you like to follow news or spend time on social networks then perhaps you wou
 
 #### 2. PowerPoint Template App
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![powerpoint](https://images.wondershare.com/filmora/article-images/powerpoint.jpg)
 
 If you are into presentations then you could find Templates for PowerPoint App really useful. You can access a wide number of templates for PowerPoint and even modify them and customize features according to your requirements. It integrates easily into PowerPoint and has some worthwhile designs but you have to download it for $7.99.
 
 #### 3. Adobe's Photoshop Express
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![adobe](https://images.wondershare.com/filmora/article-images/adobe.png)
 
 Another app that is free is the Photoshop Express. Users can load photos into the software and tweak the images. It might not be a total Photoshop but does a good job and since it is touch compatible you can work with it on a tablet too.
@@ -116,122 +275,10 @@ This App allows you to use the streaming video service and is available on table
 
 #### 5. Microsoft SmartGlass App
 
-![smart](https://images.wondershare.com/filmora/article-images/smart.jpg)
-
-This app enables PCs to connect to and also control the Xbox console. You can also track game player achievements and buy Xbox games online. Since Xbox One doubles up as media box users can also control their TVs from the PC with SmartGlass.
-
-With Windows 10, it is now easy to create several desktops as well as run applications from each, so every desktop is showing only those apps that are running in a particular virtual desktop. In case that you do not want to make use of this feature, you may simply remove the “Task View” button.
-
-#### Installing games on Windows 10
-
-Window 10 is going to have an Xbox App which will integrate Xbox One into the PC. The App will also allow you to access games from Steam as well as Microsoft. What is a really exciting feature is that the App will allow you to play on Xbox One with people on the PC version. [Windows game](https://tools.techidaily.com/wondershare/filmora/download/) Apps store offers a wide range of games both free and paid.
-
-Of course the Microsoft Solitaire Collection as well as the traditional Minesweeper and Hearts are still going to be there and also you’ll be able to have games like the Windows 10 version of ‘Square Enix’s Rise of the Tomb Raider’, a sequel to Tomb raider reboot. Here you will see Lara Croft in Siberia. Also there is ‘Minecraft’ (Mojang) with new features and a reboot of the 90s Killer Instinct. Gears of War: Ultimate Edition is a remake of the original with improved graphics and Dolby surround sound 7.1 while Wasteland 2 is a sequel to their 25 year-old game and is a post-apocalyptic RPG that promises over 80,000 of game-time. Some other popular games that will be available are Fable Legends, Sea of Thieves, Shovel Knight, Pinball FX2, Candy Crush Saga etc.
-
-Any game that has an Xbox logo on it means that it also offers Xbox Live achievements and is synced with you Xbox Live profile. Microsoft is not accepting games from developers without a rating so you can have a look at the rating before you buy a game that is appropriate for you. At the bottom of the page you will also get information about how big the game is and on what devices it will run. The quality of games at the Windows 10 store could pose a challenge for Steam some say!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Windows 10 has done something that brings good advantages to game lovers and App users. Windows 10 has an inbuilt Xbox which allows you to stream games and play right there on your PC, mobile or tabs. Another advantage of the Xbox Live integration is that no matter where you go you have access to the gaming community and your friends and achievements go with you. Since Windows 10 is all about games and apps you can go to the Windows store and download apps all of your favorite services.
-
-The first step towards downloading apps and games is that you need to have a Microsoft Account that is assigned to Windows 10\. If you are upgrading from Windows 8 or have Xbox One or use Skype then you probably have a Microsoft account. From the Windows store you can download free or paid apps, games, music and movies. Any app or game that you purchase can be installed on up to 10 PCs with Microsoft Accounts. If its Apps you are looking for then click on the Apps section, on the search bar in the top right corner type in the specific App you are looking for. You can browse the store to see what’s interesting.
-
-Once you have found your app tap or click on the install button right below the description. Button changes color. Read through the apps reviews and price to see if it’s for you. At the bottom of the individual store page you will see what platform the app works on and also the languages it supports. Here are some Apps you might find useful besides the music, videos and movie Apps.
-
-#### 1. App for Flipboard is Free
-
-![flipboard](https://images.wondershare.com/filmora/article-images/flipboard.jpg)
-
-If you like to follow news or spend time on social networks then perhaps you would like to download Flipboard. The App collects all the latest feeds from social networks and news sites and delivers them in package to you. You have stories from around the world to read or save for later. Try it since it’s all free
-
-#### 2. PowerPoint Template App
-
-![powerpoint](https://images.wondershare.com/filmora/article-images/powerpoint.jpg)
-
-If you are into presentations then you could find Templates for PowerPoint App really useful. You can access a wide number of templates for PowerPoint and even modify them and customize features according to your requirements. It integrates easily into PowerPoint and has some worthwhile designs but you have to download it for $7.99.
-
-#### 3. Adobe's Photoshop Express
-
-![adobe](https://images.wondershare.com/filmora/article-images/adobe.png)
-
-Another app that is free is the Photoshop Express. Users can load photos into the software and tweak the images. It might not be a total Photoshop but does a good job and since it is touch compatible you can work with it on a tablet too.
-
-#### 4. Netflix for video streaming
-
-![netflix](https://images.wondershare.com/filmora/article-images/netflix.jpg)
-
-This App allows you to use the streaming video service and is available on tablets, phones and PC. The app remembers where you left off watching and even shows you lists for TV shows and movies. It is likely to be aligned with Xbox app.
-
-#### 5. Microsoft SmartGlass App
-
-![smart](https://images.wondershare.com/filmora/article-images/smart.jpg)
-
-This app enables PCs to connect to and also control the Xbox console. You can also track game player achievements and buy Xbox games online. Since Xbox One doubles up as media box users can also control their TVs from the PC with SmartGlass.
-
-With Windows 10, it is now easy to create several desktops as well as run applications from each, so every desktop is showing only those apps that are running in a particular virtual desktop. In case that you do not want to make use of this feature, you may simply remove the “Task View” button.
-
-#### Installing games on Windows 10
-
-Window 10 is going to have an Xbox App which will integrate Xbox One into the PC. The App will also allow you to access games from Steam as well as Microsoft. What is a really exciting feature is that the App will allow you to play on Xbox One with people on the PC version. [Windows game](https://tools.techidaily.com/wondershare/filmora/download/) Apps store offers a wide range of games both free and paid.
-
-Of course the Microsoft Solitaire Collection as well as the traditional Minesweeper and Hearts are still going to be there and also you’ll be able to have games like the Windows 10 version of ‘Square Enix’s Rise of the Tomb Raider’, a sequel to Tomb raider reboot. Here you will see Lara Croft in Siberia. Also there is ‘Minecraft’ (Mojang) with new features and a reboot of the 90s Killer Instinct. Gears of War: Ultimate Edition is a remake of the original with improved graphics and Dolby surround sound 7.1 while Wasteland 2 is a sequel to their 25 year-old game and is a post-apocalyptic RPG that promises over 80,000 of game-time. Some other popular games that will be available are Fable Legends, Sea of Thieves, Shovel Knight, Pinball FX2, Candy Crush Saga etc.
-
-Any game that has an Xbox logo on it means that it also offers Xbox Live achievements and is synced with you Xbox Live profile. Microsoft is not accepting games from developers without a rating so you can have a look at the rating before you buy a game that is appropriate for you. At the bottom of the page you will also get information about how big the game is and on what devices it will run. The quality of games at the Windows 10 store could pose a challenge for Steam some say!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Windows 10 has done something that brings good advantages to game lovers and App users. Windows 10 has an inbuilt Xbox which allows you to stream games and play right there on your PC, mobile or tabs. Another advantage of the Xbox Live integration is that no matter where you go you have access to the gaming community and your friends and achievements go with you. Since Windows 10 is all about games and apps you can go to the Windows store and download apps all of your favorite services.
-
-The first step towards downloading apps and games is that you need to have a Microsoft Account that is assigned to Windows 10\. If you are upgrading from Windows 8 or have Xbox One or use Skype then you probably have a Microsoft account. From the Windows store you can download free or paid apps, games, music and movies. Any app or game that you purchase can be installed on up to 10 PCs with Microsoft Accounts. If its Apps you are looking for then click on the Apps section, on the search bar in the top right corner type in the specific App you are looking for. You can browse the store to see what’s interesting.
-
-Once you have found your app tap or click on the install button right below the description. Button changes color. Read through the apps reviews and price to see if it’s for you. At the bottom of the individual store page you will see what platform the app works on and also the languages it supports. Here are some Apps you might find useful besides the music, videos and movie Apps.
-
-#### 1. App for Flipboard is Free
-
-![flipboard](https://images.wondershare.com/filmora/article-images/flipboard.jpg)
-
-If you like to follow news or spend time on social networks then perhaps you would like to download Flipboard. The App collects all the latest feeds from social networks and news sites and delivers them in package to you. You have stories from around the world to read or save for later. Try it since it’s all free
-
-#### 2. PowerPoint Template App
-
-![powerpoint](https://images.wondershare.com/filmora/article-images/powerpoint.jpg)
-
-If you are into presentations then you could find Templates for PowerPoint App really useful. You can access a wide number of templates for PowerPoint and even modify them and customize features according to your requirements. It integrates easily into PowerPoint and has some worthwhile designs but you have to download it for $7.99.
-
-#### 3. Adobe's Photoshop Express
-
-![adobe](https://images.wondershare.com/filmora/article-images/adobe.png)
-
-Another app that is free is the Photoshop Express. Users can load photos into the software and tweak the images. It might not be a total Photoshop but does a good job and since it is touch compatible you can work with it on a tablet too.
-
-#### 4. Netflix for video streaming
-
-![netflix](https://images.wondershare.com/filmora/article-images/netflix.jpg)
-
-This App allows you to use the streaming video service and is available on tablets, phones and PC. The app remembers where you left off watching and even shows you lists for TV shows and movies. It is likely to be aligned with Xbox app.
-
-#### 5. Microsoft SmartGlass App
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![smart](https://images.wondershare.com/filmora/article-images/smart.jpg)
 
 This app enables PCs to connect to and also control the Xbox console. You can also track game player achievements and buy Xbox games online. Since Xbox One doubles up as media box users can also control their TVs from the PC with SmartGlass.
@@ -276,3 +323,40 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-instagram-live-maintaining-privacy-while-streaming/"><u>[New] Instagram Live  Maintaining Privacy While Streaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-license-free-mcb-video-backgrounds/"><u>[New] License-Free MCB Video Backgrounds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-and-stream-like-a-pro-with-these-best-webcam-software-top-18/"><u>[New] Live and Stream Like a Pro with These Best Webcam Software (Top 18)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rally-your-spirit-compiled-list-of-best-exercise-tracks/"><u>[New] Rally Your Spirit  Compiled List of Best Exercise Tracks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skyline-scanning-smartphone-panorama-techniques/"><u>[New] Skyline Scanning  Smartphone Panorama Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>[New] Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-ringtones-and-sounds-personalization-for-android-users/"><u>[New] Step-By-Step Ringtones and Sounds Personalization for Android Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-list-ps2-games-on-android-devices-for-2024/"><u>[New] Ultimate List  PS2 Games on Android Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-the-art-of-captions-a-short-guide-to-facebook-videos/"><u>[New] Unlocking the Art of Captions  A Short Guide to Facebook Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-optimal-scripting-solutions-in-ae/"><u>[Updated] 2024 Approved  Optimal Scripting Solutions in AE</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-free-top-chromebook-recording-software-for-2024/"><u>[Updated] Free Top Chromebook Recording Software for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-daylight-in-home-interiors/"><u>[Updated] Leveraging Daylight in Home Interiors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-live-large-the-top-5-mac-streaming-applications/"><u>[Updated] Live, Large  The Top 5 Mac Streaming Applications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-memory-support-for-sony-alpha-7sii/"><u>[Updated] Optimal Memory Support for Sony Alpha 7SII</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extracted-image-selection-from-videos-to-windows-photos/"><u>2024 Approved  Extracted Image Selection  From Videos to Windows Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-nostalgic-notions-integrating-timeless-vhs-effects-into-modern-video-production/"><u>2024 Approved  Nostalgic Notions  Integrating Timeless VHS Effects Into Modern Video Production</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-scout-out-best-spots-for-vr-experiences/"><u>2024 Approved  Scout Out Best Spots for VR Experiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sonic-cinematography-directing-video-narratives-with-music/"><u>2024 Approved  Sonic Cinematography  Directing Video Narratives with Music</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-12-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 12 | Stellar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/aligning-monitor-edges-vertically/"><u>Aligning Monitor Edges Vertically</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/bandicam-simplified-your-comprehensive-guide-to-the-latest-for-2024/"><u>Bandicam Simplified  Your Comprehensive Guide to the Latest for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/designing-your-digital-persona-for-the-metaverse/"><u>Designing Your Digital Persona for the Metaverse</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y02t-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y02T to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-instantaneously-assemble-aesthetic-fb-collage-posts/"><u>In 2024, Instantaneously Assemble Aesthetic FB Collage Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-through-the-terrain-of-mixed-reality/"><u>In 2024, Pioneering Through the Terrain of Mixed Reality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionary-revelations-top-30-quotes-for-ar-vr-dreamers/"><u>In 2024, Revolutionary Revelations  Top 30 Quotes for AR-VR Dreamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-time-lapse-magic-a-beginners-guide-for-2024/"><u>IPhone Time-Lapse Magic  A Beginner’s Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-new-depths-capturing-stunning-slow-motion-with-gopro-hero-10-for-2024/"><u>Navigating New Depths  Capturing Stunning Slow Motion with GoPro Hero 10 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-guide-retrieving-lost-reddit-content-deletion-for-2024/"><u>Quick Guide  Retrieving Lost Reddit Content (Deletion) for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reveal-new-dimensions-of-communication-access-free-vocal-effects-here-for-2024/"><u>Reveal New Dimensions of Communication - Access Free Vocal Effects Here for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secure-your-photography-leading-software-insights-for-2024/"><u>Secure Your Photography - Leading Software Insights for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/setting-up-your-zone-for-top-notch-oculus-vr-experience-for-2024/"><u>Setting Up Your Zone for Top-Notch Oculus VR Experience for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A79 5G | Dr.fone</u></a></li>
+</ul></div>

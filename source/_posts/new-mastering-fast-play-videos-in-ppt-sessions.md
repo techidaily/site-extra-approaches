@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Fast-Play Videos in PPT Sessions\""
-date: 2024-05-31T05:31:01.819Z
-updated: 2024-06-01T05:31:01.819Z
+date: 2024-07-27T23:04:17.263Z
+updated: 2024-07-28T23:04:17.263Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Mastering Fast-Play Videos in PPT Sessions\""
 excerpt: "\"This Article Describes [New] Mastering Fast-Play Videos in PPT Sessions\""
 keywords: "\"Close-Up Meetings Guide,Mastery: Effective Zoom Techniques,Precision Engagement Webinars,Intimate Video Conferencing Skills,Google Meet Excellence Tips,Snapshots in Online Classrooms,Interactive Zoom Mastery\""
-thumbnail: https://www.lifewire.com/thmb/CYDGZrlFjkiCzB8WEsEyoVjflXc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-whitelist-a-sender-or-domain-in-gmail-1172106-AA-v1-5b1d72d1eb97de00363eb294.PNG
+thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e3ca1f0dfa365e65b92b5c5b.PNG
 ---
 
 ## Mastering Fast-Play Videos in PPT Sessions
@@ -36,10 +36,16 @@ Why Not Customize the Video Speed Before Adding it to PowerPoint? Try This!
 
 [Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Speed](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Change PowerPoint Video Playback Speed to Speed Up Video
 
 The process that is given below explains how you can modify (increase or decrease) the playback speed of a video in PowerPoint:
@@ -58,14 +64,32 @@ From the left pane of the **PowerPoint Options** box that opens up, click to sel
 
 Back on the main interface, go to the **Developer** tab. Click **More Controls** from the **Controls** section of the ribbon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![powerpoint controls](https://images.wondershare.com/filmora/article-images/powerpoint-controls.jpg)
 
 When the **More Controls** box appears, scroll down and click to select **Windows Media Player**, and click **OK** from the bottom.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![powerpoint more controls windows media player](https://images.wondershare.com/filmora/article-images/powerpoint-more-controls-windows-media-player.jpg)
 
 Back on the canvas, click and drag the mouse to the scale that you want the size of Windows Media Player to be.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![place windows media player window powerpoint](https://images.wondershare.com/filmora/article-images/place-windows-media-player-window-powerpoint.jpg)
 
 Click **Enable ActiveX** when PowerPoint prompts for, to add a new instance of Windows Media Player.
@@ -78,6 +102,9 @@ A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/d
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -92,10 +119,16 @@ Right-click anywhere on **Windows Media Player**, and click **Property Sheet** f
 
 From the **Properties** box, double-click the **Custom** option from the **Alphabetic** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![customize powerpoint properties](https://images.wondershare.com/filmora/article-images/customize-powerpoint-properties.jpg)
 
 On the **Windows Media Player Properties** box, make sure that you are on the **General** tab, click **Browse** from the **Source** section, and browse for and select the source video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![windows media player properties setting powerpoint](https://images.wondershare.com/filmora/article-images/windows-media-player-properties-setting-powerpoint.jpg)
 
 Next, go to the **Advanced** tab, and increase the value of the **Rate** field that is present in the **Controls settings** section. Click **OK** when done to save the changes and close the box. Close the **Properties** box as well. Finally, press **F5** on the keyboard to preview the presentation with the increased video speed.
@@ -120,6 +153,9 @@ Filmora video speed changer offers speed templates to changing speed in 1-click.
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Change the Speed of a PowerPoint Animation
 
 In addition to modifying the playback speed of the video that you have imported to PowerPoint presentation, you can even customize the overall duration of the animations that each of the slides the app has.
@@ -191,6 +227,10 @@ Why Not Customize the Video Speed Before Adding it to PowerPoint? Try This!
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Part 1: How to Change PowerPoint Video Playback Speed to Speed Up Video
 
 The process that is given below explains how you can modify (increase or decrease) the playback speed of a video in PowerPoint:
@@ -199,10 +239,16 @@ The process that is given below explains how you can modify (increase or decreas
 
 Launch Microsoft PowerPoint on your Windows computer (Microsoft PowerPoint 2019 on a PC running Windows 11 is used here for illustrations), and start with a blank presentation. Next, go to **File** from the menu bar at the top, and click **Options** from the bottom of the navigation bar on the left.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![powerpoint options](https://images.wondershare.com/filmora/article-images/powerpoint-options.jpg)
 
 From the left pane of the **PowerPoint Options** box that opens up, click to select the **Customize Ribbon** category, and from the **Main Tabs** list in the right window, check the **Developer** box. Click **OK** from the bottom to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![enable powerpoint developer option](https://images.wondershare.com/filmora/article-images/enable-powerpoint-developer-option.jpg)
 
 **Step 2: Add a Windows Media Player Instance**
@@ -229,6 +275,9 @@ A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/d
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -247,10 +296,16 @@ From the **Properties** box, double-click the **Custom** option from the **Alpha
 
 On the **Windows Media Player Properties** box, make sure that you are on the **General** tab, click **Browse** from the **Source** section, and browse for and select the source video.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![windows media player properties setting powerpoint](https://images.wondershare.com/filmora/article-images/windows-media-player-properties-setting-powerpoint.jpg)
 
 Next, go to the **Advanced** tab, and increase the value of the **Rate** field that is present in the **Controls settings** section. Click **OK** when done to save the changes and close the box. Close the **Properties** box as well. Finally, press **F5** on the keyboard to preview the presentation with the increased video speed.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![media player properties advanced settings powerpoint](https://images.wondershare.com/filmora/article-images/media-player-properties-advanced-settings-powerpoint.jpg)
 
 **Note:** Defining 2 in the ‘Rate’ field increases the playback speed of the video by 2x. Likewise, specifying the 0.5 value reduces the speed to half.
@@ -267,6 +322,9 @@ Filmora video speed changer offers speed templates to changing speed in 1-click.
 
 [Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -289,10 +347,16 @@ Go to the **Animation** tab from the top. Press **Ctrl** \+ **A** to select all 
 
 Where increasing the duration slows down the animation speed, decreasing it speeds up the animation. Simply put, the value in the duration field is inversely proportional to the speed of the animation.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change animation speed powerpoint](https://images.wondershare.com/filmora/article-images/change-animation-speed-powerpoint.jpg)
 
 **Note:** You can follow the same procedure to manage the animation speed for all the slides in the presentation.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: FAQs About Change PPT Speed
 
 **Q1) Why is my video lagging in PowerPoint?**
@@ -342,6 +406,9 @@ Why Not Customize the Video Speed Before Adding it to PowerPoint? Try This!
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Change PowerPoint Video Playback Speed to Speed Up Video
 
 The process that is given below explains how you can modify (increase or decrease) the playback speed of a video in PowerPoint:
@@ -354,16 +421,25 @@ Launch Microsoft PowerPoint on your Windows computer (Microsoft PowerPoint 2019 
 
 From the left pane of the **PowerPoint Options** box that opens up, click to select the **Customize Ribbon** category, and from the **Main Tabs** list in the right window, check the **Developer** box. Click **OK** from the bottom to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enable powerpoint developer option](https://images.wondershare.com/filmora/article-images/enable-powerpoint-developer-option.jpg)
 
 **Step 2: Add a Windows Media Player Instance**
 
 Back on the main interface, go to the **Developer** tab. Click **More Controls** from the **Controls** section of the ribbon.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![powerpoint controls](https://images.wondershare.com/filmora/article-images/powerpoint-controls.jpg)
 
 When the **More Controls** box appears, scroll down and click to select **Windows Media Player**, and click **OK** from the bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![powerpoint more controls windows media player](https://images.wondershare.com/filmora/article-images/powerpoint-more-controls-windows-media-player.jpg)
 
 Back on the canvas, click and drag the mouse to the scale that you want the size of Windows Media Player to be.
@@ -380,6 +456,9 @@ A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/d
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -418,6 +497,9 @@ Filmora video speed changer offers speed templates to changing speed in 1-click.
 
 [Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -444,6 +526,9 @@ Where increasing the duration slows down the animation speed, decreasing it spee
 
 **Note:** You can follow the same procedure to manage the animation speed for all the slides in the presentation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: FAQs About Change PPT Speed
 
 **Q1) Why is my video lagging in PowerPoint?**
@@ -493,6 +578,9 @@ Why Not Customize the Video Speed Before Adding it to PowerPoint? Try This!
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Change PowerPoint Video Playback Speed to Speed Up Video
 
 The process that is given below explains how you can modify (increase or decrease) the playback speed of a video in PowerPoint:
@@ -515,6 +603,9 @@ Back on the main interface, go to the **Developer** tab. Click **More Controls**
 
 When the **More Controls** box appears, scroll down and click to select **Windows Media Player**, and click **OK** from the bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![powerpoint more controls windows media player](https://images.wondershare.com/filmora/article-images/powerpoint-more-controls-windows-media-player.jpg)
 
 Back on the canvas, click and drag the mouse to the scale that you want the size of Windows Media Player to be.
@@ -531,6 +622,9 @@ A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/d
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -541,18 +635,30 @@ A smooth tool to [edit video](https://tools.techidaily.com/wondershare/filmora/d
 
 Right-click anywhere on **Windows Media Player**, and click **Property Sheet** from the context menu that comes up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![powerpoint property sheet](https://images.wondershare.com/filmora/article-images/powerpoint-property-sheet.jpg)
 
 From the **Properties** box, double-click the **Custom** option from the **Alphabetic** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![customize powerpoint properties](https://images.wondershare.com/filmora/article-images/customize-powerpoint-properties.jpg)
 
 On the **Windows Media Player Properties** box, make sure that you are on the **General** tab, click **Browse** from the **Source** section, and browse for and select the source video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![windows media player properties setting powerpoint](https://images.wondershare.com/filmora/article-images/windows-media-player-properties-setting-powerpoint.jpg)
 
 Next, go to the **Advanced** tab, and increase the value of the **Rate** field that is present in the **Controls settings** section. Click **OK** when done to save the changes and close the box. Close the **Properties** box as well. Finally, press **F5** on the keyboard to preview the presentation with the increased video speed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![media player properties advanced settings powerpoint](https://images.wondershare.com/filmora/article-images/media-player-properties-advanced-settings-powerpoint.jpg)
 
 **Note:** Defining 2 in the ‘Rate’ field increases the playback speed of the video by 2x. Likewise, specifying the 0.5 value reduces the speed to half.
@@ -569,10 +675,16 @@ Filmora video speed changer offers speed templates to changing speed in 1-click.
 
 [Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Start Video Speed Changing](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Part 2: How to Change the Speed of a PowerPoint Animation
 
 In addition to modifying the playback speed of the video that you have imported to PowerPoint presentation, you can even customize the overall duration of the animations that each of the slides the app has.
@@ -595,6 +707,9 @@ Where increasing the duration slows down the animation speed, decreasing it spee
 
 **Note:** You can follow the same procedure to manage the animation speed for all the slides in the presentation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: FAQs About Change PPT Speed
 
 **Q1) Why is my video lagging in PowerPoint?**
@@ -652,3 +767,50 @@ Some most common reasons for this issue include:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-ideation-at-its-peak-crafting-impressive-youtube-titles/"><u>[New] 2024 Approved  Ideation at Its Peak  Crafting Impressive YouTube Titles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-beginners-guide-adding-text-overlays-on-youtube-for-2024/"><u>[New] Beginner's Guide  Adding Text Overlays on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hit-the-floor-with-optimal-posting-hours-for-2024/"><u>[New] Hit the Floor with Optimal Posting Hours for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-the-evolved-sony-bdp-s6700-world/"><u>[New] Inside the Evolved Sony BDP-S6700 World</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-the-high-definition-world-of-nikon-j5/"><u>[New] Inside the High-Definition World of Nikon J5</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lightroom-workflow-creating-and-merging-professional-hdr-images/"><u>[New] Lightroom Workflow  Creating & Merging Professional HDR Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-subtitle-creation-an-in-depth-srt-guide-with-strategies/"><u>[New] Mastering Subtitle Creation  An In-Depth SRT Guide with Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-mobility-with-top-10-payload-drones/"><u>[New] Maximizing Mobility with Top 10 Payload Drones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimizing-screen-space-for-virtual-clarity-and-detail/"><u>[New] Optimizing Screen Space for Virtual Clarity and Detail</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-social-media-savvy-the-art-of-timing-in-instagram-reels/"><u>[New] Social Media Savvy  The Art of Timing in Instagram Reels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-savvy-photographers-guide-to-pristine-cloud-space-cost-free-and-paid-choices/"><u>[Updated] 2024 Approved  Savvy Photographers' Guide to Pristine Cloud Space  Cost-Free & Paid Choices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discovering-the-secret-to-engaging-content-with-aspect-ratios-in-youtube-for-2024/"><u>[Updated] Discovering the Secret to Engaging Content with ASPECT RATIOS in YOUTUBE for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-hue-mastery-interface/"><u>[Updated] Hue Mastery Interface</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-out-the-nikon-d7500-experience/"><u>[Updated] Inside Out  The Nikon D7500 Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instantaneously-combine-photos-into-facebook-stories/"><u>[Updated] Instantaneously Combine Photos Into Facebook Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-ai-for-professional-visual-editing/"><u>[Updated] Next Gen AI for Professional Visual Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-present-trends-in-drone-technology-for-the-future/"><u>[Updated] Present Trends in Drone Technology for the Future</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revive-your-photos-two-methods-to-restore-photo-viewing-in-win10/"><u>[Updated] Revive Your Photos  Two Methods to Restore Photo Viewing in Win10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-satirical-images-jestjokes-studio/"><u>[Updated] Satirical Images  JestJokes Studio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selecting-sacred-sounds-a-step-by-step-guide/"><u>[Updated] Selecting Sacred Sounds  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-fuss-full-fun-exploring-ifunnys-meme-treasure/"><u>2024 Approved  No Fuss, Full Fun  Exploring iFunny's Meme Treasure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-kinemaster-usage-expert-advice-and-superior-digital-alternatives/"><u>2024 Approved  Optimizing KineMaster Usage  Expert Advice and Superior Digital Alternatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-upside-down-and-sideways-iphone-images/"><u>2024 Approved  Perfect Upside-Down & Sideways iPhone Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-photo-and-video-with-gopro-hero5-black-mastery-essentials/"><u>2024 Approved  Pro Photo & Video with GoPro  Hero5 Black Mastery Essentials</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-capture-and-store-your-favorite-episodes-on-iphone/"><u>2024 Approved  Seamlessly Capture and Store Your Favorite Episodes on iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-error-e1-code-on-w10w11-systems/"><u>Eradicating Error E1 Code on W10/W11 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-your-sound-the-best-microphones-for-podcasting/"><u>In 2024, Maximizing Your Sound  The Best Microphones for Podcasting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-vs-multimetaverse-distinguishing-characteristics-comprehensive-insights/"><u>In 2024, Metaverse Vs. Multimetaverse  Distinguishing Characteristics (Comprehensive Insights)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-windows-11-movie-maker-your-ultimate-instruction-manual/"><u>In 2024, Navigating Windows 11 Movie Maker  Your Ultimate Instruction Manual</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-masters-list-the-best-6-4k-dslr-cameras-today/"><u>In 2024, Photo Masters List  The Best 6 4K DSLR Cameras Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photoshop-color-adjustments-for-beginners/"><u>In 2024, Photoshop Color Adjustments for Beginners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-steadicam-options-for-high-quality-dslr-shoots/"><u>In 2024, Premium Steadicam Options for High-Quality DSLR Shoots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prestigious-vr-movie-collection-to-watch/"><u>In 2024, Prestigious VR Movie Collection to Watch</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snipping-videophotographs-in-windows-11/"><u>In 2024, Snipping Videophotographs in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-into-the-future-samsungs-new-k850-ultrablade-unveiled/"><u>In 2024, Step Into the Future - Samsung's New K850 UltraBlade Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-up-your-iphone-x7s-selfies-with-these-top-free-tools/"><u>In 2024, Step Up Your iPhone X/7's Selfies with These Top Free Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-tips-and-tricks-to-help-you-use-lunapic-photo-editor-like-a-pro/"><u>In 2024, Tips and Tricks to Help You Use Lunapic Photo Editor Like A Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instagram-soundtracks-download-and-design-your-own-for-2024/"><u>Instagram Soundtracks  Download & Design Your Own for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-zoom-on-xbox-a-step-by-step-guide-for-2024/"><u>Mastering Zoom on Xbox  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-windows-11-movie-maker-your-ultimate-instruction-manual-for-2024/"><u>Navigating Windows 11 Movie Maker  Your Ultimate Instruction Manual for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-zoom-settings-for-microsoft-teams-communication-for-2024/"><u>Optimal Zoom Settings for Microsoft Teams Communication for 2024</u></a></li>
+</ul></div>

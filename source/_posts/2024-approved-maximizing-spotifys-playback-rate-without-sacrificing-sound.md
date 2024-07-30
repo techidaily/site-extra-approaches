@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maximizing Spotify's Playback Rate Without Sacrificing Sound\""
-date: 2024-05-31T05:31:28.759Z
-updated: 2024-06-01T05:31:28.759Z
+date: 2024-07-27T23:31:44.156Z
+updated: 2024-07-28T23:31:44.156Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,9 @@ If you want a fast-paced song version but not necessarily a pre-made remix with 
 
 If that is a concern for you, worry not. This post will detail the best solutions and software to **speed up music on Spotify** using its rich library of songs, with steps. Let's continue.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![image of spotify app](https://images.wondershare.com/filmora/article-images/2023/01/a-comprehensive-analysis-on-how-to-speed-up-audio-files-on-spotify-safely-1.jpg)
 
 ## Part I. How to Speed Up Songs on Spotify?
@@ -36,6 +39,9 @@ While there is no direct function for adjusting Spotify songs or even podcasts' 
 
 However, this extension was last updated in October 2019\. So, while using it, you might notice some issues.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Change Playback Speed on Spotify Web Player
 
 The following are the main steps you should follow to **Spotify speed up music via the Spotify Web Player:**
@@ -108,10 +114,20 @@ Step2: On your browser, click on the Spotify platform through the link: <https:/
 
 Step3: Find the song you will download and copy its URL.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find the song](https://images.wondershare.com/filmora/article-images/2023/01/a-comprehensive-analysis-on-how-to-speed-up-audio-files-on-spotify-safely-6.jpg)
 
 Step4: Wait for some seconds to let the process complete, and then choose the song displayed in Musify.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![choose the song](https://images.wondershare.com/filmora/article-images/2023/01/a-comprehensive-analysis-on-how-to-speed-up-audio-files-on-spotify-safely-7.jpg)
 
 Step5: Tap on the Download button.
@@ -140,14 +156,23 @@ Step2: Go to Your Library > Liked Songs.
 
 Step3: In this section, tap on the Download Songs switch at the top section of the screen to activate this function. All songs will save offline.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the download songs switch](https://images.wondershare.com/filmora/article-images/2023/01/a-comprehensive-analysis-on-how-to-speed-up-audio-files-on-spotify-safely-9.jpg)
 
 Step4: For specific song downloads on Spotify, click on the Search button at the bottom of the screen and find the song you want from the text field.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![click on the search button](https://images.wondershare.com/filmora/article-images/2023/01/a-comprehensive-analysis-on-how-to-speed-up-audio-files-on-spotify-safely-10.jpg)
 
 Step5: Hit the three-dotted icon at the top and choose the Download button from the drop-down list.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![choose the download button](https://images.wondershare.com/filmora/article-images/2023/01/a-comprehensive-analysis-on-how-to-speed-up-audio-files-on-spotify-safely-11.jpg)
 
 ##### Step2Import the Audio File to Filmora
@@ -212,12 +237,18 @@ Step1: Click on the Export button.
 
 Step2: Click on Local > MP4/other video formats to download the video to your device. Alternatively, you can click on Vimeo or YouTube for direct upload after syncing the accounts to the software.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![click on local](https://images.wondershare.com/filmora/article-images/2023/01/a-comprehensive-analysis-on-how-to-speed-up-audio-files-on-spotify-safely-15.jpg)
 
 Step3: Make changes to the settings, like download location, quality, etc.
 
 Step4: After completing, click on the Export button again.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs about Spotify Music
 
 1. **Can I listen to Spotify music for free?**
@@ -228,6 +259,9 @@ Yes, the Spotify platform does come in the free version with a vast library of s
 
 When users download music on Spotify through the mobile app, the songs save within the app. So, you have to open the app to hear the songs. This is because the cache of the songs downloads when users save them offline from Spotify. For example, the download location on Android phones is the Spotify app's inbuilt Android data folder.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Spotify is one of the best apps available for high-quality music playback of various types. However, it only allows users to change the music speed and podcasts directly. So, you have to use an extension to adjust the playback speed of songs or upgrade to a Premium paid account.
@@ -244,6 +278,14 @@ Step2: Tap the Speedometer icon from the toolbar above the timeline.
 
 Step3: Hover the cursor on top of Slow to reduce the speed or over the Fast option to increase speed.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![hover cursor over the fast button](https://images.wondershare.com/filmora/article-images/2023/01/a-comprehensive-analysis-on-how-to-speed-up-audio-files-on-spotify-safely-13.jpg)
 
 ##### Step4Reverse Audio or Setup Custom Speed
@@ -272,6 +314,9 @@ Step1: Click on the Export button.
 
 Step2: Click on Local > MP4/other video formats to download the video to your device. Alternatively, you can click on Vimeo or YouTube for direct upload after syncing the accounts to the software.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on local](https://images.wondershare.com/filmora/article-images/2023/01/a-comprehensive-analysis-on-how-to-speed-up-audio-files-on-spotify-safely-15.jpg)
 
 Step3: Make changes to the settings, like download location, quality, etc.
@@ -318,3 +363,67 @@ Besides that, you can use separate apps like Musify and Filmora to download song
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-gameplay-a-sims-4-tutorial/"><u>[New] Capturing Gameplay  A Sims 4 Tutorial</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-discover-10-amazing-world-wanderlust-channels/"><u>[New] In 2024, Discover 10 Amazing World Wanderlust Channels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-masterclass-creating-alluring-vlogging-storylines/"><u>[New] In 2024, Masterclass  Creating Alluring Vlogging Storylines</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-out-of-t5-ultimate-sports-and-adventures-recorder/"><u>[New] Inside Out of T5  Ultimate Sports and Adventures Recorder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-vector-graphics-our-top-10-pics-stores/"><u>[New] Mastering Vector Graphics  Our Top 10 Pics Stores</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-waveform-overlaps-the-crossfade-method/"><u>[New] Mastering Waveform Overlaps  The Crossfade Method</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-push-boundaries-expert-advice-on-snapchat-zooms/"><u>[New] Push Boundaries  Expert Advice on Snapchat Zooms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-removing-borders-quick-and-effective-image-retouch-methods/"><u>[New] Removing Borders  Quick & Effective Image Retouch Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revamping-graphic-design-with-non-acid-pro-options/"><u>[New] Revamping Graphic Design with Non-ACID Pro Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-selective-picture-smoothing-made-simple/"><u>[New] Selective Picture Smoothing Made Simple</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shaky-video-tamer-for-handheld-cams/"><u>[New] Shaky Video Tamer for Handheld Cams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-experts-techniques-for-clearing-figma-backdrops/"><u>[New] The Expert's Techniques for Clearing Figma Backdrops</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-to-ipv-file-transformation-instagram-videos-in-mp4-for-2024/"><u>[New] The Ultimate Guide to IPV File Transformation  Instagram Videos in MP4 for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-10-emulator-selections-for-mobile-gba-players/"><u>[Updated] 2024 Approved  Top 10 Emulator Selections for Mobile GBA Players</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capturing-your-gaming-adventures-best-practices-reviewed/"><u>[Updated] Capturing Your Gaming Adventures  Best Practices Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laughburst-app-for-all-humor-needs/"><u>[Updated] LaughBurst App for All Humor Needs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-method-for-integrating-gopro-footage-into-360-degree-films/"><u>[Updated] Optimal Method for Integrating GoPro Footage Into 360-Degree Films</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-secure-practices-for-storing-video-conversations/"><u>[Updated] Secure Practices for Storing Video Conversations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stealth-sharpening-hiding-background-details/"><u>[Updated] Stealth Sharpening  Hiding Background Details</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-innovative-windows-podcast-solutions-top-8-cutting-edge-apps/"><u>2024 Approved  Innovative Windows Podcast Solutions  Top 8 Cutting-Edge Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-meme-maniacs-your-comprerans-quick-start-guide-for-9gag/"><u>2024 Approved  Meme Maniacs  Your Compreran's Quick-Start Guide for 9GAG</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mememirror-app-mirror-the-worlds-laughter/"><u>2024 Approved  MemeMirror App - Mirror the World's Laughter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-meticulous-study-of-magix-photo-controls/"><u>2024 Approved  Meticulous Study of MAGIX Photo Controls</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-best-10-free-converters-for-jpeg-and-gif/"><u>2024 Approved  Navigating Best 10 Free Converters for JPEG & GIF</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixelperfect-toolkit-guidebook/"><u>2024 Approved  PixelPerfect Toolkit Guidebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-power-supplies-for-gopro-hero5-genuine-and-3rd-party/"><u>2024 Approved  Premium Power Supplies for GoPro Hero5  Genuine and 3Rd-Party</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-ps5xbox-x-visuals-the-top-5-game-tvs/"><u>2024 Approved  PS5/Xbox X Visuals  The Top 5 Game TVs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-hands-turning-photos-into-compelling-youtube-thumbnails/"><u>2024 Approved  Quick Hands  Turning Photos Into Compelling YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionary-strategy-mac-opening-with-wearable/"><u>2024 Approved  Revolutionary Strategy  Mac Opening With Wearable</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-enhancing-content-learn-video-filter-techniques-on-pcmobile/"><u>2024 Approved  Seamlessly Enhancing Content  Learn Video Filter Techniques on PC/Mobile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/all-inclusive-screen-logger-detailed-app-analyses-for-2024/"><u>All-Inclusive Screen Logger - Detailed App Analyses for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aussies-word-wizardry-100plus-key-phrases/"><u>Aussie's Word Wizardry: 100+ Key Phrases</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-hevc-h265-content-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Samsung Galaxy S24</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-lenovo-thinkphone-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Lenovo ThinkPhone Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-liberate-iphone-photos-from-red-eye-effects-at-no-cost/"><u>In 2024, Liberate iPhone Photos From Red Eye Effects at No Cost</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-your-subtitles-with-top-10-free-converter-websites/"><u>In 2024, Master Your Subtitles with Top 10 Free Converter Websites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-oneclickpodcaststream-effortlessly-livestream-your-podcast-content/"><u>In 2024, OneClickPodcastStream  Effortlessly Livestream Your Podcast Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-screenplays-reviewed/"><u>In 2024, Pinnacle Screenplays Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-audio-narrative-compositions/"><u>In 2024, Premium Audio Narrative Compositions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reliable-selections-17-trusted-apps-for-effortless-background-cleaning/"><u>In 2024, Reliable Selections  17 Trusted Apps for Effortless Background Cleaning</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-visual-storytelling-by-incorporating-cg-centrals-look-up-tables-luts/"><u>In 2024, Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones-for-2024/"><u>Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/interactive-techniques-for-periscope-hosts-for-2024/"><u>Interactive Techniques for Periscope Hosts for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/interpreting-distinctions-360-content-and-virtual-reality-for-2024/"><u>Interpreting Distinctions  360° Content & Virtual Reality for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-your-minds-library-utilize-mematic-for-2024/"><u>Master Your Mind's Library - Utilize Mematic for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-for-icon-position-restoration-in-windows/"><u>Method for Icon Position Restoration in WIndows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-zoom-with-skype-a-guide-to-seamless-video-calls-for-2024/"><u>Navigating Zoom with Skype  A Guide to Seamless Video Calls for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-filmora-watermark-how-to-bypass-or-remove-it-permanently/"><u>New 2024 Approved Filmora Watermark How to Bypass or Remove It Permanently</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/original-design-potential-utilize-free-logo-templates-and-customization-tools-for-2024/"><u>Original Design Potential  Utilize FREE Logo Templates & Customization Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prelude-to-cinematic-dialogue-for-2024/"><u>Prelude to Cinematic Dialogue for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-fixes-to-ensure-your-tiktok-accounts-corrected-age-for-2024/"><u>Quick Fixes to Ensure Your TikTok Account's Corrected Age for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rev-up-with-hubsans-x4-fpv-quadcopter-review-for-2024/"><u>Rev Up with Hubsan's X4 FPV Quadcopter Review for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/skyrocketing-performance-boosting-ram-in-minecraft/"><u>Skyrocketing Performance  Boosting RAM in Minecraft</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-definitive-manual-for-gathering-all-past-facebook-data/"><u>The Definitive Manual for Gathering All Past Facebook Data</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia G42 5G | Dr.fone</u></a></li>
+</ul></div>

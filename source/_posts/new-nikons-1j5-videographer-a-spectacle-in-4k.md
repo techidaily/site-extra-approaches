@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Nikon's 1J5 Videographer  A Spectacle in 4K\""
-date: 2024-05-31T05:25:55.946Z
-updated: 2024-06-01T05:25:55.946Z
+date: 2024-07-27T17:49:46.094Z
+updated: 2024-07-28T17:49:46.094Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Nikon's 1J5 Videographer: A Spectacle in 4K\""
 excerpt: "\"This Article Describes [New] Nikon's 1J5 Videographer: A Spectacle in 4K\""
 keywords: "\"Nikon J5 4K Video,4K Nikon Camera,Nikon Videography 4K,Nikon DSLR 4K Cam,1J5 Nikon 4K HD,High-Res Nikon 4K,Ultra 4K Nikon J5\""
-thumbnail: https://www.lifewire.com/thmb/XuYrRPCOK72waHStn6mcmYJjfFs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/000-how-to-make-high-resolution-images-on-your-computer-or-smartphone-4588802-5c83b08746e0fb0001136657.jpg
+thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c6f73b5cf48b17efe5272ad6.jpg
 ---
 
 ## Nikon's 1J5 Videographer: A Spectacle in 4K
@@ -28,8 +28,171 @@ thumbnail: https://www.lifewire.com/thmb/XuYrRPCOK72waHStn6mcmYJjfFs=/400x300/fi
 
  Since the Nikon's 1-series mirrorless cameras first emerged in 2011, the image quality and overall performance of these cameras have been steadily improving. The famous camera manufacturer has divided all mirrorless 1-series camera models into three different categories. The entry-level S-series, the midrange J-series, and the high-end V-series. Nikon 1 J5 is the successor to the Nikon's J4 model and the upgrades introduced with this model go far beyond the visual appearance of the camera. The retro design of the Nikon 1 J5, more than affordable price together with a plethora of photo and video options make this mirrorless camera attractive to photography and video enthusiasts.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![nikon-1-j5-review](https://images.wondershare.com/filmora/article-images/nikon-1-j5-review.jpg)
 
+## Nikon 1 J5 Complete Review
+
+#### 1. Pros and Cons
+
+**Pros**
+
+* Quality images
+* Excellent burst capabilities
+* Built-in WiFi and NFC
+* Good noise reduction and excellent ISO performer
+* Affordable
+
+**Cons**
+
+* Doesn't have a viewfinder
+* Short battery life
+* 4K recording at only 15fps
+* Only compatible with F-mount lenses
+
+#### 2. Design
+
+ Nikon 1 J5 is an elegant, compact camera that benefits from its retro design. It is relatively small in size with dimensions of 98.3 x 59.7 x 31.5 mm that make it a perfect companion on daily walks or family vacations. The J5 is available in Silver, Black and White colors and all models have a grip that ensures that camera can be held firmly. Judging by its appearance Nikon 1 J5 could be easily mistaken for an analog photo camera because it is light-weight, small and its faux leather body evokes memories of some of the most memorable Nikon analog cameras. However, the inside of this mid-range compact camera is far removed from its analog predecessors, since it features the latest digital technology that produces high-quality still images and videos.
+
+#### 3. Sensor and Processor
+
+ The Nikon 1 J5 has a 1-inch 20.8MP CX-Format BSI CMOS Sensor that may not be the best camera sensor on the market, but with 20.8 million pixels it still has higher resolution than any other J-series camera. The camera's sensor is efficient at excluding the low-pass filter, which guarantees the remarkable image sharpness. The noise level reduction at high ISO values enhances the camera's performance in low-light conditions, which means that ISO values can be set as high as 12800 without jeopardizing the quality of the images. The CMOS sensor is paired with the EXPEED 5A Image Processor and together they provide speed and efficiency across the entire camera system.
+
+ The Nikon 1 J5's hybrid autofocus system has 171 Contrast-Detection points and 105 Phase-Detection points that ensure that the subjects of the photos and videos are always in focus when autofocus feature is on. The camera users can choose between manual focus and several Autofocus modes including Continuous Servo AF (C) and Full-time Servo modes. The Nikon 1 J5's utilizes only the Nikon F-mount lenses, so those who wish to use some of the legendary DSLR Nikon lenses must do so via the FT1 lens adapter. The camera's 10-30 mm F3.5-5.6 VR kit lens is equivalent to 27-81 mm focal length range due to the camera's 2.7 crop factor. The Nikon 1 J5's in-body image stabilization is only available while recording at 30 or 60p, but the kit lens features Nikon's lens-based optical stabilization system that ensures that camera shakes are kept to the minimum when working in different camera modes.
+
+#### 4. Autofocus
+
+ The camera's 4D focus system further contributes to the clarity and accuracy of the images A6300 produces. The Sony Alpha A6300 4D focus system has 425 on-chip Phase-Detection points as well as 169 Contrast-Detection points that enable the camera to focus the image in 0.05 seconds. The high density of focusing point allows the Tracking AF technology to track moving objects, even in the low-visibility conditions, which can be quite useful when filming outdoor scenes. The more experienced photographers and videographers can benefit from the Peaking MF feature that makes acquiring perfect manual focus much easier. Even though A6300 utilizes only the E-mount lenses the Phase-Detection is enabled on A-mount lenses that can be attached to the camera via LA-EA1 or LA-EA3 lens adapters.
+
+#### 5. Image quality
+
+ The Nikon's latest J-series midrange compact camera can produce high-resolution photos as well as UHD 4K and Full HD videos. The camera captures UHD 4K video at 2160p, 15fps, while Full HD videos can be captured at 1080p resolution and 60fps in either MOV or MPEG4 formats. The Nikon 1 J5 can take up to 20 continuous 20.8 MP still images, and the photos can be saved as JPEG or RAW files. The largest photo resolution this camera can produce is 5568 X 3712, while users can choose between a number of different aspect ratios. Although Nikon 1 J5 is equipped with a built-in stereo microphone, it doesn't have an external microphone plug-in, which can make professional sound recording quite difficult. Furthermore, the camera lacks a viewfinder and because of that composing a shot in broad daylight can be a daunting task. Users are forced to use the J5's 3-inch 1,037K-dot tilting LCD touchscreen. However, the add-on viewfinder can be attached to the camera's display, but it might take some time to get used to using an external viewfinder.
+
+#### 6. Controls
+
+ Micro SD, Micro SDHC, and Micro SDXC memory cards can all be used to store the recorded footage that can be easily transferred to other devices via a WiFi or HDMI connection. In order to utilize the built-in SnapBrdge WiFi connectivity feature, the users must first install the Nikon Wireless Mobile Utility app on their iOS or Android Smartphones. Once the app is installed, the users can control the Nikon 1 J5 remotely and have full access to all of the camera's features as well as to the contents of the SD card. The Near Field Communication enables you to share your images on the internet effortlessly, tag your friends or transfer photos and videos wirelessly. The highest data rate the Nikon 1 J5 can provide is 54 Mbps, while the connection between the camera and another device can be established in a 10-meter radius.
+
+ The Nikon 1 J5 offers a large number of different modes that enable the camera operators to adjust the camera settings to the demands of the scene. Picture control modes, Glamour Retouch modes or Creative modes provide a possibility for visual experimentation and improve the quality of images by enhancing its chromatic values.
+
+#### 7. Key features
+
+* 13.2 X 8.8 mm 20.8 MP CX-Format BSI CMOS Sensor
+* EXPEED 5A Image Processor
+* Hybrid AF
+* Ultra HD 4K 2160/p at up to 15fps
+* High ISO noise reduction
+* Built-in WiFi Connectivity
+* 3-inch 1,037k-dot LCD Touchscreen
+* Full HD video at 60fps
+
+#### 8. Conclusion
+
+ The Nikon's J5 camera is solid video and photography tool that features hardware that makes high-end performance possible even in the low-light situations. The J5 has performed well while recording moving objects, mostly because of its hybrid autofocus system that utilizes both Phase and Contrast Detection Autofocus systems. The Nikon's latest J-series edition is well-equipped to serve the needs of the less demanding users, but the J5 lacks some of the key features for professional use. Purchasing the Nikon 1 J5 is an excellent choice for beginners and those users who only need a camera to capture important moments in their lives in excellent quality, but professional users would be better off obtaining some of the Nikon's more advanced models.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Since the Nikon's 1-series mirrorless cameras first emerged in 2011, the image quality and overall performance of these cameras have been steadily improving. The famous camera manufacturer has divided all mirrorless 1-series camera models into three different categories. The entry-level S-series, the midrange J-series, and the high-end V-series. Nikon 1 J5 is the successor to the Nikon's J4 model and the upgrades introduced with this model go far beyond the visual appearance of the camera. The retro design of the Nikon 1 J5, more than affordable price together with a plethora of photo and video options make this mirrorless camera attractive to photography and video enthusiasts.
+
+![nikon-1-j5-review](https://images.wondershare.com/filmora/article-images/nikon-1-j5-review.jpg)
+
+## Nikon 1 J5 Complete Review
+
+#### 1. Pros and Cons
+
+**Pros**
+
+* Quality images
+* Excellent burst capabilities
+* Built-in WiFi and NFC
+* Good noise reduction and excellent ISO performer
+* Affordable
+
+**Cons**
+
+* Doesn't have a viewfinder
+* Short battery life
+* 4K recording at only 15fps
+* Only compatible with F-mount lenses
+
+#### 2. Design
+
+ Nikon 1 J5 is an elegant, compact camera that benefits from its retro design. It is relatively small in size with dimensions of 98.3 x 59.7 x 31.5 mm that make it a perfect companion on daily walks or family vacations. The J5 is available in Silver, Black and White colors and all models have a grip that ensures that camera can be held firmly. Judging by its appearance Nikon 1 J5 could be easily mistaken for an analog photo camera because it is light-weight, small and its faux leather body evokes memories of some of the most memorable Nikon analog cameras. However, the inside of this mid-range compact camera is far removed from its analog predecessors, since it features the latest digital technology that produces high-quality still images and videos.
+
+#### 3. Sensor and Processor
+
+ The Nikon 1 J5 has a 1-inch 20.8MP CX-Format BSI CMOS Sensor that may not be the best camera sensor on the market, but with 20.8 million pixels it still has higher resolution than any other J-series camera. The camera's sensor is efficient at excluding the low-pass filter, which guarantees the remarkable image sharpness. The noise level reduction at high ISO values enhances the camera's performance in low-light conditions, which means that ISO values can be set as high as 12800 without jeopardizing the quality of the images. The CMOS sensor is paired with the EXPEED 5A Image Processor and together they provide speed and efficiency across the entire camera system.
+
+ The Nikon 1 J5's hybrid autofocus system has 171 Contrast-Detection points and 105 Phase-Detection points that ensure that the subjects of the photos and videos are always in focus when autofocus feature is on. The camera users can choose between manual focus and several Autofocus modes including Continuous Servo AF (C) and Full-time Servo modes. The Nikon 1 J5's utilizes only the Nikon F-mount lenses, so those who wish to use some of the legendary DSLR Nikon lenses must do so via the FT1 lens adapter. The camera's 10-30 mm F3.5-5.6 VR kit lens is equivalent to 27-81 mm focal length range due to the camera's 2.7 crop factor. The Nikon 1 J5's in-body image stabilization is only available while recording at 30 or 60p, but the kit lens features Nikon's lens-based optical stabilization system that ensures that camera shakes are kept to the minimum when working in different camera modes.
+
+#### 4. Autofocus
+
+ The camera's 4D focus system further contributes to the clarity and accuracy of the images A6300 produces. The Sony Alpha A6300 4D focus system has 425 on-chip Phase-Detection points as well as 169 Contrast-Detection points that enable the camera to focus the image in 0.05 seconds. The high density of focusing point allows the Tracking AF technology to track moving objects, even in the low-visibility conditions, which can be quite useful when filming outdoor scenes. The more experienced photographers and videographers can benefit from the Peaking MF feature that makes acquiring perfect manual focus much easier. Even though A6300 utilizes only the E-mount lenses the Phase-Detection is enabled on A-mount lenses that can be attached to the camera via LA-EA1 or LA-EA3 lens adapters.
+
+#### 5. Image quality
+
+ The Nikon's latest J-series midrange compact camera can produce high-resolution photos as well as UHD 4K and Full HD videos. The camera captures UHD 4K video at 2160p, 15fps, while Full HD videos can be captured at 1080p resolution and 60fps in either MOV or MPEG4 formats. The Nikon 1 J5 can take up to 20 continuous 20.8 MP still images, and the photos can be saved as JPEG or RAW files. The largest photo resolution this camera can produce is 5568 X 3712, while users can choose between a number of different aspect ratios. Although Nikon 1 J5 is equipped with a built-in stereo microphone, it doesn't have an external microphone plug-in, which can make professional sound recording quite difficult. Furthermore, the camera lacks a viewfinder and because of that composing a shot in broad daylight can be a daunting task. Users are forced to use the J5's 3-inch 1,037K-dot tilting LCD touchscreen. However, the add-on viewfinder can be attached to the camera's display, but it might take some time to get used to using an external viewfinder.
+
+#### 6. Controls
+
+ Micro SD, Micro SDHC, and Micro SDXC memory cards can all be used to store the recorded footage that can be easily transferred to other devices via a WiFi or HDMI connection. In order to utilize the built-in SnapBrdge WiFi connectivity feature, the users must first install the Nikon Wireless Mobile Utility app on their iOS or Android Smartphones. Once the app is installed, the users can control the Nikon 1 J5 remotely and have full access to all of the camera's features as well as to the contents of the SD card. The Near Field Communication enables you to share your images on the internet effortlessly, tag your friends or transfer photos and videos wirelessly. The highest data rate the Nikon 1 J5 can provide is 54 Mbps, while the connection between the camera and another device can be established in a 10-meter radius.
+
+ The Nikon 1 J5 offers a large number of different modes that enable the camera operators to adjust the camera settings to the demands of the scene. Picture control modes, Glamour Retouch modes or Creative modes provide a possibility for visual experimentation and improve the quality of images by enhancing its chromatic values.
+
+#### 7. Key features
+
+* 13.2 X 8.8 mm 20.8 MP CX-Format BSI CMOS Sensor
+* EXPEED 5A Image Processor
+* Hybrid AF
+* Ultra HD 4K 2160/p at up to 15fps
+* High ISO noise reduction
+* Built-in WiFi Connectivity
+* 3-inch 1,037k-dot LCD Touchscreen
+* Full HD video at 60fps
+
+#### 8. Conclusion
+
+ The Nikon's J5 camera is solid video and photography tool that features hardware that makes high-end performance possible even in the low-light situations. The J5 has performed well while recording moving objects, mostly because of its hybrid autofocus system that utilizes both Phase and Contrast Detection Autofocus systems. The Nikon's latest J-series edition is well-equipped to serve the needs of the less demanding users, but the J5 lacks some of the key features for professional use. Purchasing the Nikon 1 J5 is an excellent choice for beginners and those users who only need a camera to capture important moments in their lives in excellent quality, but professional users would be better off obtaining some of the Nikon's more advanced models.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Since the Nikon's 1-series mirrorless cameras first emerged in 2011, the image quality and overall performance of these cameras have been steadily improving. The famous camera manufacturer has divided all mirrorless 1-series camera models into three different categories. The entry-level S-series, the midrange J-series, and the high-end V-series. Nikon 1 J5 is the successor to the Nikon's J4 model and the upgrades introduced with this model go far beyond the visual appearance of the camera. The retro design of the Nikon 1 J5, more than affordable price together with a plethora of photo and video options make this mirrorless camera attractive to photography and video enthusiasts.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![nikon-1-j5-review](https://images.wondershare.com/filmora/article-images/nikon-1-j5-review.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Nikon 1 J5 Complete Review
 
 #### 1. Pros and Cons
@@ -162,154 +325,13 @@ Follow @Max Wales
 
  The Nikon's J5 camera is solid video and photography tool that features hardware that makes high-end performance possible even in the low-light situations. The J5 has performed well while recording moving objects, mostly because of its hybrid autofocus system that utilizes both Phase and Contrast Detection Autofocus systems. The Nikon's latest J-series edition is well-equipped to serve the needs of the less demanding users, but the J5 lacks some of the key features for professional use. Purchasing the Nikon 1 J5 is an excellent choice for beginners and those users who only need a camera to capture important moments in their lives in excellent quality, but professional users would be better off obtaining some of the Nikon's more advanced models.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Since the Nikon's 1-series mirrorless cameras first emerged in 2011, the image quality and overall performance of these cameras have been steadily improving. The famous camera manufacturer has divided all mirrorless 1-series camera models into three different categories. The entry-level S-series, the midrange J-series, and the high-end V-series. Nikon 1 J5 is the successor to the Nikon's J4 model and the upgrades introduced with this model go far beyond the visual appearance of the camera. The retro design of the Nikon 1 J5, more than affordable price together with a plethora of photo and video options make this mirrorless camera attractive to photography and video enthusiasts.
-
-![nikon-1-j5-review](https://images.wondershare.com/filmora/article-images/nikon-1-j5-review.jpg)
-
-## Nikon 1 J5 Complete Review
-
-#### 1. Pros and Cons
-
-**Pros**
-
-* Quality images
-* Excellent burst capabilities
-* Built-in WiFi and NFC
-* Good noise reduction and excellent ISO performer
-* Affordable
-
-**Cons**
-
-* Doesn't have a viewfinder
-* Short battery life
-* 4K recording at only 15fps
-* Only compatible with F-mount lenses
-
-#### 2. Design
-
- Nikon 1 J5 is an elegant, compact camera that benefits from its retro design. It is relatively small in size with dimensions of 98.3 x 59.7 x 31.5 mm that make it a perfect companion on daily walks or family vacations. The J5 is available in Silver, Black and White colors and all models have a grip that ensures that camera can be held firmly. Judging by its appearance Nikon 1 J5 could be easily mistaken for an analog photo camera because it is light-weight, small and its faux leather body evokes memories of some of the most memorable Nikon analog cameras. However, the inside of this mid-range compact camera is far removed from its analog predecessors, since it features the latest digital technology that produces high-quality still images and videos.
-
-#### 3. Sensor and Processor
-
- The Nikon 1 J5 has a 1-inch 20.8MP CX-Format BSI CMOS Sensor that may not be the best camera sensor on the market, but with 20.8 million pixels it still has higher resolution than any other J-series camera. The camera's sensor is efficient at excluding the low-pass filter, which guarantees the remarkable image sharpness. The noise level reduction at high ISO values enhances the camera's performance in low-light conditions, which means that ISO values can be set as high as 12800 without jeopardizing the quality of the images. The CMOS sensor is paired with the EXPEED 5A Image Processor and together they provide speed and efficiency across the entire camera system.
-
- The Nikon 1 J5's hybrid autofocus system has 171 Contrast-Detection points and 105 Phase-Detection points that ensure that the subjects of the photos and videos are always in focus when autofocus feature is on. The camera users can choose between manual focus and several Autofocus modes including Continuous Servo AF (C) and Full-time Servo modes. The Nikon 1 J5's utilizes only the Nikon F-mount lenses, so those who wish to use some of the legendary DSLR Nikon lenses must do so via the FT1 lens adapter. The camera's 10-30 mm F3.5-5.6 VR kit lens is equivalent to 27-81 mm focal length range due to the camera's 2.7 crop factor. The Nikon 1 J5's in-body image stabilization is only available while recording at 30 or 60p, but the kit lens features Nikon's lens-based optical stabilization system that ensures that camera shakes are kept to the minimum when working in different camera modes.
-
-#### 4. Autofocus
-
- The camera's 4D focus system further contributes to the clarity and accuracy of the images A6300 produces. The Sony Alpha A6300 4D focus system has 425 on-chip Phase-Detection points as well as 169 Contrast-Detection points that enable the camera to focus the image in 0.05 seconds. The high density of focusing point allows the Tracking AF technology to track moving objects, even in the low-visibility conditions, which can be quite useful when filming outdoor scenes. The more experienced photographers and videographers can benefit from the Peaking MF feature that makes acquiring perfect manual focus much easier. Even though A6300 utilizes only the E-mount lenses the Phase-Detection is enabled on A-mount lenses that can be attached to the camera via LA-EA1 or LA-EA3 lens adapters.
-
-#### 5. Image quality
-
- The Nikon's latest J-series midrange compact camera can produce high-resolution photos as well as UHD 4K and Full HD videos. The camera captures UHD 4K video at 2160p, 15fps, while Full HD videos can be captured at 1080p resolution and 60fps in either MOV or MPEG4 formats. The Nikon 1 J5 can take up to 20 continuous 20.8 MP still images, and the photos can be saved as JPEG or RAW files. The largest photo resolution this camera can produce is 5568 X 3712, while users can choose between a number of different aspect ratios. Although Nikon 1 J5 is equipped with a built-in stereo microphone, it doesn't have an external microphone plug-in, which can make professional sound recording quite difficult. Furthermore, the camera lacks a viewfinder and because of that composing a shot in broad daylight can be a daunting task. Users are forced to use the J5's 3-inch 1,037K-dot tilting LCD touchscreen. However, the add-on viewfinder can be attached to the camera's display, but it might take some time to get used to using an external viewfinder.
-
-#### 6. Controls
-
- Micro SD, Micro SDHC, and Micro SDXC memory cards can all be used to store the recorded footage that can be easily transferred to other devices via a WiFi or HDMI connection. In order to utilize the built-in SnapBrdge WiFi connectivity feature, the users must first install the Nikon Wireless Mobile Utility app on their iOS or Android Smartphones. Once the app is installed, the users can control the Nikon 1 J5 remotely and have full access to all of the camera's features as well as to the contents of the SD card. The Near Field Communication enables you to share your images on the internet effortlessly, tag your friends or transfer photos and videos wirelessly. The highest data rate the Nikon 1 J5 can provide is 54 Mbps, while the connection between the camera and another device can be established in a 10-meter radius.
-
- The Nikon 1 J5 offers a large number of different modes that enable the camera operators to adjust the camera settings to the demands of the scene. Picture control modes, Glamour Retouch modes or Creative modes provide a possibility for visual experimentation and improve the quality of images by enhancing its chromatic values.
-
-#### 7. Key features
-
-* 13.2 X 8.8 mm 20.8 MP CX-Format BSI CMOS Sensor
-* EXPEED 5A Image Processor
-* Hybrid AF
-* Ultra HD 4K 2160/p at up to 15fps
-* High ISO noise reduction
-* Built-in WiFi Connectivity
-* 3-inch 1,037k-dot LCD Touchscreen
-* Full HD video at 60fps
-
-#### 8. Conclusion
-
- The Nikon's J5 camera is solid video and photography tool that features hardware that makes high-end performance possible even in the low-light situations. The J5 has performed well while recording moving objects, mostly because of its hybrid autofocus system that utilizes both Phase and Contrast Detection Autofocus systems. The Nikon's latest J-series edition is well-equipped to serve the needs of the less demanding users, but the J5 lacks some of the key features for professional use. Purchasing the Nikon 1 J5 is an excellent choice for beginners and those users who only need a camera to capture important moments in their lives in excellent quality, but professional users would be better off obtaining some of the Nikon's more advanced models.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Since the Nikon's 1-series mirrorless cameras first emerged in 2011, the image quality and overall performance of these cameras have been steadily improving. The famous camera manufacturer has divided all mirrorless 1-series camera models into three different categories. The entry-level S-series, the midrange J-series, and the high-end V-series. Nikon 1 J5 is the successor to the Nikon's J4 model and the upgrades introduced with this model go far beyond the visual appearance of the camera. The retro design of the Nikon 1 J5, more than affordable price together with a plethora of photo and video options make this mirrorless camera attractive to photography and video enthusiasts.
-
-![nikon-1-j5-review](https://images.wondershare.com/filmora/article-images/nikon-1-j5-review.jpg)
-
-## Nikon 1 J5 Complete Review
-
-#### 1. Pros and Cons
-
-**Pros**
-
-* Quality images
-* Excellent burst capabilities
-* Built-in WiFi and NFC
-* Good noise reduction and excellent ISO performer
-* Affordable
-
-**Cons**
-
-* Doesn't have a viewfinder
-* Short battery life
-* 4K recording at only 15fps
-* Only compatible with F-mount lenses
-
-#### 2. Design
-
- Nikon 1 J5 is an elegant, compact camera that benefits from its retro design. It is relatively small in size with dimensions of 98.3 x 59.7 x 31.5 mm that make it a perfect companion on daily walks or family vacations. The J5 is available in Silver, Black and White colors and all models have a grip that ensures that camera can be held firmly. Judging by its appearance Nikon 1 J5 could be easily mistaken for an analog photo camera because it is light-weight, small and its faux leather body evokes memories of some of the most memorable Nikon analog cameras. However, the inside of this mid-range compact camera is far removed from its analog predecessors, since it features the latest digital technology that produces high-quality still images and videos.
-
-#### 3. Sensor and Processor
-
- The Nikon 1 J5 has a 1-inch 20.8MP CX-Format BSI CMOS Sensor that may not be the best camera sensor on the market, but with 20.8 million pixels it still has higher resolution than any other J-series camera. The camera's sensor is efficient at excluding the low-pass filter, which guarantees the remarkable image sharpness. The noise level reduction at high ISO values enhances the camera's performance in low-light conditions, which means that ISO values can be set as high as 12800 without jeopardizing the quality of the images. The CMOS sensor is paired with the EXPEED 5A Image Processor and together they provide speed and efficiency across the entire camera system.
-
- The Nikon 1 J5's hybrid autofocus system has 171 Contrast-Detection points and 105 Phase-Detection points that ensure that the subjects of the photos and videos are always in focus when autofocus feature is on. The camera users can choose between manual focus and several Autofocus modes including Continuous Servo AF (C) and Full-time Servo modes. The Nikon 1 J5's utilizes only the Nikon F-mount lenses, so those who wish to use some of the legendary DSLR Nikon lenses must do so via the FT1 lens adapter. The camera's 10-30 mm F3.5-5.6 VR kit lens is equivalent to 27-81 mm focal length range due to the camera's 2.7 crop factor. The Nikon 1 J5's in-body image stabilization is only available while recording at 30 or 60p, but the kit lens features Nikon's lens-based optical stabilization system that ensures that camera shakes are kept to the minimum when working in different camera modes.
-
-#### 4. Autofocus
-
- The camera's 4D focus system further contributes to the clarity and accuracy of the images A6300 produces. The Sony Alpha A6300 4D focus system has 425 on-chip Phase-Detection points as well as 169 Contrast-Detection points that enable the camera to focus the image in 0.05 seconds. The high density of focusing point allows the Tracking AF technology to track moving objects, even in the low-visibility conditions, which can be quite useful when filming outdoor scenes. The more experienced photographers and videographers can benefit from the Peaking MF feature that makes acquiring perfect manual focus much easier. Even though A6300 utilizes only the E-mount lenses the Phase-Detection is enabled on A-mount lenses that can be attached to the camera via LA-EA1 or LA-EA3 lens adapters.
-
-#### 5. Image quality
-
- The Nikon's latest J-series midrange compact camera can produce high-resolution photos as well as UHD 4K and Full HD videos. The camera captures UHD 4K video at 2160p, 15fps, while Full HD videos can be captured at 1080p resolution and 60fps in either MOV or MPEG4 formats. The Nikon 1 J5 can take up to 20 continuous 20.8 MP still images, and the photos can be saved as JPEG or RAW files. The largest photo resolution this camera can produce is 5568 X 3712, while users can choose between a number of different aspect ratios. Although Nikon 1 J5 is equipped with a built-in stereo microphone, it doesn't have an external microphone plug-in, which can make professional sound recording quite difficult. Furthermore, the camera lacks a viewfinder and because of that composing a shot in broad daylight can be a daunting task. Users are forced to use the J5's 3-inch 1,037K-dot tilting LCD touchscreen. However, the add-on viewfinder can be attached to the camera's display, but it might take some time to get used to using an external viewfinder.
-
-#### 6. Controls
-
- Micro SD, Micro SDHC, and Micro SDXC memory cards can all be used to store the recorded footage that can be easily transferred to other devices via a WiFi or HDMI connection. In order to utilize the built-in SnapBrdge WiFi connectivity feature, the users must first install the Nikon Wireless Mobile Utility app on their iOS or Android Smartphones. Once the app is installed, the users can control the Nikon 1 J5 remotely and have full access to all of the camera's features as well as to the contents of the SD card. The Near Field Communication enables you to share your images on the internet effortlessly, tag your friends or transfer photos and videos wirelessly. The highest data rate the Nikon 1 J5 can provide is 54 Mbps, while the connection between the camera and another device can be established in a 10-meter radius.
-
- The Nikon 1 J5 offers a large number of different modes that enable the camera operators to adjust the camera settings to the demands of the scene. Picture control modes, Glamour Retouch modes or Creative modes provide a possibility for visual experimentation and improve the quality of images by enhancing its chromatic values.
-
-#### 7. Key features
-
-* 13.2 X 8.8 mm 20.8 MP CX-Format BSI CMOS Sensor
-* EXPEED 5A Image Processor
-* Hybrid AF
-* Ultra HD 4K 2160/p at up to 15fps
-* High ISO noise reduction
-* Built-in WiFi Connectivity
-* 3-inch 1,037k-dot LCD Touchscreen
-* Full HD video at 60fps
-
-#### 8. Conclusion
-
- The Nikon's J5 camera is solid video and photography tool that features hardware that makes high-end performance possible even in the low-light situations. The J5 has performed well while recording moving objects, mostly because of its hybrid autofocus system that utilizes both Phase and Contrast Detection Autofocus systems. The Nikon's latest J-series edition is well-equipped to serve the needs of the less demanding users, but the J5 lacks some of the key features for professional use. Purchasing the Nikon 1 J5 is an excellent choice for beginners and those users who only need a camera to capture important moments in their lives in excellent quality, but professional users would be better off obtaining some of the Nikon's more advanced models.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -340,3 +362,69 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-classic-stop-motion-animations-ranking-the-best-15/"><u>[New] In 2024, Classic Stop-Motion Animations  Ranking the Best 15</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instant-srt-to-txt-efficient-conversion-methods-revealed/"><u>[New] Instant SRT to TXT  Efficient Conversion Methods Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-through-high-definition-with-lgs-31mu97-b-screen-review/"><u>[New] Journey Through High Definition with LG’s 31MU97-B Screen Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-king-of-construction-showdown-thieye-t5-or-sjcam-s6/"><u>[New] King of Construction Showdown  Thieye T5 or SJCAM S6?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-free-converters-ranking-the-10-for-jpg-to-gif-changeover/"><u>[New] Leading Free Converters  Ranking the 10 for JPG to GIF Changeover</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-masterful-fb-marketing-essential-tips-for-every-business-level/"><u>[New] Masterful FB Marketing  Essential Tips for Every Business Level</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-sharpness-control-on-photos-with-pcmobile/"><u>[New] Perfect Sharpness Control on Photos with PC/Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-picsart-app-analysis-and-tutorial-for-its-latest-release/"><u>[New] PicsArt App Analysis & Tutorial for Its Latest Release</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spark-ars-color-palette-expansion-via-free-accessible-lut-downloads/"><u>[New] Spark AR's Color Palette Expansion via Free, Accessible LUT Downloads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleashing-potential-advanced-tiktok-visual-enhancements-for-2024/"><u>[New] Unleashing Potential  Advanced TikTok Visual Enhancements for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-handbook-obspluszoom-collaboration/"><u>[Updated] 2024 Approved  The Ultimate Handbook  OBS+Zoom Collaboration</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-cyberspace-companion-fb-stories-saver-for-2024/"><u>[Updated] Cyberspace Companion  FB Stories Saver for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-recover-elusive-facebook-watch-video-icon/"><u>[Updated] In 2024, Recover Elusive Facebook Watch Video Icon</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleashing-instagram-success-through-precision-metrics-monitoring/"><u>[Updated] In 2024, Unleashing Instagram Success Through Precision Metrics Monitoring</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-olympic-ice-showdown-highlights-of-speed-skating-short-track/"><u>[Updated] Olympic Ice Showdown  Highlights of Speed Skating Short Track</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photobooth-lags-steadying-the-playback-journey/"><u>[Updated] Photobooth Lags  Steadying the Playback Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-ai-image-manipulation-suite/"><u>[Updated] Pinnacle AI Image Manipulation Suite</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-refining-audio-in-obs-high-quality-mode-for-2024/"><u>[Updated] Refining Audio in OBS High-Quality Mode for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ringtone-revolution-transforming-your-ios-sound/"><u>[Updated] Ringtone Revolution  Transforming Your iOS Sound</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stealth-in-social-media-going-unseen-with-live-feeds/"><u>[Updated] Stealth in Social Media  Going Unseen with Live Feeds</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-content-platform-audit-and-rating/"><u>2024 Approved  Interactive Content Platform Audit & Rating</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-memes-top-ten-template-showcase/"><u>2024 Approved  Mastering Memes  Top Ten Template Showcase</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-youtube-accessing-video-comments-easily/"><u>2024 Approved  Mastering YouTube  Accessing Video Comments Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-in-media-manipulation-ttml-and-xml-for-superior-srt-outputs/"><u>2024 Approved  Mastery in Media Manipulation  TTML & XML for Superior SRT Outputs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photoshop-grading-made-simple-for-everyone/"><u>2024 Approved  Photoshop Grading Made Simple for Everyone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-mix-picture-taking-plus-sounds-recorder-titles/"><u>2024 Approved  Premium Mix  Picture Taking + Sounds Recorder Titles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-psychedelic-pulse-the-fade-technique-in-music-mixing/"><u>2024 Approved  Psychedelic Pulse  The Fade Technique in Music Mixing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-s23plus-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy S23+ FRP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aerial-device-typologies/"><u>Aerial Device Typologies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-your-brands-buzz-on-youtube-with-fresh-insights/"><u>Building Your Brand's Buzz on Youtube with Fresh Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-successfully-update-your-hcmon-driver-and-avoid-common-mistakes/"><u>How to Successfully Update Your HCMon Driver and Avoid Common Mistakes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-enhancing-your-memories-bank-with-snapchats-images/"><u>In 2024, Enhancing Your Memories Bank with Snapchat's Images</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-screen-excellence-in-ppro-video-editing/"><u>In 2024, Full Screen Excellence in PPro Video Editing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-12-pro-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 12 Pro to Computer? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-to-digital-mastery-explore-best-10-android-drawing-apps/"><u>In 2024, Journey to Digital Mastery  Explore Best 10 Android Drawing Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-luminous-techniques-crafting-captivating-cinematic-pieces/"><u>In 2024, Luminous Techniques  Crafting Captivating Cinematic Pieces</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-gif-transformation-to-stickers-on-whatsapp-discord-and-telegram/"><u>In 2024, Mastering GIF Transformation  To Stickers on WhatsApp, Discord & Telegram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-gopro-videos-the-ultimate-guide/"><u>In 2024, Mastering Gopro Videos  The Ultimate Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-two-screen-viewing-step-by-step-guide-for-netflix-users/"><u>In 2024, Mastering Two Screen Viewing - Step By Step Guide For Netflix Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>In 2024, Picture-in-Picture Unveiled  Your Guide to Firefox’s PIP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-technologies-vr-applications/"><u>In 2024, Pioneering Technologies  VR Applications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-projection-vs-television-best-device-for-immersive-4k-content/"><u>In 2024, Projection vs Television  Best Device for Immersive 4K Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-aps-guide-to-crafting-exquisite-hdr-photos/"><u>In 2024, Step-by-Step APS Guide to Crafting Exquisite HDR Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incorporating-captions-in-photography-a-user-friendly-guide-on-pc-and-mac-for-2024/"><u>Incorporating Captions in Photography  A User-Friendly Guide on PC & Mac for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-lights-mastery-guide-for-2024/"><u>IPhone Lights Mastery Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-video-transitions-and-effects-using-gopro-studio-protips-for-2024/"><u>Master Video Transitions and Effects Using GoPro Studio ProTips for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-podcast-titling-a-comprehensive-approach-for-2024/"><u>Mastering Podcast Titling  A Comprehensive Approach for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-desktop-potential-with-new-features-in-win-11-widgets/"><u>Maximize Your Desktop Potential with New Features in Win 11 Widgets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/old-to-new-crafting-a-video-journey-from-classic-photos-for-2024/"><u>Old to New  Crafting a Video Journey From Classic Photos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pixel-perfection-best-video-cameras-for-extended-recording-times-for-2024/"><u>Pixel Perfection  Best Video Cameras for Extended Recording Times for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-and-basic-win-driven-design-applications-guide-for-2024/"><u>Premium & Basic Win-Driven Design Applications Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-iphone-photo-illumination-tricks-for-2024/"><u>Pro Iphone Photo Illumination Tricks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-guide-retrieving-past-reddit-threads-instantly-for-2024/"><u>Quick Guide  Retrieving Past Reddit Threads Instantly for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-tips-for-saving-the-world-with-a-smile-for-2024/"><u>Quick Tips for Saving the World with a Smile for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-c50-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco C50 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplified-processes-inshot-for-pc-and-laptop-video-creation-for-2024/"><u>Simplified Processes  Inshot for PC and Laptop Video Creation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplifying-onestream-techniques-for-effective-streaming-for-2024/"><u>Simplifying OneStream Techniques for Effective Streaming for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/steps-for-hyperlapse-photography-magic-for-2024/"><u>Steps for Hyperlapse Photography Magic for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-charms-filmoras-most-charming-edit-traits/"><u>Unveiling the Charms  Filmora's Most Charming Edit Traits</u></a></li>
+</ul></div>

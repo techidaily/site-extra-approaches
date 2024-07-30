@@ -1,7 +1,7 @@
 ---
 title: "[New] Simple Strategies for Smooth Underwater Moviemaking"
-date: 2024-05-31T05:30:22.661Z
-updated: 2024-06-01T05:30:22.661Z
+date: 2024-07-27T22:23:48.230Z
+updated: 2024-07-28T22:23:48.230Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Simple Strategies for Smooth Underwater Moviemaking"
 excerpt: "This Article Describes [New] Simple Strategies for Smooth Underwater Moviemaking"
 keywords: "\"Bubble-Free Cinematography,Subaqueous Film Techniques,Easy Shot Sequencing,Waterproof Camera Use,Streamlined Underwater Shooting,Simplified Depth Filming,Clear Aquatic Moviemaking\""
-thumbnail: https://www.lifewire.com/thmb/nqSALb7zNdT8nFxf209ImwIDLX0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-06-10at11.00.05AM-54419e7f430d4753971645b6e3580923.png
+thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7b4431d8ccd93ecf0eac5efe.png
 ---
 
 ## Simple Strategies for Smooth Underwater Moviemaking
@@ -32,12 +32,18 @@ thumbnail: https://www.lifewire.com/thmb/nqSALb7zNdT8nFxf209ImwIDLX0=/400x300/fi
 
  There are many tips you can learn from to get the results that you require, so read on to find out more about what you can do to shoot underwater video with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips on shooting video underwater
 
 #### 1\. Frame your shots
 
  It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
 #### 2\. Get closer
@@ -48,6 +54,18 @@ thumbnail: https://www.lifewire.com/thmb/nqSALb7zNdT8nFxf209ImwIDLX0=/400x300/fi
 
  This will also make your images clearer and more colourful.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
 #### 3\. Lighting is important
@@ -78,6 +96,9 @@ thumbnail: https://www.lifewire.com/thmb/nqSALb7zNdT8nFxf209ImwIDLX0=/400x300/fi
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
 #### 7\. Shoot the best colour
@@ -86,6 +107,10 @@ thumbnail: https://www.lifewire.com/thmb/nqSALb7zNdT8nFxf209ImwIDLX0=/400x300/fi
 
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 ## Edit your footage
@@ -124,6 +149,119 @@ Follow @Ollie Mattison
 
  It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
+
+#### 2\. Get closer
+
+ You need to get as close to your subject as you possibly can. It may take several attempts to get it right, especially if you’ve just about got the shot you want but your subject inevitably floats or swims away.
+
+ Again, it’s wise to invest extra time in getting the close-up that you need. You can obtain crisp, high-quality images by removing as much of the water between your subject and the camera as you possibly can.
+
+ This will also make your images clearer and more colourful.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
+
+#### 3\. Lighting is important
+
+ It’s possible to manipulate lighting via white balance and manual exposure. When you use manual white balance, you can obtain outstanding footage without purchasing costly lights.
+
+ Many pros use strobes to film at depth and in low light, but these can be expensive and hard to transport. They can also make your footage look less natural.
+
+ You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
+
+#### 4\. Stay steady
+
+ Many amateurs think they won’t have a problem with wobbly movements when filming underwater, but even the smallest amount of jerkiness can be detrimental to your content.
+
+ To add greater stability to your camera, hold it as close to yourself as is realistically possible. Alternatively, consider using a tripod if you can. Keep your camera on your subject for as long as you need to, and try to wait for ten seconds without re-adjusting your camera at all.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+![stay steady](https://images.wondershare.com/filmora/article-images/stay-steady-underwater.JPG)
+
+#### 5\. Be careful of other divers
+
+ Unfortunately, other divers have a tendency to get in the way when you’re shooting footage underwater. Many video production professionals opt to intentionally include clips of divers in their footage so everything flows nicely and cuts work well together if their presence in other shots is unavoidable.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
+
+#### 6\. Wide angle
+
+ If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
+
+#### 7\. Shoot the best colour
+
+ You will be able to include the full spectrum of colour by remaining in the first five metres of the water. Fascinating marine life can be found in shallow reefs. The deeper you go, the more colour you are likely to lose.
+
+ Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
+
+![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
+
+## Edit your footage
+
+ To make your underwater videos good rather than great, it’s important that the editing process is of the highest quality.
+
+ When you invest in a leading editing solution, you can add a variety of effects to your film and iron out various errors. You can add music to create extra atmosphere and make it more professional. Don’t go overboard with effects and transitions as this can negatively impact the quality of your film.
+
+ You could change the video speed at various points and look at online tutorials to derive as much value from your editing software as possible without using unnecessary effects for the sake of it. Many amateur film producers have seen their footage go viral, with some even licensing their clips out to shows and documentaries.
+
+ If you’re planning on making a DVD of your work, consider adding extras to the product such as highlights or photos. Filmora is a popular editing software solution that will help you add an extra dash of magic to your work.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ If you’re interested in shooting underwater video without a big production budget, this article is for you.
+
+ With our help, you can shoot gorgeous underwater videos that look fantastic and can be shared across various social media channels including Facebook, Twitter and YouTube.
+
+ There are many tips you can learn from to get the results that you require, so read on to find out more about what you can do to shoot underwater video with ease.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Tips on shooting video underwater
+
+#### 1\. Frame your shots
+
+ It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
 #### 2\. Get closer
@@ -144,6 +282,9 @@ Follow @Ollie Mattison
 
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
 #### 4\. Stay steady
@@ -172,6 +313,9 @@ Follow @Ollie Mattison
 
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 ## Edit your footage
@@ -210,6 +354,14 @@ Follow @Ollie Mattison
 
  It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
 #### 2\. Get closer
@@ -230,6 +382,9 @@ Follow @Ollie Mattison
 
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
 #### 4\. Stay steady
@@ -250,6 +405,9 @@ Follow @Ollie Mattison
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
 #### 7\. Shoot the best colour
@@ -260,6 +418,9 @@ Follow @Ollie Mattison
 
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Edit your footage
 
  To make your underwater videos good rather than great, it’s important that the editing process is of the highest quality.
@@ -270,92 +431,9 @@ Follow @Ollie Mattison
 
  If you’re planning on making a DVD of your work, consider adding extras to the product such as highlights or photos. Filmora is a popular editing software solution that will help you add an extra dash of magic to your work.
 
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- If you’re interested in shooting underwater video without a big production budget, this article is for you.
-
- With our help, you can shoot gorgeous underwater videos that look fantastic and can be shared across various social media channels including Facebook, Twitter and YouTube.
-
- There are many tips you can learn from to get the results that you require, so read on to find out more about what you can do to shoot underwater video with ease.
-
-## Tips on shooting video underwater
-
-#### 1\. Frame your shots
-
- It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
-
-![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
-
-#### 2\. Get closer
-
- You need to get as close to your subject as you possibly can. It may take several attempts to get it right, especially if you’ve just about got the shot you want but your subject inevitably floats or swims away.
-
- Again, it’s wise to invest extra time in getting the close-up that you need. You can obtain crisp, high-quality images by removing as much of the water between your subject and the camera as you possibly can.
-
- This will also make your images clearer and more colourful.
-
-![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
-
-#### 3\. Lighting is important
-
- It’s possible to manipulate lighting via white balance and manual exposure. When you use manual white balance, you can obtain outstanding footage without purchasing costly lights.
-
- Many pros use strobes to film at depth and in low light, but these can be expensive and hard to transport. They can also make your footage look less natural.
-
- You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
-
-![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
-
-#### 4\. Stay steady
-
- Many amateurs think they won’t have a problem with wobbly movements when filming underwater, but even the smallest amount of jerkiness can be detrimental to your content.
-
- To add greater stability to your camera, hold it as close to yourself as is realistically possible. Alternatively, consider using a tripod if you can. Keep your camera on your subject for as long as you need to, and try to wait for ten seconds without re-adjusting your camera at all.
-
-![stay steady](https://images.wondershare.com/filmora/article-images/stay-steady-underwater.JPG)
-
-#### 5\. Be careful of other divers
-
- Unfortunately, other divers have a tendency to get in the way when you’re shooting footage underwater. Many video production professionals opt to intentionally include clips of divers in their footage so everything flows nicely and cuts work well together if their presence in other shots is unavoidable.
-
-![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
-
-#### 6\. Wide angle
-
- If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
-
-![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
-
-#### 7\. Shoot the best colour
-
- You will be able to include the full spectrum of colour by remaining in the first five metres of the water. Fascinating marine life can be found in shallow reefs. The deeper you go, the more colour you are likely to lose.
-
- Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
-
-![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
-
-## Edit your footage
-
- To make your underwater videos good rather than great, it’s important that the editing process is of the highest quality.
-
- When you invest in a leading editing solution, you can add a variety of effects to your film and iron out various errors. You can add music to create extra atmosphere and make it more professional. Don’t go overboard with effects and transitions as this can negatively impact the quality of your film.
-
- You could change the video speed at various points and look at online tutorials to derive as much value from your editing software as possible without using unnecessary effects for the sake of it. Many amateur film producers have seen their footage go viral, with some even licensing their clips out to shows and documentaries.
-
- If you’re planning on making a DVD of your work, consider adding extras to the product such as highlights or photos. Filmora is a popular editing software solution that will help you add an extra dash of magic to your work.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -388,3 +466,51 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-intuitive-face-blurring-guide-on-piscart-tools/"><u>[New] Intuitive Face-Blurring Guide on PiscArt Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ios-video-experience-the-10-most-excellent-players/"><u>[New] IOS Video Experience  The 10 Most Excellent Players</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-jokejigsaw-crafting-comedy-graphics/"><u>[New] JokeJigsaw  Crafting Comedy Graphics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-learn-to-mask-and-blur-a-photo-editing-essential/"><u>[New] Learn to Mask & Blur  A Photo Editing Essential</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-motion-blur-techniques-for-digital-artists/"><u>[New] Professional Motion Blur Techniques for Digital Artists</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reinstating-windows-photo-viewer-on-windows-10-a-twin-strategy/"><u>[New] Reinstating Windows Photo Viewer on Windows 10  A Twin Strategy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-revolutionize-your-branding-50-free-youtube-banners-inside/"><u>[New] Revolutionize Your Branding - 50 Free YouTube Banners Inside!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ringers-paradise-top-downloads-for-skype-sounds/"><u>[New] Ringer's Paradise  Top Downloads for Skype Sounds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-samsung-ubd-k8500-2023-edition-analysis/"><u>[New] Samsung UBD-K8500  2023 Edition Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-straightforward-strategies-for-podcast-streaming/"><u>[New] Straightforward Strategies for Podcast Streaming</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-10-youtube-video-grabber-apps-best-in-class-compatibility-for-2024/"><u>[New] Top 10 YouTube Video Grabber Apps, Best-in-Class Compatibility for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-how-to-share-screen-on-facebook-live-for-2024/"><u>[Updated] 2023 | How to Share Screen on Facebook Live for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-designing-dramatic-beginnings-in-podcasts-for-2024/"><u>[Updated] Designing Dramatic Beginnings in Podcasts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevate-video-clarity-with-expert-tips-for-youtube-editors/"><u>[Updated] Elevate Video Clarity with Expert Tips for YouTube Editors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inshots-ultimate-tune-up-import-music-essentials/"><u>[Updated] InShot's Ultimate Tune Up  Import Music Essentials</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-introductory-handbook-on-video-quality-and-size/"><u>[Updated] Introductory Handbook on Video Quality and Size</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-multi-genre-unmanned-flyers/"><u>[Updated] Multi-Genre Unmanned Flyers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-techniques-in-health-and-wellness-fb-campaigns/"><u>[Updated] Pioneering Techniques in Health & Wellness FB Campaigns</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-musical-virtuoso-sessions/"><u>[Updated] Prime Musical Virtuoso Sessions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ratio-adjustment-for-digital-displays/"><u>[Updated] Ratio Adjustment for Digital Displays</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionize-your-podcast-with-these-ai-name-makers/"><u>[Updated] Revolutionize Your Podcast with These AI Name Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-soundscapes-for-static-music-in-whatsapp/"><u>[Updated] Soundscapes for Static  Music in WhatsApp</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-into-a-world-of-slow-motion-magic-your-pathway-to-perfection-on-gopro-hero-10/"><u>[Updated] Step Into a World of Slow Motion Magic  Your Pathway to Perfection on GoPro Hero 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-on-the-move-photography-tweaks-with-luts/"><u>2024 Approved  On-the-Move Photography Tweaks with LUTs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-the-limits-with-text-warping-effects/"><u>2024 Approved  Pushing the Limits with Text Warping Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-scripting-striking-film-epilogues/"><u>2024 Approved  Scripting Striking Film Epilogues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-shining-a-light-top-photo-illumination-hacks/"><u>2024 Approved  Shining a Light  Top Photo Illumination Hacks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speedy-pace-fb-videos-innovative-apps-and-proxies-ensuring-faster-uploaddownload/"><u>2024 Approved  Speedy Pace FB Videos  Innovative Apps & Proxies Ensuring Faster Upload/Download</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic-v2-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Honor Magic V2 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-kickstart-your-earnings-with-periscope-strategies/"><u>In 2024, Kickstart Your Earnings with Periscope Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-iphones-quick-focus-adjustment/"><u>In 2024, Master iPhone's Quick Focus Adjustment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-easy-underwater-film-making-top-7-hacks/"><u>In 2024, Mastering Easy Underwater Film-Making  Top 7 Hacks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-no-cost-slow-motion-video-capture-options-for-iphonesandroid/"><u>In 2024, Premium No-Cost Slow Motion Video Capture Options for iPhones/Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-m34-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy M34 Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-strategies-preserving-and-enjoying-gifs-at-their-best-for-2024/"><u>IPhone Strategies  Preserving & Enjoying GIFs at Their Best for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lure-inducing-title-engineer-for-2024/"><u>Lure-Inducing Title Engineer for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigate-zoom-with-precision-on-windows-10-devices/"><u>Navigate Zoom with Precision on Windows 10 Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-software-solutions-for-video-games-for-2024/"><u>Prime Software Solutions for Video Games for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplified-srt-transformation-from-ttml-xml-and-ssa-for-2024/"><u>Simplified SRT Transformation From TTML, XML & SSA for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-kinemaster-guidance-for-flawless-green-screen-techniques-for-2024/"><u>Step-by-Step Kinemaster Guidance for Flawless Green Screen Techniques for 2024</u></a></li>
+</ul></div>

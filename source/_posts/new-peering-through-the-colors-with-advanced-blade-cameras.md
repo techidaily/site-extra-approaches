@@ -1,7 +1,7 @@
 ---
 title: "[New] Peering Through the Colors with Advanced Blade Cameras"
-date: 2024-05-31T05:30:58.650Z
-updated: 2024-06-01T05:30:58.650Z
+date: 2024-07-27T23:01:00.944Z
+updated: 2024-07-28T23:01:00.944Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Peering Through the Colors with Advanced Blade Cameras"
 excerpt: "This Article Describes [New] Peering Through the Colors with Advanced Blade Cameras"
 keywords: "\"Colorful Photography,Advance Camera Tech,High-Resolution Images,Professional Camcorders,Vivid Visual Capture,Cutting-Edge Cameras,Dynamic Image Filters\""
-thumbnail: https://www.lifewire.com/thmb/cnjnkPWdIA12GDaeFz62_nExYhg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b610883b05f292e6c6a7a4335.jpg
 ---
 
 ## Peering Through the Colors with Advanced Blade Cameras
@@ -28,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/cnjnkPWdIA12GDaeFz62_nExYhg=/400x300/fi
 
  The Blade Chroma is an excellent drone to begin with from Horizon Hobby. The company has been producing high-quality aerial photography drones over the last few years and the first blade 350QX was released just two years ago. Since that time Horizon Hobby has produced several new versions of the Blade and the Chroma is the first one to enable the use of a [4K camera](https://tools.techidaily.com/wondershare/filmora/download/). Although the 4k version is not the standard version of the Chroma, it is one of the newest and best available in their line.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![blade chroma 4k](https://images.wondershare.com/filmora/article-images/blade-chroma-quadcopter-drone.jpg)
 
  The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
@@ -63,12 +66,18 @@ thumbnail: https://www.lifewire.com/thmb/cnjnkPWdIA12GDaeFz62_nExYhg=/400x300/fi
 
 #### 3\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
 
  ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
 
 #### 4\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![blade chroma 4k camera](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-camera.jpg)
 
  The camera can produce some fairly decent images the UHD quality is great with 4K at 30 frames per second. If you want to get the most out of zoomed shots however, the images on this drone can start to show a bit of rough edges. It's not great in darker conditions or with shadows especially when compared to the GoPro as well.
@@ -130,6 +139,9 @@ Follow @Max Wales
 
 #### 4\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![blade chroma 4k camera](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-camera.jpg)
 
  The camera can produce some fairly decent images the UHD quality is great with 4K at 30 frames per second. If you want to get the most out of zoomed shots however, the images on this drone can start to show a bit of rough edges. It's not great in darker conditions or with shadows especially when compared to the GoPro as well.
@@ -150,10 +162,18 @@ Follow @Max Wales
 
  The Blade Chroma is an excellent drone to begin with from Horizon Hobby. The company has been producing high-quality aerial photography drones over the last few years and the first blade 350QX was released just two years ago. Since that time Horizon Hobby has produced several new versions of the Blade and the Chroma is the first one to enable the use of a [4K camera](https://tools.techidaily.com/wondershare/filmora/download/). Although the 4k version is not the standard version of the Chroma, it is one of the newest and best available in their line.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![blade chroma 4k](https://images.wondershare.com/filmora/article-images/blade-chroma-quadcopter-drone.jpg)
 
  The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Pros and cons of Blade Chroma
 
  **Pros:**
@@ -185,18 +205,27 @@ Follow @Max Wales
 
 #### 3\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
 
  ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
 
 #### 4\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![blade chroma 4k camera](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-camera.jpg)
 
  The camera can produce some fairly decent images the UHD quality is great with 4K at 30 frames per second. If you want to get the most out of zoomed shots however, the images on this drone can start to show a bit of rough edges. It's not great in darker conditions or with shadows especially when compared to the GoPro as well.
 
  Overall this drone is a lot of fun to fly and it can shoot excellent quality video with the chance to change out the camera for a GoPro if possible. The device is also known for its agility as well as its stability. Although you can't set GPS flight pattern areas, there are economist modes as well as safeguards which can prevent the drone from crashing into obstacles. This drone is something that's usually recommended for more experienced pilots but for its base price it can be a lot of fun to use with quality performance and flight time. Professionals will definitely want to upgrade to the 4k camera or use a different camera from the base model however.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -211,6 +240,9 @@ Follow @Max Wales
 
  The Blade Chroma is an excellent drone to begin with from Horizon Hobby. The company has been producing high-quality aerial photography drones over the last few years and the first blade 350QX was released just two years ago. Since that time Horizon Hobby has produced several new versions of the Blade and the Chroma is the first one to enable the use of a [4K camera](https://tools.techidaily.com/wondershare/filmora/download/). Although the 4k version is not the standard version of the Chroma, it is one of the newest and best available in their line.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![blade chroma 4k](https://images.wondershare.com/filmora/article-images/blade-chroma-quadcopter-drone.jpg)
 
  The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
@@ -230,6 +262,9 @@ Follow @Max Wales
 
  Overall this device is fairly easy to use and the camera can be fairly good when compared to other 4K experiences in the same price point. If you are a beginner with drones or you are looking for a device that can fly with autonomous GPS precision, this may not be the right drone for you to pick however. Pilots that want full control at all times are going to enjoy the performance of this drone however.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Complete Review for Blade Chroma Drone
 
  With a drone that's designed to be extremely versatile and balanced, the Chroma line of drones is designed for his resiliency and it really resembles the look of a [Yuneec Typhoon](https://tools.techidaily.com/wondershare/filmora/download/) style quad copter. The battery is extremely light weight but also quite powerful and this can improve the speed and performance of the drone while maximizing its weight balanced. The stabilization on this drone for image quality is quite easy to predict and this can be helpful on a drone especially when there is very little in the way of GPS waypoint.
@@ -252,6 +287,9 @@ Follow @Max Wales
 
 #### 4\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![blade chroma 4k camera](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-camera.jpg)
 
  The camera can produce some fairly decent images the UHD quality is great with 4K at 30 frames per second. If you want to get the most out of zoomed shots however, the images on this drone can start to show a bit of rough edges. It's not great in darker conditions or with shadows especially when compared to the GoPro as well.
@@ -288,3 +326,47 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-live-google-meet-on-youtube-streaming-tutorial-for-beginners/"><u>[New] Live Google Meet on YouTube – Streaming Tutorial for Beginners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-gen-platform-for-12-hourly-live-broadcasts/"><u>[New] Next-Gen Platform for 12 Hourly Live Broadcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-photoshop-and-beyond-unlocking-visual-potential-with-luts/"><u>[New] Photoshop and Beyond  Unlocking Visual Potential with Luts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-auto-track-cam-mount-for-smooth-shots/"><u>[New] Premier Auto-Track Cam Mount for Smooth Shots</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-quick-and-cool-xbox-snapshots-a-gamers-bible/"><u>[Updated] 2024 Approved  Quick & Cool Xbox Snapshots  A Gamers' Bible</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-youtubes-regular-pay-structure-for-2024/"><u>[Updated] Exploring YouTube’s Regular Pay Structure for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-joketileart-imagehumorhub/"><u>[Updated] JokeTileArt  ImageHumorHub</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-rapid-srt-to-txt-transformation-techniques/"><u>[Updated] Mastering Rapid SRT to TXT Transformation Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-your-preview-fullscreen-mastery-with-premiere-pro/"><u>[Updated] Perfect Your Preview  Fullscreen Mastery with Premiere Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-methods-for-professional-video-editing-and-dvd-burning-on-mac/"><u>[Updated] Proven Methods for Professional Video Editing and DVD Burning on Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-access-essential-windows-10-tips/"><u>[Updated] Quick Access  Essential Windows 10 Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rapid-execution-instant-clearance-of-signature-bg/"><u>[Updated] Rapid Execution  Instant Clearance of Signature Bg</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skycheap-fileserver-economical-efficient-large-data/"><u>[Updated] SkyCheap Fileserver  Economical, Efficient Large Data</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-full-sphere-video-via-iphone/"><u>[Updated] Step-by-Step Guide to Full-Sphere Video via iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-adopting-a-simple-yet-powerful-approach-to-advertising-content/"><u>2024 Approved  Adopting a Simple Yet Powerful Approach to Advertising Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-video-downloader-application-for-mobilewinmac/"><u>2024 Approved  Facebook Video Downloader Application for Mobile/Win/Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-jocular-joke-crafting-a-step-by-step-guide-to-memelore/"><u>2024 Approved  Jocular Joke-Crafting  A Step-by-Step Guide to Memelore</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-social-media-insights-in-market-research/"><u>2024 Approved  Leveraging Social Media Insights in Market Research</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-vlog-filming-ideal-handheld-stabilizers-compared/"><u>2024 Approved  Optimal Vlog Filming  Ideal Handheld Stabilizers Compared</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-previews-extravaganza/"><u>2024 Approved  Premiere Previews Extravaganza</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-screen-ready-images-opting-for-srgb/"><u>2024 Approved  Screen Ready Images  Opting for Srgb</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skys-the-limit-crafting-professional-drone-videos/"><u>2024 Approved  Sky's the Limit  Crafting Professional Drone Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nokia-c32-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nokia C32 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-13-mini-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 13 mini</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-savior-for-mac-owners-the-best-8-software-ranks-revealed/"><u>Data Savior for Mac Owners: The Best 8 Software Ranks Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-virtual-worlds-with-samsung-gear-vr-games/"><u>Exploring Virtual Worlds with Samsung Gear VR Games</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xr-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XR without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-se-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone SE</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comparing-bites-new-insights-on-hero5-and-yi-4k-cameras/"><u>In 2024, Comparing Bites  New Insights on Hero5 & Yi 4K Cameras</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-reno-8t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Reno 8T Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-background-selection-tips/"><u>In 2024, Masterful Background Selection Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-basics-motion-graphics-framework/"><u>In 2024, Mastering the Basics  Motion Graphics Framework</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-phone-lens-magic-creating-high-horizons/"><u>In 2024, Phone Lens Magic  Creating High Horizons</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-level-webcams-the-ultimate-choice-for-your-podcasts/"><u>In 2024, Pro Level Webcams  The Ultimate Choice for Your Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-screenplay-sage-answers-for-beginners/"><u>In 2024, Screenplay Sage  Answers for Beginners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/precision-and-performance-in-every-shade-the-eizo-cg318-4k-monitor-for-2024/"><u>Precision and Performance in Every Shade – The EIZO CG318-4K Monitor for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/restoring-macos-sierra-to-os-x-10101-environment-for-2024/"><u>Restoring MacOS Sierra to OS X 10.10.1 Environment for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-multi-environment-broadcasting-mastery-of-color-key-techniques-for-2024/"><u>Seamless Multi-Environment Broadcasting  Mastery of Color Key Techniques for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oneplus-nord-ce-3-lite-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About OnePlus Nord CE 3 Lite 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-iphones-nightlight-settings-for-2024/"><u>Understanding iPhone's Nightlight Settings for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Panasonic’s HX-A1 Wearable Cam Examined - A Detailed Review for 2024\""
-date: 2024-06-19T22:30:25.562Z
-updated: 2024-06-20T22:30:25.562Z
+date: 2024-07-27T18:41:41.517Z
+updated: 2024-07-28T18:41:41.517Z
 tags: 
   - screen-recording
   - ai video
@@ -32,12 +32,21 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
  With an unconventional cylindrical design, this digital camcorder is ready to make you fall for it. Panasonic has always tried to add versatility to their product and this focus has helped to win the hearts of its fans! HX-A1 Wearable Action Camera, as its name suggests, helps to mount it to any ideal spot. Its elongated torch-like shape helps in mounting it to your helmet, board or any other piece of mountain gear. You can attach it to your bag, hat or backpack or just put it like a headband! The twin mount helps in clicking in dark situations especially where you need an IR flashlight. Its 0 lux night vision mode allows IR flashlight to be mounted in addition to A1\. The camera allows to film in 1080p at 30fps, 720p at 60fps and 480p at 240fps. Available at a very affordable price of $101.95, A1 is certainly compatible to exceed your expectations. Let us unfold aspects of this A1 camera in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Design and Usability
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -63,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Accessories in the box
 
  The box obviously contains one of the best products from Panasonic which is the camera but also has little surprising accessories which will alleviate your shooting experience.
@@ -96,8 +109,14 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
 #### Wind jammer and strap adapter
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wind jammer and strap adapter can be other accessories which you can buy. Wind jammer help in making the audio clearer during windy conditions and strap adapter helps in connecting the camera to the floatation strap, neck strap or key ring. This pretty device is very catchy to the eyes, after all![Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Features
 
 #### **1. Video and photo quality**
@@ -148,3 +167,44 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-demystifying-ez-grabber-a-beginners-guide/"><u>[New] 2024 Approved  Demystifying EZ Grabber  A Beginner's Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-navigating-the-new-era-top-tier-vr-exercise-machines/"><u>[New] 2024 Approved  Navigating the New Era  Top-Tier VR Exercise Machines</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cutting-edge-recording-nintendo-switch-edition-for-2024/"><u>[New] Cutting-Edge Recording  Nintendo Switch Edition for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-vr-accessories-the-top-10-countdown/"><u>[New] Leading VR Accessories  The Top 10 Countdown</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-portals-best-websites-to-secure-snapalert-beats/"><u>[New] Premium Portals  Best Websites to Secure SnapAlert Beats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rhythm-reels-crafting-danceable-instagram-video-content/"><u>[New] Rhythm Reels  Crafting Danceable Instagram Video Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-video-editor-how-to-edit-instagram-video/"><u>[Updated] 2024 Approved  Instagram Video Editor  How to Edit Instagram Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-song-guide-for-newbies/"><u>[Updated] 2024 Approved  The Ultimate Song Guide for Newbies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-direct-youtube-to-dazzling-gif-creation-with-no-downloads/"><u>[Updated] In 2024, Direct YouTube to Dazzling Gif Creation with No Downloads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laugh-labs-robotic-deadpan-devs/"><u>[Updated] Laugh Labs  Robotic Deadpan Devs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-generating-professional-srt-documents/"><u>[Updated] Masterclass  Generating Professional SRT Documents</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-moto-z2s-smarter-edge-an-exclusive-look/"><u>[Updated] Moto Z2's Smarter Edge  An Exclusive Look</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reddits-hidden-gems-5-tips-for-novices-to-master-engagement-metrics/"><u>[Updated] Reddit's Hidden Gems  5 Tips for Novices to Master Engagement Metrics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionary-storage-solutions-select-from-the-best-20-free-options-1tbplus/"><u>[Updated] Revolutionary Storage Solutions - Select From the Best 20 Free Options (1TB+)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-step-up-in-the-metaverse-game-with-these-critical-devices-top-7-for-2024/"><u>[Updated] Step Up in the Metaverse Game with These Critical Devices (Top 7) for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cutting-edge-techniques-for-exceptional-podcast-recordings-via-zoom/"><u>2024 Approved  Cutting Edge Techniques for Exceptional Podcast Recordings via Zoom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-marketing-unboxed-approaches/"><u>2024 Approved  Marketing Unboxed Approaches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-metaverse-madness-top-tips-for-crafting-hitsome-memes/"><u>2024 Approved  Metaverse Madness  Top Tips for Crafting Hitsome Memes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-auditory-waves-of-iphones-podcast-streaming/"><u>2024 Approved  Navigating the Auditory Waves of iPhone's Podcast Streaming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stage-talent-video-download-permission-form/"><u>2024 Approved  Stage Talent  Video Download Permission Form</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-6s-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 6s Plus? How to Fix it?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-meizu-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Meizu</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-nokia-130-music-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia 130 Music Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ios-guide-your-step-by-step-vr-video-experience/"><u>In 2024, IOS Guide  Your Step-by-Step VR Video Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-android-video-brilliance-simple-steps/"><u>In 2024, Maximizing Android Video Brilliance  Simple Steps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-network-settings-in-mixer-macos/"><u>In 2024, Navigating Network Settings in Mixer macOS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-xcover-6-pro-tactical-edition-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy XCover 6 Pro Tactical Edition Phones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-iphone-timelapses-efficient-recording-tips-for-2024/"><u>Master iPhone Timelapses  Efficient Recording Tips for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-premieres-export-woes-to-fix-srt-files-for-2024/"><u>Navigating Premiere's Export Woes to Fix SRT Files for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-live-streaming-scenery-ideas-for-2024/"><u>Optimal Live Streaming Scenery Ideas for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimizing-endorsements-for-credibility/"><u>Optimizing Endorsements for Credibility</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-and-easy-iphone-methods-to-download-podcasts-anywhere-for-2024/"><u>Quick and Easy iPhone Methods to Download Podcasts Anywhere for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quick-methods-saving-your-google-voice-dialogues/"><u>Quick Methods  Saving Your Google Voice Dialogues</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-tecno-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Tecno on Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplify-gaming-sessions-with-xbox-zoom-techniques-for-2024/"><u>Simplify Gaming Sessions with Xbox Zoom Techniques for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/social-sites-for-effective-youtube-video-promotion-for-2024/"><u>Social Sites for Effective YouTube Video Promotion for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-civi-3-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Civi 3 | Dr.fone</u></a></li>
+</ul></div>

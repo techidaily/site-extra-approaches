@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating WhatsApp's Depths  Tricks You Need to Know\""
-date: 2024-06-19T22:31:50.724Z
-updated: 2024-06-20T22:31:50.724Z
+date: 2024-07-27T23:37:33.633Z
+updated: 2024-07-28T23:37:33.633Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 
 # Cool Whatsapp Tricks and Hidden Features You Should Know
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -40,6 +43,9 @@ You can do a lot of things with your WhatsApp fonts, appearance, and texts that 
 
 Yes, you can bold your text. Just add a star (\*) symbol before and after your text. Don’t use space between the \* and the letter.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Bold](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-bold.jpg)
 
 #### 2.Italic
@@ -52,6 +58,9 @@ Just like the bold, you can also italicize your fonts by simply inserting Unders
 
 Strikethrough is largely used to intend puns in WhatsApp, but sometimes it is also a functional tool for text corrections, used at large for online tutorials, editorials, or brainstorming. For adding Strikethrough use the Tilde Symbol (\~text\~) at the starting and end of your text.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Strikethrough](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-strikethrough.png)
 
 #### 4.Monospace
@@ -98,6 +107,9 @@ While typing a WhatsApp message if you need to cross-check certain areas with so
 
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What are the Hidden Features of WhatsApp?
 
 Since most of the above-mentioned are owing to the tricks and trades of texting via WhatsApp, let us now jot down a WhatsApp hidden feature list that applies for general usability of the wonder-app. There are useful privacy settings and chat features that can make your user experience a lot more peaceful.
@@ -122,6 +134,9 @@ If there is confusion with a location, where sharing addresses is not an option,
 
 As long as you have the chat history intact you can search specific words to trace an old chat within a thread. Open the message thread of the specific contact, tap on the 3 Dots button on the top left and click on “Search”. Then type a word from the particular chat, hit enter to trace it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp Search Old Chat](https://images.wondershare.com/filmora/article-images/whatsapp-search-old-chat.png)
 
 #### 5.Restore Your Chat History, and Deleted Chats
@@ -132,6 +147,18 @@ Sometimes you can restore deleted chat history if you have switched sims or mist
 
 Sometimes you just need to hush your WhatsApp for just a while. Perhaps you have to lend your phone to someone but don’t want them bumping into any of your private incoming messages. While other social media allow “logging off”, WhatsApp is always there in your face! Though high-fidelity phones allow fingerprint and face locking, not everyone owns a compatible device right now. Yet you don’t have to delete the app or go Aeroplane Mode, just force stop it. Though it is not an inbuilt WhatsApp feature, you can control the gamut by going to Settings>> Apps and Notifications >> WhatsApp >> Disable. Then in the same section go to Data Settings and disable Background Data. If you do this, your messages will come but you won’t’ get them until you open the app, meanwhile, keep receiving calls and all use your phone full-fledged.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp Hidden Feature Snooze Whatsapp](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-snooze-whatsapp.png)
 
 #### 7.Automatically Delete Messages After 7 Days
@@ -144,6 +171,9 @@ Not every message thread is important, and many people have the habit of deletin
 
 If it is annoying to open a loved one’s story and then automatically sliding into a story you did not want to open, you can MUTE the people whose stories you are not interested to see. Go to Story and tap and hold the unwanted contact to open the Mute option. Even though there is no option that you can stop the automatic carousel to the next contact’s stories altogether, you can always go by the rule of the thumb - place your thumb on the screen and the carousel won’t move.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Mute Whatsapp Stories](https://images.wondershare.com/filmora/article-images/mute-whatsapp-stories.jpg)
 
 #### 9.Reply Privately to Recipients in a WhatsApp Group
@@ -154,10 +184,17 @@ This is as simple as it sounds. Tap and hold to select a message in a group and 
 
 Manage how you are notified of messages from specific contacts and groups. Go to the main page of the contact or group you wish to customize, and there you will find Custom Notifications. Activate the mode to open a wide range of options - notification tones, pop up, preview, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Whatsapp Hidden Feature Custom Notification](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-custom-notification.jpg)
 
 Source: beebom.com
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Edit WhatsApp Videos with Ease
 
 Some of the best WhatsApp video editing tricks are coming up, wherein you can add doodles, text, and crop an image. Moreover, you also check in some external video editing tools that are quite handy to integrate with WhatsApp.
@@ -174,12 +211,18 @@ For this WhatsApp Video Editing Trick, you would need to have a third-party scre
 
 You can create an instant GIF out of the video file within WhatsApp. Do this, let the video download, and then freshly share it from Attach >> Gallery >> Videos. Before sending, the video editing panel would open, there, you can see the GIF option at the top right. It will shorten your video to 6 seconds, adjust the cursor to the portion you wish to use.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 When it comes to WhatsApp Tricks and Trades, you always have to look forward to every update. Keep a tab on the updates and find a new WhatsApp Hidden Feature now and then.
 
 **You may also like:**[Best Bio for Whatsapp](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -196,3 +239,54 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-best-tools-for-crafting-memorable-instagram-reels-top-6/"><u>[New] 2024 Approved  Best Tools for Crafting Memorable Instagram Reels (Top 6)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-direct-linkage-bridging-youtube-and-imovie-with-music/"><u>[New] 2024 Approved  Direct Linkage  Bridging YouTube and iMovie with Music</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-moments-of-quietude-top-idle-smartphone-games/"><u>[New] 2024 Approved  Moments of Quietude  Top Idle Smartphone Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mobile-broadcasting-share-videos-without-a-retweet/"><u>[New] In 2024, Mobile Broadcasting  Share Videos without a Retweet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unbeatable-freefire-gaming-hashtag-and-strategy-insights/"><u>[New] In 2024, Unbeatable FreeFire Gaming  Hashtag & Strategy Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-insta-tiktik-mastery-uniting-two-social-giants/"><u>[New] Insta-TikTik Mastery  Uniting Two Social Giants</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-keeping-balance-in-the-world-of-immersive-virtuality/"><u>[New] Keeping Balance in the World of Immersive Virtuality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-laying-foundations-for-understanding-av1-tech/"><u>[New] Laying Foundations for Understanding AV1 Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-social-network-crossroad-instagram-and-tiktok/"><u>[New] Navigating the Social Network Crossroad  Instagram & TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-preeminent-6-social-channels-for-commercial-expansion/"><u>[New] Preeminent 6 Social Channels for Commercial Expansion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proiphone-close-ups-techniques-for-captivating-images/"><u>[New] Proiphone Close-Ups  Techniques for Captivating Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-and-easy-how-to-transform-your-mobile-device-into-a-vr-headset/"><u>[New] Quick and Easy  How to Transform Your Mobile Device Into a VR Headset</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quickshot-maker-for-videoplusimage-sync/"><u>[New] QuickShot Maker for Video+Image Sync</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-selective-soundscape-picks-for-video-editors/"><u>[New] Selective Soundscape Picks for Video Editors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-strategic-insights-into-aesthetic-success-for-audio-brands/"><u>[New] Strategic Insights Into Aesthetic Success for Audio Brands</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-toggle-picture-in-picture-youtube-viewing-tips-for-ios-users/"><u>[New] Toggle Picture In Picture  YouTube Viewing Tips for iOS Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-best-camera-for-videos-mirrorless-vs-dslr-showdown/"><u>[Updated] Best Camera for Videos  Mirrorless Vs. DSLR Showdown</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-harness-the-power-of-storytelling-making-captivating-reels-on-facebook/"><u>[Updated] Harness the Power of Storytelling  Making Captivating Reels on Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-gallery-archive-services/"><u>[Updated] Leading Gallery Archive Services</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-ios-scale-and-focus-techniques/"><u>[Updated] Mastering iOS Scale and Focus Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-protecting-your-work-youtube-copyright-essentials-explained/"><u>[Updated] Protecting Your Work  YouTube Copyright Essentials Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-resolve-chromes-video-playback-woes/"><u>[Updated] Resolve  Chrome's Video Playback Woes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sonic-layering-a-guide-to-music-vids-on-instagram/"><u>[Updated] Sonic Layering  A Guide to Music Vids on Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-spectaculous-visual-story-builder-suite/"><u>[Updated] Spectaculous Visual Story Builder Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-mixed-reality-explored/"><u>[Updated] The Essence of Mixed Reality Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-clarity-catalysts-selecting-online-video-aids/"><u>2024 Approved  Clarity Catalysts  Selecting Online Video Aids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-metaverse-and-multiverse-demystified-an-in-depth-guide/"><u>2024 Approved  Metaverse and Multiverse Demystified  An In-Depth Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-zoom-functionality-tips-for-chromebook-devices/"><u>2024 Approved  Pro Zoom Functionality Tips for Chromebook Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stopwatch-like-pauses-tackling-frozen-photobooths/"><u>2024 Approved  Stopwatch-Like Pauses  Tackling Frozen Photobooths</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-x6-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco X6</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-find-n3-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo Find N3 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-magic-6-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor Magic 6 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-11-pro-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 11 Pro Max to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-green-screen-landscape-for-webcam-enthusiasts/"><u>In 2024, Navigating the Green Screen Landscape for Webcam Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pixtra-photo-editor-deep-dive/"><u>In 2024, Pixtra Photo Editor Deep Dive</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-popular-photos-the-backstory/"><u>In 2024, Popular Photos  The Backstory</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>In 2024, Smart Selections  Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inverted-screen-changing-video-ordering-for-2024/"><u>Inverted Screen  Changing Video Ordering for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laugh-out-loud-for-free-easymemes-tutorial-for-2024/"><u>Laugh Out Loud for Free  EasyMemes Tutorial for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production-for-2024/"><u>Perfecting iPhone Cinematic Work  Top 8 Tips for Excellent Pro Video Production for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-camcorders-enhancing-podcasting-for-2024/"><u>Premium Camcorders Enhancing Podcasting for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/strategies-to-enhance-stability-of-win-11s-photo-viewer/"><u>Strategies to Enhance Stability of Win 11'S Photo Viewer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-iphone-video-capture-apps/"><u>Top 10 iPhone Video Capture Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-techniques-for-harmonious-crossfades-in-tracks/"><u>Unveiling Techniques for Harmonious Crossfades in Tracks</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-c65-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco C65 Hard Reset | Dr.fone</u></a></li>
+</ul></div>

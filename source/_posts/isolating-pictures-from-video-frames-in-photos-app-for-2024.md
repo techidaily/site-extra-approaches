@@ -1,7 +1,7 @@
 ---
 title: "Isolating Pictures From Video Frames in Photos App for 2024"
-date: 2024-05-31T05:28:21.395Z
-updated: 2024-06-01T05:28:21.395Z
+date: 2024-07-27T20:19:39.383Z
+updated: 2024-07-28T20:19:39.383Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/B8k2v-qR8tcm_t0SyyeTNpnCEuI=/400x300/fi
 
 # How to Save Photo from Video in Windows 10 Photos App
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -54,6 +57,9 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 * Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
 * Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
@@ -64,6 +70,105 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+### 1\. Check the update
+
+Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
+
+### 2\. Sign in a different account in Microsoft Store
+
+You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
+
+## Part 3: Alternative way to save photo from video
+
+When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
+
+Here comes the guide –
+
+* Browse [ScreenShot](https://screenshot.net/) and hit ‘Take Screenshot’
+* Now, run the java applet and just hit the camera icon to capture shots.
+* See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
+
+* Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
+* Now, hit the ‘Save’ icon and get the image saved on your computer.
+
+## Conclusion
+
+We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+With the galore of features loaded on Windows 10, it comes as no surprise that it can save photo from video using [Windows 10 Photos app](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab). You can not only edit photos using this app, but capture a still photograph from a video by reviewing it frame by frame. The photo quality is similar to as that of the video’s quality that you have used to capture the still from. These live photos are in JPEG format.
+
+In this article, you will learn how to save photo from Windows 10 Photos app and the alternative way to save photo from video.
+
+* [**Part1: How to save photo from Windows 10 Photos app**](#part1)
+* [**Part2: Why I can’t save photo from video**](#part2)
+* [**Part3: Alternative way to save photo from video**](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: How to save photo from Windows 10 Photos app
+
+In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
+
+First you need to create a living image and then save it as a still image.
+
+Creating a living image:
+
+* Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
+* Right-click within the player > Edit and create > Save photos.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
+
+* Now, you can see the living picture by tapping ‘Play’ button.
+
+These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
+
+* Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
+* Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
+
+![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
+
+* This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: Why I can’t save photo from video
+
+In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
+
+We are explaining the solutions here –
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
@@ -87,10 +192,16 @@ Here comes the guide –
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -141,6 +252,9 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
@@ -149,6 +263,10 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Part 3: Alternative way to save photo from video
 
 When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
@@ -159,15 +277,38 @@ Here comes the guide –
 * Now, run the java applet and just hit the camera icon to capture shots.
 * See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -218,6 +359,9 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
@@ -236,6 +380,9 @@ Here comes the guide –
 * Now, run the java applet and just hit the camera icon to capture shots.
 * See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
@@ -245,83 +392,9 @@ Here comes the guide –
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-With the galore of features loaded on Windows 10, it comes as no surprise that it can save photo from video using [Windows 10 Photos app](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab). You can not only edit photos using this app, but capture a still photograph from a video by reviewing it frame by frame. The photo quality is similar to as that of the video’s quality that you have used to capture the still from. These live photos are in JPEG format.
-
-In this article, you will learn how to save photo from Windows 10 Photos app and the alternative way to save photo from video.
-
-* [**Part1: How to save photo from Windows 10 Photos app**](#part1)
-* [**Part2: Why I can’t save photo from video**](#part2)
-* [**Part3: Alternative way to save photo from video**](#part3)
-
-## Part 1: How to save photo from Windows 10 Photos app
-
-In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
-
-First you need to create a living image and then save it as a still image.
-
-Creating a living image:
-
-* Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
-* Right-click within the player > Edit and create > Save photos.
-
-![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
-
-* Now, you can see the living picture by tapping ‘Play’ button.
-
-These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
-
-* Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
-* Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
-
-![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
-
-* This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
-
-## Part 2: Why I can’t save photo from video
-
-In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
-
-We are explaining the solutions here –
-
-### 1\. Check the update
-
-Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
-
-### 2\. Sign in a different account in Microsoft Store
-
-You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-## Part 3: Alternative way to save photo from video
-
-When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
-
-Here comes the guide –
-
-* Browse [ScreenShot](https://screenshot.net/) and hit ‘Take Screenshot’
-* Now, run the java applet and just hit the camera icon to capture shots.
-* See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
-
-![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
-
-* Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
-* Now, hit the ‘Save’ icon and get the image saved on your computer.
-
-## Conclusion
-
-We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
-
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -352,3 +425,44 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-legally-accessing-government-election-coverage-on-demand/"><u>[New] Legally Accessing Government Election Coverage on Demand</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-the-art-creating-high-quality-gopro-vlogs-for-2024/"><u>[New] Mastering The Art  Creating High-Quality Gopro Vlogs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-step-by-step-guide-for-pcmac-movie-recording/"><u>[Updated] In 2024, Step-by-Step Guide for PC/Mac Movie Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-guide-to-achieving-stunning-hdr-photos/"><u>[Updated] IPhone Guide to Achieving Stunning HDR Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-the-art-of-zooming-expert-strategies-for-snapchat-users/"><u>[Updated] Perfecting the Art of Zooming  Expert Strategies for Snapchat Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photoshop-grading-made-simple-for-everyone/"><u>[Updated] Photoshop Grading Made Simple for Everyone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-handheld-mounts-precision-and-stability-combined/"><u>[Updated] Premium Handheld Mounts  Precision and Stability Combined</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-setting-up-a-sports-channel-from-scratch-mac-style/"><u>[Updated] Setting up a Sports Channel From Scratch, Mac-Style</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mediamerge-creating-slideshows-on-macsierra/"><u>2024 Approved  MediaMerge  Creating Slideshows on MacSierra</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-metagaming-mastery-top-10-friendly-games/"><u>2024 Approved  Metagaming Mastery  Top 10 Friendly Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-moneysmart-cumulus-storage-scaling-files-economically/"><u>2024 Approved  MoneySmart Cumulus Storage - Scaling Files Economically</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pros-and-tips-building-realistic-3d-text-in-photos/"><u>2024 Approved  Pros and Tips  Building Realistic 3D Text in PHOTOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speaking-shifts-a-guide-to-free-fire-voices/"><u>2024 Approved  Speaking Shifts  A Guide to Free Fire Voices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-activate-or-deactivate-picture-in-picture-on-apples-youtube-app/"><u>2024 Approved  Step-by-Step Guide  Activate or Deactivate Picture-in-Picture on Apple's YouTube App</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-lut-power-for-free-high-quality-colorization/"><u>Harnessing LUT Power for Free, High-Quality Colorization</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-7-hd-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 7 HD in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-honor-magic5-ultimate-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-free-youtube-outro-kings-6-top-suggestions/"><u>In 2024, Free YouTube Outro Kings  6 TOP Suggestions!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-video-transitions-and-effects-using-gopro-studio-protips/"><u>In 2024, Master Video Transitions and Effects Using GoPro Studio ProTips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-echo-reduction-techniques-in-audacity/"><u>In 2024, Navigating Echo Reduction Techniques in Audacity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimizing-youtube-presentations-with-precise-times/"><u>In 2024, Optimizing YouTube Presentations with Precise Times</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-presentations-with-a-personal-touch-adding-audio/"><u>In 2024, Perfect Presentations with a Personal Touch  Adding Audio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-soundtracks-top-10-microphones/"><u>In 2024, Perfecting Soundtracks  Top 10 Microphones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-restore-noise-to-silent-twitter-video-posts/"><u>In 2024, Restore Noise to Silent Twitter Video Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-method-to-verify-and-update-your-tiktok-age/"><u>In 2024, Step-by-Step Method to Verify and Update Your TikTok Age</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instant-annotation-text-overlaying-on-images-and-videos-using-windows-photos-for-2024/"><u>Instant Annotation  Text Overlaying on Images & Videos Using Windows Photos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leap-into-the-future-a-guide-for-windows-11-installation-for-2024/"><u>Leap Into the Future  A Guide for Windows 11 Installation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/macs-premier-6-video-cutting-tools-big-sur-for-2024/"><u>Mac's Premier 6 Video Cutting Tools (Big Sur) for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximizing-your-iphones-photographic-skills-in-ios-11-for-2024/"><u>Maximizing Your iPhone's Photographic Skills in iOS 11 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-photoplusvideo-integration-with-iphone-for-2024/"><u>Navigating Photo+Video Integration with iPhone for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfected-edits-on-the-go-leading-apps-for-macos-big-surs-video-editors-for-2024/"><u>Perfected Edits on the Go  Leading Apps for macOS Big Sur's Video Editors for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/phones-to-fantasy-crafting-a-home-for-vr-goggles/"><u>Phones to Fantasy  Crafting a Home for VR Goggles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/principles-of-crafting-alluring-video-scripts-for-2024/"><u>Principles of Crafting Alluring Video Scripts for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/selecting-sacred-sounds-for-smartphone-ringtones/"><u>Selecting Sacred Sounds for Smartphone Ringtones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stepping-into-silence-fading-out-audio-in-adobe-premiere-pro-for-2024/"><u>Stepping Into Silence  Fading Out Audio in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/yield-your-content-mastering-youtube-ads-for-earnings-for-2024/"><u>Yield Your Content  Mastering YouTube Ads for Earnings for 2024</u></a></li>
+</ul></div>

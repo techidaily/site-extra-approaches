@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Music Integration in Canva Video Projects"
-date: 2024-05-31T05:29:24.475Z
-updated: 2024-06-01T05:29:24.475Z
+date: 2024-07-27T21:24:01.839Z
+updated: 2024-07-28T21:24:01.839Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Mastering Music Integration in Canva Video Projects"
 excerpt: "This Article Describes [New] Mastering Music Integration in Canva Video Projects"
 keywords: "Canva Music Video,Canva Sound Design,Canva Audio Edit,Video Music Plugins,Canva Song Images,Harmonize Canva Clips,Integrate Music in Videos"
-thumbnail: https://www.lifewire.com/thmb/Y6vVYuznenvIY7JLo4M8rcu2Q08=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-watch-espn-plus-on-roku-7485522-6ae6587255d2492b9156bee541ba4c39.jpg
+thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e484b6c6cc6059c7ac856aae.jpg
 ---
 
 ## Mastering Music Integration in Canva Video Projects
@@ -42,6 +42,9 @@ These platforms allow users to showcase their talent by sharing different types 
 
 03 [Edit Your Music On Canva](#Part 3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Part 1 Add Music To Canva Video
 
 By using Canva, you can create a good video with ease. It can help you add multiple elements, effects, and factors to the video by which you can make things easier. It increases the effectiveness of the video and connects with the audience perfectly. Here, you will get the complete process to figure out how can make it possible.
@@ -64,18 +67,27 @@ When you click the button, it will lead to a device folder interface. By using t
 
 **Step 4: Find Out Audio**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find audio file](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-3.png)
 
 After uploading the file, you can easily use it for creating desired design or video. Here, you should visit the AUDIO tab from the side panel. In case you cannot see such an option, you will definitely get the MORE button, so, proceed by clicking it. After exploring more, you can easily see that particular button.
 
 **Step 5:Add Audio To Design**
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add audio to design](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-4.png)
 
 In the audio tab, you can see the recently uploaded final. You should proceed by choosing this particular file. It will help you make lots of things easier and better.
 
 It is the complete procedure that you can follow to add an audio file to the Canva. You can also find several audio files inside the Canva that can feature your design or video as well. But, it depends on your requirements and creative ideas and how you want to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2 Crop Music You Added On Canva
 
 When it comes to video or audio editing, the biggest thing is trimming. Trimming helps to reduce the content length or time duration by which you can share the video with appropriate time limits. With the following procedure, you can easily edit the audio file.
@@ -162,6 +174,9 @@ When you click the button, it will lead to a device folder interface. By using t
 
 **Step 4: Find Out Audio**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Find audio file](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-3.png)
 
 After uploading the file, you can easily use it for creating desired design or video. Here, you should visit the AUDIO tab from the side panel. In case you cannot see such an option, you will definitely get the MORE button, so, proceed by clicking it. After exploring more, you can easily see that particular button.
@@ -174,10 +189,144 @@ In the audio tab, you can see the recently uploaded final. You should proceed by
 
 It is the complete procedure that you can follow to add an audio file to the Canva. You can also find several audio files inside the Canva that can feature your design or video as well. But, it depends on your requirements and creative ideas and how you want to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Part 2 Crop Music You Added On Canva
 
 When it comes to video or audio editing, the biggest thing is trimming. Trimming helps to reduce the content length or time duration by which you can share the video with appropriate time limits. With the following procedure, you can easily edit the audio file.
 
+## Part 3 Edit Your Music On Canva
+
+**Step 1: Open My Media**
+
+In the navigation system or side panel, you can find out MY MEDIA section. It will help you get access to the available media files that are linked to your Canva account.
+
+**Step 2: Gray Pencil**
+
+Now, you should proceed by choosing the GRAY PENCIL ICON. You can find out this icon with the video. Generally, it is considered as an edit symbol that will allow you to access the complete edit panel without any problem.
+
+**Step 3: Launch Editor And Edit**
+
+You should click the edit icon and launch the respective interface. In case you want to trim the audio, you can use left and right brackets and drag them to the positions. The left bracket will help you decide the starting point and the right one help you pick the ending point. By using both, you can pick a section that you want to add to the video.
+
+If you like to chop the audio, you should choose the section by using the scissors icon. The selected audio section will be removed and the remaining can be added to the video. As for the editor features, you can also apply fades to the audio. It will help you to mix different audios or create some low moments in the video.
+
+**Step 4: Preview**
+
+After making all these edits on video and audio, you should merge both files. Before proceeding to the final step, it will be good if you consider a preview. Preview will help you understand the video is created perfectly or not. In case there’s any kind of issue with the video, you will get it during preview and fix it immediately.
+
+**Step 5: Save & Download**
+
+In case you are satisfied with the preview results, you should click the SAVE or SAVE A COPY button. You can also download the file to get it on your device and share it on other platforms.
+
+It is the complete procedure that will help you to edit an audio file on Canva with ease.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Important Tip: Try Filmora
+
+In case you are interested in using a good video editor with a user-friendly interface and easy-to-use procedures, you should be focused on choosing Filmora. It is a great tool that can be accessed on both Windows and Mac devices. Along with it, you can get its version for mobile devices (Android and iOS) as well.
+
+While accessing Filmora, you will get multiple options regarding features and functionalities. It also has a big library that allows you to get free access to different types of audio files, songs, music, and video effects.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![download](https://images.wondershare.com/filmora/images/filmora-box.png)
+
+### Final Words
+
+All these details will help you understand how to add music on Canva without any hassle or problem. In case you are facing any kind of issues while using Canva, you can check out the guides or contact support. Along with it, you may find a lack of some important features too. Due to it, you may not get results as per your expectations and all. Here, you should be focused on alternatives as we discussed Filmora. It is one of the best video editors that has several features and a big music library. You will get accessibility to the music library and features for free. You should be smart and careful while making a final decision.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+All individuals have a dream to become a recognizable personality in the world. Everyone wants to achieve a dream of getting popularity like a film star. Previously, it was possible only by contribution efforts on the TV or movie screens. But now, the conditions are completely different. All individuals have multiple options to achieve such an objective by using social media platforms.
+
+These platforms allow users to showcase their talent by sharing different types of videos. When it comes to creating an impressive video, everyone needs to use a good video editor by which they can add multiple elements to the content. Canva is the first preference of numerous individuals. Some of these are eagerly want to know how to add music in Canva externally to create a fully-featured video. If you are one of these individuals, you should be focused on the upcoming paragraphs.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+![Canva](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-1.png)
+
+#### In this article
+
+01 [Add Music To Canva Video](#Part 1)
+
+02 [Crop Music You Added On Canva](#Part 2)
+
+03 [Edit Your Music On Canva](#Part 3)
+
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
+## Part 1 Add Music To Canva Video
+
+By using Canva, you can create a good video with ease. It can help you add multiple elements, effects, and factors to the video by which you can make things easier. It increases the effectiveness of the video and connects with the audience perfectly. Here, you will get the complete process to figure out how can make it possible.
+
+**Step-By-Step Guide To Add Music In Canva Video**
+
+**Step 1: Create Design**
+
+Firstly, you should focus on creating a proper design or video that you want to share on your social accounts. In case you have already such a thing on your device or in the Canva library, you should open it in the editor’s interface. After that, you should work on adding audio files.
+
+**Step 2: Upload Audio**
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+![Audio upload to Canva](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-2.png)
+
+Secondly, you should proceed with a small procedure of uploading audio files to the Canva. Canva allows uploading any kind of file from external sources or devices. It can be useful in adding desired audio and sound effects to the video. For such a thing, you can see the UPLOAD tab in the menu. You should visit the tab and click the UPLOAD MEDIA button.
+
+**Step 3: Pick Audio File**
+
+When you click the button, it will lead to a device folder interface. By using this interface, you should locate the folder where your desired audio file and available and select it for uploading or adding in the Canva.
+
+**Step 4: Find Out Audio**
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Find audio file](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-3.png)
+
+After uploading the file, you can easily use it for creating desired design or video. Here, you should visit the AUDIO tab from the side panel. In case you cannot see such an option, you will definitely get the MORE button, so, proceed by clicking it. After exploring more, you can easily see that particular button.
+
+**Step 5:Add Audio To Design**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![add audio to design](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-4.png)
+
+In the audio tab, you can see the recently uploaded final. You should proceed by choosing this particular file. It will help you make lots of things easier and better.
+
+It is the complete procedure that you can follow to add an audio file to the Canva. You can also find several audio files inside the Canva that can feature your design or video as well. But, it depends on your requirements and creative ideas and how you want to proceed.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2 Crop Music You Added On Canva
+
+When it comes to video or audio editing, the biggest thing is trimming. Trimming helps to reduce the content length or time duration by which you can share the video with appropriate time limits. With the following procedure, you can easily edit the audio file.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Part 3 Edit Your Music On Canva
 
 **Step 1: Open My Media**
@@ -238,6 +387,9 @@ These platforms allow users to showcase their talent by sharing different types 
 
 03 [Edit Your Music On Canva](#Part 3)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1 Add Music To Canva Video
 
 By using Canva, you can create a good video with ease. It can help you add multiple elements, effects, and factors to the video by which you can make things easier. It increases the effectiveness of the video and connects with the audience perfectly. Here, you will get the complete process to figure out how can make it possible.
@@ -260,6 +412,9 @@ When you click the button, it will lead to a device folder interface. By using t
 
 **Step 4: Find Out Audio**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Find audio file](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-3.png)
 
 After uploading the file, you can easily use it for creating desired design or video. Here, you should visit the AUDIO tab from the side panel. In case you cannot see such an option, you will definitely get the MORE button, so, proceed by clicking it. After exploring more, you can easily see that particular button.
@@ -272,6 +427,9 @@ In the audio tab, you can see the recently uploaded final. You should proceed by
 
 It is the complete procedure that you can follow to add an audio file to the Canva. You can also find several audio files inside the Canva that can feature your design or video as well. But, it depends on your requirements and creative ideas and how you want to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2 Crop Music You Added On Canva
 
 When it comes to video or audio editing, the biggest thing is trimming. Trimming helps to reduce the content length or time duration by which you can share the video with appropriate time limits. With the following procedure, you can easily edit the audio file.
@@ -302,6 +460,11 @@ In case you are satisfied with the preview results, you should click the SAVE or
 
 It is the complete procedure that will help you to edit an audio file on Canva with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Important Tip: Try Filmora
 
 In case you are interested in using a good video editor with a user-friendly interface and easy-to-use procedures, you should be focused on choosing Filmora. It is a great tool that can be accessed on both Windows and Mac devices. Along with it, you can get its version for mobile devices (Android and iOS) as well.
@@ -314,104 +477,9 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![download](https://images.wondershare.com/filmora/images/filmora-box.png)
-
-### Final Words
-
-All these details will help you understand how to add music on Canva without any hassle or problem. In case you are facing any kind of issues while using Canva, you can check out the guides or contact support. Along with it, you may find a lack of some important features too. Due to it, you may not get results as per your expectations and all. Here, you should be focused on alternatives as we discussed Filmora. It is one of the best video editors that has several features and a big music library. You will get accessibility to the music library and features for free. You should be smart and careful while making a final decision.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-All individuals have a dream to become a recognizable personality in the world. Everyone wants to achieve a dream of getting popularity like a film star. Previously, it was possible only by contribution efforts on the TV or movie screens. But now, the conditions are completely different. All individuals have multiple options to achieve such an objective by using social media platforms.
-
-These platforms allow users to showcase their talent by sharing different types of videos. When it comes to creating an impressive video, everyone needs to use a good video editor by which they can add multiple elements to the content. Canva is the first preference of numerous individuals. Some of these are eagerly want to know how to add music in Canva externally to create a fully-featured video. If you are one of these individuals, you should be focused on the upcoming paragraphs.
-
-![Canva](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-1.png)
-
-#### In this article
-
-01 [Add Music To Canva Video](#Part 1)
-
-02 [Crop Music You Added On Canva](#Part 2)
-
-03 [Edit Your Music On Canva](#Part 3)
-
-## Part 1 Add Music To Canva Video
-
-By using Canva, you can create a good video with ease. It can help you add multiple elements, effects, and factors to the video by which you can make things easier. It increases the effectiveness of the video and connects with the audience perfectly. Here, you will get the complete process to figure out how can make it possible.
-
-**Step-By-Step Guide To Add Music In Canva Video**
-
-**Step 1: Create Design**
-
-Firstly, you should focus on creating a proper design or video that you want to share on your social accounts. In case you have already such a thing on your device or in the Canva library, you should open it in the editor’s interface. After that, you should work on adding audio files.
-
-**Step 2: Upload Audio**
-
-![Audio upload to Canva](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-2.png)
-
-Secondly, you should proceed with a small procedure of uploading audio files to the Canva. Canva allows uploading any kind of file from external sources or devices. It can be useful in adding desired audio and sound effects to the video. For such a thing, you can see the UPLOAD tab in the menu. You should visit the tab and click the UPLOAD MEDIA button.
-
-**Step 3: Pick Audio File**
-
-When you click the button, it will lead to a device folder interface. By using this interface, you should locate the folder where your desired audio file and available and select it for uploading or adding in the Canva.
-
-**Step 4: Find Out Audio**
-
-![Find audio file](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-3.png)
-
-After uploading the file, you can easily use it for creating desired design or video. Here, you should visit the AUDIO tab from the side panel. In case you cannot see such an option, you will definitely get the MORE button, so, proceed by clicking it. After exploring more, you can easily see that particular button.
-
-**Step 5:Add Audio To Design**
-
-![add audio to design](https://images.wondershare.com/filmora/article-images/2022/03/canva-video-4.png)
-
-In the audio tab, you can see the recently uploaded final. You should proceed by choosing this particular file. It will help you make lots of things easier and better.
-
-It is the complete procedure that you can follow to add an audio file to the Canva. You can also find several audio files inside the Canva that can feature your design or video as well. But, it depends on your requirements and creative ideas and how you want to proceed.
-
-## Part 2 Crop Music You Added On Canva
-
-When it comes to video or audio editing, the biggest thing is trimming. Trimming helps to reduce the content length or time duration by which you can share the video with appropriate time limits. With the following procedure, you can easily edit the audio file.
-
-## Part 3 Edit Your Music On Canva
-
-**Step 1: Open My Media**
-
-In the navigation system or side panel, you can find out MY MEDIA section. It will help you get access to the available media files that are linked to your Canva account.
-
-**Step 2: Gray Pencil**
-
-Now, you should proceed by choosing the GRAY PENCIL ICON. You can find out this icon with the video. Generally, it is considered as an edit symbol that will allow you to access the complete edit panel without any problem.
-
-**Step 3: Launch Editor And Edit**
-
-You should click the edit icon and launch the respective interface. In case you want to trim the audio, you can use left and right brackets and drag them to the positions. The left bracket will help you decide the starting point and the right one help you pick the ending point. By using both, you can pick a section that you want to add to the video.
-
-If you like to chop the audio, you should choose the section by using the scissors icon. The selected audio section will be removed and the remaining can be added to the video. As for the editor features, you can also apply fades to the audio. It will help you to mix different audios or create some low moments in the video.
-
-**Step 4: Preview**
-
-After making all these edits on video and audio, you should merge both files. Before proceeding to the final step, it will be good if you consider a preview. Preview will help you understand the video is created perfectly or not. In case there’s any kind of issue with the video, you will get it during preview and fix it immediately.
-
-**Step 5: Save & Download**
-
-In case you are satisfied with the preview results, you should click the SAVE or SAVE A COPY button. You can also download the file to get it on your device and share it on other platforms.
-
-It is the complete procedure that will help you to edit an audio file on Canva with ease.
-
-### Important Tip: Try Filmora
-
-In case you are interested in using a good video editor with a user-friendly interface and easy-to-use procedures, you should be focused on choosing Filmora. It is a great tool that can be accessed on both Windows and Mac devices. Along with it, you can get its version for mobile devices (Android and iOS) as well.
-
-While accessing Filmora, you will get multiple options regarding features and functionalities. It also has a big library that allows you to get free access to different types of audio files, songs, music, and video effects.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 ### Final Words
@@ -440,3 +508,46 @@ All these details will help you understand how to add music on Canva without any
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-lost-and-found-30-free-speech-to-text-mac-hits/"><u>[New] Lost and Found  30 Free Speech-to-Text Mac Hits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-upside-down-and-sideways-iphone-photos/"><u>[New] Mastering Upside-Down and Sideways iPhone Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-podcast-spotlight-listen-and-like-instantly/"><u>[New] Podcast Spotlight  Listen and Like Instantly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-rotate-youtube-videos-by-any-angle/"><u>[Updated] How to Rotate YouTube Videos by Any Angle</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inshot-vs-competitors-a-detailed-video-app-review/"><u>[Updated] InShot vs Competitors  A Detailed Video App Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-intro-magic-unmatched-editors-across-all-tech/"><u>[Updated] Intro Magic  Unmatched Editors Across All Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-techniques-for-full-sphere-videography/"><u>[Updated] IPhone Techniques for Full-Sphere Videography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-magic-in-managing-photos-with-magix/"><u>[Updated] Magic in Managing Photos with MAGIX</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-methods-to-rectify-obs-fullscreen-crash/"><u>[Updated] Methods to Rectify OBS Fullscreen Crash</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-gear-to-ensure-smooth-video-recording/"><u>[Updated] Premium Gear to Ensure Smooth Video Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quintessential-stop-motion-films-a-top-15-list/"><u>[Updated] Quintessential Stop-Motion Films  A Top 15 List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-redefining-virtual-adventure-with-jaunt-vr/"><u>[Updated] Redefining Virtual Adventure with Jaunt VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smartphone-showcase-the-very-best-for-artistic-endeavors/"><u>[Updated] Smartphone Showcase  The Very Best for Artistic Endeavors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-vrecorder-how-to-download-and-install-for-2024/"><u>[Updated] VRecorder - How to Download and Install for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-luminous-leap-forward-three-hacks-to-shine-your-iphone-videography/"><u>2024 Approved  Luminous Leap Forward  Three Hacks to Shine Your iPhone Videography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-mix-adding-cropping-and-adjusting-audio-in-canva/"><u>2024 Approved  Mastering the Mix  Adding, Cropping & Adjusting Audio in Canva</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-picshot-transforming-photographs-into-artistic-tapestries/"><u>2024 Approved  Picshot  Transforming Photographs Into Artistic Tapestries</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessiphonedesktop-video-editing-top-8-software-recommendations/"><u>2024 Approved  SeamlessiPhone/Desktop Video Editing  Top 8 Software Recommendations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stability-secrets-for-dynamic-photo-shoots/"><u>2024 Approved  Stability Secrets for Dynamic Photo Shoots</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-yt-treasure-hunt-accessing-previously-deleted-content/"><u>2024 Approved  YT Treasure Hunt  Accessing Previously Deleted Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/24-hour-film-size-gb-measurement-guide/"><u>24-Hour Film Size  GB Measurement Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-wmp-techniques-for-efficient-cd-handling-and-recordings/"><u>In 2024, Master WMP Techniques for Efficient CD Handling and Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masters-in-virtual-enclosure-devices/"><u>In 2024, Masters in Virtual Enclosure Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-pixels-a-detailed-analysis-of-8k-tvs/"><u>In 2024, Pioneering Pixels  A Detailed Analysis of 8K TVs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shaping-new-normals-innovative-brands-and-youtube-partnerships/"><u>In 2024, Shaping New Normals  Innovative Brands and YouTube Partnerships</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smooth-surfaces-from-stability-handheld-tech-for-pros/"><u>In 2024, Smooth Surfaces From Stability  Handheld Tech for Pros</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-pro-enhancing-photo-clarity-details-and-composition-for-2024/"><u>IPhone Pro  Enhancing Photo Clarity, Details & Composition for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/is-inshot-surging-above-all-else-in-edits-for-2024/"><u>Is InShot Surging Above All Else in Edits for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/metaverse-enthusiasts-secret-to-simple-avatars-for-2024/"><u>Metaverse Enthusiasts' Secret to Simple Avatars for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/optimize-your-social-media-with-autoplay-vids-on-fb-for-2024/"><u>Optimize Your Social Media with Autoplay Vids on FB for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picart-hack-keep-identities-unseen-for-2024/"><u>PicArt Hack  Keep Identities Unseen for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pocket-sized-picture-playwriting/"><u>Pocket-Sized Picture Playwriting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-fishing-visionaries-discovering-our-5-best-cameras-for-2024/"><u>Pro-Fishing Visionaries  Discovering Our 5 Best Cameras for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reimagine-photos-with-picshots-simple-techniques-for-2024/"><u>Reimagine Photos with Picshot’s Simple Techniques for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplifying-massive-media-swap-iphone-to-mac-file-relocation-for-2024/"><u>Simplifying Massive Media Swap  IPhone-to-Mac File Relocation for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/smart-tips-for-gif-lovers-iphone-edition-for-2024/"><u>Smart Tips for GIF Lovers  IPhone Edition for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speed-up-your-file-format-shift-from-srt-to-text-txt-for-2024/"><u>Speed-Up Your File Format Shift  From SRT to Text (TXT) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tier-reddit-discussions-a-list-of-the-ten-greatest/"><u>Top Tier Reddit Discussions - A List of the Ten Greatest</u></a></li>
+</ul></div>

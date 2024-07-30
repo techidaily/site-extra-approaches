@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone Photography Wonders  Capturing Surface Mirrors\""
-date: 2024-05-31T05:27:19.875Z
-updated: 2024-06-01T05:27:19.875Z
+date: 2024-07-27T19:15:28.933Z
+updated: 2024-07-28T19:15:28.933Z
 tags: 
   - screen-recording
   - ai video
@@ -13,14 +13,172 @@ categories:
 description: "\"This Article Describes [New] IPhone Photography Wonders: Capturing Surface Mirrors\""
 excerpt: "\"This Article Describes [New] IPhone Photography Wonders: Capturing Surface Mirrors\""
 keywords: "IPhone Snapshot Magic,Photoshoot iPhone Mirror,Iphone Reflective Shots,IPhone Mirror Photography,IPhone Surface Captures,IPhone Mirror Artistry,IPhone Mirror Images"
-thumbnail: https://www.lifewire.com/thmb/StRC1gceN7hy3J92zKVQDdA6qG8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1316489017-cab6da86c84e4a379cb658ec51faf24a.jpg
+thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe6968554def245326bd7e9d126f27.jpg
 ---
 
 ## IPhone Photography Wonders: Capturing Surface Mirrors
 
 # Reflection Photography Tips for iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Have you ever seen those stunning photos, taken at just the right moment, where the subject is reflected onto something perfectly? This article will show you how to take amazing reflective photographs with just your iPhone. Apple has really invested in improving the quality of it's in-built lenses in their latest models of the iPhone. Much of the advertising now concerns the stunning photos it's users can take. Historically this was reserved to those who had powerful SLR cameras. Of course they also want to compete with other manufacturers to be the phone that takes the best selfie!
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+![reflection-photography-for-iphone](https://images.wondershare.com/filmora/article-images/reflection-photography-for-iphone.jpg)
+
+ Reflective photography is an ever growing trend on social media, so you want your images to stand out… This handy guide tells you everything you need to know, and even how to create reflective photos in post production!
+
+ So let's get snapping!
+
+## Tips For Perfect Reflective Photography With Your iPhone
+
+#### 1\.  The Surface
+
+ Of course the number one rule of reflective photography is that you have a reflective surface! It doesn't have to be as simple as a mirror though, as the picture above shows lakes and pools are great if it is a clam weather day. You want to make sure that your surface is clean as far as possible to avoid distraction. If you wanted to be really creative you could find something like these:
+
+ A Well Polished Table
+
+![reflection-surface](https://images.wondershare.com/filmora/article-images/reflection-surface.jpg)
+
+ A Crystal/Glass Ball
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
+
+ Water in a wine glass (turns everything upside down too!)
+
+![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
+
+#### 2\.  Pay Attention to Composition
+
+ Composition is the very basis of good photography, as the person taking the picture you decide the scene. The most integral part of good composition is the rule of thirds. This means you should divide up the scene/subject into 9 equal squares/rectangles (depending on frame).
+
+ You should put the subject or the most important parts of the scene into one or of the lines. Typically we have an impulse to put the subject straight in the middle of the shot, however placing the subject in othe of the other lines off to the side produces a far more engaging photo.
+
+ It is also really effective to have the subject where the gridlines intersect. This makes the image standout from others in social media feeds. It subconsciously pulls our attention.
+
+ iPhone already has a feature for you to bring up lines before you take the photo with the rule of thirds:
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
+
+ To activate the lines simply go to **Settings > Camera and Photographs > Grid**
+
+#### 3\.  Keep it Simple
+
+ Reflective photography works best when the scene isn't busy and there is nothing too distracting. Having one focus/subject will produce a clean image and the reflection of the subject will be far more effective.
+
+ Reflective photography should convey a sense of calm, simplicity and tranquility. If the photograph has more than one pull of focus you're likely to lose this.
+
+ Good
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
+
+ Awful
+
+![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
+
+#### 4\.  Reality and Reflection
+
+ Don't just focus on the reflection, these tend to distract from how good the reflection is. Of course if the reflective surface reflects too well and you just focus on that. The image might come out as looking the same as if you had just pointed and shot the subject.
+
+ You should have a mix of the physical real life subject and the reflection. This way you can demonstrate how effective reflective photography is. The iPhone is well equipped for this with the ability to take high quality photos of even moving subjects in bursts.
+
+ All you need to do is hold down the shutter/take photo button and burst mode automatically takes lots of photos until you release.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![reality-and-reflection](https://images.wondershare.com/filmora/article-images/reality-and-reflection.jpg)
+
+#### 5\.  Texture
+
+ Using a still reflective surface is good, but reflective photos are more effective if you have been able to capture texture. Where the reflective surface distorts the real life subject, you're able to artistically capture an entirely unique affect each time. This is why waves are a great way to create a truly different image with each shot.
+
+ It is also just good photography practice to have your subjects bend and distort the light. The contrasts make for an aesthetically beautiful image, and makes post production optimization even easier.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+### Post Production Reflective Effects
+
+ It's possible to create great reflective photographs by using reflective effects after you have taken it. You can deceptively take one of your great photos and use the reflective effect to make it appear on a reflective looking surface. Here's some examples of photos that were created using this effect through software:
+
+ The image of the lamp and the puddle were taken separately and meshed together using an app...
+
+ You can do this on iPhone using these apps:
+
+| App                   | Requirements     | Price                                                                                                   |
+| --------------------- | ---------------- | ------------------------------------------------------------------------------------------------------- |
+| Reflect Mirror Camera | iOS 8.0 or later | [$2.99](https://itunes.apple.com/us/app/reflect-mirror-camera/id898143628?mt=8)                         |
+| Reflection            | iOS 8.0 or later | [$2.99](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8) |
+| Photo Reflection      | iOS 9.0 or later | [Free](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)                               |
+| Photo Mirror Effects  | iOS 8.0 or later | [Free](https://itunes.apple.com/us/app/photo-mirror-effects-reflection-editor/id1019418266?mt=8)        |
+
+#### 1\. [Reflect Mirror Camera](https://itunes.apple.com/us/app/reflect-mirror-camera/id898143628?mt=8)
+
+![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
+
+ Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
+
+#### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
+
+![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
+
+ Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
+
+#### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
+
+![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
+
+ If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
+
+#### 4\. [Photo Mirror Effects](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
+
+![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
+
+ Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
+
+ The app also has a large library of free and premium templates for you to use...
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
 
 ##### Ollie Mattison
 
@@ -42,6 +200,9 @@ thumbnail: https://www.lifewire.com/thmb/StRC1gceN7hy3J92zKVQDdA6qG8=/400x300/fi
 
  A Well Polished Table
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![reflection-surface](https://images.wondershare.com/filmora/article-images/reflection-surface.jpg)
 
  A Crystal/Glass Ball
@@ -62,6 +223,9 @@ thumbnail: https://www.lifewire.com/thmb/StRC1gceN7hy3J92zKVQDdA6qG8=/400x300/fi
 
  iPhone already has a feature for you to bring up lines before you take the photo with the rule of thirds:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
 
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
@@ -88,6 +252,9 @@ thumbnail: https://www.lifewire.com/thmb/StRC1gceN7hy3J92zKVQDdA6qG8=/400x300/fi
 
  All you need to do is hold down the shutter/take photo button and burst mode automatically takes lots of photos until you release.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reality-and-reflection](https://images.wondershare.com/filmora/article-images/reality-and-reflection.jpg)
 
 #### 5\.  Texture
@@ -96,6 +263,9 @@ thumbnail: https://www.lifewire.com/thmb/StRC1gceN7hy3J92zKVQDdA6qG8=/400x300/fi
 
  It is also just good photography practice to have your subjects bend and distort the light. The contrasts make for an aesthetically beautiful image, and makes post production optimization even easier.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
 ### Post Production Reflective Effects
@@ -115,12 +285,18 @@ thumbnail: https://www.lifewire.com/thmb/StRC1gceN7hy3J92zKVQDdA6qG8=/400x300/fi
 
 #### 1\. [Reflect Mirror Camera](https://itunes.apple.com/us/app/reflect-mirror-camera/id898143628?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
 
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
@@ -187,6 +363,9 @@ Follow @Ollie Mattison
 
  iPhone already has a feature for you to bring up lines before you take the photo with the rule of thirds:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
 
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
@@ -199,6 +378,9 @@ Follow @Ollie Mattison
 
  Good
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
 
  Awful
@@ -213,6 +395,9 @@ Follow @Ollie Mattison
 
  All you need to do is hold down the shutter/take photo button and burst mode automatically takes lots of photos until you release.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reality-and-reflection](https://images.wondershare.com/filmora/article-images/reality-and-reflection.jpg)
 
 #### 5\.  Texture
@@ -221,6 +406,9 @@ Follow @Ollie Mattison
 
  It is also just good photography practice to have your subjects bend and distort the light. The contrasts make for an aesthetically beautiful image, and makes post production optimization even easier.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
 ### Post Production Reflective Effects
@@ -240,6 +428,9 @@ Follow @Ollie Mattison
 
 #### 1\. [Reflect Mirror Camera](https://itunes.apple.com/us/app/reflect-mirror-camera/id898143628?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
@@ -264,6 +455,9 @@ Follow @Ollie Mattison
 
  The app also has a large library of free and premium templates for you to use...
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -284,6 +478,9 @@ Follow @Ollie Mattison
 
  So let's get snapping!
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Tips For Perfect Reflective Photography With Your iPhone
 
 #### 1\.  The Surface
@@ -296,10 +493,16 @@ Follow @Ollie Mattison
 
  A Crystal/Glass Ball
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
  Water in a wine glass (turns everything upside down too!)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
 
 #### 2\.  Pay Attention to Composition
@@ -324,10 +527,16 @@ Follow @Ollie Mattison
 
  Good
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
 
  Awful
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
 #### 4\.  Reality and Reflection
@@ -348,6 +557,9 @@ Follow @Ollie Mattison
 
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Post Production Reflective Effects
 
  It's possible to create great reflective photographs by using reflective effects after you have taken it. You can deceptively take one of your great photos and use the reflective effect to make it appear on a reflective looking surface. Here's some examples of photos that were created using this effect through software:
@@ -365,6 +577,9 @@ Follow @Ollie Mattison
 
 #### 1\. [Reflect Mirror Camera](https://itunes.apple.com/us/app/reflect-mirror-camera/id898143628?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
@@ -377,6 +592,9 @@ Follow @Ollie Mattison
 
 #### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
@@ -389,131 +607,9 @@ Follow @Ollie Mattison
 
  The app also has a large library of free and premium templates for you to use...
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- Have you ever seen those stunning photos, taken at just the right moment, where the subject is reflected onto something perfectly? This article will show you how to take amazing reflective photographs with just your iPhone. Apple has really invested in improving the quality of it's in-built lenses in their latest models of the iPhone. Much of the advertising now concerns the stunning photos it's users can take. Historically this was reserved to those who had powerful SLR cameras. Of course they also want to compete with other manufacturers to be the phone that takes the best selfie!
-
-![reflection-photography-for-iphone](https://images.wondershare.com/filmora/article-images/reflection-photography-for-iphone.jpg)
-
- Reflective photography is an ever growing trend on social media, so you want your images to stand out… This handy guide tells you everything you need to know, and even how to create reflective photos in post production!
-
- So let's get snapping!
-
-## Tips For Perfect Reflective Photography With Your iPhone
-
-#### 1\.  The Surface
-
- Of course the number one rule of reflective photography is that you have a reflective surface! It doesn't have to be as simple as a mirror though, as the picture above shows lakes and pools are great if it is a clam weather day. You want to make sure that your surface is clean as far as possible to avoid distraction. If you wanted to be really creative you could find something like these:
-
- A Well Polished Table
-
-![reflection-surface](https://images.wondershare.com/filmora/article-images/reflection-surface.jpg)
-
- A Crystal/Glass Ball
-
-![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
-
- Water in a wine glass (turns everything upside down too!)
-
-![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
-
-#### 2\.  Pay Attention to Composition
-
- Composition is the very basis of good photography, as the person taking the picture you decide the scene. The most integral part of good composition is the rule of thirds. This means you should divide up the scene/subject into 9 equal squares/rectangles (depending on frame).
-
- You should put the subject or the most important parts of the scene into one or of the lines. Typically we have an impulse to put the subject straight in the middle of the shot, however placing the subject in othe of the other lines off to the side produces a far more engaging photo.
-
- It is also really effective to have the subject where the gridlines intersect. This makes the image standout from others in social media feeds. It subconsciously pulls our attention.
-
- iPhone already has a feature for you to bring up lines before you take the photo with the rule of thirds:
-
-![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
-
- To activate the lines simply go to **Settings > Camera and Photographs > Grid**
-
-#### 3\.  Keep it Simple
-
- Reflective photography works best when the scene isn't busy and there is nothing too distracting. Having one focus/subject will produce a clean image and the reflection of the subject will be far more effective.
-
- Reflective photography should convey a sense of calm, simplicity and tranquility. If the photograph has more than one pull of focus you're likely to lose this.
-
- Good
-
-![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
-
- Awful
-
-![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
-
-#### 4\.  Reality and Reflection
-
- Don't just focus on the reflection, these tend to distract from how good the reflection is. Of course if the reflective surface reflects too well and you just focus on that. The image might come out as looking the same as if you had just pointed and shot the subject.
-
- You should have a mix of the physical real life subject and the reflection. This way you can demonstrate how effective reflective photography is. The iPhone is well equipped for this with the ability to take high quality photos of even moving subjects in bursts.
-
- All you need to do is hold down the shutter/take photo button and burst mode automatically takes lots of photos until you release.
-
-![reality-and-reflection](https://images.wondershare.com/filmora/article-images/reality-and-reflection.jpg)
-
-#### 5\.  Texture
-
- Using a still reflective surface is good, but reflective photos are more effective if you have been able to capture texture. Where the reflective surface distorts the real life subject, you're able to artistically capture an entirely unique affect each time. This is why waves are a great way to create a truly different image with each shot.
-
- It is also just good photography practice to have your subjects bend and distort the light. The contrasts make for an aesthetically beautiful image, and makes post production optimization even easier.
-
-![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
-
-### Post Production Reflective Effects
-
- It's possible to create great reflective photographs by using reflective effects after you have taken it. You can deceptively take one of your great photos and use the reflective effect to make it appear on a reflective looking surface. Here's some examples of photos that were created using this effect through software:
-
- The image of the lamp and the puddle were taken separately and meshed together using an app...
-
- You can do this on iPhone using these apps:
-
-| App                   | Requirements     | Price                                                                                                   |
-| --------------------- | ---------------- | ------------------------------------------------------------------------------------------------------- |
-| Reflect Mirror Camera | iOS 8.0 or later | [$2.99](https://itunes.apple.com/us/app/reflect-mirror-camera/id898143628?mt=8)                         |
-| Reflection            | iOS 8.0 or later | [$2.99](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8) |
-| Photo Reflection      | iOS 9.0 or later | [Free](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)                               |
-| Photo Mirror Effects  | iOS 8.0 or later | [Free](https://itunes.apple.com/us/app/photo-mirror-effects-reflection-editor/id1019418266?mt=8)        |
-
-#### 1\. [Reflect Mirror Camera](https://itunes.apple.com/us/app/reflect-mirror-camera/id898143628?mt=8)
-
-![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
-
- Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
-
-#### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
-
-![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
-
- Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
-
-#### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
-
-![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
-
- If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
-
-#### 4\. [Photo Mirror Effects](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
-
-![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
-
- Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
-
- The app also has a large library of free and premium templates for you to use...
-
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -544,3 +640,43 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-banishing-curved-visuals-correcting-gopros-fish-eye/"><u>[New] 2024 Approved  Banishing Curved Visuals  Correcting GoPro's Fish Eye</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-launch-your-filmmaking-dreams-xp-edition-preparation/"><u>[New] Launch Your Filmmaking Dreams  XP Edition Preparation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximize-productivity-with-firefoxs-pip-feature/"><u>[New] Maximize Productivity with Firefox’s PIP Feature</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-apps-androids-ultimate-cloud-keepsakes/"><u>[New] Pinnacle Apps  Android's Ultimate Cloud Keepsakes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-vr-movies-for-immersive-viewing/"><u>[New] Premier VR Movies for Immersive Viewing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-guide-to-streamlining-console-game-recording/"><u>[Updated] 2024 Approved  Guide to Streamlining Console Game Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-quick-guide-sharing-videos-on-instagram/"><u>[Updated] In 2024, Quick Guide  Sharing Videos on Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-step-by-step-the-ultimate-4-methods-for-gameplay-screens/"><u>[Updated] In 2024, Step-By-Step  The Ultimate 4 Methods for Gameplay Screens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-jpeg-to-gif-with-a-click-ranked-list-of-top-free-converters/"><u>[Updated] JPEG to GIF with a Click  Ranked List of Top Free Converters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-edits-and-programs-photos-to-videography-magic/"><u>[Updated] Prime Edits and Programs  Photos to Videography Magic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-steps-to-access-high-rate-youtube-likes/"><u>[Updated] Quick Steps to Access High-Rate YouTube Likes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-scale-up-visuals-without-diminishing-clarity/"><u>[Updated] Scale Up Visuals Without Diminishing Clarity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-telegram-web-navigation-procedures/"><u>[Updated] Simplified Telegram Web Navigation Procedures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-innovative-windows-podcast-solutions-top-8-cutting-edge-apps/"><u>2024 Approved  Innovative Windows Podcast Solutions  Top 8 Cutting-Edge Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lullaby-labyrinths-best-vocalists-for-sleep-aid/"><u>2024 Approved  Lullaby Labyrinths  Best Vocalists For Sleep Aid</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-free-photo-frame-video-downloads/"><u>2024 Approved  Mastering Free Photo Frame Video Downloads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-googles-podcast-uploading-guide/"><u>2024 Approved  Navigating Google's Podcast Uploading Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-resolution-realm-for-rookies-exploring-picture-quality-nuances/"><u>2024 Approved  Resolution Realm for Rookies  Exploring Picture Quality Nuances</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blades-kaleidoscope-unleashed-through-4k-lens-clarity/"><u>Blade's Kaleidoscope Unleashed Through 4K Lens Clarity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dynamic-dialogue-driven-decks-for-2024/"><u>Dynamic Dialogue Driven Decks for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-c67-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme C67 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A34 5G Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-spotifys-advertising-mechanisms/"><u>In 2024, Leveraging Spotify's Advertising Mechanisms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-to-superior-cloud-solutions-for-your-needs/"><u>In 2024, Navigating to Superior Cloud Solutions for Your Needs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reveal-and-receive-the-most-exciting-sites-for-buying-mystery-boxes/"><u>In 2024, Reveal and Receive  The Most Exciting Sites for Buying Mystery Boxes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soundscapes-synopsis-a-guide-to-visual-tunes/"><u>In 2024, Soundscapes Synopsis  A Guide to Visual Tunes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-into-the-world-of-simple-nft-production-techniques/"><u>In 2024, Step Into the World of Simple NFT Production Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/livestreaming-leaderboards-which-software-tops-the-chartvmixwirecast-for-2024/"><u>Livestreaming Leaderboards  Which Software Tops the Chart—VMix/Wirecast for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-motion-effects-in-ai-enhancing-photoshop-images-for-2024/"><u>Mastering Motion Effects in AI  Enhancing Photoshop Images for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ating-nerves-in-10-must-do-vlogs/"><u>Navigating Nerves in 10 Must-Do Vlogs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/picture-perfect-the-essential-photo-editing-tools-for-2024/"><u>Picture Perfect  The Essential Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pioneering-tech-in-vr-content-creation-for-2024/"><u>Pioneering Tech in VR Content Creation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sony-bdp-s6700-fresh-perspective-for-2024/"><u>Sony BDP-S6700 - Fresh Perspective for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-poco-m6-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Poco M6 5G without backup.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-these-top-free-slideshow-templates-for-2024/"><u>Unleash Creativity with These Top Free Slideshow Templates for 2024</u></a></li>
+</ul></div>

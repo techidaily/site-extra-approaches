@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfect Pairing  Sound & Imagery in Media Production\""
-date: 2024-05-31T05:27:37.789Z
-updated: 2024-06-01T05:27:37.789Z
+date: 2024-07-27T19:34:29.831Z
+updated: 2024-07-28T19:34:29.831Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,9 @@ And when you learn how to use this technique the right way, your YouTube videos 
 
 I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to help you step up your video creation game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Voiceover or Narration?
 
 But first, what's the difference between a voiceover and a narration? Truth be told, there is quite a bit of overlap between the two.
@@ -42,6 +45,9 @@ For the purpose of this article, I will be using the term “voiceover and “na
 
 But here's the good news: the way you add either option is the same in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 ## How to add narration
@@ -54,6 +60,18 @@ A good example of this would be narrating a story on top of some still images an
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
@@ -72,6 +90,9 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -80,6 +101,9 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
@@ -88,6 +112,9 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Should you use narration in your next project?
 
 The best way to learn something is by doing it. So the next time you record a video, think about how you could augment your video project with narration.
@@ -124,3 +151,52 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-8-strategies-livestreaming-webinars-without-costs-for-2024/"><u>[New] 8 Strategies  Livestreaming Webinars Without Costs for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-direct-engagement-sharing-your-twitch-content-on-facebook/"><u>[New] In 2024, Direct Engagement  Sharing Your Twitch Content on Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-potion-powered-pronunciation-can-voice-changer-apps-be-real-magic-search-for-other-ways/"><u>[New] Potion-Powered Pronunciation  Can Voice Changer Apps Be Real Magic? Search for Other Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-tools-for-post-production-of-dji-videos/"><u>[New] Premier Tools for Post-Production of DJi Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-the-fine-art-of-instagram-photo-borders/"><u>[Updated] 2024 Approved  Mastering the Fine Art of Instagram Photo Borders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elite-gamers-capturing-solutions-for-2024/"><u>[Updated] Elite Gamers' Capturing Solutions for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/1716169249603-updated-how-to-use-the-instagram-green-screen-effect/"><u>[Updated] How to Use the Instagram Green Screen Effect</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-android-non-root-audio-capture-4-easy-methods/"><u>[Updated] In 2024, Android Non-Root Audio Capture  4 Easy Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instant-transcription-absolutely-complimentary/"><u>[Updated] Instant Transcription, Absolutely Complimentary</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-5-drones-the-ultimate-professional-buy-guide/"><u>[Updated] Leading 5 Drones - The Ultimate Professional Buy Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-plan-youtube-content-into-mp4/"><u>[Updated] Master Plan  YouTube Content Into MP4</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-storage-spend-best-prices-in-cloud-services/"><u>[Updated] Optimizing Storage Spend  Best Prices in Cloud Services</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>[Updated] Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-list-meme-design-masterpieces-for-2024/"><u>[Updated] Ultimate List  Meme Design Masterpieces for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/10-best-action-adventure-games-of-all-time-for-2024/"><u>10 Best Action-Adventure Games of All Time for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-palette-playbook-utilizing-theoretical-knowledge/"><u>2024 Approved  Palette Playbook  Utilizing Theoretical Knowledge</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-click-quests-top-10-agile-gaming-platforms/"><u>2024 Approved  Quick Click Quests  Top 10 Agile Gaming Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hulu-streaming-errors-after-win11s-latest-update/"><u>Fixing Hulu Streaming Errors After Win11's Latest Update</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-5-best-photo-video-maker-with-music/"><u>In 2024, 5 Best Photo Video Maker With Music</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-nokia-105-classic-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Nokia 105 Classic FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-melodious-messages-in-whatsapp/"><u>In 2024, Melodious Messages in WhatsApp</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-audio-on-ios-the-essentials-of-podcasting/"><u>In 2024, Optimal Audio on iOS  The Essentials of Podcasting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-webcams-designed-for-smooth-zoom-conferencing/"><u>In 2024, Optimal Webcams Designed for Smooth Zoom Conferencing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-zoom-performance-top-three-tactical-approaches/"><u>In 2024, Optimize Zoom Performance  Top Three Tactical Approaches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-overcoming-firs-display-issues-in-face-to-face-conferencing/"><u>In 2024, Overcoming Fir's Display Issues in Face-to-Face Conferencing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photography-at-the-tip-of-your-fingers-top-10-apps/"><u>In 2024, Photography at the Tip of Your Fingers – Top 10 Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premiere-vr-developers-shaping-the-future/"><u>In 2024, Premiere VR Developers Shaping the Future</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-video-zoom-editing-cutting-edge-tools-listed/"><u>In 2024, Pro Video Zoom Editing  Cutting Edge Tools Listed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rev-up-with-hubsans-x4-fpv-quadcopter-review/"><u>In 2024, Rev Up with Hubsan's X4 FPV Quadcopter Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revise-and-reshape-using-the-eraser-tool-in-photoshop-guide/"><u>In 2024, Revise & Reshape  Using the Eraser Tool in Photoshop Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-your-workflow-the-top-7-digital-tokens-makers/"><u>In 2024, Revolutionize Your Workflow - The Top 7 Digital Tokens Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-look-at-whatsapps-voice-communication-design-for-2024/"><u>Inside Look at WhatsApp's Voice Communication Design for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mobile-identification-showdown-iphone-x-and-galaxy-for-2024/"><u>Mobile Identification Showdown  IPhone X and Galaxy for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monthly-earnings-from-youtube-as-a-content-creator-for-2024/"><u>Monthly Earnings From YouTube as a Content Creator for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/phantom-slow-motion-masterclass-for-2024/"><u>Phantom Slow Motion Masterclass for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picperfect-pro-enhance-your-mobile-images-for-free-for-2024/"><u>PicPerfect Pro  Enhance Your Mobile Images for Free for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-civi-3-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Civi 3? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/prime-choices-selecting-best-6-fb-lite-vids/"><u>Prime Choices  Selecting Best 6 FB Lite Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/progressive-presentation-kick-off-for-2024/"><u>Progressive Presentation Kick-Off for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/snap-with-a-single-purpose-remove-bg-using-affinity-for-2024/"><u>Snap with a Single Purpose - Remove Bg Using Affinity for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/strategic-campaign-planning-for-health-brands-for-2024/"><u>Strategic Campaign Planning for Health Brands for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-redmi-a2plus-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi Redmi A2+ Location | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-guide-to-converting-webm-files-to-mp3/"><u>Updated In 2024, The Ultimate Guide to Converting WebM Files to MP3</u></a></li>
+</ul></div>

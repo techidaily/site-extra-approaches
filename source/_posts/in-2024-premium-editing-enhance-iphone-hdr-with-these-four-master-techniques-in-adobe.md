@@ -1,7 +1,7 @@
 ---
 title: "In 2024, [Premium Editing] Enhance iPhone HDR with These Four Master Techniques in Adobe"
-date: 2024-05-31T05:27:15.696Z
-updated: 2024-06-01T05:27:15.696Z
+date: 2024-07-27T19:11:01.113Z
+updated: 2024-07-28T19:11:01.113Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, [Premium Editing] Enhance iPhone HDR with These Four Master Techniques in Adobe"
 excerpt: "This Article Describes In 2024, [Premium Editing] Enhance iPhone HDR with These Four Master Techniques in Adobe"
 keywords: "IOS HDR Enhancement,Adobe HDR Editing,Premium iPhone HDR,HDR Adobe Technique,Master iPhone HDR,Adobe Highlights Tech,Advanced iPhone HDR"
-thumbnail: https://www.lifewire.com/thmb/BPaA9dwb5GKoBRGMB8q-VzZ2Am8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-92259124-ed470a8e78084702b142c374c57f3dbf.jpg
+thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449b76945212041b79725c225d.jpg
 ---
 
 ## [Premium Editing] Enhance iPhone HDR with These Four Master Techniques in Adobe
@@ -24,12 +24,18 @@ _Is there a workaround I can use to get the color back in my videos?_
 
 _Also, any ideas when Adobe will eventually provide support for Dolby HDR?” – A user asked from Adobe Support Community_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![solutions for iphone hdr](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-1.jpg)
 
 While the Adobe Premiere Pro software is useful tool for video editing, there are situations when the video quality looks overexposed. The quality appears blown out during the import process. This happens due to incompatibility issues with the Smart HDR feature in iPhone 12 series devices, which cannot work on older models.
 
 There are particular ways in which it is possible to rectify the **iPhone 12 HDR video** quality issue. In this article, we discuss that further.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Dolby Vision HDR Video in iPhone 12 or 13
 
 Before we start discussing how to fix the **iPhone HDR video** problem at hand, one should understand what Dolby Vision HDR means in the first place. To note, it is a proprietary type of HDR format, with more data than SDR videos. This is because the camera quality with HDR effect can capture video recordings with extra data regarding the scenes, like shadows, highlights, and color range.
@@ -54,10 +60,16 @@ The Premiere Pro 2022 version can work with the video clips as HDR after changin
 
 Also, it is important to consider the nits' levels on screens to understand if a device can even display the **iPhone 12 HDR video.** These devices support a 10-bit OLED display type that can reach a peak brightness of 1200 nits. So, it is suitable to showcase the footage without much error.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Most Effective 4 Ways to Fix Overexposed iPhone HDR video in Premiere Pro
 
 The following are some of the feasible solutions we've gathered, you can take to handle the overexposure quality of HDR videos while using Premiere Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 1: Turn Off HDR or Export them without HDR
 
 One of the easiest methods to avoid issues with **iPhone HDR video** is to switch off the HDR setting directly. In the newer iPhone models like the iPhone 12 series, the software would not automatically save the regular and HDR versions if you set it accordingly.
@@ -72,6 +84,9 @@ Step2Access the Camera tab.
 
 Step3Under the HDR settings area, slide the toggle for Smart HDR to OFF.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![slide the toggle for smart hdr to off](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-3.jpg)
 
 Step4On the regular Camera app, the yellow HDR icon will appear if you switch off Smart HDR. Click on it to either activate/deactivate the HDR function or choose the Auto HDR mode.
@@ -96,6 +111,14 @@ Step1Install Filmora and launch the software on your Mac device.
 
 Step2Click on New Project > Click here to import media.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![click on new project](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-4.jpg)
 
 Choose the HDR video from the iPhone device that you transferred to the device in QuickTime Movie format (MOV).
@@ -104,12 +127,18 @@ Step3Drag and drop the video to the timeline section for editing the file.
 
 Step4Make the necessary edits like Color Matching and Chroma key-based background removal/editing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make edits](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-5.jpg)
 
 Step5Click on the Export button on top of the screen.
 
 Step6Go to the Device tab and choose iPhone. Rename the file and make format settings here. The video will export for your device in SDR-Rec 709 format.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![rename the file](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-6.jpg)
 
 ### Solution 3: Edit Color Space Override with Rec 2020
@@ -122,6 +151,9 @@ On the other hand, you have to change the Main profile choice to Main 10 under t
 
 While this is an officially vetted process, we will not recommend it as a suitable solution here. The sequence may not work on some devices/systems and make the quality worse than before.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Solution 4: Change video codec to change color translation into Premiere \[Untested\]
 
 It is possible to directly load the file in QuickTime mode on the Mac device one is using. The process can take anything between 1 to 10 minutes for the whole exporting process to work, depending on the film's length and network speed.
@@ -136,10 +168,16 @@ Not to mention, the quality of the video might not resemble the original perfect
 
 YouTube does allow users to add HDR videos in the newer update. So, you can insert the Dolby Vision videos from iPhone 12 into the platform.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How to turn off HDR video Recording on iPhone?
 
 You can directly turn off the HDR setting on your iPhone 12 devices, noted as Smart HDR, from Settings > Camera > Smart HDR. The steps for turning off HDR on iPhone are explained in Solution 1 under Part 3 in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Is it possible to convert a Dolby Vision HDR video taken on an iPhone into a .mp4, .mov, or another video format?
 
 Yes, users can convert their Dolby Vision HDR videos into other formats like MP4 or Quicktime MOV format. For this, using high-quality third-party converter solutions is necessary. Choose your option carefully.
@@ -168,6 +206,9 @@ Step1Install Filmora and launch the software on your Mac device.
 
 Step2Click on New Project > Click here to import media.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on new project](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-4.jpg)
 
 Choose the HDR video from the iPhone device that you transferred to the device in QuickTime Movie format (MOV).
@@ -176,6 +217,9 @@ Step3Drag and drop the video to the timeline section for editing the file.
 
 Step4Make the necessary edits like Color Matching and Chroma key-based background removal/editing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![make edits](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-5.jpg)
 
 Step5Click on the Export button on top of the screen.
@@ -212,6 +256,9 @@ YouTube does allow users to add HDR videos in the newer update. So, you can inse
 
 You can directly turn off the HDR setting on your iPhone 12 devices, noted as Smart HDR, from Settings > Camera > Smart HDR. The steps for turning off HDR on iPhone are explained in Solution 1 under Part 3 in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Is it possible to convert a Dolby Vision HDR video taken on an iPhone into a .mp4, .mov, or another video format?
 
 Yes, users can convert their Dolby Vision HDR videos into other formats like MP4 or Quicktime MOV format. For this, using high-quality third-party converter solutions is necessary. Choose your option carefully.
@@ -246,3 +293,55 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-to-the-best-online-shopping-spots-for-enigmatic-boxes/"><u>[New] Journey to the Best Online Shopping Spots for Enigmatic Boxes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-your-images-with-polarr-a-complete-photography-resource/"><u>[New] Perfect Your Images with Polarr  A Complete Photography Resource</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-say-goodbye-to-boring-photos-addons-for-iphones-and-android-screenshots/"><u>[New] Say Goodbye to Boring Photos – Addons for iPhones and Android Screenshots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sky-high-storages-expert-recommendations/"><u>[New] Sky-High Storages  Expert Recommendations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-brightness-and-hd-in-harmony-a-fit-for-hdr/"><u>[Updated] Brightness and HD in Harmony  A Fit for HDR?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-boosting-facebook-ad-revenue-with-strategic-animated-content-design/"><u>[Updated] In 2024, Boosting Facebook Ad Revenue with Strategic Animated Content Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-viewing-voids-to-viral-videos-the-top-ten-reasons-and-cures-for-zero-traffic/"><u>[Updated] In 2024, From Viewing Voids to Viral Videos  The Top Ten Reasons & Cures for Zero Traffic</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-hitting-the-high-notes-in-instagram-photography/"><u>[Updated] In 2024, Hitting the High Notes in Instagram Photography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-insights-how-to-make-your-videos-a-hit-for-2024/"><u>[Updated] Instagram Insights  How to Make Your Videos a Hit for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-securing-cost-free-vlc-player-download-on-mac/"><u>[Updated] Mastering the Art of Securing, Cost-Free VLC Player Download on Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterworks-of-screenwriting-by-thematic-quarters/"><u>[Updated] Masterworks of Screenwriting by Thematic Quarters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-download-land-free-photo-frames/"><u>[Updated] Navigating Download Land  Free Photo Frames</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-recommendations-the-top-10-sports-apps-for-live-tennis-games/"><u>[Updated] Premier Recommendations  The Top 10 Sports Apps for Live Tennis Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-mkv-viewer-windows-android-apps/"><u>[Updated] Prime MKV Viewer  Windows, Android Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pulse-of-persuasion-adding-dynamic-text-to-insta-stories/"><u>[Updated] Pulse of Persuasion  Adding Dynamic Text to Insta Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-resolution-realm-for-rookies-exploring-picture-quality-nuances/"><u>[Updated] Resolution Realm for Rookies  Exploring Picture Quality Nuances</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-a-ultimate-guide-to-podcast-names/"><u>2024 Approved  A Ultimate Guide to Podcast Names</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-budget-friendly-recording-software-for-windows-users/"><u>2024 Approved  Budget-Friendly Recording Software for Windows Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-steps-in-manipulating-song-pace-in-spotify-app/"><u>2024 Approved  Key Steps in Manipulating Song Pace in Spotify App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-m1-powered-macbook-air-a-new-era-for-editors/"><u>2024 Approved  M1-Powered MacBook Air  A New Era for Editors?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-electrical-energy-the-best-lipo-for-uavs/"><u>2024 Approved  Mastering Electrical Energy  The Best LiPo for UAVs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-and-binge-with-finesse-perfect-use-of-floating-window-in-netflix/"><u>2024 Approved  Navigate and Binge with Finesse  Perfect Use of Floating Window in Netflix</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-outstanding-asmr-audio-experience-for-minimal-spending/"><u>2024 Approved  Outstanding ASMR Audio Experience for Minimal Spending</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quantum-quadrants-cinematic-frontiers/"><u>2024 Approved  Quantum Quadrants  Cinematic Frontiers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-template-trick-for-eye-catching-tiktok-creation-mastery/"><u>2024 Approved  The Template Trick for Eye-Catching TikTok Creation Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/echoing-delight-top-downloads-of-fun-tones/"><u>Echoing Delight  Top Downloads of Fun Tones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-gaming-sessions-across-oses-xboxpluswindows/"><u>Harmonize Gaming Sessions Across OSes – XBox+Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-7-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 7?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/illuminating-the-sensor-rich-world-of-iphone-x-photos/"><u>Illuminating the Sensor-Rich World of iPhone X Photos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-leveraging-the-power-of-visual-storytelling-in-fb-covers/"><u>In 2024, Leveraging the Power of Visual Storytelling in FB Covers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-autofocus-on-iphone-cameras-efficiently/"><u>In 2024, Mastering Autofocus on iPhone Cameras Efficiently</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-stardew-key-highlights-from-ginger-isle/"><u>In 2024, Mastering Stardew  Key Highlights From Ginger Isle</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-shift-techniques-using-3dlut-on-mobile/"><u>In 2024, Quick-Shift Techniques  Using 3DLUT on Mobile</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snickerscreen-composer/"><u>In 2024, SnickerScreen Composer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/innovative-approaches-to-capturing-skype-calls-on-obs/"><u>Innovative Approaches to Capturing Skype Calls on OBS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-plot-crafting-hub-for-2024/"><u>Leading Plot Crafting Hub for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-ios-11-for-professional-level-iphone-shots-for-2024/"><u>Leveraging iOS 11 for Professional-Level iPhone Shots for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-stills-extraction-in-windows-11-photos-for-2024/"><u>Mastering Stills Extraction in Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/musical-embellishments-for-digital-images-for-2024/"><u>Musical Embellishments for Digital Images for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/navigating-web-success-how-cookiebot-transforms-user-experience/"><u>Navigating Web Success: How Cookiebot Transforms User Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfecting-the-bokeh-aesthetic-for-social-media-posts/"><u>Perfecting the Bokeh Aesthetic for Social Media Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/personalized-guide-to-the-best-android-podcast-apps-top-6-selections-for-2024/"><u>Personalized Guide to the Best Android Podcast Apps – Top 6 Selections for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-itel-p40plus-by-fonelab-android-recover-data/"><u>Recover lost data from Itel P40+</u></a></li>
+<li><a href="https://extra-support.techidaily.com/select-sites-endless-photographic-repository-access-for-2024/"><u>Select Sites  Endless Photographic Repository Access for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/showcase-a-dialogue-in-one-instagram-post-for-2024/"><u>Showcase a Dialogue in One Instagram Post for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-se-2022-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone SE (2022)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/de-your-content-creation-process-via-youtube-studio-for-2024/"><u>Upgrade Your Content Creation Process via YouTube Studio for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vr-todays-core-technologies/"><u>VR Today's Core Technologies</u></a></li>
+</ul></div>

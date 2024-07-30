@@ -1,7 +1,7 @@
 ---
 title: "Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool for 2024"
-date: 2024-06-19T22:28:14.332Z
-updated: 2024-06-20T22:28:14.332Z
+date: 2024-07-27T22:18:21.611Z
+updated: 2024-07-28T22:18:21.611Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool for 2024"
 excerpt: "This Article Describes Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool for 2024"
 keywords: "Window's Photo Snapshot Extraction,Photo Tool Isolates Vis,Video to Snapshot Separation,Windows 10 Visual Snaps,Photos Tool Image Segment,Video Snaps Isolate Method,Windows Snaps From Videos"
-thumbnail: https://www.lifewire.com/thmb/xXXXABZAmSAt0BL3NSr1kTD8CVM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/b3d61cb315de3688d633dcaa1de969d34c57d2ef4835c89401c3246551696a45.png
 ---
 
 ## Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool
@@ -45,6 +45,9 @@ Creating a living image:
 * Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
 * Right-click within the player > Edit and create > Save photos.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 * Now, you can see the living picture by tapping ‘Play’ button.
@@ -54,6 +57,9 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 * Tap on a living image > press the ‘right arrow’ and ‘left arrow’ to advance or reverse the frames.
 * Hit the ‘slider’ for manually adjusting the frames > tap ‘Save a photo’ for a desired frame you need to save.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
@@ -64,6 +70,9 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
@@ -72,6 +81,9 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Alternative way to save photo from video
 
 When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
@@ -87,10 +99,16 @@ Here comes the guide –
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -107,3 +125,56 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-audiovisual-symphony-adding-music-to-your-youtube-masterpieces/"><u>[New] 2024 Approved  Audiovisual Symphony  Adding Music to Your YouTube Masterpieces</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization/"><u>[New] 2024 Approved  The Ultimate Guide to Stellar TikTok Content Through Template Utilization</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bringing-bytes-home-4-ways-to-transfer-data-pc/"><u>[New] Bringing Bytes Home  4 Ways to Transfer Data PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps/"><u>[New] Engage More with Facebook  Sharing Panoramic Photos via iOS/Android Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-how-to-mass-download-tiktok-videos/"><u>[New] How To Mass Download TikTok Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-and-ipad-video-powerhouses-the-ultimate-list-of-10/"><u>[New] IPhone & iPad Video Powerhouses  The Ultimate List of 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-to-metaverse-leading-vr-headsets-reviewed/"><u>[New] Journey to Metaverse  Leading VR Headsets Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-make-your-time-lagged-footage-shine-with-easy-android-tricks/"><u>[New] Make Your Time-Lagged Footage Shine with Easy Android Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-past-accelerated-access-to-archived-content/"><u>[New] Navigating the Past  Accelerated Access to Archived Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-new-download-tool-facebook-videos-for-all-oses/"><u>[New] New Download Tool  Facebook Videos for All OSes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-remove-a-background-in-affinity-photo/"><u>[New] Remove a Background in Affinity Photo</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-the-opening-experience/"><u>[New] Revolutionizing the Opening Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ricoh-theta-s-uncovered-a-complete-audit/"><u>[New] Ricoh Theta S Uncovered  A Complete Audit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-velocity-in-virtue-share-your-youtube-lists-fast/"><u>[New] Velocity in Virtue  Share Your YouTube Lists Fast</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-investigating-unmodified-audio-from-ffmpeg-output/"><u>[Updated] Investigating Unmodified Audio From FFmpeg Output</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-selection-of-top-free-srt-translators-key-insights-revealed/"><u>[Updated] Mastering Selection of Top Free SRT Translators – Key Insights Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximize-viewing-experience-best-4k-downloader-apps/"><u>[Updated] Maximize Viewing Experience  Best 4K Downloader Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-personalize-vr-gear-with-homemade-google-headgear/"><u>[Updated] Personalize VR Gear with Homemade Google Headgear</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pixel-pushers-boost-phone-photography-for-free/"><u>[Updated] Pixel Pushers  Boost Phone Photography for Free</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-powerdirector-unveiled-in-depth-review-and-users-handbook/"><u>[Updated] PowerDirector Unveiled  In-Depth Review & User's Handbook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-editing-software-perfect-for-dev-screens/"><u>[Updated] Premier Editing Software  Perfect for Dev Screens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rhythmic-reckonings-top-disruptors-for-mobile-devices/"><u>[Updated] Rhythmic Reckonings  Top Disruptors for Mobile Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-empowering-cinematic-experiences/"><u>[Updated] The Ultimate List  Empowering Cinematic Experiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-pip-for-multitasking-in-edge-browser/"><u>2024 Approved  Leveraging PIP for Multitasking in Edge Browser</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-tales-and-truths-the-worlds-finest-schools-top-8/"><u>2024 Approved  Mastering Tales & Truths  The World's Finest Schools (Top 8)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-narrative-wordsmithing-weaving-a-story-through-speech/"><u>2024 Approved  Narrative Wordsmithing  Weaving a Story Through Speech</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-top-8-discreet-2023-video-downloader-apps/"><u>2024 Approved  Top 8 Discreet 2023 Video Downloader Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-v29-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo V29 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-reno-10-proplus-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-itel-a70-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Itel A70 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-asus-rog-phone-8-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Asus ROG Phone 8 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-beginners-guide-capturing-youtube-videos-as-screencasts-without-payment/"><u>In 2024, Beginner's Guide  Capturing YouTube Videos as Screencasts Without Payment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-professional-a-comprehensive-guide-to-mastering-final-cut-pro/"><u>In 2024, From Novice to Professional  A Comprehensive Guide to Mastering Final Cut Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-burst-mode-capturing-rapid-shots/"><u>In 2024, IPhone Burst Mode  Capturing Rapid Shots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-radial-filtering-with-photoshop/"><u>In 2024, Master the Art of Radial Filtering with Photoshop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-must-know-windows-10-tips-and-tricks/"><u>In 2024, Must-Know Windows 10 Tips and Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-sixteen-camera-arrays-for-professionals/"><u>In 2024, Prime Sixteen Camera Arrays for Professionals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-strategies-for-editing-full-spherical-video-in-premiere/"><u>In 2024, Professional Strategies for Editing Full Spherical Video in Premiere</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-protect-and-enhance-images-with-top-tools/"><u>In 2024, Protect & Enhance Images with Top Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-savvy-photographers-guide-to-pristine-cloud-space-cost-free-and-paid-choices/"><u>In 2024, Savvy Photographers' Guide to Pristine Cloud Space  Cost-Free & Paid Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-securing-a-smooth-pathway-to-share-srt-text-across-multiple-platforms/"><u>In 2024, Securing a Smooth Pathway to Share SRT Text Across Multiple Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perplexing-perspective-shifts-in-instagram-video-feeds-for-2024/"><u>Perplexing Perspective Shifts in Instagram Video Feeds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pinnacle-of-video-top-5-slow-motion-cams-for-2024/"><u>Pinnacle of Video  Top 5 Slow Motion Cams for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-audio-playwright-craftsmanship-for-2024/"><u>Premium Audio Playwright Craftsmanship for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proven-steps-to-convert-webp-to-high-quality-jpeg-for-2024/"><u>Proven Steps to Convert WebP to High-Quality JPEG for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/renewed-set-of-interview-starters-for-attractive-listenership-for-2024/"><u>Renewed Set of Interview Starters for Attractive Listenership for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simple-strategies-for-smooth-underwater-moviemaking-for-2024/"><u>Simple Strategies for Smooth Underwater Moviemaking for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-quiet-after-deactivating-your-fb-page/"><u>The Quiet After Deactivating Your FB Page</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-what-to-do-when-drivers-are-incompatible-with-computer-system/"><u>Troubleshooting Tips: What to Do When Drivers Are Incompatible with Computer System</u></a></li>
+</ul></div>

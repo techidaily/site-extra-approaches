@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging Alternative Footage in Filmmaking\""
-date: 2024-05-31T05:26:47.579Z
-updated: 2024-06-01T05:26:47.579Z
+date: 2024-07-27T18:41:57.649Z
+updated: 2024-07-28T18:41:57.649Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Leveraging Alternative Footage in Filmmaking\""
 excerpt: "\"This Article Describes 2024 Approved: Leveraging Alternative Footage in Filmmaking\""
 keywords: "\"Film Alt Footage Use,Creative Footage Strategy,Alternative Video Methods,Innovative Cinematography,Unique Film Scenarios,Diverse Filmmaking Techniques,Non-Traditional Image Capture\""
-thumbnail: https://www.lifewire.com/thmb/uNBWBp9bqIxL1S2DeSuE8_AGLAs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Tweet-Deck-Dashboard-56b34fa45f9b58def9c97d2d-356472198df246289bb2a97d7040aa0d.jpg
+thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad36698509cc3575ae5a17b1c.jpg
 ---
 
 ## Leveraging Alternative Footage in Filmmaking
@@ -22,6 +22,9 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -32,6 +35,9 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -52,20 +58,34 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -108,3 +128,46 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beat-matchers-playlist-selecting-flawless-dj-videos/"><u>[New] 2024 Approved  Beat Matcher's Playlist  Selecting Flawless DJ Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-joke-fusion-best-meme-concepts-for-special-occasions/"><u>[New] Joke Fusion  Best Meme Concepts for Special Occasions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-learning-the-art-of-softly-amplifying-audio-tracks/"><u>[New] Learning the Art of Softly Amplifying Audio Tracks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-plain-definitions-in-storytelling-basics/"><u>[New] Plain Definitions in Storytelling Basics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-transition-leading-8-tools-for-sub-to-srt-changeover/"><u>[New] Seamless Transition  Leading 8 Tools for Sub to SRT Changeover</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-command-and-conquer-triumphant-tales-of-the-best-7-total-wars/"><u>[Updated] 2024 Approved  Command & Conquer  Triumphant Tales of the Best 7 Total Wars</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-apps-for-refining-dji-aerial-footage/"><u>[Updated] Prime Apps for Refining DJi Aerial Footage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-film-apps-showdown-apples-finest-categories/"><u>[Updated] Prime Film Apps Showdown  Apple's Finest Categories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>[Updated] Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pushing-boundaries-with-yuneecs-typhoon-h-drone/"><u>[Updated] Pushing Boundaries with Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revealing-graphic-excellence-our-top-10-design-tool-list/"><u>[Updated] Revealing Graphic Excellence  Our Top 10 Design Tool List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rise-above-1000-subs-youtubing-strategies-for-mobile-creators/"><u>[Updated] Rise Above 1000 Subs  YouTubing Strategies for Mobile Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seeking-a-true-witchs-tongue-are-vocal-changer-apps-legit-find-substitutes/"><u>[Updated] Seeking a True Witch's Tongue  Are Vocal Changer Apps Legit? Find Substitutes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skincare-revolution-the-best-apps-for-your-phone/"><u>[Updated] Skincare Revolution  The Best Apps for Your Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-speed-up-your-social-art-collage-creation-on-the-fly/"><u>[Updated] Speed-Up Your Social Art  Collage Creation on the Fly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-sites-elevating-youtube-videos-reach/"><u>2024 Approved  Leading Sites Elevating YouTube Videos' Reach</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-replies-enhancing-interaction-on-telegram-platforms/"><u>2024 Approved  Revolutionize Replies  Enhancing Interaction on Telegram Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-90-gt-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-14-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi 14 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-three-tactics-for-maximizing-zoom-transcoding/"><u>Best Three Tactics for Maximizing Zoom Transcoding</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-beyond-basic-filters-elevating-your-snapchat-game/"><u>In 2024, Beyond Basic Filters  Elevating Your Snapchat Game</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-instant-photographic-display-in-11-os/"><u>In 2024, Instant Photographic Display in 11 OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-laugh-ledger-cutting-edge-generators-for-jokes/"><u>In 2024, Laugh Ledger  Cutting-Edge Generators for Jokes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximize-your-iphone-xs-selfie-potential-top-free-apps/"><u>In 2024, Maximize Your iPhone X's Selfie Potential - Top Free Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-pick-best-vr-devices-of-the-year/"><u>In 2024, Prime Pick  Best VR Devices of the Year</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prodigy-ai-image-editing-arsenal/"><u>In 2024, Prodigy AI Image Editing Arsenal</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ricoh-theta-s-uncovered-a-complete-audit/"><u>In 2024, Ricoh Theta S Uncovered  A Complete Audit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soaring-strengths-top-10-industrial-drones/"><u>In 2024, Soaring Strengths  Top 10 Industrial Drones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/littoral-filmmakers-script-vision-for-2024/"><u>Littoral Filmmaker's Script Vision for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-pathway-to-royalty-free-images-for-2024/"><u>Navigating the Pathway to Royalty-Free Images for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-through-samsungs-comprehensive-picture-editing-2023-for-2024/"><u>Navigating Through Samsung's Comprehensive Picture Editing, 2023 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-vr-headset-choice-embracing-the-freedom-of-mobile-or-the-tethered-experience-in-2024/"><u>Optimal VR Headset Choice  Embracing the Freedom of Mobile Or The Tethered Experience, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-your-images-with-polarr-a-complete-photography-resource-for-2024/"><u>Perfect Your Images with Polarr  A Complete Photography Resource for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quicktime-magic-precise-timelapse-shots-with-samsung-for-2024/"><u>Quicktime Magic  Precise Timelapse Shots with Samsung for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-manual-kickstart-your-bite-sized-gadget-reviews-channel-for-2024/"><u>Step-by-Step Manual  Kickstart Your Bite-Sized Gadget Reviews Channel for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-premier-guide-to-free-online-meetings-and-sharing-screens/"><u>The Premier Guide to FREE Online Meetings & Sharing Screens</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/vlc-media-recording-evaluation/"><u>VLC Media Recording Evaluation</u></a></li>
+</ul></div>

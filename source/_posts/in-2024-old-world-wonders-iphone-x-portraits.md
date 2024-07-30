@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Old World Wonders – iPhone X Portraits"
-date: 2024-05-31T05:27:34.733Z
-updated: 2024-06-01T05:27:34.733Z
+date: 2024-07-27T19:31:12.057Z
+updated: 2024-07-28T19:31:12.057Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes In 2024, Old World Wonders – iPhone X Portraits"
 excerpt: "This Article Describes In 2024, Old World Wonders – iPhone X Portraits"
 keywords: "IPhone X Photo Magic,XiPhone Wonder Pics,Ancient Sights + Phone,Historic Panoramas X,Vintage Views iPhoneX,Iconic Landscapes Xiphone,Timeless Shots iPhone X"
-thumbnail: https://www.lifewire.com/thmb/8DPY2jUm3Ja0KzAcKz1wMUfSeyA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fragmented-pieces-ed9aede8070749238add68007d7728d9.png
+thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc91648bd3418188a2647d61d0.png
 ---
 
 ## Old World Wonders – iPhone X Portraits
 
 # How to Take Portrait Photo with Old iPhone X/8 Plus/7 Plus
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,6 +38,120 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+### For iPhone 7 Plus/8 Plus/X users
+
+ **Using the Portrait Mode on an iPhone**
+
+The quality of cameras on iPhones has been improving over the years, and Portrait Mode on Apple's twin-lens devices is the clear result of that process. All twin-lens iPhones have a Portrait mode that can be accessed through the menu located near the bottom of the camera app screen. Pano, Square or Time-Lapse modes are also available.
+
+However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device's iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
+
+Image resource: 9to5mac
+
+Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn't allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don't point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn't perform great in low-light conditions.
+
+**Taking selfies in Portrait Mode with iPhone X**
+
+The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
+![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
+
+Image resource: imore
+
+Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
+
+If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+### For iPhone 8, 7 or older iPhones users
+
+#### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
+
+**Price:** $3.99
+
+**Compatible with:** iOS 8.0 or later
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
+
+Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
+
+#### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
+
+**Price:** $3.99
+
+**Compatible with:** iOS 8.0 or later
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
+
+Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
+
+#### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
+
+**Price:** $0.99
+
+**Compatible with:** iOS 8.0 or later
+
+![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
+
+The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
+
+#### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
+
+**Price:** $1.99
+
+**Compatible with:** iOS 8.0 or later
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
+
+The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Until recently, iPhone cameras didn't have lenses that enabled its users to produce smooth blurry backgrounds around the subject of a photo. The so-called Bokeh effect adds depth to the photo and it also allows the photographer to separate the model in the foreground from the background. Furthermore, creating a portrait photo with Apple's smartphones has never been easier, because the latest models of iPhones that have a twin-lens system make this process fun and easy.
+
+In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
+
+## Tips for iPhone portrait photos
+
+* [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
+* [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -61,6 +178,9 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### For iPhone 8, 7 or older iPhones users
 
 #### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
@@ -103,6 +223,9 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -124,6 +247,9 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -142,6 +268,9 @@ Portrait mode enables you to set the timer, turn off the flash or apply photo fi
 
 The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
 Image resource: imore
@@ -168,6 +297,9 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 **Compatible with:** iOS 8.0 or later
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
@@ -188,6 +320,9 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 **Compatible with:** iOS 8.0 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
@@ -221,6 +356,9 @@ The quality of cameras on iPhones has been improving over the years, and Portrai
 
 However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device's iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 Image resource: 9to5mac
@@ -239,6 +377,9 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### For iPhone 8, 7 or older iPhones users
 
 #### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
@@ -257,6 +398,9 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 **Compatible with:** iOS 8.0 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
@@ -277,95 +421,9 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 **Compatible with:** iOS 8.0 or later
 
-![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
-
-The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-Until recently, iPhone cameras didn't have lenses that enabled its users to produce smooth blurry backgrounds around the subject of a photo. The so-called Bokeh effect adds depth to the photo and it also allows the photographer to separate the model in the foreground from the background. Furthermore, creating a portrait photo with Apple's smartphones has never been easier, because the latest models of iPhones that have a twin-lens system make this process fun and easy.
-
-In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
-
-## Tips for iPhone portrait photos
-
-* [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
-* [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
-
-### For iPhone 7 Plus/8 Plus/X users
-
- **Using the Portrait Mode on an iPhone**
-
-The quality of cameras on iPhones has been improving over the years, and Portrait Mode on Apple's twin-lens devices is the clear result of that process. All twin-lens iPhones have a Portrait mode that can be accessed through the menu located near the bottom of the camera app screen. Pano, Square or Time-Lapse modes are also available.
-
-However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device's iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.
-
-![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
-
-Image resource: 9to5mac
-
-Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn't allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don't point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn't perform great in low-light conditions.
-
-**Taking selfies in Portrait Mode with iPhone X**
-
-The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
-
-![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
-
-Image resource: imore
-
-Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
-
-If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
-
-### For iPhone 8, 7 or older iPhones users
-
-#### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
-
-**Price:** $3.99
-
-**Compatible with:** iOS 8.0 or later
-
-![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
-
-Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
-
-#### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
-
-**Price:** $3.99
-
-**Compatible with:** iOS 8.0 or later
-
-![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
-
-Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
-
-#### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
-
-**Price:** $0.99
-
-**Compatible with:** iOS 8.0 or later
-
-![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
-
-The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
-
-#### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
-
-**Price:** $1.99
-
-**Compatible with:** iOS 8.0 or later
-
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
@@ -400,3 +458,43 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-comprehensive-approach-to-mastering-the-art-of-instagram-reels/"><u>[New] 2024 Approved  A Comprehensive Approach to Mastering the Art of Instagram Reels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sea-dwellers-in-focus-tips-for-shooting-stunning-gopro-video-below-water/"><u>[New] Sea Dwellers in Focus  Tips for Shooting Stunning GoPro Video Below Water</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speedy-techniques-for-converting-srt-files-into-text-format/"><u>[New] Speedy Techniques for Converting SRT Files Into Text Format</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-top-10-iphone-and-android-apps-to-add-stickers-on-your-photos/"><u>[New] Top 10 iPhone and Android Apps to Add Stickers on Your Photos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-crafted-collections-of-ig-pics/"><u>[Updated] In 2024, Crafted Collections of IG Pics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[Updated] In 2024, Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-fbx-capturing-games-live/"><u>[Updated] Mastering FBX  Capturing Games Live</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinpointing-the-premier-top-10-pc-vr-headset-models-of-2-written-by-dr-jane-smith-on-january-15-2023/"><u>[Updated] Pinpointing the Premier  Top 10 PC VR Headset Models of 2 Written by Dr. Jane Smith on January 15, 2023</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-speed-control-for-elite-pc-users/"><u>[Updated] Precision Speed Control for Elite PC Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pushing-boundaries-in-image-editing/"><u>[Updated] Pushing Boundaries in Image Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-video-wins-essential-ideas-for-vloggers/"><u>[Updated] Quick Video Wins  Essential Ideas for Vloggers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-rapidly-rendering-fortnite-cover-images/"><u>[Updated] Rapidly Rendering Fortnite Cover Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reigning-titans-unveiling-reddits-ultimate-10-threads/"><u>[Updated] Reigning Titans  Unveiling Reddit's Ultimate 10 Threads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shrinking-or-enlarging-images-on-your-iphone-effortlessly/"><u>[Updated] Shrinking or Enlarging Images on Your iPhone Effortlessly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-c12-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia C12 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-technique-of-radial-distortion-in-adobe-ps/"><u>2024 Approved  Master the Technique of Radial Distortion in Adobe PS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-fuss-streaming-technique-for-podcasts/"><u>2024 Approved  No-Fuss Streaming Technique for Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-perfecting-10-must-know-pixlr-hacks/"><u>2024 Approved  Precision Perfecting  10 Must-Know Pixlr Hacks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-shade-smarts-mastering-the-art-of-color-correction-with-speed/"><u>2024 Approved  Shade Smarts  Mastering the Art of Color Correction with Speed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-a2-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi A2 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-step-by-step-plan-efficient-vimeo-video-logging-for-2024/"><u>A Step-by-Step Plan  Efficient Vimeo Video Logging for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-darkness-to-brilliance-mastering-iphones-hdr-techniques/"><u>From Darkness to Brilliance  Mastering iPhone's HDR Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-perfecting-images-slideshow-and-fix-in-windows-11-photos-app/"><u>Guide to Perfecting Images: Slideshow & Fix in Windows 11 Photos App</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-11-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 11 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-and-share-leading-the-charge-with-androids-best-8-free-tools/"><u>In 2024, Capture & Share - Leading the Charge with Android's Best 8 Free Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-how-to-fade-audio-in-lumafusion/"><u>In 2024, How To Fade Audio In Lumafusion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-performance-comparison-hero5-black-and-hero4-silver/"><u>In 2024, Pinnacle Performance Comparison  Hero5 Black and Hero4 Silver</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-listings-photoplustune-recording-software-innovations/"><u>In 2024, Prime Listings  Photo+Tune Recording Software Innovations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prolific-pose-pattern-packages/"><u>In 2024, Prolific Pose Pattern Packages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seconds-in-a-snapshot-20mb-videography/"><u>In 2024, Seconds in a Snapshot  20MB Videography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-perspectives-in-stunning-hd-a-mi-drone-reality/"><u>In 2024, Sky Perspectives in Stunning HD  A Mi Drone Reality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/noteworthy-14-innovative-text-movements-for-2024/"><u>Noteworthy 14 Innovative Text Movements for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-video-vigilantes-top-ten-in-a-day-one-hour-at-a-time-for-2024/"><u>Viral Video Vigilantes  Top Ten in a Day, One Hour at a Time for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Chromatics  A Practical Approach\""
-date: 2024-05-31T05:31:34.153Z
-updated: 2024-06-01T05:31:34.153Z
+date: 2024-07-27T23:36:55.415Z
+updated: 2024-07-28T23:36:55.415Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,27 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -36,6 +51,10 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
@@ -50,6 +69,9 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
@@ -60,10 +82,16 @@ In this scene the director decided that the backdrop should complement the top t
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -98,3 +126,60 @@ By including this into your thought process when creating videos with [Filmora](
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-gamers-eden-record-without-paying-in-24/"><u>[New] 2024 Approved  Gamers' Eden  Record Without Paying in '24</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unpacking-magix-video-editor-features/"><u>[New] 2024 Approved  Unpacking MAGIX Video Editor Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-control-screen-size-with-swift-iphone-adjustments/"><u>[New] Control Screen Size with Swift iPhone Adjustments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-makeup-mastering-youtubes-chromatic-alignment-for-2024/"><u>[New] Digital Makeup  Mastering Youtube's Chromatic Alignment for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-from-capture-to-share-streamlining-logitech-webcam-recordings/"><u>[New] From Capture to Share  Streamlining Logitech Webcam Recordings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-marketing-mastery-discerning-real-engagement-from-skewed-statistics/"><u>[New] Marketing Mastery  Discerning Real Engagement From Skewed Statistics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastery-in-music-selection-enhancing-video-packages/"><u>[New] Mastery in Music Selection  Enhancing Video Packages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nature-of-the-cosmos-select-sky-photography-websites/"><u>[New] Nature of the Cosmos  Select Sky Photography Websites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-gopro-editing-applications-on-smartphones/"><u>[New] Premium GoPro Editing Applications on Smartphones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proven-pathways-for-sound-alteration-in-pubg-gamers/"><u>[New] Proven Pathways for Sound Alteration in PUBG Gamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen/"><u>[New] Revealing Rays of Light  The Ultimate Guide for Choosing a Premium 4K Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-significant-20-public-domain-pubg-snapshot-packs/"><u>[New] Significant 20 Public Domain PUBG Snapshot Packs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smooth-sound-dissipation-a-pro-editors-manual/"><u>[New] Smooth Sound Dissipation  A Pro Editor's Manual</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snapshots-from-videos-within-windows-11-photos-app/"><u>[New] Snapshots From Videos Within Windows 11 Photos App</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-5-emulation-suites-to-experience-sonys-ps1-library-for-2024/"><u>[New] Top 5 Emulation Suites to Experience Sony's PS1 Library for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-meme-making-discovering-the-best-8-tools/"><u>[New] Transformative Meme-Making  Discovering the Best 8 Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-social-media-creating-effective-fb-videos/"><u>[Updated] 2024 Approved  Mastering Social Media  Creating Effective FB Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-inside-the-tech-top-reviews-for-home-videotaping-tools/"><u>[Updated] In 2024, Inside the Tech  Top Reviews for Home Videotaping Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-most-innovative-arvr-iphoneandroid-apps/"><u>[Updated] Most Innovative AR/VR iPhone/Android Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-snowdrift-scribes-celebrating-beijings-olympic-spotlight/"><u>[Updated] Snowdrift Scribes  Celebrating Beijing's Olympic Spotlight</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lead-the-way-in-the-metaverse-your-tech-checklist/"><u>2024 Approved  Lead the Way in the Metaverse  Your Tech Checklist</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-the-charge-smart-transcription-in-professional-slides/"><u>2024 Approved  Leading the Charge  Smart Transcription in Professional Slides</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras/"><u>2024 Approved  Mastering Smart Exposure  The Ultimate Guide to HDR Tech in Cameras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-iphone-video-clarity-top-4-fixes-using-premiere-pros-hdr-tools/"><u>2024 Approved  Maximizing iPhone Video Clarity  Top 4 Fixes Using Premiere Pro's HDR Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-cinema-at-home-best-3d-blu-ray-devices/"><u>2024 Approved  Next-Gen Cinema at Home  Best 3D Blu-Ray Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-originality-awaits-create-unique-business-logos-with-template-editing/"><u>2024 Approved  Originality Awaits  Create Unique Business Logos with Template Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-video-tech-s-camera-race/"><u>2024 Approved  Pioneering Video Tech 'S Camera Race</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-secret-sauce-to-viral-instagram-movie-magic/"><u>2024 Approved  The Secret Sauce to Viral Instagram Movie Magic</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-decoding-the-micro-video-phenomenon-on-facebook/"><u>In 2024, Decoding the Micro-Video Phenomenon on Facebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-assemble-a-personalized-youtube-music-list/"><u>In 2024, How to Assemble a Personalized YouTube Music List</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y36-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36 Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-tips-free-techniques-to-incorporate-music-in-video-projects/"><u>In 2024, IPhone Tips  Free Techniques to Incorporate Music in Video Projects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-laughter-unlimited-meme-magic-app/"><u>In 2024, Laughter Unlimited  Meme Magic App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>In 2024, Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-digital-landscape-with-these-7-indispentic-devices/"><u>In 2024, Master the Digital Landscape with These 7 Indispentic Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterclass-in-webinar-name-designer/"><u>In 2024, Masterclass in Webinar Name Designer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mellowing-sound-piece-by-piece-in-fl/"><u>In 2024, Mellowing Sound Piece-by-Piece in FL</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-online-image-enhancement-melodic-twist/"><u>In 2024, Online Image Enhancement  Melodic Twist</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reclaiming-iphone-hdr-footage-premiere-pros-fixes-for-overexposure/"><u>In 2024, Reclaiming iPhone HDR Footage  Premiere Pro's Fixes for Overexposure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-steady-panning-for-smooth-cinematography/"><u>In 2024, Steady Panning for Smooth Cinematography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/listeners-lexicon-selecting-solid-offline-recording-tools-for-2024/"><u>Listeners' Lexicon  Selecting Solid Offline Recording Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-the-art-of-subtitle-integration-on-wmp-for-2024/"><u>Master the Art of Subtitle Integration on WMP for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mosaic-masterpieces-elevating-your-living-space/"><u>Mosaic Masterpieces  Elevating Your Living Space</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pixel-perfection-masterful-methods-for-stunning-imagery-for-2024/"><u>Pixel Perfection  Masterful Methods for Stunning Imagery for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scaling-video-size-without-quality-loss-on-youtube-for-2024/"><u>Scaling Video Size Without Quality Loss on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/screenspectrum-app-evaluation-for-2024/"><u>ScreenSpectrum App Evaluation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-video-recording-on-ios-and-android-select-the-best-apps-for-2024/"><u>Seamless Video Recording on iOS & Android  Select the Best Apps for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secrets-to-high-resolution-pics-on-deal-for-2024/"><u>Secrets to High-Resolution Pics on Deal for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y77t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-secret-to-reversed-video-magic-in-snapchat-for-2024/"><u>The Secret to Reversed Video Magic in Snapchat for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-f34-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy F34 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Sony Xperia 1 V | Dr.fone</u></a></li>
+</ul></div>

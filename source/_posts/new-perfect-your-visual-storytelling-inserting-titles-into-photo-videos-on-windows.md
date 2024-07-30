@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Your Visual Storytelling  Inserting Titles Into Photo Videos on Windows\""
-date: 2024-05-31T05:27:49.985Z
-updated: 2024-06-01T05:27:49.985Z
+date: 2024-07-27T19:47:11.875Z
+updated: 2024-07-28T19:47:11.875Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Perfect Your Visual Storytelling: Inserting Titles Into Photo Videos on Windows\""
 excerpt: "\"This Article Describes [New] Perfect Your Visual Storytelling: Inserting Titles Into Photo Videos on Windows\""
 keywords: "Title in Photo Videos,Windows Video Editing,Visual Storytelling Titles,Insert Titles Win10,Photo Videos Title Placement,Video Narrative Enhancement,Enhancing Photos with Text"
-thumbnail: https://www.lifewire.com/thmb/Sj5AwPPJdXnBKqZNm_G5jpP11-I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/high-output-alternator-5793ed883df78c1734ec7efd.jpg
+thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea7246067d0e64ce56f240c9081.jpg
 ---
 
 ## Perfect Your Visual Storytelling: Inserting Titles Into Photo Videos on Windows
@@ -33,6 +33,18 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -40,6 +52,182 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Firstly, divide your videos into sections. Add section titles to the background video or image. Use relevant image for each section and add a section header. If you do not have any relevant image, search from the web by clicking on add Photos/videos.
 * Select licensed images from the preset categories and always use it by adding credits to the image and click Insert to add it to the video project
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
+
+* You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
+* Resize the image if black parts appear by clicking on resize and then, remove black parts
+
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
+
+* To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
+* Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
+* For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: How to Make Text Move in Windows 10 Photos App
+
+The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
+
+* Open the Photos app
+* At the top, you can find “Create” option in blue color and choose it. From the drop-down menu, select the custom video with the music option. At the top right corner of the video, check the box you wish to edit
+* Click on Add and drag the video to the timeline below. Go to the effects menu and click 3D effects
+* On the right, find the effects sidebar and select any effect that you find suitable for your video text
+
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
+
+* Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
+* Pin the slider in Attach to a point at the On position
+* To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
+
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
+
+* To increase or decrease the length of animation time, adjust the slider
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
+
+* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Adding the titles/text to video is a great way to explain the people about a certain clip in the video. With the Windows 10 being used mostly by the users, let’s know how to add titles/text to video on Photos in Windows 10\. It is not a difficult task to add text to the video if you can find the right app. And yes, you can add titles/text to video on Photos in windows 10 with a few easy steps that you might not have known but after reading out here, you definitely can.
+
+* [**Part1: How to Add Titles/Text to Video on Photos in Windows 10**](#part1)
+* [**Part2: How to Make Text Move in Windows 10 Photos App**](#part2)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
+
+Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
+
+* Firstly, divide your videos into sections. Add section titles to the background video or image. Use relevant image for each section and add a section header. If you do not have any relevant image, search from the web by clicking on add Photos/videos.
+* Select licensed images from the preset categories and always use it by adding credits to the image and click Insert to add it to the video project
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
+
+* You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
+* Resize the image if black parts appear by clicking on resize and then, remove black parts
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
+
+* To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
+* Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
+* For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: How to Make Text Move in Windows 10 Photos App
+
+The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
+
+* Open the Photos app
+* At the top, you can find “Create” option in blue color and choose it. From the drop-down menu, select the custom video with the music option. At the top right corner of the video, check the box you wish to edit
+* Click on Add and drag the video to the timeline below. Go to the effects menu and click 3D effects
+* On the right, find the effects sidebar and select any effect that you find suitable for your video text
+
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
+
+* Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
+* Pin the slider in Attach to a point at the On position
+* To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
+
+* To increase or decrease the length of animation time, adjust the slider
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
+
+* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Adding the titles/text to video is a great way to explain the people about a certain clip in the video. With the Windows 10 being used mostly by the users, let’s know how to add titles/text to video on Photos in Windows 10\. It is not a difficult task to add text to the video if you can find the right app. And yes, you can add titles/text to video on Photos in windows 10 with a few easy steps that you might not have known but after reading out here, you definitely can.
+
+* [**Part1: How to Add Titles/Text to Video on Photos in Windows 10**](#part1)
+* [**Part2: How to Make Text Move in Windows 10 Photos App**](#part2)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
+
+Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
+
+* Firstly, divide your videos into sections. Add section titles to the background video or image. Use relevant image for each section and add a section header. If you do not have any relevant image, search from the web by clicking on add Photos/videos.
+* Select licensed images from the preset categories and always use it by adding credits to the image and click Insert to add it to the video project
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
@@ -70,14 +258,24 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 * To increase or decrease the length of animation time, adjust the slider
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -97,6 +295,9 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -115,134 +316,9 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
-## Part 2: How to Make Text Move in Windows 10 Photos App
-
-The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
-
-* Open the Photos app
-* At the top, you can find “Create” option in blue color and choose it. From the drop-down menu, select the custom video with the music option. At the top right corner of the video, check the box you wish to edit
-* Click on Add and drag the video to the timeline below. Go to the effects menu and click 3D effects
-* On the right, find the effects sidebar and select any effect that you find suitable for your video text
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
-
-* Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
-* Pin the slider in Attach to a point at the On position
-* To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
-
-* To increase or decrease the length of animation time, adjust the slider
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
-
-* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
-
-## Conclusion
-
-To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Adding the titles/text to video is a great way to explain the people about a certain clip in the video. With the Windows 10 being used mostly by the users, let’s know how to add titles/text to video on Photos in Windows 10\. It is not a difficult task to add text to the video if you can find the right app. And yes, you can add titles/text to video on Photos in windows 10 with a few easy steps that you might not have known but after reading out here, you definitely can.
-
-* [**Part1: How to Add Titles/Text to Video on Photos in Windows 10**](#part1)
-* [**Part2: How to Make Text Move in Windows 10 Photos App**](#part2)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
-
-Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
-
-* Firstly, divide your videos into sections. Add section titles to the background video or image. Use relevant image for each section and add a section header. If you do not have any relevant image, search from the web by clicking on add Photos/videos.
-* Select licensed images from the preset categories and always use it by adding credits to the image and click Insert to add it to the video project
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
-
-* You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
-* Resize the image if black parts appear by clicking on resize and then, remove black parts
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
-
-* To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
-* Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
-* For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
-
-## Part 2: How to Make Text Move in Windows 10 Photos App
-
-The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
-
-* Open the Photos app
-* At the top, you can find “Create” option in blue color and choose it. From the drop-down menu, select the custom video with the music option. At the top right corner of the video, check the box you wish to edit
-* Click on Add and drag the video to the timeline below. Go to the effects menu and click 3D effects
-* On the right, find the effects sidebar and select any effect that you find suitable for your video text
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
-
-* Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
-* Pin the slider in Attach to a point at the On position
-* To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
-
-* To increase or decrease the length of animation time, adjust the slider
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
-
-* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
-
-## Conclusion
-
-To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Adding the titles/text to video is a great way to explain the people about a certain clip in the video. With the Windows 10 being used mostly by the users, let’s know how to add titles/text to video on Photos in Windows 10\. It is not a difficult task to add text to the video if you can find the right app. And yes, you can add titles/text to video on Photos in windows 10 with a few easy steps that you might not have known but after reading out here, you definitely can.
-
-* [**Part1: How to Add Titles/Text to Video on Photos in Windows 10**](#part1)
-* [**Part2: How to Make Text Move in Windows 10 Photos App**](#part2)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
-
-Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
-
-* Firstly, divide your videos into sections. Add section titles to the background video or image. Use relevant image for each section and add a section header. If you do not have any relevant image, search from the web by clicking on add Photos/videos.
-* Select licensed images from the preset categories and always use it by adding credits to the image and click Insert to add it to the video project
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
-
-* You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
-* Resize the image if black parts appear by clicking on resize and then, remove black parts
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
-
-* To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
-* Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
-* For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
-
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -300,3 +376,53 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-salt-and-surge-2023s-best-surf-cam-tech-review/"><u>[New] In 2024, Salt & Surge  2023'S Best Surf Cam Tech Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-overcoming-content-constraints-s-virtual-world/"><u>[New] Overcoming Content Constraints 'S Virtual World</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-ultimate-canon-sequence-crafts/"><u>[New] Perfecting Ultimate Canon Sequence Crafts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-powerful-payload-the-elite-airborne-workhorses/"><u>[New] Powerful Payload  The Elite Airborne Workhorses</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-obscurity-to-star-in-3-simple-steps/"><u>[Updated] 2024 Approved  From Obscurity to Star in 3 Simple Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-eliminating-half-muted-facebook-gaming-videos-2023-fixes/"><u>[Updated] Eliminating Half-Muted Facebook Gaming Videos (2023 Fixes)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-live-broadcasts-in-focus-scrutinizing-the-best-6-microphones-available/"><u>[Updated] Live Broadcasts in Focus  Scrutinizing the Best 6 Microphones Available</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-multitask-views-how-to-control-picture-in-picture-on-iphones/"><u>[Updated] Mastering Multitask Views  How to Control Picture in Picture on iPhones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-sound-communication-on-whatsapp/"><u>[Updated] Mastering Sound Communication on WhatsApp</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-next-gen-storage-the-ultimate-five/"><u>[Updated] Navigating Next-Gen Storage  The Ultimate Five</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-notable-examples-of-book-trailers/"><u>[Updated] Notable Examples of Book Trailers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pros-recommendations-for-free-and-paid-drawing-software-on-pc/"><u>[Updated] Pro's Recommendations for Free & Paid Drawing Software on PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-and-easy-apods-episodes-access-on-gadgets/"><u>[Updated] Quick and Easy APods Episodes Access on Gadgets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-importing-audio-for-inshot-edits/"><u>[Updated] Step-by-Step Guide  Importing Audio for InShot Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-android-movie-upturning/"><u>[Updated] Step-by-Step Guide to Android Movie Upturning</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-highlight-trail-from-skatescape-2022-for-2024/"><u>[Updated] The Ultimate Highlight Trail From Skatescape 2022 for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-designing-engaging-instagram-feature-film-posts/"><u>2024 Approved  Designing Engaging Instagram Feature Film Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-tricks-adjusting-picture-size-efficiently/"><u>2024 Approved  IPhone Tricks  Adjusting Picture Size Efficiently</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magic-in-managing-photos-with-magix/"><u>2024 Approved  Magic in Managing Photos with MAGIX</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-numerical-leaderboard-spotlight-eighth-in-photo-blender/"><u>2024 Approved  Numerical Leaderboard Spotlight  Eighth in Photo Blender</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-pro-utilizing-lut-techniques/"><u>2024 Approved  Premiere Pro  Utilizing LUT Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-select-your-dreams-best-vr-bike-trails/"><u>2024 Approved  Select Your Dreams  Best VR Bike Trails</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-thrills-that-dont-involve-los-angeles-lives/"><u>2024 Approved  Thrills That Don't Involve Los Angeles Lives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unveiling-the-money-map-a-3-step-guide-for-calculating-your-youtube-income/"><u>2024 Approved  Unveiling the Money Map  A 3-Step Guide for Calculating Your YouTube Income</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-13-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 13 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/challenge-yourself-with-five-furious-fiddlers/"><u>Challenge Yourself With Five Furious Fiddlers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/chromium-os-built-in-video-capturer-for-2024/"><u>Chromium OS Built-In Video Capturer for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elevate-your-teams-productivity-with-slack-plus-filmora-harmony/"><u>Elevate Your Team's Productivity with Slack + Filmora Harmony</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/explore-and-master-russian-alphabet-speech/"><u>Explore & Master Russian Alphabet Speech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-exploring-the-depths-of-screen-recording-software/"><u>In 2024, Exploring the Depths of Screen Recording Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-huawei-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Huawei Phones with/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-se-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-virtual-realms-the-finest-vr-technology/"><u>In 2024, Navigating Virtual Realms  The Finest VR Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-no-license-plenty-of-melodies-top-10-online-websites/"><u>In 2024, No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-picks-top-tripods-for-crystal-clear-4k-cinematography/"><u>In 2024, Premier Picks  Top Tripods for Crystal-Clear 4K Cinematography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-grade-8-filters-for-live-feeds/"><u>In 2024, Professional-Grade 8 Filters for Live Feeds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-resolving-no-video-issue-on-sony-a6400-device/"><u>In 2024, Resolving No-Video Issue on Sony A6400 Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-securing-brand-deals-with-youtube-personalities/"><u>In 2024, Securing Brand Deals with YouTube Personalities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speedy-sound-solutions-for-smartphone-users/"><u>In 2024, Speedy Sound Solutions for Smartphone Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-advanced-color-grading-techniques-using-luts-for-2024/"><u>Navigating Advanced Color Grading Techniques Using LUTs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pivotal-understanding-of-internet-fables-for-2024/"><u>Pivotal Understanding of Internet Fables for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sharpen-your-streams-top-5-video-enhancers-for-2024/"><u>Sharpen Your Streams  Top 5 Video Enhancers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smoothing-playback-the-truth-behind-frozen-photo-booth-videos-for-2024/"><u>Smoothing Playback  The Truth Behind Frozen Photo Booth Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sonys-x1000v-detailed-recording-experience-review-for-2024/"><u>Sony's X1000V  Detailed Recording Experience Review for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-narzo-n53-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme Narzo N53 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-true-black-and-vivid-colors-on-asus-pa32u/"><u>Unleashing True Black & Vivid Colors on ASUS PA32U</u></a></li>
+</ul></div>

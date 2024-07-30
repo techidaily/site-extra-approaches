@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Lively Captions  How to Add Motion to Instagram Posts\""
-date: 2024-05-31T05:29:35.571Z
-updated: 2024-06-01T05:29:35.571Z
+date: 2024-07-27T21:35:10.808Z
+updated: 2024-07-28T21:35:10.809Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Step1 Swipe right on Instagram after it's open to go to the story’s creator. U
 
 Step2 To add words to your tales post, use the text tool. Typing, fading in, bouncing, stretching, swaying, and illuminating are all examples of text animation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![add words to post instagram](https://images.wondershare.com/filmora/article-images/2022/09/add-words-to-post-instagram.jpg)
 
 Step3 The Animate button, which is shown above the other text-related buttons for alignment and color, gives your text some extra life by causing it to glide up and down the screen. Click the symbol for the animation.
@@ -64,12 +68,18 @@ Right after you have downloaded and installed this toolkit to you PC. You can la
 
 After choosing your scenes, go to the editor to begin creating your animation. Text, pictures, movies, and logo animations may all be included. You may simply continue to customize by changing the text size, font, colors, and even the length of the movie. Don't forget to add a narration or a rhythm to make your animated text stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![customize the media](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 ##### Step3 Use Animated Text Templates
 
 Filmora is here to spark your creativity if you're at a stage when it's lacking. Utilize this technology to make a design stand out from the competition. You may look at the Templates in the Stock to see how well animated designs capture our attention. Choose from hundreds of text animation modes, many of which include further customization options, such as fade, slide, typewriter, flicker, and more. Select a template, then remix it with your own images and touches.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![use animated text templates](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 ##### Step4 Export the Animated Instagram Story
@@ -86,6 +96,9 @@ Even if you may submit a picture to your Instagram Story with animated text, the
 
 Launch the FlexClip video editor after uploading your video, GIF, or picture and choose "Local Files." Click the "Plus" button to transfer it to the storyboard where it will be updated. The video may also be dragged from the folder and put straight into the editor. Directly upload a movie, GIF, or picture to FlexClip. Additionally, you may post a link from Twitter, YouTube, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![upload video into flexclip](https://images.wondershare.com/filmora/article-images/2022/09/upload-video-into-flexclip.jpg)
 
 ##### Step2 Pick a template or start from scratch
@@ -120,6 +133,10 @@ Right after you have downloaded and installed this toolkit to you PC. You can la
 
 After choosing your scenes, go to the editor to begin creating your animation. Text, pictures, movies, and logo animations may all be included. You may simply continue to customize by changing the text size, font, colors, and even the length of the movie. Don't forget to add a narration or a rhythm to make your animated text stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![customize the media](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 ##### Step3 Use Animated Text Templates
@@ -142,26 +159,43 @@ Even if you may submit a picture to your Instagram Story with animated text, the
 
 Launch the FlexClip video editor after uploading your video, GIF, or picture and choose "Local Files." Click the "Plus" button to transfer it to the storyboard where it will be updated. The video may also be dragged from the folder and put straight into the editor. Directly upload a movie, GIF, or picture to FlexClip. Additionally, you may post a link from Twitter, YouTube, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload video into flexclip](https://images.wondershare.com/filmora/article-images/2022/09/upload-video-into-flexclip.jpg)
 
 ##### Step2 Pick a template or start from scratch
 
 Choose a template to use first from the enormous collection of text animation templates. Visit the ever-expanding template collection of our animated text generator to choose the template for your next text animation. Choose the video that best suits your project by previewing the available ones. A wide variety of animated text scenarios are included in templates to suit all demands. To begin making your animation, choose and include your favorite moments.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![pick a tempalte flexclip](https://images.wondershare.com/filmora/article-images/2022/09/pick-a-tempalte-flexclip.jpg)
 
 ##### Step3 Animate your Font
 
 By producing the video from scratch, you may also practice your creativity. Click "Add Text" and choose one of the animation choices to accomplish it. To adjust the location, just drag and drop. You may also quickly alter the font and color choices. Choose a font style from the fantastic font library or just upload your own font style to your video project, and then use the free text animation tool to add some magic to your projects. To animate text, just pick it and click "Animate."
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![animate text font flexclip](https://images.wondershare.com/filmora/article-images/2022/09/animate-text-font-flexclip.jpg)
 
 ##### Step4 Share it with your audience
 
 Once finished, you can either instantly share the finished product on various social networking networks with a single click or export it to your computer. There are no downloads necessary to use FlexClip, and it is totally free!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![share media flexclip](https://images.wondershare.com/filmora/article-images/2022/09/share-media-flexclip.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 The success or failure of your Instagram company depends in large part on engagement. If you add some artistic flare to this behind-the-scenes material, viewers will be tuning in every day. Instagram pushes your stories to fewer users if viewers repeatedly close them or skip through them. This highlights the personality of your writing and adds a new aspect designed to increase reader retention and engagement. Impress yourself with flawless text animation. The text video creator on [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is all you need.
@@ -188,3 +222,45 @@ The success or failure of your Instagram company depends in large part on engage
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-beyondbasics-the-futurepost-mycam-cameras/"><u>[New] BeyondBasics  The FuturePost-MyCam Cameras</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-quickening-vimeo-content-streams/"><u>[New] In 2024, Quickening Vimeo Content Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-lumapro-the-budget-friendly-lightroom-pairings/"><u>[New] LumaPro  The Budget-Friendly Lightroom Pairings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-musical-beginnings-the-top-10-tracks-for-engaging-podcast-intros/"><u>[New] Musical Beginnings  The Top 10 Tracks for Engaging Podcast Intros</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-audio-edits-with-garageband-features/"><u>[New] Seamless Audio Edits with GarageBand Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-integration-of-skype-and-zoom-for-businesses/"><u>[New] Seamless Integration of Skype and Zoom for Businesses</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-securing-your-scene-minimize-camera-jostle/"><u>[New] Securing Your Scene  Minimize Camera Jostle</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>[New] Sound Engineering Simplified  Gradual Diminishment in Lumafusion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-steps-toward-monetary-success-on-youtube/"><u>[Updated] In 2024, First Steps Toward Monetary Success on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-is-there-money-behind-the-curtain-of-vlog-critiques/"><u>[Updated] Is There Money Behind the Curtain of Vlog Critiques?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-insta-to-tik-connection/"><u>[Updated] Navigating the Insta-to-Tik Connection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-superior-soundscape-top-tunes-for-unboxing-vids/"><u>[Updated] Secrets to Superior Soundscape  Top Tunes for Unboxing Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-viewing-vr-films-and-games-on-ios/"><u>[Updated] Step-by-Step Guide to Viewing VR Films & Games on IOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-cg-centrals-luts-into-vfx-production-flows/"><u>2024 Approved  Integrating CG Central's Luts Into VFX Production Flows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagram-grids-the-finest-10-grid-software/"><u>2024 Approved  Mastering Instagram Grids  The Finest 10 Grid Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quintessential-5-photo-background-changer-apps-iphone-xplus/"><u>2024 Approved  Quintessential 5 Photo Background Changer Apps (iPhone X+)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-storytelling-on-screen-crafting-compelling-narratives-for-instareels/"><u>2024 Approved  Storytelling on Screen  Crafting Compelling Narratives for InstaReels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-guide-365-days-of-no-cost-text-files-for-2024/"><u>Exclusive Guide  365 Days of No-Cost Text Files for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v30-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo V30 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-tecno-camon-20-premier-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Tecno Camon 20 Premier 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-6s-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 6s</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-titles-for-3d-visuals-and-lustrous-text-online/"><u>In 2024, Leading Titles for 3D Visuals & Lustrous Text Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lowering-sound-gradually-a-logic-pro-method/"><u>In 2024, Lowering Sound Gradually  A Logic Pro Method</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-light-manipulation-for-captivating-gopro-time-lapse-scenes/"><u>In 2024, Mastering Light Manipulation for Captivating GoPro Time Lapse Scenes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-samsungs-digital-picture-editing-app/"><u>In 2024, Navigating Through Samsung's Digital Picture Editing App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photography-tips-for-iphone/"><u>In 2024, Photography Tips for iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-plays-premieres-audio-switching/"><u>In 2024, Precision Plays  Premiere’s Audio Switching</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premiere-video-editing-options-for-app-developers/"><u>In 2024, Premiere Video Editing Options for App Developers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-6-choices-for-cost-effective-4k-projection/"><u>In 2024, Premium 6 Choices for Cost-Effective 4K Projection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rgbs-legacy-and-how-srgb-is-paving-the-way-forward/"><u>In 2024, RGB's Legacy and How Srgb Is Paving the Way Forward</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shape-players-guide-to-distortion-and-more/"><u>In 2024, Shape Players' Guide to Distortion and More</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-six-visionaries-revolutionizing-the-nft-art-scene/"><u>In 2024, Six Visionaries Revolutionizing the NFT Art Scene</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soften-image-periphery-with-circular-light-blend-photoshop/"><u>In 2024, Soften Image Periphery with Circular Light Blend Photoshop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-mobile-frontier-of-animation-storage-and-viewing-iphone-for-2024/"><u>Mastering the Mobile Frontier of Animation Storage & Viewing (iPhone) for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-your-images-with-dynamic-text-tools-for-2024/"><u>Perfect Your Images with Dynamic Text Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sculpt-comical-visuals-for-digital-sharing-for-2024/"><u>Sculpt Comical Visuals for Digital Sharing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/skys-palette-explored-top-websites-showcasing-hd-imagery-for-2024/"><u>Sky's Palette Explored - Top Websites Showcasing HD Imagery for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-free-and-top-the-ultimate-list-of-online-audio-editing-software-for-2024/"><u>Updated Free and Top The Ultimate List of Online Audio Editing Software for 2024</u></a></li>
+</ul></div>

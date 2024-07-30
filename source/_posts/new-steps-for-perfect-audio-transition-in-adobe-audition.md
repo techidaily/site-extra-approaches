@@ -1,7 +1,7 @@
 ---
 title: "[New] Steps for Perfect Audio Transition in Adobe Audition"
-date: 2024-05-31T05:29:17.144Z
-updated: 2024-06-01T05:29:17.144Z
+date: 2024-07-27T21:16:51.218Z
+updated: 2024-07-28T21:16:51.218Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Steps for Perfect Audio Transition in Adobe Audition"
 excerpt: "This Article Describes [New] Steps for Perfect Audio Transition in Adobe Audition"
 keywords: "AudiTransitionAdobe,AudioEditingAudition,PerfectAudioChange,SoundTransitionTools,AdobeSoftCut,AuditionSmoothShift,SeamlessSoundEdit"
-thumbnail: https://www.lifewire.com/thmb/0SVBM5fOC6m-97UzQ_J4nYaBrn4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-72003110-5b733c37c9e77c00509f555a.jpg
+thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c6053861679577418a188e88c7.jpg
 ---
 
 ## Steps for Perfect Audio Transition in Adobe Audition
@@ -22,6 +22,9 @@ Adobe Audition, developed by Adobe Inc is a digital audio workstation. This is a
 
 Effects can be implemented at the same time by choosing them from the Effects menu or as a list in the Effects bar, enabling you to test with effect combinations before implementing them. Presets help you get started, and detailed controls allow you to fine-tune your adjustments. You can also batch-process audio files to remove 60 Hz hum or fit the amplitude of clips. It can be done using a variety of measures, including industry standard Broadcast Loudness options.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Part 1\. Steps to Adobe Audition Fade In
 
 The multitrack view includes a comprehensive set of non-destructive editing tools and audio mixing. The changes you make in this mode have no effect on your original audio files. You can make multiple modifications to multitrack clips immediately, making it simple to quickly adjust a mix.
@@ -41,6 +44,9 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 * Now, if you pull the Heads-Up Display out of the way and click and then drag right on the icon, you will see a fade in there which is a little bit longer than you need.
 * If you go up to your Effects menu and go to your Amplitude and Compression section, you have got a Fade Envelope and a Gain Envelope.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![amplitude and compression adobe audition](https://images.wondershare.com/filmora/article-images/2022/08/amplitude-and-compression-adobe-audition.jpg)
 
 * Now, if you choose Fade Envelope and of course, it is giving you the fade right the way through the audio. It will adjust for you and this is based on a Smooth Fade In.
@@ -51,6 +57,9 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 * If you click on this yellow line, you can drag it in situ and reshape it any way you want and you can create any kind of stepped fade you want.
 * If you go back into your effects, go back into Amplitude and Compression and this time, Choose Gain envelope. Now, you will get the yellow line flowing right the way through the audio.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gain envelop adobe audition](https://images.wondershare.com/filmora/article-images/2022/08/gain-envelop-adobe-audition.jpg)
 
 * Now exactly, in the same way, you can go in and begin to make adjustments. Now, when you make a selection here, Audition compresses your adjustments into that selected region. You will need to be a little careful about that when working with these effects. So, you can add fades very easily at any time by clicking on the handles at the top right and left of Waveform Display, or you can use dedicated effects for the purpose.
@@ -70,18 +79,28 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
 * Drag the sliders and set fade-in along with fade-out effects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. Related FAQs
 
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
@@ -105,18 +124,31 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
 * Drag the sliders and set fade-in along with fade-out effects.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Related FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
@@ -155,3 +187,36 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-webcam-captures-that-wow-top-strategies-unleashed/"><u>[New] 2024 Approved  Webcam Captures that Wow  Top Strategies Unleashed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-excellence-in-instagram-grids-with-these-elite-tools/"><u>[New] In 2024, Crafting Excellence in Instagram Grids with These Elite Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-integrating-comfort-with-efficiency-modern-approaches-to-office-design/"><u>[New] Integrating Comfort with Efficiency  Modern Approaches to Office Design</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-stabilization-for-mirrorless-with-gimbals/"><u>[New] Optimal Stabilization for Mirrorless with Gimbals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimizing-storage-spend-best-prices-in-cloud-services/"><u>[New] Optimizing Storage Spend  Best Prices in Cloud Services</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pictorial-insight-mastery-of-vsco-tools/"><u>[New] Pictorial Insight  Mastery of VSCO Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-smooth-shooting-secured-choosing-ideal-tripods-and-gimbals/"><u>[New] Smooth Shooting Secured  Choosing Ideal Tripods & Gimbals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-harness-the-art-of-visual-storytelling-on-snapchat/"><u>[Updated] In 2024, Harness the Art of Visual Storytelling on Snapchat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-roadmap-for-efficiently-coordinating-online-meeting-times-google/"><u>[Updated] In 2024, The Roadmap for Efficiently Coordinating Online Meeting Times (Google)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-oculus-illness-prevention-guide/"><u>[Updated] Oculus Illness Prevention Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-presenter-prefix-planner/"><u>[Updated] Prime Presenter Prefix Planner</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proarts-pa-329q-monitor-a-critical-look-at-its-4k-performance/"><u>[Updated] ProArt's PA 329Q Monitor  A Critical Look at Its 4K Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-tweeting-expert-video-conversion-software/"><u>[Updated] Seamless Tweeting  Expert Video Conversion Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-layering-yt-music-with-visual-expressions/"><u>2024 Approved  Layering YT Music with Visual Expressions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/4-photo-and-video-slideshow-maker-for-macos-sierra-for-2024/"><u>4 Photo and Video Slideshow Maker for macOS Sierra for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-6s-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 6s</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-live-photos-to-videos-a-cinematic-experience/"><u>In 2024, Live Photos to Videos  A Cinematic Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-lightrooms-artistic-control-creating-and-merging-hdr-images/"><u>In 2024, Master Lightroom's Artistic Control  Creating & Merging HDR Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pivotal-understanding-of-internet-fables/"><u>In 2024, Pivotal Understanding of Internet Fables</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sony-xperia-xz-premium-4k-smartphone-review/"><u>In 2024, Sony Xperia XZ Premium 4K Smartphone Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instantaneous-infiltration-of-lost-reddit-threads-for-2024/"><u>Instantaneous Infiltration of Lost Reddit Threads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-gear-for-broadcast-engineers-and-directors-for-2024/"><u>Key Gear for Broadcast Engineers and Directors for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/livestreaming-leaderboards-which-software-tops-the-chartvmixwirecast-in-2024/"><u>Livestreaming Leaderboards  Which Software Tops the Chart—VMix/Wirecast, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/outstanding-backdrops-for-video-conferencing-for-2024/"><u>Outstanding Backdrops for Video Conferencing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/peeling-back-layers-of-vivas-video-features-for-2024/"><u>Peeling Back Layers of Viva's Video Features for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/precision-in-volume-decrease-lumafusions-methodology-for-2024/"><u>Precision in Volume Decrease  Lumafusion's Methodology for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/racing-cameras-clash-is-black-hero-4-or-ghost-s-better-in-2024/"><u>Racing Cameras Clash  Is Black Hero 4 or Ghost-S Better, In 2024</u></a></li>
+</ul></div>

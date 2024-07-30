@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide  Activate or Deactivate Picture-in-Picture on Apple's YouTube App\""
-date: 2024-05-31T05:31:26.387Z
-updated: 2024-06-01T05:31:26.387Z
+date: 2024-07-27T23:29:07.943Z
+updated: 2024-07-28T23:29:07.943Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Step-by-Step Guide: Activate or Deactivate Picture-in-Picture on Apple's YouTube App\""
 excerpt: "\"This Article Describes [New] Step-by-Step Guide: Activate or Deactivate Picture-in-Picture on Apple's YouTube App\""
 keywords: "\"PPC in YT for Apple,Activate PIP on iOS,Disable PIP on YouTube,Pic-In-Pie Apple Setup,Apple YT PIP Guide,Turn On PIP in YT,Deactivate PIP on iOS\""
-thumbnail: https://www.lifewire.com/thmb/-13rMvdkURwR3PaoUhxB_pOt-MM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/iPad-vs-iPad-Air-b2422f32687d4fab97c8e04f395b63e2.jpg
+thumbnail: https://thmb.techidaily.com/a1972899444c7fd6c447adfaf7d10b9ab8c7ebd024be2fc74b2760fa4d84aacb.jpg
 ---
 
 ## Step-by-Step Guide: Activate or Deactivate Picture-in-Picture on Apple's YouTube App
@@ -37,6 +37,9 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 1. If you require a **YouTube PIP** shortcut app on your device to proceed, you can download it from App Store or [the Shortcuts Gallery browser](https://shortcutsgallery.com/shortcuts/youtube-pip/) and then add it to your Shortcut Library.
 2. Open the **YouTube PIP** Shortcut and tap **Get Shortcut** on the App. You will be redirected to the shortcut application on your phone. If you don't have the shortcut application, you can download it from the App Store.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![shortcut application](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-2.jpg)
 
 1. Tap **Allow Untrusted Shortcuts** in the Shortcut Application on your device
@@ -51,10 +54,22 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 1. Tap on **View in App Store** on the screen that appears. This will direct you to the App Store.
 2. On the next screen that appears, download [**Scriptable App**](https://apps.apple.com/us/app/scriptable/id1405459188). Get back to the home screen and launch Scriptable App once.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![download scriptable app](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-4.jpg)
 
 1. Go to YouTube again and start any video. Tap the **Share icon**, scroll to the right and tap the **More icon**, go ahead and tap the YouTube PIP. And on the burner that pops up at the top of the screen of your phone, tap **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![floating screen](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-5.jpg)
 
 And there you go, now you will be able to watch your videos on a floating screen. This procedure may be pretty tedious, but it is all worth it if you follow keenly to the end. You will do it only once.
@@ -73,6 +88,9 @@ To use PIP on iPhone effectively, you may sometime need to deactivate it so that
 
 Picture in Picture is now a native quality utility feature on many Apps on different platforms. PIP has stayed for some time since it was developed and introduced for third-party utilization. However, YouTube is still left out of this. To enable PIP on Mac, you will need to go a step ahead to do it. Enjoying PIP on an iPad is also not a straightforward thing. All the same, Mac and iPad require very simple instructions to allow you to use Picture in Picture with them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### PIP on iPad
 
 To activate PIP on your iPad, you only need your phone settings and a supported browser like Safari. However, you have to update your iPad to the iOS 14 version that fully supports the feature.
@@ -91,6 +109,9 @@ Before you use Picture in Picture in YouTube, you require two Apps on your devic
 4. Tap the **More icon**.
 5. Tap **YouTube PIP** and select **OK** on the burner that appears on the screen. This will produce a new floating window automatically on the screen. You can select a window resolution that fits you and go back to Home Screen. Your video will play in a floating window on your home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![floating window](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-6.jpg)
 
 ### PIP on Mac
@@ -108,6 +129,9 @@ And with the Control Commands, you can get into PIP on Mac very easily in only t
 1. Open a video on YouTube on a Web browser
 2. Press and hold on to the **Ctrl key** on your keyboard as you **left click** on the video twice, and you will be successful.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into pip on mac](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-7.jpg)
 
 ## Conclusion
@@ -142,3 +166,50 @@ Picture in Picture is a computer utility feature in the USA. It has not been lau
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-20-best-free-platforms-for-youtube-channel-beginners/"><u>[New] 2024 Approved  20 Best Free Platforms for YouTube Channel Beginners</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-guide-to-high-speed-pc-controller-extensions/"><u>[New] 2024 Approved  Ultimate Guide to High-Speed PC Controller Extensions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-edges-in-mobile-photography-best-phones-for-clear-videos/"><u>[New] Leading Edges in Mobile Photography  Best Phones for Clear Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-picture-perfect-presentation-software-for-impeccable-photo-framing/"><u>[New] Picture Perfect Presentation  Software for Impeccable Photo Framing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secrets-to-viral-meme-innovation/"><u>[New] Secrets to Viral Meme Innovation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-crafting-captivating-haul-videos/"><u>[New] Step-by-Step  Crafting Captivating Haul Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-process-for-photo-backdrop-erasure/"><u>[New] Step-by-Step Process for Photo Backdrop Erasure</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-maximize-engagement-optimal-twitters-video-converters/"><u>[Updated] 2024 Approved  Maximize Engagement  Optimal Twitters Video Converters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-engagement-with-effective-yt-summary-writing-for-2024/"><u>[Updated] Enhance Engagement with Effective YT Summary Writing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-cameras-to-amplify-your-yt-presence/"><u>[Updated] In 2024, Best Cameras to Amplify Your YT Presence</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-roguelike-rankings-the-best-10-games/"><u>[Updated] In 2024, Ultimate Roguelike Rankings  The Best 10 Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-m1-processor-a-leap-forward-in-video-production-technology/"><u>[Updated] M1 Processor  A Leap Forward in Video Production Technology?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-podcast-discoverability-through-effective-seo/"><u>[Updated] Maximizing Podcast Discoverability Through Effective SEO</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-penning-powerful-stories-with-a-camera-lens/"><u>[Updated] Penning Powerful Stories with a Camera Lens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-sound-selection-optimal-websites-list/"><u>[Updated] Premium Sound Selection  Optimal Websites List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-complete-breakdown-why-your-video-needs-proper-tagging/"><u>[Updated] The Complete Breakdown  Why Your Video Needs Proper Tagging</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-harness-the-power-of-hashtags-in-instagram-marketing-strategies/"><u>2024 Approved  Harness the Power of Hashtags in Instagram Marketing Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-laugh-ledger-a-treasure-trove-of-free-meme-creations/"><u>2024 Approved  Laugh Ledger  A Treasure Trove of FREE Meme Creations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mirrorless-mastery-10-best-stabilizing-choices/"><u>2024 Approved  Mirrorless Mastery  10 Best Stabilizing Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-one-source-livestream-perfection-a-streamers-blueprint/"><u>2024 Approved  One-Source Livestream Perfection  A Streamer's Blueprint</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pulse-of-production-syncing-sound-in-w11-environments/"><u>2024 Approved  Pulse of Production  Syncing Sound in W11 Environments</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revealing-historys-best-anime-openers/"><u>2024 Approved  Revealing History's Best Anime Openers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-user-dissatisfaction-with-microsofts-latest-update/"><u>Decoding User Dissatisfaction with Microsoft's Latest Update</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-hot-40-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Hot 40</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-a05-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy A05 Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-techniques-recording-live-tv-online/"><u>In 2024, Essential Techniques  Recording Live TV Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-htc-u23-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On HTC U23 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-intro-to-photo-editing-mastering-lunapic-basics/"><u>In 2024, Intro to Photo Editing  Mastering LunaPic Basics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>In 2024, Launchpad Logic  The Complete Framework for Founders of a Reviews Channel</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-srt-output-from-adobe-premiere/"><u>In 2024, Mastering SRT Output From Adobe Premiere</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-new-horizons-in-video-codecs-comparing-av1-and-vp9/"><u>In 2024, New Horizons in Video Codecs  Comparing Av1 and VP9</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photographers-ultimate-cloud-companion-infinite-free-and-paid-sky-sanctuaries/"><u>In 2024, Photographer’s Ultimate Cloud Companion  Infinite, Free & Paid Sky Sanctuaries</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-boundaries-with-lightrooms-hdr-merging-capability/"><u>In 2024, Pushing Boundaries with Lightroom’s HDR Merging Capability</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quelling-camera-chaos-in-cinema/"><u>In 2024, Quelling Camera Chaos in Cinema</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speedy-upgrade-leading-android-video-tuners/"><u>In 2024, Speedy Upgrade  Leading Android Video Tuners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-techniques-to-maximize-your-spotify-ad-reach-for-2024/"><u>Key Techniques to Maximize Your Spotify Ad Reach for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/manipulating-photography-captions-for-2024/"><u>Manipulating Photography Captions for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-collage-artistry-with-precision-for-2024/"><u>Mastering Collage Artistry with Precision for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-complexities-of-youtubes-subtitles-download-with-3-proven-techniques-for-2024/"><u>Navigating the Complexities of YouTube's Subtitles  Download With 3 Proven Techniques for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-app-failures-9-proven-strategies-for-restoring-chatgpt-functionality/"><u>Overcome iPhone App Failures: 9 Proven Strategies for Restoring ChatGPT Functionality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/strategic-placements-for-elevating-youtube-videos-for-2024/"><u>Strategic Placements for Elevating YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unboxing-marketing-strategy-for-2024/"><u>Unboxing Marketing Strategy for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pioneers of Immersion  History in VR\""
-date: 2024-05-31T05:30:21.822Z
-updated: 2024-06-01T05:30:21.822Z
+date: 2024-07-27T22:22:56.777Z
+updated: 2024-07-28T22:22:56.777Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes [New] Pioneers of Immersion: History in VR\""
 excerpt: "\"This Article Describes [New] Pioneers of Immersion: History in VR\""
 keywords: "\"VR Historical Experience,Immersive VR Learning,Virtual Reality History,VR Educational Journey,Interactive VR Past,VR Time Travel Tours,Immersive Edu-VR Content\""
-thumbnail: https://www.lifewire.com/thmb/WkwmryU-mysmu097V_UdLIizOp4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/getty-185234332-56c8b46c5f9b5879cc44921f.jpg
+thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06c40a2dc84de8d83be8e3fd3.jpg
 ---
 
 ## Pioneers of Immersion: History in VR
 
 # A Brief History of Virtual Reality
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,10 +42,126 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 
 In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## VR development in 1960s
 
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## VR development in 1990s
+
+VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
+
+## VR development in 2014
+
+Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## VR development in 2016 and beyond
+
+With the initial surge after Oculus Rift, companies all over the world began building their own VR headsets and producing some fantastic new tech. With so many new devices coming out from many of the world's top manufacturers, we are seeing huge developments when it comes to apps, 360° cameras, inexpensive headsets, VR glass experiences and more. As 3-D graphics continue to get better and is processing power lines at an exponential rate, VR is becoming a focus for many developers in the future. There are many consumer products coming out to compete with Oculus based off its demand as well as generic products for use with smart phone technology. As many smart phones have the accelerometer data, advanced soundcards and graphic sets for 3d rendering users are opting to watch 360 videos and try virtual-reality apps with their smartphone and home devices like Google Cardboard. Other users however are holding out for products like the Oculus Rift, Playstation VR and more. With all of these devices set to drop in mass circulation by the end of 2016 or the start of 2017 we are truly going to start seeing at home VR experiences which are widespread.
+
+The future of VR looks very bright and with so many new devices in development is a trend that's not going away anytime soon.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+When we commonly think of Virtual Reality our first thought is to turn to a modern VR headset as well as all of the various PC applications which are beginning to include virtual-reality support. Virtual-reality actually has an extensive history with a concept that dates all the way back to the 1930s. In this article we will discuss the history of VR and how it has evolved since an early concept into the amazing simulation experience that you can have in your home today.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+![history-of-vr](https://images.wondershare.com/filmora/article-images/history-of-vr.bmp)
+
+ **_You may also like:_**
+_[What is virtual reality and how does it work?](https://tools.techidaily.com/wondershare/filmora/download/)_
+_[Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/)_
+_[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## VR development in 1930s
+
+In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## VR development in 1960s
+
+VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
+
+## VR development in 1990s
+
+VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
+
+## VR development in 2014
+
+Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
+
+## VR development in 2016 and beyond
+
+With the initial surge after Oculus Rift, companies all over the world began building their own VR headsets and producing some fantastic new tech. With so many new devices coming out from many of the world's top manufacturers, we are seeing huge developments when it comes to apps, 360° cameras, inexpensive headsets, VR glass experiences and more. As 3-D graphics continue to get better and is processing power lines at an exponential rate, VR is becoming a focus for many developers in the future. There are many consumer products coming out to compete with Oculus based off its demand as well as generic products for use with smart phone technology. As many smart phones have the accelerometer data, advanced soundcards and graphic sets for 3d rendering users are opting to watch 360 videos and try virtual-reality apps with their smartphone and home devices like Google Cardboard. Other users however are holding out for products like the Oculus Rift, Playstation VR and more. With all of these devices set to drop in mass circulation by the end of 2016 or the start of 2017 we are truly going to start seeing at home VR experiences which are widespread.
+
+The future of VR looks very bright and with so many new devices in development is a trend that's not going away anytime soon.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+When we commonly think of Virtual Reality our first thought is to turn to a modern VR headset as well as all of the various PC applications which are beginning to include virtual-reality support. Virtual-reality actually has an extensive history with a concept that dates all the way back to the 1930s. In this article we will discuss the history of VR and how it has evolved since an early concept into the amazing simulation experience that you can have in your home today.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![history-of-vr](https://images.wondershare.com/filmora/article-images/history-of-vr.bmp)
+
+ **_You may also like:_**
+_[What is virtual reality and how does it work?](https://tools.techidaily.com/wondershare/filmora/download/)_
+_[Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/)_
+_[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
+
+## VR development in 1930s
+
+In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+## VR development in 1960s
+
+VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## VR development in 1990s
 
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
@@ -86,100 +205,23 @@ In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in wh
 
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## VR development in 1990s
 
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## VR development in 2014
 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
 
-## VR development in 2016 and beyond
-
-With the initial surge after Oculus Rift, companies all over the world began building their own VR headsets and producing some fantastic new tech. With so many new devices coming out from many of the world's top manufacturers, we are seeing huge developments when it comes to apps, 360° cameras, inexpensive headsets, VR glass experiences and more. As 3-D graphics continue to get better and is processing power lines at an exponential rate, VR is becoming a focus for many developers in the future. There are many consumer products coming out to compete with Oculus based off its demand as well as generic products for use with smart phone technology. As many smart phones have the accelerometer data, advanced soundcards and graphic sets for 3d rendering users are opting to watch 360 videos and try virtual-reality apps with their smartphone and home devices like Google Cardboard. Other users however are holding out for products like the Oculus Rift, Playstation VR and more. With all of these devices set to drop in mass circulation by the end of 2016 or the start of 2017 we are truly going to start seeing at home VR experiences which are widespread.
-
-The future of VR looks very bright and with so many new devices in development is a trend that's not going away anytime soon.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-When we commonly think of Virtual Reality our first thought is to turn to a modern VR headset as well as all of the various PC applications which are beginning to include virtual-reality support. Virtual-reality actually has an extensive history with a concept that dates all the way back to the 1930s. In this article we will discuss the history of VR and how it has evolved since an early concept into the amazing simulation experience that you can have in your home today.
-
-![history-of-vr](https://images.wondershare.com/filmora/article-images/history-of-vr.bmp)
-
- **_You may also like:_**
-_[What is virtual reality and how does it work?](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
-
-## VR development in 1930s
-
-In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
-
-## VR development in 1960s
-
-VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
-
-## VR development in 1990s
-
-VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
-
-## VR development in 2014
-
-Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
-
-## VR development in 2016 and beyond
-
-With the initial surge after Oculus Rift, companies all over the world began building their own VR headsets and producing some fantastic new tech. With so many new devices coming out from many of the world's top manufacturers, we are seeing huge developments when it comes to apps, 360° cameras, inexpensive headsets, VR glass experiences and more. As 3-D graphics continue to get better and is processing power lines at an exponential rate, VR is becoming a focus for many developers in the future. There are many consumer products coming out to compete with Oculus based off its demand as well as generic products for use with smart phone technology. As many smart phones have the accelerometer data, advanced soundcards and graphic sets for 3d rendering users are opting to watch 360 videos and try virtual-reality apps with their smartphone and home devices like Google Cardboard. Other users however are holding out for products like the Oculus Rift, Playstation VR and more. With all of these devices set to drop in mass circulation by the end of 2016 or the start of 2017 we are truly going to start seeing at home VR experiences which are widespread.
-
-The future of VR looks very bright and with so many new devices in development is a trend that's not going away anytime soon.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-When we commonly think of Virtual Reality our first thought is to turn to a modern VR headset as well as all of the various PC applications which are beginning to include virtual-reality support. Virtual-reality actually has an extensive history with a concept that dates all the way back to the 1930s. In this article we will discuss the history of VR and how it has evolved since an early concept into the amazing simulation experience that you can have in your home today.
-
-![history-of-vr](https://images.wondershare.com/filmora/article-images/history-of-vr.bmp)
-
- **_You may also like:_**
-_[What is virtual reality and how does it work?](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
-
-## VR development in 1930s
-
-In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
-
-## VR development in 1960s
-
-VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
-
-## VR development in 1990s
-
-VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
-
-## VR development in 2014
-
-Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## VR development in 2016 and beyond
 
 With the initial surge after Oculus Rift, companies all over the world began building their own VR headsets and producing some fantastic new tech. With so many new devices coming out from many of the world's top manufacturers, we are seeing huge developments when it comes to apps, 360° cameras, inexpensive headsets, VR glass experiences and more. As 3-D graphics continue to get better and is processing power lines at an exponential rate, VR is becoming a focus for many developers in the future. There are many consumer products coming out to compete with Oculus based off its demand as well as generic products for use with smart phone technology. As many smart phones have the accelerometer data, advanced soundcards and graphic sets for 3d rendering users are opting to watch 360 videos and try virtual-reality apps with their smartphone and home devices like Google Cardboard. Other users however are holding out for products like the Oculus Rift, Playstation VR and more. With all of these devices set to drop in mass circulation by the end of 2016 or the start of 2017 we are truly going to start seeing at home VR experiences which are widespread.
@@ -216,3 +258,51 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-formulating-final-fact-finding-flourishes-for-2024/"><u>[New] Formulating Final Fact-Finding Flourishes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-laughter-labyrayer-with-adobes-help/"><u>[New] Laughter Labyrayer with Adobe's Help</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterclass-guide-15-tripods-perfect-for-gopro/"><u>[New] Masterclass Guide  15 Tripods Perfect for GoPro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-film-color-correction-with-luts/"><u>[New] Mastering Film Color Correction with Luts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-online-marketing-for-newcomers/"><u>[New] Mastering the Art of Online Marketing for Newcomers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-complexities-of-youtubes-subtitles-download-with-3-proven-techniques/"><u>[New] Navigating the Complexities of YouTube's Subtitles  Download With 3 Proven Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-setting-up-a-facebook-donation-challenge/"><u>[New] Setting Up a Facebook Donation Challenge</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-storing-image-frames-from-videos-on-windows-11/"><u>[New] Storing Image Frames From Videos on Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-channeling-success-the-essential-elements-for-profitable-video-trailers/"><u>[Updated] Channeling Success  The Essential Elements for Profitable Video Trailers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-make-every-frame-count-a-list-of-the-hottest-50-video-reducing-apps-for-your-phone/"><u>[Updated] Make Every Frame Count  A List of the Hottest 50 Video-Reducing Apps for Your Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selecting-the-best-sketchpad-and-design-tools-for-windows/"><u>[Updated] Selecting the Best Sketchpad and Design Tools for Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-srt-transformation-from-ttml-xml-and-ssa/"><u>[Updated] Simplified SRT Transformation From TTML, XML & SSA</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-soundscapes-synced-video-with-music-via-windows-11-software/"><u>[Updated] Soundscapes Synced  Video with Music via Windows 11 Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-11-brainy-battles-general-knowledge-channels-revealed/"><u>[Updated] Top 11 Brainy Battles  General Knowledge Channels Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-charting-the-course-for-a-cohesive-subscriber-rich-channel/"><u>2024 Approved  Charting the Course for a Cohesive, Subscriber-Rich Channel</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-your-mix-essential-audio-devices-for-podcast-success/"><u>2024 Approved  Master Your Mix  Essential Audio Devices for Podcast Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-gradual-audio-silence-with-audacity/"><u>2024 Approved  Mastering Gradual Audio Silence with Audacity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-language-free-top-8-srt-translation-websites/"><u>2024 Approved  Mastering Language  Free, Top 8 SRT Translation Websites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-in-voice-change-with-morphvox/"><u>2024 Approved  Mastery in Voice Change with MorphVOX</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximize-your-results-with-these-10-free-jpeg-to-gif-tools/"><u>2024 Approved  Maximize Your Results with These 10 Free JPEG-to-GIF Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-photography-hacks-perfecting-motion-blur-with-adobe-tools/"><u>2024 Approved  Professional Photography Hacks  Perfecting Motion Blur with Adobe Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-windows-data-assessment-tutorial/"><u>2024 Approved  Quick Windows Data Assessment Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-richer-screen-content-filter-integration-on-devices/"><u>2024 Approved  Richer Screen Content  Filter Integration on Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smile-and-shine-enhance-photos-at-zero-cost/"><u>2024 Approved  Smile & Shine  Enhance Photos at Zero Cost</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snap-to-it-ios-and-android-writers-choice/"><u>2024 Approved  Snap to It – iOS & Android' Writers’ Choice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-camon-20-pro-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Camon 20 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-v30-lite-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo V30 Lite 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/el-conclusion-mastery-customized-screens-in-focus-for-2024/"><u>Channel Conclusion Mastery  Customized Screens in Focus for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-survey-lightroom-app-unpacked-android/"><u>Complete Survey  Lightroom App Unpacked (Android)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-zte-axon-40-lite-easily-by-drfone-android/"><u>How To Unlock a ZTE Axon 40 Lite Easily?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-interactive-vs-passive-content-consumption-twitch-vs-youtube/"><u>In 2024, Interactive vs Passive Content Consumption  Twitch Vs YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-your-photos-the-prime-selection-of-no-cost-editors/"><u>In 2024, Master Your Photos  The Prime Selection of No-Cost Editors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-maze-of-srt-to-multiple-media-standards/"><u>In 2024, Navigating the Maze of SRT to Multiple Media Standards</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-next-level-vr-tools-top-8-selection/"><u>In 2024, Next-Level VR Tools  Top 8 Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-and-playfulness-building-high-quality-gifs/"><u>In 2024, Precision and Playfulness  Building High-Quality GIFs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-guide-to-enhancing-colors-in-photoshop/"><u>In 2024, Quick Guide to Enhancing Colors in Photoshop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-nearby-nuances-in-your-minecraft-realm-for-2024/"><u>Navigating Nearby Nuances in Your Minecraft Realm for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/precision-in-portability-the-ultimate-list-of-35-free-android-video-compressors-for-2024/"><u>Precision in Portability  The Ultimate List of 35 Free Android Video Compressors for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-video-creators-choice-10-exceptional-photo-background-alternators-for-2024/"><u>Pro Video Creators' Choice  10 Exceptional Photo-Background Alternators for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-visual-enhancements-using-portable-lut-tools-for-2024/"><u>Quick Visual Enhancements Using Portable LUT Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quickening-realities-with-hyperlapse-methods-for-2024/"><u>Quickening Realities with Hyperlapse Methods for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sketchsquad-full-scrutiny-and-step-by-step-guidebook-24-for-2024/"><u>SketchSquad Full Scrutiny & Step-by-Step Guidebook '24 for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-data-recovery-data-recovery-software-free-download/"><u>Stellar Data Recovery: Data Recovery Software Free Download</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-edge-2023-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola Edge 2023 Location | Dr.fone</u></a></li>
+</ul></div>

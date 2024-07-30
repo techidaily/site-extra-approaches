@@ -1,7 +1,7 @@
 ---
 title: "Professional Tips for Erasing Borders in Canva Graphics for 2024"
-date: 2024-05-31T05:26:22.274Z
-updated: 2024-06-01T05:26:22.274Z
+date: 2024-07-27T18:15:13.231Z
+updated: 2024-07-28T18:15:13.231Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Professional Tips for Erasing Borders in Canva Graphics for 2024"
 excerpt: "This Article Describes Professional Tips for Erasing Borders in Canva Graphics for 2024"
 keywords: "ProVidCam2024,NextGenshot,VidTechPicks,CamProTop2024,VideoNextGen,TopVidTech2024,ProVideoCameras"
-thumbnail: https://www.lifewire.com/thmb/hvzE9Xh2_RVDNS03GaGfv4HBO0g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-apple-tv-1994193-f05afc8429e74037b282259526cd6ead.png
+thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149d391d468a9425edc03d4511.png
 ---
 
 ## Professional Tips for Erasing Borders in Canva Graphics
@@ -42,22 +42,34 @@ Step1
 
 Step2 Click **"Create a Design"** and select **"Edit Photo."** Click the **"Use in a Design"** option from the top right corner of the pop-up screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![remove an image background in canva on pc](https://images.wondershare.com/filmora/article-images/2023/03/remove-an-image-background-in-canva-on-pc.png)
 
 Step3 Now, you will be directed to a new tab. Select your image and click the **"Edit Image"** option from the top ribbon.
 
 Step4 From the left side menu, click **"Background Remover."** Wait for the background to be processed and click **"Erase."** You can also use the cursor brush to remove the sides manually.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![background remover in canva](https://images.wondershare.com/filmora/article-images/2023/03/background-remover-in-canva.png)
 
 Once the background is disappeared, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### On Mobile
 
 The following steps will help you remove the image's background in Canva using its mobile app. The steps for iOS and Android systems are similar, and here we use an Android telephone as an example:
 
 Step1 Install Canva from [App Store](https://apps.apple.com/us/app/canva-design-photo-video/id897446215) or [Google Play Store](https://play.google.com/store/apps/details?id=com.canva.editor&hl=en&gl=US) in first step. Launch the app and tap the purple "Plus" icon at the bottom-right of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![remove an image background in canva on mobile](https://images.wondershare.com/filmora/article-images/2023/03/remove-an-image-background-in-canva-on-mobile.png)
 
 Step2 Go to the **"More Ways To Create"** section and tap the **"See All"** option. Select your image and tap **"Create"** at the top right corner of the screen.
@@ -68,6 +80,9 @@ Step3 Next, tap the **"Effects"** option from the menu below and select **"BG Re
 
 **Note:** The **"Background Remover"** is available only in the premium version, letting you remove BG from up to 500 images daily.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Facilitate Functions Of Removing Image's Background More Accurately
 
 Follwing the above guidance, you can remove the image's background with Canva with ease. However, there are two must-see functions in Canva which facilitate the accuracy of background removal.
@@ -76,6 +91,9 @@ Canva's Erase and Restore function makes it easy to remove image backgrounds. [W
 
 ![erase and restore options in canva](https://images.wondershare.com/filmora/article-images/2023/03/erase-and-restore-options-in-canva.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### To erase an element from an image
 
 Step1 Select the **Erase** brush from the left panel under the **Background Remover** option
@@ -90,6 +108,9 @@ Step1 Select the **Restore** brush from the left panel under the **Background Re
 
 Step2 Click on the **area** you want to restore.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** These tools are only available in the Canva web and desktop version.
@@ -136,8 +157,14 @@ Step1 Visit the PixCut website and click the **"Upload Image"** option to import
 
 Step2 Let the tool process your image, and the background will be removed instantly. You can click the **"Download"** option to save the file on your PC or use the **"Manual Erase & Restore"** option to edit it further.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![remove an image background in pixcut](https://images.wondershare.com/filmora/article-images/2023/03/remove-an-image-background-in-pixcut.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored how to remove an image's background using the web version and mobile app with quick and simple steps. However, if you want to learn more about Canva editor, [click here to learn the 10 secret tips](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -146,12 +173,18 @@ In the end, we've recommended PixCut as the best alternative to Canva for removi
 
 Hopefully, you've found this article helpful and can now optimize your images in any way you like!
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Facilitate Functions Of Removing Image's Background More Accurately
 
 Follwing the above guidance, you can remove the image's background with Canva with ease. However, there are two must-see functions in Canva which facilitate the accuracy of background removal.
 
 Canva's Erase and Restore function makes it easy to remove image backgrounds. [With **Erase**](#%5FTo%5Ferase%5Fan), you can select and erase specific elements from an image. [With **Restore**](#%5FTo%5Fundo%5Fan), you can undo any accidental erasures. Here's a quick overview of how to use these two functions:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase and restore options in canva](https://images.wondershare.com/filmora/article-images/2023/03/erase-and-restore-options-in-canva.png)
 
 ### To erase an element from an image
@@ -162,6 +195,9 @@ Step2 Adjust the size of the **erase tool** to fit the element you want to remov
 
 Step3 Select the **element** you want to remove.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### To undo an erase
 
 Step1 Select the **Restore** brush from the left panel under the **Background Remover** option
@@ -216,6 +252,9 @@ Step2 Let the tool process your image, and the background will be removed instan
 
 ![remove an image background in pixcut](https://images.wondershare.com/filmora/article-images/2023/03/remove-an-image-background-in-pixcut.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored how to remove an image's background using the web version and mobile app with quick and simple steps. However, if you want to learn more about Canva editor, [click here to learn the 10 secret tips](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -246,3 +285,45 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-downloadfacebookcontent-the-premiere-addons-and-browser-plugins-for-facebook-videos-firefox-edition/"><u>[New] 2024 Approved  DownloadFacebookContent! - The Premiere Addons and Browser Plugins for Facebook Videos, FireFox Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-sound-digitization-audiovisual-preservation/"><u>[New] In 2024, Sound Digitization  Audiovisual Preservation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-investigating-dji-raptor-vr-headset-effectiveness/"><u>[New] Investigating DJi Raptor VR Headset Effectiveness</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-gaming-hubs-the-9-you-cant-miss/"><u>[New] Live Gaming Hubs  The 9 You Can't Miss</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-multi-platform-windows-film-editor-clones/"><u>[New] Multi-Platform Windows Film Editor Clones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-nuances-of-snapchat-spotlight/"><u>[New] Navigating the Nuances of Snapchat Spotlight</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nikon-d500-unveiled-the-frontier-of-high-definition-photography/"><u>[New] Nikon D500 Unveiled  The Frontier of High-Definition Photography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-skyrocket-your-streaming-status-three-winning-techniques-for-newbies/"><u>[New] Skyrocket Your Streaming Status  Three Winning Techniques for Newbies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-gentle-audio-dampening-on-lumafusion-platforms/"><u>[New] The Art of Gentle Audio Dampening on Lumafusion Platforms</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-a-step-by-step-approach-for-thumbnail-creation-professionals/"><u>[Updated] In 2024, A Step-By-Step Approach for Thumbnail Creation Professionals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-ways-to-record-mobile-content-on-android/"><u>[Updated] In 2024, Innovative Ways to Record Mobile Content on Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-integrating-timestamps-into-your-images/"><u>[Updated] Integrating Timestamps Into Your Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximize-productivity-innovative-windows-10-tips/"><u>[Updated] Maximize Productivity  Innovative Windows 10 Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-8-windows-audio-apps-compared/"><u>[Updated] Premier 8-Windows Audio Apps Compared</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-race-through-the-olympics-top-sections-2022/"><u>[Updated] Race Through the Olympics  Top Sections, 2022</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>[Updated] Removing Obstacles  A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-acquiring-unblemished-image-libraries/"><u>[Updated] Secrets to Acquiring Unblemished Image Libraries</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-introducing-dimensional-text-with-photoshop-expertise/"><u>2024 Approved  Introducing Dimensional Text with Photoshop Expertise</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-easy-shifts-adjust-imagesvideos-smartly/"><u>2024 Approved  Quick, Easy Shifts  Adjust Images/Videos Smartly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-transitioning-sounds-with-audacity-tips/"><u>2024 Approved  Seamlessly Transitioning Sounds with Audacity Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-strategic-gaming-alliance-between-microsoft-and-blizzard/"><u>Dissecting the Strategic Gaming Alliance Between Microsoft & Blizzard</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-motionmaster-win8-version/"><u>In 2024, MotionMaster Win8 Version</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-personalized-guide-to-the-best-android-podcast-apps-top-6-selections/"><u>In 2024, Personalized Guide to the Best Android Podcast Apps – Top 6 Selections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-refining-zoom-image-precision-proactive-measures/"><u>In 2024, Refining Zoom Image Precision  Proactive Measures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scripting-space-and-time-manipulation-for-movies/"><u>In 2024, Scripting Space & Time Manipulation for Movies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-shareable-online-laughter/"><u>In 2024, Sculpting Shareable Online Laughter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shade-portraits-with-orbital-illumination-technique-cs/"><u>In 2024, Shade Portraits with Orbital Illumination Technique CS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-solving-the-issue-of-spinning-videos-on-instagram/"><u>In 2024, Solving the Issue of Spinning Videos on Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-spotlight-on-cities-for-virtual-viewing/"><u>In 2024, Spotlight on Cities for Virtual Viewing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-storytelling-at-its-simplest/"><u>In 2024, Storytelling at Its Simplest</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-slug-lines-for-content-engagement-for-2024/"><u>Leveraging Slug Lines for Content Engagement for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-using-high-dynamic-range-auto-hdr-in-windows-11-for-2024/"><u>Mastering the Art of Using High Dynamic Range (Auto HDR) in Windows 11 for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-voice-generators-and-changers-with-the-most-anime-voices-supported/"><u>New Best Voice Generators & Changers with The Most Anime Voices Supported</u></a></li>
+<li><a href="https://fox-http.techidaily.com/perfecting-your-shots-action-cameras-for-skisnowboarding/"><u>Perfecting Your Shots  Action Cameras for Ski/Snowboarding</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-camcorders-head-on-video-sharing-for-2024/"><u>Premium Camcorders  Head-On Video Sharing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/securing-memories-a-comprehensive-guide-for-scanning-and-storing-vintage-photos-for-2024/"><u>Securing Memories  A Comprehensive Guide for Scanning and Storing Vintage Photos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-tutorial-for-building-movies-on-windows-8-for-2024/"><u>Step-by-Step Tutorial for Building Movies on Windows 8 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleash-your-contents-potential-organic-growth-tactics-for-2024/"><u>Unleash Your Content's Potential  Organic Growth Tactics for 2024</u></a></li>
+</ul></div>

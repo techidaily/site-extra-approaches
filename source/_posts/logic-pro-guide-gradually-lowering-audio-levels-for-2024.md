@@ -1,7 +1,7 @@
 ---
 title: "\"Logic Pro Guide  Gradually Lowering Audio Levels for 2024\""
-date: 2024-05-31T05:29:43.183Z
-updated: 2024-06-01T05:29:43.183Z
+date: 2024-07-27T21:42:57.557Z
+updated: 2024-07-28T21:42:57.557Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Logic Pro Guide: Gradually Lowering Audio Levels for 2024\""
 excerpt: "\"This Article Describes Logic Pro Guide: Gradually Lowering Audio Levels for 2024\""
 keywords: "Logic Pro Sound Reduction,Audio Level Decline Tips,Logic Pro Mixdown Techniques,Gradual Volume Cut Guide,Lowering Audio in Pro,Mastering Soft Transition,Pro Audio Fade Methods"
-thumbnail: https://www.lifewire.com/thmb/eHXngyyoX5Le8j_8_iSN0qts3UM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/projectorheadlights-5c252a8446e0fb0001500eef.jpg
+thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44e5497cff1919865c9f50ec3.jpg
 ---
 
 ## Logic Pro Guide: Gradually Lowering Audio Levels
@@ -32,6 +32,9 @@ The Logic Pro fade-out method, generally, in music production is used to gradual
 
 The tool may be used in your productions to help you conclude songs gradually and create more seamless transitions between different parts of your project. In Logic, there are several ways to create fades, but the two most popular methods are automation and the fade tool. The appropriate course of action will vary depending on several variables that we shall discuss later in this piece.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Employ an Automation Tool
 
 This technique is ideal for doing minor changes on a single audio sample. It will only function with an audio area, much as the fade tool. Make sure you adhere to the following procedures since this technique is excellent for streamlining your workflow: This is the method to use if you need to remove a song or area without bouncing.
@@ -46,6 +49,9 @@ Step2 Enter the required value for your fade in the Fade Out section by clicking
 
 Step3 Create an automation curve on the produced fade using the Curve section if you'd like. For greater control, you may add a curve to your fading automation. To achieve this, choose the Automation Curve Tool by clicking on the Tool Selector at the top of the Arrangement View. Then, left-click and drag your automation point up or down between the points.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![automation curve logic pro](https://images.wondershare.com/filmora/article-images/2022/07/automation-curve-logic-pro.jpg)
 
 ### Method 2: Employ the Fade-Out Tool
@@ -62,12 +68,18 @@ Step2 Select the fade tool, then left-click on the beginning point of your fadin
 
 Step3 The "Fade Out" option may also be used to manage how quickly an area fades out. You must first choose an area and then press the "Fade Out" slider to do this. A playhead may regulate a cross-fade depending on the genre of music. The choice is unaffected by this. However, you should utilize the "Fade In" slider if you're employing an audio effect in a video.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Utilize a File Editor
 
 Using the File Editor to modify is another method for fading in Logic Pro X. This technique records audio data directly. If you're manipulating a single audio sample or area without bouncing, this is helpful. Simply choose the "Fade Out" option from the track menu to alter an audio area. To adjust the fade-out area throughout this procedure, you will need to move the playhead back and forth.
 
 Step1 Either hit the E key or click the icon of a button with a pair of scissors in the top left corner of your screen. Drag the start of your fade from where you want it to start on your waveform to where you want it to stop. Choose File from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose file menu logic pro](https://images.wondershare.com/filmora/article-images/2022/07/choose-file-menu-logic-pro.jpg)
 
 Step2 To generate a seamless fade while dealing with audio, you must utilize the fade tool. You may use this to open and shut various audio zones. Use of the fade tool will make producing a smooth fade simpler. You may easily switch between various portions of the song by using the "Fade Out" button.
@@ -78,6 +90,9 @@ Step3 Additionally, you will always have the option to change the level, which i
 
 ![edit music logic pro](https://images.wondershare.com/filmora/article-images/2022/07/edit-music-logic-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Logic Pro X Alternative to Fade Audio
 
 Logic Pro has long been the preferred choice for audio editors who can afford a Mac, but what if your whole workflow is dependent on Microsoft Windows? Logic Pro X isn't now and won't likely be anytime soon accessible for Windows. As a result, you must consider Logic Pro alternatives for Windows, and [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is among the top Logic Pro X replacements. It has one of the nicest user interfaces out there.
@@ -102,6 +117,9 @@ Then, you must import your files, which is easy with Filmora since you just need
 
 You must drag the media files into the program's timeline after importing them into Filmora. You may modify your media files using every tool in the timeline. To utilize Filmora's audio editor, just right-click on the specific audio file and choose "Edit Audio" from the list:
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch audio editor in filmora](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Use the Audio Fade-in/Fade-out
@@ -116,12 +134,18 @@ To achieve this, focus on the audio file that you want to change in the timeline
 
 In the final touch, if you are content with the way your voice has evolved, now may be the ideal time to maintain it or even record it. There is support for all widely used video and audio formats, including MP3\. Click "Export" and choose the appropriate file format from the Local menu as shown below to do this. The parameters as indicated below allow you to alter the ultimate location of the altered audio file:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, if you want the Logic Pro experience on Windows and Mac as well, you have [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as an alternate choice. Everything in the suite, including various effects and composition tools, is included. In conclusion, Filmora is highly feature-rich and enables you to carry out a range of activities, such as crossfading, composition, recording, editing, mixing, and posting to social media sites. Therefore, Filmora is your best option if you want to completely experience a DAW on Windows and Mac.
 
 </article
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Ways to Fade Audio with Logic Pro X
 
 The tool may be used in your productions to help you conclude songs gradually and create more seamless transitions between different parts of your project. In Logic, there are several ways to create fades, but the two most popular methods are automation and the fade tool. The appropriate course of action will vary depending on several variables that we shall discuss later in this piece.
@@ -136,10 +160,16 @@ Step1 Locate the section Region Inspector on the left top side of your screen af
 
 Step2 Enter the required value for your fade in the Fade Out section by clicking More and then finding it. If you're uncertain, experiment with various figures until you find the ideal one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fade out section logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-out-section-logic-pro.jpg)
 
 Step3 Create an automation curve on the produced fade using the Curve section if you'd like. For greater control, you may add a curve to your fading automation. To achieve this, choose the Automation Curve Tool by clicking on the Tool Selector at the top of the Arrangement View. Then, left-click and drag your automation point up or down between the points.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![automation curve logic pro](https://images.wondershare.com/filmora/article-images/2022/07/automation-curve-logic-pro.jpg)
 
 ### Method 2: Employ the Fade-Out Tool
@@ -148,6 +178,9 @@ The fading-out process has additional option in Logic Pro. An audio track will f
 
 Step1 Navigate to the Tool Selector located at the Region View's top. Select the Fade Tool by expanding it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![fade tool logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-tool-logic-pro.jpg)
 
 Step2 Select the fade tool, then left-click on the beginning point of your fading while still in the appropriate audio zone. Till the conclusion of your fade, drag the mouse.
@@ -156,16 +189,25 @@ Step2 Select the fade tool, then left-click on the beginning point of your fadin
 
 Step3 The "Fade Out" option may also be used to manage how quickly an area fades out. You must first choose an area and then press the "Fade Out" slider to do this. A playhead may regulate a cross-fade depending on the genre of music. The choice is unaffected by this. However, you should utilize the "Fade In" slider if you're employing an audio effect in a video.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Utilize a File Editor
 
 Using the File Editor to modify is another method for fading in Logic Pro X. This technique records audio data directly. If you're manipulating a single audio sample or area without bouncing, this is helpful. Simply choose the "Fade Out" option from the track menu to alter an audio area. To adjust the fade-out area throughout this procedure, you will need to move the playhead back and forth.
 
 Step1 Either hit the E key or click the icon of a button with a pair of scissors in the top left corner of your screen. Drag the start of your fade from where you want it to start on your waveform to where you want it to stop. Choose File from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![choose file menu logic pro](https://images.wondershare.com/filmora/article-images/2022/07/choose-file-menu-logic-pro.jpg)
 
 Step2 To generate a seamless fade while dealing with audio, you must utilize the fade tool. You may use this to open and shut various audio zones. Use of the fade tool will make producing a smooth fade simpler. You may easily switch between various portions of the song by using the "Fade Out" button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fade out funtions logic pro](https://images.wondershare.com/filmora/article-images/2022/07/fade-out-funtions-logic-pro.jpg)
 
 Step3 Additionally, you will always have the option to change the level, which is a terrific method to avoid having too much background noise in your music as shown here:
@@ -196,6 +238,9 @@ Then, you must import your files, which is easy with Filmora since you just need
 
 You must drag the media files into the program's timeline after importing them into Filmora. You may modify your media files using every tool in the timeline. To utilize Filmora's audio editor, just right-click on the specific audio file and choose "Edit Audio" from the list:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![launch audio editor in filmora](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Use the Audio Fade-in/Fade-out
@@ -204,6 +249,9 @@ The first step in this process is to learn how to use Filmora to start fading in
 
 To achieve this, focus on the audio file that you want to change in the timeline; after you've picked it, the two icons will show up above the audio file. As demonstrated, drag the first one to the desired duration for the audio fade-in option. In Filmora, click the other symbol and drag it to the necessary length to finish the fade-out.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![use audio fade out](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ##### Step4 Export Your Fade Out Video
@@ -236,3 +284,40 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comprehensive-guide-record-webcam-in-hd-via-vlc/"><u>[New] 2024 Approved  Comprehensive Guide  Record Webcam in HD via VLC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-lgs-gaming-monitor-review-the-future-of-4k-freesync/"><u>[New] 2024 Approved  LG’s Gaming Monitor Review - The Future of 4K FreeSync</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inspirational-article-leaderboard-maker/"><u>[New] Inspirational Article Leaderboard Maker</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-flight-control-best-motor-selections-unveiled/"><u>[New] Mastering Flight Control  Best Motor Selections Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-live-cricket-livestreams/"><u>[New] Mastering the Art of Live Cricket Livestreams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>[New] Prime Time  Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proving-your-phones-ability-ios-11-camera-enhancements/"><u>[New] Proving Your Phone's Ability  IOS 11 Camera Enhancements</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spotlight-on-top-8-sites-where-3d-meets-lustrous-text/"><u>[New] Spotlight on Top 8 Sites  Where 3D Meets Lustrous Text</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlock-free-music-anytime-facebook-app-for-2024/"><u>[New] Unlock Free Music, Anytime - Facebook App for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-picture-perfect-best-apps-for-framing-your-memories/"><u>[Updated] Picture Perfect  Best Apps for Framing Your Memories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reel-motivation-a-curated-list-of-top-10-film-titles/"><u>[Updated] Reel Motivation  A Curated List of Top 10 Film Titles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rhythm-and-reel-the-imovie-music-guidebook/"><u>[Updated] Rhythm and Reel  The iMovie Music Guidebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-srt-explained-essential-aspects-and-more/"><u>[Updated] SRT Explained  Essential Aspects and More</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-your-visual-impact-journey-begins-with-our-50-free-banners/"><u>[Updated] Your Visual Impact Journey Begins with Our 50 FREE Banners</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-embedding-weblinks-on-instas-story-feature/"><u>2024 Approved  Embedding Weblinks on Insta's Story Feature</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-mac-preview-a-compreranary-reference-guide/"><u>2024 Approved  Mastering Mac Preview  A Compreranary Reference Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-never-a-cap-on-saved-instagram-stories/"><u>2024 Approved  Never a Cap on Saved Instagram Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-live-streams-with-onestream-a-beginners-guide/"><u>2024 Approved  Optimizing Live Streams with OneStream  A Beginner's Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-portable-visual-tinkering-a-lut-enthusiasts-guide/"><u>2024 Approved  Portable Visual Tinkering  A LUT Enthusiast's Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-significant-tenets-of-interactive-storytelling/"><u>2024 Approved  Significant Tenets of Interactive Storytelling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-starting-strategies-for-an-engaging-fb-giveaway/"><u>2024 Approved  Starting Strategies for an Engaging FB Giveaway</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-speeding-up-snapchat-media-video/"><u>2024 Approved  Step-by-Step  Speeding Up Snapchat Media (Video)</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g-stylus-2023-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-poco-m6-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Poco M6 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-hdr-photos-advanced-techniques-in-photoshop/"><u>In 2024, Mastering HDR Photos  Advanced Techniques in Photoshop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-instagram-stories-a-step-by-step-polling-guide/"><u>In 2024, Mastering Instagram Stories  A Step-by-Step Polling Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-timelapse-using-gopro-hero5-black/"><u>In 2024, Mastering Timelapse  Using GoPro Hero5 Black</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-must-have-add-ons-for-your-gopro-adventure/"><u>In 2024, Must-Have Add-Ons for Your GoPro Adventure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/launching-your-first-telegram-marketing-campaign-for-2024/"><u>Launching Your First Telegram Marketing Campaign for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-viral-potential-in-tiktok-unboxer-videos-for-2024/"><u>Mastering Viral Potential in TikTok Unboxer Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-storage-solutions-the-leading-10-gopro-housings-for-2024/"><u>Optimal Storage Solutions - The Leading 10 GoPro Housings for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u-for-2024/"><u>SNS HDR Pro Review  Is It Worth Using and What Other HDR Software to U for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-vhs-80s-effects-to-use-in-video-editing/"><u>Top VHS 80S Effects to Use in Video Editing</u></a></li>
+</ul></div>
