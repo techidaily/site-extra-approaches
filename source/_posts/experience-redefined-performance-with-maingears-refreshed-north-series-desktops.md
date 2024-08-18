@@ -1,0 +1,101 @@
+---
+title: Experience Redefined Performance with Maingear's Refreshed North Series Desktops
+date: 2024-08-17T20:45:34.823Z
+updated: 2024-08-18T20:45:34.823Z
+tags:
+  - desktop
+categories:
+  - hardware
+thumbnail: https://cdn.mos.cms.futurecdn.net/9dZYboKt4f9JQX3fsfHW3n-320-80.jpg
+---
+
+## $59/Month: High-Performance NZXT Gaming Desktops with Intel I5 & GTX 4060 - Reserve Your Exclusive Access
+
+NZXT has initiated a new subscription plan —[NZXT Flex](https://shareasale.com/r.cfm?b=755373&u=4338022&m=60525&afftrack=techidaily&urllink=https%3A%2F%2Fsilver-cuisine.pxf.io%2Fnlgolx) — that enables gamers to rent a pre-built NZXT gaming system for a monthly fee. With NZXT Flex, customers can rent a gaming PC for as little as $59 monthly with guaranteed component upgrades every two years.
+
+ NZXT Flex has three subscription tiers revolving around NZXT's pre-existing Player pre-built gaming PCs. The Player: One, featuring a Core i5-14400F,[RTX 4060](https://www.tomshardware.com/reviews/nvidia-geforce-rtx-4060-review-asus-dual) , and H5 Flow case, is the cheapest offering with NZXT's subscription service that can be rented for $59 monthly. The Player: Two is the mid-range offering featuring a Ryzen 5 5600X, RTX 4070 Super, and H5 Elite case, which can be rented for $119 monthly. The Player: Three is the most potent system users can rent from NZXT, featuring a Core i7-13700KF, RTX 4070 Ti Super, and H7 Flow chassis for $169 monthly.
+
+ Additional perks of the Flex subscription service include a lifetime warranty and 24/7 support. Customers who keep their systems long enough will also receive "guaranteed" PC upgrades every two years to keep their systems up to date.
+
+![NZXT Flex Subscription Tiers](https://cdn.mos.cms.futurecdn.net/xHzgMBCkYAYYHmc6iPETgK-320-80.png)
+
+(Image credit: NZXT)
+
+ Flex was made to improve PC gaming accessibility. According to Bryan De Zayas, NZXT's Head of Marketing: "At NZXT, we believe everyone should be able to play the games they love," "In the past, that meant buying a pre-built PC or building your own. Our new Flex subscription service offers gamers more flexibility and choice, so they can focus on what really matters – playing the games they love." NZXT's subscription service gives gamers access to a modern gaming PC when they otherwise couldn't afford one.
+
+ LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+ The only caveat with NZXT Flex is that it starts to lose its value over a long period — for customers who plan to rent their machines for over two years. The Player: One, for instance, can be bought for approximately $1,054.00 with virtually the same specs as the rentable version for $59 a month, translating into almost 18 months before you've spent enough money to buy the system outright (approximately). But the upside is that you are getting unlimited support and free component upgrades every two years.
+
+ Flex won't be for everyone, but for gamers who need a modern gaming PC in a pinch and don't want to buy a new system on a credit card (which can add interest to the system's total cost), NZXT's Flex subscription service is a solution.
+
+## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
+
+ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+ Contact me with news and offers from other Future brands  Receive email from us on behalf of our trusted partners or sponsors
+
+ By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-viewer-response-crafting-engaging-ig-story-qandas/"><u>[New] Elevate Viewer Response  Crafting Engaging IG Story Q&As</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instagram-shout-out-for-podcast-fans/"><u>[New] Instagram Shout-Out for Podcast Fans</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-of-picture-perfection-top-10-screens/"><u>[New] Pinnacle of Picture Perfection  Top 10 Screens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-projector-vs-tv-showdown-which-prevails-in-4k-clarity/"><u>[New] Projector vs TV Showdown  Which Prevails in 4K Clarity?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-10-youtube-music-rippers-for-android-and-ios/"><u>[Updated] 10 YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-thousands-of-youtube-views-in-30-days/"><u>[Updated] In 2024, How To Get Thousands of YouTube Views in 30 Days</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-how-to-tweet-videos-on-iphoneandroid-without-a-retweet/"><u>[Updated] In 2024, How To Tweet Videos on iPhone/Android Without a Retweet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mass-movement-mastery-the-drone-top-list/"><u>[Updated] Mass Movement Mastery  The Drone Top List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-color-concealment-in-premiere/"><u>[Updated] Quick Color Concealment in Premiere</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ringtone-renaissance-websites-worth-visiting/"><u>[Updated] Ringtone Renaissance  Websites Worth Visiting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secure-and-spacious-our-compilation-of-best-20-free-cloud-services/"><u>[Updated] Secure & Spacious  Our Compilation of Best 20 Free Cloud Services</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-selecting-the-ultimate-business-vault/"><u>[Updated] Selecting the Ultimate Business Vault</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-videographers-packing-essentials-kit/"><u>[Updated] The Videographer's Packing Essentials Kit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-psd-mastery-journey-unlimited-complimentary-texts/"><u>2024 Approved  PSD Mastery Journey  Unlimited Complimentary Texts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rapid-methods-to-customize-your-soundscaping-in-pubg/"><u>2024 Approved  Rapid Methods to Customize Your Soundscaping in PUBG</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sound-system-personalizations-on-ps-games/"><u>2024 Approved  Sound System Personalizations on PS Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-building-high-quality-windows-11-videos/"><u>2024 Approved  Step-by-Step Guide  Building High-Quality Windows 11 Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-transformative-tinsel-a-journey-from-box-to-joy/"><u>2024 Approved  Transformative Tinsel  A Journey From Box to Joy</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-x-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone X? Learn All 4 Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-infinix-note-30-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-s24plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy S24+ without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-spark-10c-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Spark 10C Phone? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-fb-video-to-mp3-transform-your-shares-into-music-beats/"><u>In 2024, FB Video-to-MP3  Transform Your Shares Into Music Beats</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-xr21-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia XR21 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-picks-top-gimbals-for-drones/"><u>In 2024, Professional Picks  Top Gimbals for Drones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity/"><u>In 2024, Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speaking-the-unspoken-writing-subtext-driven-dialogues/"><u>In 2024, Speaking the Unspoken  Writing Subtext-Driven Dialogues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro-for-2024/"><u>Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inter-service-shuffle-keeping-playlist-purity-for-2024/"><u>Inter-Service Shuffle  Keeping Playlist Purity for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter-for-2024/"><u>Leading iPhone Apps  The Ultimate Guide to Removing Photo Clutter for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-youtube-conversion-the-ultimate-4k-guide-for-2024/"><u>Mastering YouTube Conversion  The Ultimate 4K Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picture-perfect-viewing-the-best-8k-monitors-uncovered-for-2024/"><u>Picture Perfect Viewing  The Best 8K Monitors Uncovered for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/precisely-how-to-disconnect-from-your-outdated-linkedin-account-for-2024/"><u>Precisely How To Disconnect From Your Outdated LinkedIn Account for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proven-iphone-markers-our-reviewed-top-9-water-marking-apps-for-2024/"><u>Proven iPhone Markers  Our Reviewed Top 9 Water-Marking Apps for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-90-lite-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor 90 Lite Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-installing-and-updating-zebra-zp450-printer-drivers/"><u>Ultimate Guide to Installing & Updating Zebra ZP450 Printer Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-achieving-safelisting-with-your-domain-on-the-macos-mail-application/"><u>Ultimate Guide: Achieving Safelisting with Your Domain on the macOS Mail Application</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161112435-winning-at-soccer-management-playing-championship-manager-on-windows-no-cost/"><u>Winning at Soccer Management: Playing Championship Manager on Windows, No Cost!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
