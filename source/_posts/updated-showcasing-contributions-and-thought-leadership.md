@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Showcasing Contributions & Thought Leadership"
-date: 2024-09-03T16:44:23.198Z
-updated: 2024-09-04T16:44:23.198Z
+date: 2024-09-08T01:52:48.169Z
+updated: 2024-09-09T01:52:48.169Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,24 @@ keywords: "Thought Leaders,Contributing Professionals,Thought Leadership Showcas
 thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3a2be4caf338af3c874b626b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Showcasing Contributions & Thought Leadership
 
 # How To Make Your LinkedIn Profile Professional
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -49,10 +61,22 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
   
 ![edit profile]( https://images.wondershare.com/filmora/article-images/edit-profile.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * Once editing is done, click SAVE
 
  For iOS and Android Users, you must tap on your profile picture and tap the edit icon on the top right of any segment you want to edit. Now, tap the add icon to make additions in that section or the edit icon on the right of the entry. A heading is a very important area that must be attractive and needs edit, apart from an updated photo, address, contact info, industry, and your experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: 7 Ways to Better LinkedIn Profile
 
 **Make Your Profile Public-** How to set up a LinkedIn profile? Once you have a LinkedIn account, editing it to make it appear professional is what is required. If you are not happy with the number of profile views, it is quite possible that any privacy setting is coming in between the profile and the viewers. Click on the settings and then the privacy setting page to edit it. Scroll and search for any setting that can block the profile views. For instance, if your privacy option is turned to private, it would be good to make it public for increased profile viewers. You can change it by clicking on “edit public file and URL at right”, and click on at “Edit Visibility”.
@@ -71,6 +95,12 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
 ![upload photo](https://images.wondershare.com/filmora/article-images/upload-photo.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Connect with Others-** LinkedIn profile tips on connecting with others is a crucial one as the recruitment consultants prefer to grasp graduates or even students while the company’s direct recruiters often do not like inexperienced people. Connecting with companies in career fairs and events can be a good idea. If you are posting for job hunting, a short and crisp, yet punchy and effective message highlight why people should consider you and what makes you unique can be an option too for connecting. Follow the companies you target.
 
 **Publish Post-** Publishing posts can keep you active in the LinkedIn network and help others to find you out easily. Are you not sure what to post? In order to post on a regular basis, you can create a system where you can share news of some awards or accolades of your company, event announcements, or maybe your own BLOG posts. When you become confident and comfortable, you may start sharing your opinion on any company or industry article or photos, etc.
@@ -79,12 +109,6 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
 ![summary](https://images.wondershare.com/filmora/article-images/summary.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Concluison
 
  Setting up a LinkedIn profile is not a big deal but maintaining it professionally is definitely important and a big task. But, if you can follow the above LinkedIn profile tips, it can definitely help you to make your LinkedIn profile professional and effective.
@@ -92,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Ollie Mattison
 
