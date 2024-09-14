@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Fast Photoshop Edits on Windows 11"
-date: 2024-09-08T01:52:45.758Z
-updated: 2024-09-09T01:52:45.758Z
+date: 2024-09-08T18:12:18.125Z
+updated: 2024-09-14T09:07:28.176Z
 tags: 
   - screen-recording
   - ai video
@@ -40,12 +40,6 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
 * Select the size and color of the fonts you wish to use from a range of palette
 
@@ -56,12 +50,6 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Draw on Photos Online
 
 Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lunapic.com/editor/?action=draw) is one such tool that lets you draw on your photos easily online. It is more of a paint tool that lets you edit, adjust, draw borders, add filters, effects, art, animation, and more. It has more than 200 effects option to choose from. To draw on photos online with LunaPic, follow the below-mentioned steps-
@@ -73,12 +61,6 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Select the color from the range of palette available
 * Select the pen size using the given number scroll option
 * Click on apply if you are all set to draw or click on clear if you wish to make changes
@@ -87,81 +69,19 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-invest-in-cinematic-success-top-ten-cameras-for-filmmakers/"><u>[New] Invest in Cinematic Success  Top Ten Cameras for Filmmakers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-masterclass-softening-auditory-peaks-gently-in-logic-pro/"><u>[New] Masterclass  Softening Auditory Peaks Gently in Logic Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revitalize-your-footage-mastering-window-11-photos-and-storyremix-integration/"><u>[New] Revitalize Your Footage  Mastering Window 11 Photos and StoryRemix Integration</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-acclaimed-pioneers-premier-instragram-highlight-makers/"><u>[Updated] 2024 Approved  Acclaimed Pioneers  Premier Instragram Highlight Makers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-webcam-mastery-unique-ideas-explored/"><u>[Updated] 2024 Approved  Webcam Mastery  Unique Ideas Explored</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-a-comprehensive-guide-to-incorporating-photo-capabilities-in-meet/"><u>[Updated] A Comprehensive Guide to Incorporating Photo Capabilities in Meet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-cyber-currents-videos-flow-on-twitter-wave-for-2024/"><u>[Updated] Cyber Currents  Videos Flow on Twitter Wave for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-clearer-internet-video-views/"><u>[Updated] Mastering Clearer Internet Video Views</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigate-through-windows-11s-best-practices-for-imports/"><u>[Updated] Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-progressive-visual-reveal/"><u>[Updated] Progressive Visual Reveal</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reflect-your-vision-affordable-personalization-of-professional-logo-designs-free/"><u>[Updated] Reflect Your Vision  Affordable Personalization of Professional Logo Designs (Free)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-srt-manipulation-for-mac-enthusiasts/"><u>[Updated] Step-by-Step SRT Manipulation for Mac Enthusiasts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-secrets-the-ultimate-guide-to-instagram-stories-mastery/"><u>[Updated] Unlocking the Secrets  The Ultimate Guide to Instagram Stories Mastery</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-brand-collaboration-on-youtube/"><u>2024 Approved  Mastering Brand Collaboration on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-swift-periscope-broadcasts/"><u>2024 Approved  Mastering the Art of Swift Periscope Broadcasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-your-iphone-for-podcast-listening/"><u>2024 Approved  Maximizing Your iPhone for Podcast Listening</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-cost-windowsmac-solutions-for-movie-lovers/"><u>2024 Approved  No-Cost Windows/Mac Solutions for Movie Lovers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-unboxing-on-instagram-a-guide-to-popularity/"><u>2024 Approved  Revolutionize Unboxing on Instagram  A Guide to Popularity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-step-by-step-solution-resolving-issues-with-your-xbox-one-controller-guide/"><u>Complete Step-by-Step Solution: Resolving Issues with Your Xbox One Controller (Guide)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/dare-to-be-noteworthy-top-30-innovative-tiktok-usernames/"><u>Dare to Be Noteworthy  Top 30 Innovative TikTok Usernames</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-explore-5-premier-mac-cam-recording-software-beyond-bandicam/"><u>In 2024, Explore 5 Premier Mac Cam Recording Software Beyond Bandicam</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-love-in-song-ultimate-listening-guide-to-proposals/"><u>In 2024, Love in Song  Ultimate Listening Guide to Proposals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-installation-process-of-wm6/"><u>In 2024, Master Installation Process of WM6</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-panoramapro-x7-zoom-and-refine-photos-effortlessly/"><u>In 2024, PanoramaPro X7  Zoom & Refine Photos Effortlessly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamlessly-unstuck-a-sticker-free-tiktok-journey/"><u>In 2024, Seamlessly Unstuck  A Sticker-Free TikTok Journey</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-ultimate-compilation-of-best-cams-for-mountain-sports/"><u>In 2024, Ultimate Compilation of Best Cams for Mountain Sports</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-photography-techniques-for-clear-mirror-captures-for-2024/"><u>IPhone Photography  Techniques for Clear Mirror Captures for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-windows-11-a-deep-dive-into-zoom-usage-for-2024/"><u>Navigating Windows 11  A Deep Dive Into Zoom Usage for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-chat-harmony-how-to-download-and-tailor-whatsapp-tones-for-2024/"><u>Perfect Chat Harmony  How to Download and Tailor WhatsApp Tones for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-live-video-conferencing-systems-for-2024/"><u>Premium Live Video Conferencing Systems for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager on Windows 10 & 7</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sculpting-images-selecting-the-right-aspect-ratio-for-2024/"><u>Sculpting Images  Selecting the Right Aspect Ratio for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-the-depth-effect-on-ios-16-unlock-your-devices-full-potential-with-7-key-solutions/"><u>Troubleshooting the Depth Effect on iOS 16: Unlock Your Device's Full Potential with 7 Key Solutions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-msi-bios-on-various-windows-editions/"><u>Updating MSI BIOS on Various Windows Editions</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -169,3 +89,31 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-fb-live-guide-audiences-for-2024/"><u>[New] FB Live Guide Audiences for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-master-the-ultimate-periscope-handbook/"><u>[New] From Novice to Master The Ultimate Periscope Handbook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-highpoint-artist-suite-evaluation-for-2024/"><u>[New] Highpoint Artist Suite Evaluation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-sites-for-stylish-metallic-3d-text-artistry/"><u>[New] Ultimate Sites for Stylish, Metallic 3D Text Artistry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shutoff-initiated-during-gaming/"><u>[SHUTOFF] Initiated During Gaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-budget-friendly-hd-video-capturing-for-home-studios-for-2024/"><u>[Updated] Budget-Friendly HD Video Capturing for Home Studios for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphones-darkest-hours-decoded-for-photographers/"><u>[Updated] IPhone's Darkest Hours Decoded for Photographers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-windows-10-like-a-tech-wizard/"><u>[Updated] Navigating Windows 10 Like a Tech Wizard</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-play-music-10-best-apps-phones/"><u>[Updated] Quick Play Music 10 Best Apps, Phones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secure-your-snapshots-anywhere-anytime-the-ultimate-cloud-choices/"><u>[Updated] Secure Your Snapshots Anywhere, Anytime The Ultimate Cloud Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sleek-arenas-2022s-olympic-skating/"><u>[Updated] Sleek Arenas 2022'S Olympic Skating</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-images-jpg-png-straightforward-conversion-guide/"><u>2024 Approved IPhone Images (JPG, PNG) - Straightforward Conversion Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-shot-perfecting-made-simple-the-best-cinematic-practices/"><u>2024 Approved Shot Perfecting Made Simple The Best Cinematic Practices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/non-gta-narratives-exploring-alternative-stories-for-2024/"><u>Non-GTA Narratives Exploring Alternative Stories for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/olympic-ice-racers-moments-from-the-short-track-games-for-2024/"><u>Olympic Ice Racers Moments From the Short Track Games for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/precision-preservation-adding-dates-to-photos-with-ease-for-2024/"><u>Precision Preservation Adding Dates to Photos with Ease for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

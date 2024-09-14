@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] New Look  Samsung's K850 UltraBlade Review 2023\""
-date: 2024-09-08T01:52:45.297Z
-updated: 2024-09-09T01:52:45.297Z
+date: 2024-09-09T18:54:46.047Z
+updated: 2024-09-13T21:41:34.205Z
 tags: 
   - screen-recording
   - ai video
@@ -52,26 +52,8 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![ ](https://images.wondershare.com/filmora/article-images/j5900-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check at Amazon](https://www.amazon.com/gp/product/B01A9V6OI6/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01A9V6OI6&linkId=86a9a68f15767570bf18eba1329619d3)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design
 
  An attractive curved casing with eye-catching black body is the first look of UBD-K8500\. The top portion of this player is designed with a metal sheet that provide a nice texture but rest of the body is coated with simple black plastic material , it may appear tacky to most of users.
@@ -82,18 +64,6 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![ ](https://images.wondershare.com/filmora/article-images/k8500-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connections and Control
 
  Samsung UBD-K8500 is designed with sleek appearance having slight curve on rear as well as front portion. The black brushed metal finish make its design pretty good whereas body is actually designed with metal so you may find it highly durable. This player offers reasonably silent operation but you may find that disc tray little noisy and you can clearly feel its motion while moving in and out. A fan is available at rear portion of player that also makes audible noise. The overall weight of UBD-K8500 is 1.9 Kg with total dimension of 406x45x230mm.
@@ -103,11 +73,12 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![ ](https://images.wondershare.com/filmora/article-images/k8500-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Performance
 
  The most important feature of UBD-K8500 is its picture quality for 4K Blu-ray player. If we talk about the fine details then its colour information is stunning enough while native 4K disc edge offers fast Amazon and Netflix connectivity. The 4K HDR ability re-writes the AV setup options so one cannot use traditional test patterns for its image balancing while viewing HDR content. The best trick is to navigate as per player modes as it consists of a coupled HDR input mode that ensures perfect integrity of HDR signal.
@@ -119,28 +90,30 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![ ](https://images.wondershare.com/filmora/article-images/k8500-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Verdict
 
  In simple words, Samsung UBD-K8500 is one of the best devices for your Ultra HD TV needs. It possesses a comprehensive set of all good features with an easy to operate package. You may find its fan and disc tray little noisy but the simple to use interface and stunning remote control abilities again create remarkable results. If you spend money on this product, you will definitely avail satisfactory results.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -148,65 +121,28 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-guide-to-saving-switch-gameplay-videos/"><u>[New] In 2024, Quick Guide to Saving Switch Gameplay Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-jump-into-gaming-evolution-explore-lgs-27ud68-monitor/"><u>[New] Jump Into Gaming Evolution  Explore LG's 27UD68 Monitor</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-learn-how-to-directly-control-your-iphones-orientation/"><u>[New] Learn How to Directly Control Your iPhone's Orientation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-learn-to-cropping-and-composition-the-audio-visual-balance-in-canvas/"><u>[New] Learn to Cropping & Composition  The Audio-Visual Balance in Canvas</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-oneclickpodcaststream-effortlessly-livestream-your-podcast-content/"><u>[New] OneClickPodcastStream  Effortlessly Livestream Your Podcast Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-webp-to-jpg-transformation-guide/"><u>[New] Optimal WebP-to-JPG Transformation Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-peering-through-the-printer-one-persons-3dr-story/"><u>[New] Peering Through the Printer  One Person’s '3DR' Story</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-professional-drones-pro-level-editing-software-showdown/"><u>[New] Professional Drones, Pro-Level Editing Software Showdown</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-progressive-array-of-engaging-queries-for-podcasters/"><u>[New] Progressive Array of Engaging Queries for Podcasters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-ranked-list-of-pristine-cost-free-websites-for-designers-delight/"><u>[New] Ranked List of Pristine, Cost-Free Websites for Designers' Delight</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-8-free-online-courses-for-beginner-youtube-creators/"><u>[Updated] 2024 Approved  8 Free Online Courses for Beginner YouTube Creators</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-darkest-hours-meet-brightest-blessings/"><u>[Updated] 2024 Approved  Darkest Hours Meet Brightest Blessings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-complete-mac-users-guide-to-capturing-roblox-gaming-sessions/"><u>[Updated] In 2024, The Complete Mac User's Guide to Capturing Roblox Gaming Sessions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-inside-magixs-acid-pro-and-its-competitors/"><u>[Updated] Inside Magix's ACID Pro and Its Competitors</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-instagrams-capabilities-for-podcast-promotion/"><u>[Updated] Leveraging Instagram's Capabilities for Podcast Promotion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-the-technique-of-radial-distortion-in-adobe-ps/"><u>[Updated] Master the Technique of Radial Distortion in Adobe PS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-hd-disruptions-clear-screening-challenges-in-fir-safari-chrome/"><u>[Updated] Navigating HD Disruptions  Clear Screening Challenges in Fir, Safari, Chrome</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfect-wave-linker-the-podcastists-choice/"><u>[Updated] Perfect Wave Linker  The Podcastist's Choice</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perspective-play-using-edits-to-redefine-images/"><u>[Updated] Perspective Play  Using Edits to Redefine Images</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premier-picture-driven-journey-maker/"><u>[Updated] Premier Picture-Driven Journey Maker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premier-pro-blueprints-exclusive-free-2023-collection/"><u>[Updated] Premier Pro Blueprints - Exclusive FREE 2023 Collection</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-reimagining-communication-advanced-tactics-for-capturing-skype-calls/"><u>[Updated] Reimagining Communication  Advanced Tactics for Capturing Skype Calls</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-setting-up-the-pip-feature-in-the-youtube-app-for-easy-video-streaming/"><u>[Updated] Setting up the PIP Feature in the YouTube App for Easy Video Streaming</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-smooth-video-in-every-shot-prime-mobile-cameras-with-ois/"><u>[Updated] Smooth Video in Every Shot  Prime Mobile Cameras With OIS</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-k11-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo K11 5G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrators-dream-top-8-ipados-drawers/"><u>2024 Approved  Illustrator's Dream  Top 8 iPadOS Drawers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-photo-retouching/"><u>2024 Approved  Mastering the Art of Photo Retouching</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-settings-for-watching-nba-live-streams/"><u>2024 Approved  Optimal Settings for Watching NBA LIVE STREAMs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-mkv-player-for-windows-devices/"><u>2024 Approved  Premium MKV Player for Windows Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smooth-cinematography-ideal-stabilizer-tools-for-vloggers/"><u>2024 Approved  Smooth Cinematography  Ideal Stabilizer Tools for Vloggers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/cover-insta-peaks-iphoneandroid-edition-enhanced-features/"><u>Cover Insta Peaks  IPhone/Android Edition, Enhanced Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/drone-visionarys-guide-to-mavic-pro/"><u>Drone Visionary's Guide to Mavic Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-challenges-in-job-interview-settings/"><u>In 2024, Navigating Challenges in Job Interview Settings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-world-of-fpv-drone-propellers/"><u>In 2024, Navigating the World of FPV Drone Propellers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-operational-handling-of-srt-in-oses/"><u>In 2024, Operational Handling of SRT in OSes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pickus-triumph-in-android-photo-editing-a-comprehensible-review/"><u>In 2024, PickU's Triumph in Android Photo Editing – A Comprehensible Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-spark-interest-drive-engagement-top-30-video-ideas/"><u>In 2024, Spark Interest, Drive Engagement  Top 30 Video Ideas</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-stepwise-guide-to-smoothing-out-audio-dynamics/"><u>In 2024, Stepwise Guide to Smoothing Out Audio Dynamics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/invest-in-quality-best-4k-mirrorless-under-1000-for-2024/"><u>Invest in Quality  Best 4K Mirrorless Under $1,000 for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/laugh-loops-unlocked-zero-cost-humor-hub-for-2024/"><u>Laugh Loops Unlocked  Zero-Cost Humor Hub for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-lists-premium-bdr-software-on-windows-macos-for-2024/"><u>Leading Lists  Premium BDR Software on Windows, macOS for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximizing-capabilities-upgrading-to-macos-sierra-for-2024/"><u>Maximizing Capabilities  Upgrading to macOS Sierra for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/metaverse-vs-multimetaverse-distinguishing-characteristics-comprehensive-insights-for-2024/"><u>Metaverse Vs. Multimetaverse  Distinguishing Characteristics (Comprehensive Insights) for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/money-saving-drones-reviewed-top-5-under-100-models-for-2024/"><u>Money-Saving Drones Reviewed  Top 5 Under $100 Models for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-excellent-church-streaming-services-for-2024/"><u>Navigating the Excellent Church Streaming Services for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/perfect-pitch-for-producers-techniques-for-flawless-vocal-recordings/"><u>Perfect Pitch for Producers  Techniques for Flawless Vocal Recordings</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/redesigned-sites-legalese-guide/"><u>Redesigned Site's Legalese Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-logitech-g-pro-x-mic-audio-output-step-by-step-solutions-for-users/"><u>Reviving the Logitech G Pro X Mic Audio Output: Step-by-Step Solutions for Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/smoothly-record-time-lapse-on-your-ipad/"><u>Smoothly Record Time-Lapse on Your iPad</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/stellar-stories-celebrating-youtubes-best-narratives-for-2024/"><u>Stellar Stories  Celebrating YouTube's Best Narratives for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-pathway-from-webp-files-to-jpegs-for-2024/"><u>The Ultimate Pathway From WebP Files to JPEGs for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-design-channels-get-free-visuals-now/"><u>[New] 2024 Approved Design Channels - Get Free Visuals Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-magix-music-maker-review/"><u>[New] Magix Music Maker Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-shadows-and-highlights-through-photoshop-curves/"><u>[New] Mastering Shadows & Highlights Through Photoshop Curves</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stage-talent-video-download-permission-form/"><u>[New] Stage Talent Video Download Permission Form</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-list-5-premium-live-stream-recorders/"><u>[New] The Ultimate List 5 Premium Live Stream Recorders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-premier-moba-games-on-android-top-10-edition/"><u>2024 Approved Premier MOBA Games on Android - TOP 10 Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-ai-enhanced-microsoft-bing-experience-on-android-devices/"><u>Mastering the AI-Enhanced Microsoft Bing Experience on Android Devices</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/optimal-dvd-format-change-comparing-handbrakes-h264-with-mpeg-e4-which-should-you-use/"><u>Optimal DVD Format Change: Comparing HandBrake's H.264 With MPEG-E4 - Which Should You Use?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prodigious-picks-exceptional-laptops-for-uhd-editing-for-2024/"><u>Prodigious Picks Exceptional Laptops for UHD Editing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/propel-your-world-with-freshly-launched-wins11-games-for-2024/"><u>Propel Your World with Freshly-Launched Wins11 Games for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/reverse-video-online-the-ultimate-guide-for-2024/"><u>Reverse Video Online The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-of-free-wmv-video-editing-tools-for-2024/"><u>The Ultimate List of Free WMV Video Editing Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-fixing-non-functional-microphones-on-windows-11/"><u>Ultimate Guide to Fixing Non-Functional Microphones on Windows 11</u></a></li>
+</ul></div>
+

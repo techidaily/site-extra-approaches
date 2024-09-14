@@ -1,7 +1,7 @@
 ---
 title: Exploring New Frontiers with Tom's Hardware Insights
-date: 2024-09-08T01:52:48.786Z
-updated: 2024-09-09T01:52:48.786Z
+date: 2024-09-11T01:40:19.476Z
+updated: 2024-09-14T01:53:53.918Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/VAKcpYW5zR94tszgWXPjJU-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dive Into Tech with Tom's Hardware - The Ultimate Guide for Enthusiasts
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -27,38 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -71,12 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -85,14 +49,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,40 +64,31 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-exploring-mac-best-sniping-tools-ranked-for-2024/"><u>[New] Exploring Mac  Best Sniping Tools Ranked for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frame-reconfigurator-for-videos/"><u>[New] Frame Reconfigurator for Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-2023-top-6-facebook-lite-video-downloaders/"><u>[New] In 2024, 2023 | Top 6 Facebook Lite Video Downloaders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-luminous-leaders-top-5-monitors-that-bring-shades-to-life/"><u>[New] Luminous Leaders  Top 5 Monitors That Bring Shades to Life</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-piceditorpro-assessment-complete-review/"><u>[New] PicEditorPro Assessment – Complete Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-precision-in-speech-synthesis-converting-text-formats-to-srt/"><u>[New] Precision in Speech Synthesis  Converting Text Formats to SRT</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-image-capture-with-ios-11-updates/"><u>[New] Revolutionizing Image Capture with iOS 11 Updates</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mobilepc-download-facebooks-new-video-tool/"><u>[Updated] 2024 Approved  Mobile/PC Download  Facebook's New Video Tool</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-mastering-facebook-live-embedding-techniques-on-websites/"><u>[Updated] Mastering Facebook Live Embedding Techniques on Websites</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-in-speech-synthesis-converting-text-formats-to-srt/"><u>[Updated] Precision in Speech Synthesis  Converting Text Formats to SRT</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-proven-strategies-for-superior-design-with-canva/"><u>[Updated] Proven Strategies for Superior Design with Canva</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2-ways-to-fade-audio-in-ableton-for-2024/"><u>2 Ways to Fade Audio in Ableton for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-spotify-promos-your-comprehensive-guide/"><u>2024 Approved  Mastering Spotify Promos  Your Comprehensive Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-vector-imagery-best-10-sources/"><u>2024 Approved  Mastering the Art of Vector Imagery  Best 10 Sources</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-safe-mode-and-pip-features-on-iphone-ipad-and-macos/"><u>2024 Approved  Navigating Safe Mode and PIP Features on iPhone, iPad & MacOS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-selecting-your-perfect-mp4-device/"><u>2024 Approved  Selecting Your Perfect MP4 Device</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sj4000-stylish-essentials-a-comprehensive-list/"><u>2024 Approved  SJ4000 Stylish Essentials  A Comprehensive List</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/driving-audience-growth-with-smart-fb-video-tactics-for-2024/"><u>Driving Audience Growth with Smart FB Video Tactics for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-oppo-a38-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo A38 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-itel-a60s-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Itel A60s Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-investigating-the-crop-code-in-imovie/"><u>In 2024, Investigating the Crop Code in iMovie</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-marketing-layers-deconstructing-strategys-packaging/"><u>In 2024, Marketing Layers  Deconstructing Strategy's Packaging</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximize-your-footage-pro-level-tips-for-gopro-studio-users/"><u>In 2024, Maximize Your Footage  Pro-Level Tips for GoPro Studio Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-retail-marketing-through-vr-technology/"><u>In 2024, Retail Marketing Through VR Technology</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-scrutinizing-djis-phantom-3-for-enthusiast-use/"><u>In 2024, Scrutinizing DJI's Phantom 3 for Enthusiast Use</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/key-tactics-for-implementing-films-in-school-curriculum-for-2024/"><u>Key Tactics for Implementing Films in School Curriculum for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/launch-your-wealth-journey-on-periscope-platform-for-2024/"><u>Launch Your Wealth Journey on Periscope Platform for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-microphones-selection-for-uncompromised-4k-clarity-for-2024/"><u>Leading Microphones Selection for Uncompromised 4K Clarity for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/m1-processor-a-leap-forward-in-video-production-technology-in-2024/"><u>M1 Processor  A Leap Forward in Video Production Technology, In 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/muting-the-youtube-video-peek-mechanism-for-2024/"><u>Muting the YouTube Video Peek Mechanism for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/precision-photography-and-videography-prime-lens-excellence-in-4k-for-2024/"><u>Precision Photography & Videography  Prime Lens Excellence in 4K for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revealing-the-smarts-of-z2-play-mobile-for-2024/"><u>Revealing the Smarts of Z2 Play Mobile for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-playbook-9-proven-fixes-for-smooth-windows-videos/"><u>The Ultimate Playbook: 9 Proven Fixes for Smooth Windows Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-cutting-with-vivacuts-full-review-2024/"><u>[New] Master the Art of Cutting with VivaCut's Full Review 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-and-effective-video-production-on-mac-for-snapchat-for-2024/"><u>[New] Quick and Effective Video Production on Mac for Snapchat for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secret-finds-exclusive-free-speech-transcribers-for-mac/"><u>[New] Secret Finds Exclusive Free Speech Transcribers for Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-timeless-tale-of-roguelike-and-roguelite/"><u>[New] The Timeless Tale of Roguelike and Roguelite</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/buyers-guide-to-the-superior-netgear-orbi-a-detailed-review-of-the-market-leader-in-mesh-routers/"><u>Buyers' Guide to the Superior Netgear Orbi: A Detailed Review of the Market Leader in Mesh Routers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/te-your-videos-auditory-experience-on-youtube/"><u>Elevate Your Video's Auditory Experience on YouTube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-huawei-nova-y71-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Huawei Nova Y71 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/master-the-art-of-social-media-video-capture-with-5-leaders/"><u>Master the Art of Social Media Video Capture with 5 Leaders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simple-steps-for-quick-file-migration-for-2024/"><u>Simple Steps for Quick File Migration for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sound-mastery-pro-tips-for-effective-audiovisual-blending-audacity-for-2024/"><u>Sound Mastery Pro Tips for Effective Audiovisual Blending (Audacity) for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-s17t-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo S17t Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor Magic Vs 2? | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

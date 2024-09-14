@@ -1,7 +1,7 @@
 ---
 title: "[New] Insights Into Crafting Responses to YouTube Comments"
-date: 2024-09-03T16:44:27.827Z
-updated: 2024-09-04T16:44:27.827Z
+date: 2024-09-09T01:11:42.441Z
+updated: 2024-09-14T04:48:57.589Z
 tags: 
   - screen-recording
   - ai video
@@ -44,18 +44,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -68,12 +56,6 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -96,27 +78,22 @@ Step2 On the YouTube homepage, click on the three horizontal parallel lines in t
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
 
@@ -126,18 +103,6 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -157,11 +122,19 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -198,43 +171,19 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>[New] Instantaneous Installation  Laugh with iFunny Memes Easily</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-audio-recording-top-mics-for-4k-video/"><u>[New] Mastering Audio Recording - Top Mics for 4K Video</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-mobile-videography-the-10-best-phones/"><u>[New] Mastering Mobile Videography - The 10 Best Phones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-vr-travel-a-step-by-step-guide/"><u>[New] Mastering VR Travel  A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-masterpiece-episodes-for-airwaves/"><u>[New] Masterpiece Episodes for Airwaves</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-metaverse-branding-strategies-unveiled/"><u>[New] Metaverse Branding Strategies Unveiled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-non-profit-gaming-audio-archive-downloadable/"><u>[New] Non-Profit Gaming Audio Archive  Downloadable</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-override-auto-suggesting-feature-for-podcasts-in-spotify/"><u>[New] Override Auto-Suggesting Feature for Podcasts in Spotify</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-color-balancer-suite/"><u>[New] Prime Color Balancer Suite</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-ringtone-repository-best-sources-online/"><u>[New] Ringtone Repository  Best Sources Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-breaking-tiktok-trends-twitters-1-list-unveiled-for-2024/"><u>[Updated] Breaking TikTok Trends  Twitter's #1 List Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-increasing-roi-mastering-the-art-of-fb-animation-ads/"><u>[Updated] Increasing ROI  Mastering the Art of FB Animation Ads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-insights-how-to-make-your-videos-a-hit-for-2024/"><u>[Updated] Instagram Insights  How to Make Your Videos a Hit for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-chapter-insertion-in-youtube-videos-an-all-inclusive-handbook/"><u>[Updated] Mastering Chapter Insertion in YouTube Videos  An All-Inclusive Handbook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-social-media-melody-ownership-laws/"><u>[Updated] Social Media Melody Ownership Laws</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-up-your-speaking-game-access-free-user-friendly-audio-alteration-tools/"><u>[Updated] Step Up Your Speaking Game - Access Free, User-Friendly Audio Alteration Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-huawei-p10s-network-performance-and-coverage/"><u>2024 Approved  Exploring Huawei P10's Network Performance & Coverage</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-freedom-in-memories-your-instagrams-savior/"><u>2024 Approved  Freedom in Memories  Your Instagram's Savior</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-insights-on-gopro-hero5-adventure-series/"><u>2024 Approved  Insights on GoPro Hero5 Adventure Series</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-art-of-editing-story-remix-and-windows-photos-synergy/"><u>2024 Approved  Master the Art of Editing  Story Remix & Windows Photos Synergy</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-picturepuns-comic-creation-tool/"><u>2024 Approved  PicturePuns  Comic Creation Tool</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pros-picks-8-superior-tripods-for-4k-videos/"><u>2024 Approved  Pro's Picks  8 Superior Tripods for 4K Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-touch-ups-for-your-tiktok-media/"><u>2024 Approved  Professional Touch-Ups for Your TikTok Media</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/all-inclusive-review-of-dji-phantom-4-technology-for-2024/"><u>All-Inclusive Review of DJI Phantom 4 Technology for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-play-8t-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Play 8T to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-image-browsing-the-ultimate-guide-to-pexels-wonders/"><u>In 2024, Mastering Image Browsing  The Ultimate Guide to Pexels Wonders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-modern-photo-editing-wonders-frame-integration-essentials-2023/"><u>In 2024, Modern Photo Editing Wonders  Frame Integration Essentials, 2023</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-asmr-microphones-that-dont-break-the-bank/"><u>In 2024, Premium ASMR Microphones That Don't Break the Bank</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-remove-default-podcasts-from-your-spotify-feed/"><u>In 2024, Remove Default Podcasts From Your Spotify Feed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-textual-space-with-ais-powerful-features/"><u>In 2024, Sculpting Textual Space with AI's Powerful Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-how-to-master-these-7-expert-graders/"><u>In 2024, Step-by-Step  How to Master These 7 Expert Graders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/investment-guidelines-for-effective-youtube-campaigns-for-2024/"><u>Investment Guidelines for Effective YouTube Campaigns for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-sleep-optimal-asmr-experiences-and-picks-for-2024/"><u>Mastering Sleep  Optimal ASMR Experiences & Picks for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigate-to-these-10-online-havens-showcasing-striking-3d-texts-for-2024/"><u>Navigate to These 10 Online Havens Showcasing Striking 3D Texts for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-humor-learn-through-kinemaster-for-2024/"><u>Revolutionize Your Humor  Learn Through KineMaster for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/set-up-facebook-streaming-pcmaclaptop-tutorial-with-obs/"><u>Set Up Facebook Streaming  PC/Mac/Laptop Tutorial with OBS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/snap-your-way-up-quick-instagram-collage-ideas-for-2024/"><u>Snap Your Way Up  Quick Instagram Collage Ideas for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sonic-visuals-your-guide-to-music-video-creation-for-2024/"><u>Sonic Visuals  Your Guide to Music Video Creation for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-resolving-your-xbox-one-no-input-signal-issue/"><u>Troubleshooting Guide: Resolving Your Xbox One 'No Input Signal' Issue</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-integrating-soundscape-and-aesthetics-in-windows-photos-app-for-2024/"><u>[New] Integrating Soundscape and Aesthetics in Windows Photos App for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-juxtaposing-flight-with-flair-a-bebop-parrot-analysis/"><u>[New] Juxtaposing Flight with Flair – A Bebop Parrot Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-samsung-camera-toolkit-review-2023-edition/"><u>[New] Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-simple-win-steps-for-fishy-sounds-alteration/"><u>[New] Simple Win Steps for Fishy Sounds Alteration</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-trailblazers-creating-engaging-marvellous-universe/"><u>[New] Trailblazers Creating Engaging Marvellous Universe</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-ppt-recording-process-explained/"><u>[Updated] In 2024, The Ultimate PPT Recording Process Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precise-guide-to-navigating-adobe-cloud-then-comparing-other-methods/"><u>[Updated] Precise Guide to Navigating Adobe Cloud, Then Comparing Other Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-streaming-made-easy-your-guide-to-zoom-and-youtube-integration/"><u>[Updated] Professional Streaming Made Easy Your Guide to Zoom and YouTube Integration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/360-video-stitching-tips-how-to-stitch-gopro-clips-into-360-videos-for-2024/"><u>360 Video Stitching Tips How to Stitch GoPro Clips Into 360 Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-practices-in-converting-photos-into-movies-for-2024/"><u>Best Practices in Converting Photos Into Movies for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-asus-rog-phone-8-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Asus ROG Phone 8 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30i-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30i Bootloader Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-frame-rates-strategies-to-boost-fps-in-the-world-of-ring-of-elysium/"><u>Mastering Frame Rates: Strategies to Boost FPS in the World of Ring of Elysium</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pioneering-play-integrating-vr-in-recreation/"><u>Pioneering Play Integrating VR in Recreation</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Art of Reversed Color Photography"
-date: 2024-09-08T01:52:46.510Z
-updated: 2024-09-09T01:52:46.510Z
+date: 2024-09-10T03:43:23.510Z
+updated: 2024-09-13T16:42:57.721Z
 tags: 
   - screen-recording
   - ai video
@@ -28,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
 During the age of analog photography, the image negative was one of the most important artifacts for photographers, because it enabled them to reproduce a picture as many times as they wanted. Years later photographers invert colors in photos for mostly aesthetical reasons since only a small number of photographers still take photos with analog cameras. Regardless of the type of camera you’re using, inverting colors in a photo is a straightforward process that doesn’t require too much effort. In this article, we are going to take you through some of the best options on Mac and PC computers, as well as Android phones and iPhones that let you invert colors in just a few easy steps. So, let’s dive in.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Make Image Negative of a Digital Photo?
 
 The Invert option is commonly used to invert a scanned film negative to color, but this doesn’t’ mean that you can’t use this effect in very different contexts. However, the extensive and unselective use of this effect can ruin a perfect photo. Here’s how you can invert colors in your photos.
@@ -46,12 +40,6 @@ The Invert option is commonly used to invert a scanned film negative to color, b
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/ms-paint-invert-color.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Open the photo you’d like to invert with MS Paint, and then choose the **Select All option** from the **Select Menu**. **Right-click** on the picture and click on the **Invert Color** option. The colors in the image will be automatically inverted, so you can then head over to the **Save As submenu** in the **File menu** to select the file format of the new photo.
 
 If you are using Windows XP or an earlier version of the Windows OS, you can invert colors in a photo by clicking on the **Invert Colors option** in the **Image menu**. Even though MS Paint lets you invert image colors easily, it is still better to use a more powerful image editor to edit your photos.
@@ -66,12 +54,6 @@ Besides creating image negatives, the Preview app lets you convert image files a
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color.jpg)
@@ -86,12 +68,6 @@ You can experiment with the values you assign to each of these sliders in order 
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/pinetools-invert-image-colors.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The platform’s homepage contains a number of categories of tools such as **Colors, Numbers, Text and Lists or Images**. Clicking on the **Images category** will grant you the access to all photo editing tools PineTools offers, so you just have to click on the **Invert Colors** options to start the process of inverting a photo online. Once the **Invert Colors window** loads, you can click on the **Choose File button** to select a photo you’d like to invert. When the upload is completed, simply click on the **Invert button** located near the bottom of the screen and the platform will automatically invert the colors in your photo. To save the watermark-free image with inverted colors you just have to click on **PNG, JPEG or WEBP file** formats that are displayed above the preview of the picture.
 
 #### 4. Inverting colors in [tjshome](http://tjshome.com/imageconverter.php) Image Editor
@@ -112,12 +88,6 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
 
 #### 6. Creating Image Negatives With [Gimp](https://www.gimp.org/)
@@ -152,61 +122,11 @@ Inverting colors in a photo is not a complicated process, but finding creative w
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-5-breakthrough-ways-to-preserve-precise-moments-in-vr-games/"><u>[New] 2024 Approved  5 Breakthrough Ways to Preserve Precise Moments in VR Games</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-immortalizing-the-epic-sagas-of-pc-gaming-6-pro-tips-for-2024/"><u>[New] Immortalizing the Epic Sagas of PC Gaming  6 Pro Tips for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-innovation-vr-controllers-reviewed/"><u>[New] Leading Innovation  VR Controllers Reviewed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-missing-video-functionality-in-sony-a6400/"><u>[New] Missing Video Functionality in Sony A6400</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-playchoice-pondering-over-dacast/"><u>[New] PlayChoice  Pondering Over DaCast</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-raise-the-bar-top-8-speed-up-video-apps/"><u>[New] Raise the Bar  Top 8 Speed Up Video Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-skys-new-choreographer-gopro-karma-takes-center-stage/"><u>[New] Sky's New Choreographer  GoPro Karma Takes Center Stage</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-steps-to-create-a-compelling-community-giving-event-post/"><u>[New] Steps to Create a Compelling Community Giving Event Post</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-advertising-insights-and-tactics/"><u>[Updated] Metaverse Advertising Insights & Tactics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-leading-live-church-broadcast-services/"><u>[Updated] Navigating the Leading Live Church Broadcast Services</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sculpting-styles-manipulating-text-with-3d/"><u>[Updated] Sculpting Styles  Manipulating Text with 3D</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-spark-inspiration-free-soundtracks-to-enhance-projects/"><u>[Updated] Spark Inspiration - Free Soundtracks to Enhance Projects</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-building-high-quality-windows-11-videos/"><u>[Updated] Step-by-Step Guide  Building High-Quality Windows 11 Videos</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-photography-101-simple-strategies/"><u>2024 Approved  IPhone Photography 101  Simple Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-learn-photoshops-core-techniques-for-shade-adjustment/"><u>2024 Approved  Learn Photoshop's Core Techniques for Shade Adjustment</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-minute-methods-for-retrieving-erased-reddit-threads/"><u>2024 Approved  Minute Methods for Retrieving Erased Reddit Threads</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-complexities-of-gesture-recognition/"><u>2024 Approved  Navigating the Complexities of Gesture Recognition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-game-console-audio-settings-on-sony-platforms/"><u>2024 Approved  Optimize Game Console Audio Settings on Sony Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-gopro-hero5-black-batteries-with-certified-chargers/"><u>2024 Approved  Premier GoPro Hero5 Black Batteries with Certified Chargers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-locations-boosting-your-youtube-content-visibility/"><u>2024 Approved  Prime Locations  Boosting Your YouTube Content Visibility</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-real-world-applications-of-magix-video-pro-x/"><u>2024 Approved  Real-World Applications of Magix Video Pro X</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-reclaim-your-loss-with-these-top-10-iphone-x-hacks/"><u>2024 Approved  Reclaim Your Loss with These Top 10 iPhone X Hacks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-shield-identities-blurring-techniques-for-photos/"><u>2024 Approved  Shield Identities  Blurring Techniques for Photos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-starting-point-for-motion-visual-effects/"><u>2024 Approved  Starting Point for Motion Visual Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-azure-transcript-services-for-2024/"><u>Harnessing the Power of Azure Transcript Services for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-large-video-transfer-ios-to-macos-device-harmony/"><u>In 2024, Mastering Large Video Transfer  IOS to macOS Device Harmony</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-scooping-strategies-review-rundown/"><u>In 2024, SCOOPING STRATEGIES  Review Rundown</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-method-for-capturing-internet-radio-frequencies/"><u>In 2024, Step-by-Step Method for Capturing Internet Radio Frequencies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-time-travel-mastering-prolonged-photo-captures-for-2024/"><u>IPhone Time Travel  Mastering Prolonged Photo Captures for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/korean-alphabet-made-simple-a-learners-guide-to-hangul/"><u>Korean Alphabet Made Simple: A Learner's Guide to Hangul</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/luminous-leaders-top-5-monitors-that-bring-shades-to-life-for-2024/"><u>Luminous Leaders  Top 5 Monitors That Bring Shades to Life for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-live-broadcasts-the-most-effective-6-microphone-selections-for-2024/"><u>Mastering Live Broadcasts  The Most Effective 6 Microphone Selections for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/memelores-premier-10-templates-for-2024/"><u>Memelore's Premier 10 Templates for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-5-high-resolution-film-makers-for-2024/"><u>Premier 5 High-Resolution Film Makers for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionizing-photo-quality-with-auto-and-smart-hdr-features-for-2024/"><u>Revolutionizing Photo Quality with Auto and Smart HDR Features for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-iphone-camera-adjustment-guide-for-2024/"><u>Step-by-Step iPhone Camera Adjustment Guide for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategies-for-effective-digital-video-photo-alteration-for-2024/"><u>Strategies for Effective Digital Video Photo Alteration for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-time-bending-techniques-in-final-cut-pro-x/"><u>Updated In 2024, Time-Bending Techniques in Final Cut Pro X</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -214,3 +134,26 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-ultimate-screen-recording-techniques-for-minecraft/"><u>[New] 2024 Approved Ultimate Screen Recording Techniques for Minecraft</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-camera-spin-top-professionals-360cameras-of-2023/"><u>[New] Pioneering Camera Spin Top Professionals’ 360°Cameras of 2023</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-power-solutions-for-gopro-hero5-black-certified-and-imposters/"><u>[New] Premium Power Solutions for GoPro Hero5 Black - Certified & Imposters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-starters-manual-to-mastering-screen-clarity/"><u>[New] Starter's Manual to Mastering Screen Clarity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-sustaining-high-view-count-in-youtube-videos/"><u>[Updated] Secrets to Sustaining High View Count in YouTube Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-update-intel-ac-3160-wifi-driver-instantly-and-seamlessly/"><u>Download the Latest Update: Intel AC 3160 WiFi Driver Instantly and Seamlessly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/exploring-electronics-with-tom-a-hardware-guide/"><u>Exploring Electronics with Tom: A Hardware Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-microsofts-premium-ergonomic-keyboard-top-quality-insights/"><u>In-Depth Analysis of Microsoft's Premium Ergonomic Keyboard – Top Quality Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-citizen-windows-compatibility-improved-no-more-unwanted-crashes/"><u>Star Citizen Windows Compatibility Improved - No More Unwanted Crashes!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/yt-insider-tips-from-chroma-keying-to-cinematic-creations-for-2024/"><u>YT Insider Tips From Chroma Keying to Cinematic Creations for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

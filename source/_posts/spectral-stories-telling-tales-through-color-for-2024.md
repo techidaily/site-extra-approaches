@@ -1,7 +1,7 @@
 ---
 title: "\"Spectral Stories  Telling Tales Through Color for 2024\""
-date: 2024-08-17T20:43:45.864Z
-updated: 2024-08-18T20:43:45.864Z
+date: 2024-09-10T16:54:41.576Z
+updated: 2024-09-13T22:46:24.682Z
 tags: 
   - screen-recording
   - ai video
@@ -70,16 +70,10 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
 
 **Saturation:** This setting constitutes the amount of gray in proportion to the hue. You can adjust it to make the entire video image's colors look soaked or unnoticeable.
@@ -98,9 +92,6 @@ Here, there are two options to select: The Color correction. It offers different
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##### Step2Select the specific video portion
 
 #####
@@ -113,9 +104,6 @@ First, you need to select the specific video portion you want to change the colo
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##### Step3Apply the color correction preset that you want then click ok
 
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
@@ -130,11 +118,6 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 **Using the Color Panel Window**
 
 ##### Step1To perform color correction in Filmora, switch to the Color tab
@@ -143,9 +126,6 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step2Color grading with Wondershare Filmora
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
@@ -220,64 +200,20 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-deciphering-the-language-of-youtube-thumbnails-effectiveness/"><u>[New] 2024 Approved  Deciphering the Language of YouTube Thumbnails Effectiveness</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-mac-assisted-ootd-videography-secrets-revealed/"><u>[New] 2024 Approved  Mac-Assisted OOTD Videography Secrets Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-best-signature-background-remover-online-6-incredible-tools/"><u>[New] Best Signature Background Remover Online - 6 Incredible Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-earn-on-the-go-snapchats-money-tips/"><u>[New] Earn on the Go  Snapchat's Money Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/resh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[New] Fresh Footage, Frequent Flows  Do's & Don'ts for Streamlining Video Content</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-next-decades-digital-marketing-shifts-in-facebook-advertising/"><u>[New] In 2024, Next Decade's Digital Marketing Shifts in Facebook Advertising</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-interactive-realities-compared-metaverse-and-multiverse/"><u>[New] Interactive Realities Compared  Metaverse and Multiverse</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-visual-storytelling-with-vsco/"><u>[New] Mastering Visual Storytelling with VSCO</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-peering-into-the-digital-universe-what-is-vr/"><u>[New] Peering Into the Digital Universe  What Is VR?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionize-your-photos-pro-level-pixlr-techniques/"><u>[New] Revolutionize Your Photos  Pro-Level Pixlr Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-saturation-savvy-3-effective-methods-for-photocolor-evolution/"><u>[New] Saturation Savvy  3 Effective Methods for PhotoColor Evolution</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seafarers-choice-top-5-pro-fish-cameras/"><u>[New] Seafarer's Choice  Top 5 Pro-Fish Cameras</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-stability-secured-the-ultimate-guide-for-uninterrupted-iphone-videos/"><u>[New] Stability Secured  The Ultimate Guide for Uninterrupted iPhone Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-standard-to-superior-adding-srt-to-mp4-videos/"><u>[Updated] From Standard to Superior  Adding SRT to MP4 Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instant-iphone-success-proven-tips-for-making-professional-photo-collagues/"><u>[Updated] Instant iPhone Success  Proven Tips for Making Professional Photo Collagues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-iphone-photography-mastery-focusing-on-the-micro-and-macro/"><u>[Updated] IPhone Photography Mastery  Focusing on the Micro & Macro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-jokejigsaw-creator-humor-graphic-tool/"><u>[Updated] JokeJigsaw Creator  Humor Graphic Tool</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-gopro-essentials-of-time-lapse-photography/"><u>[Updated] Mastering GoPro  Essentials of Time-Lapse Photography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-naming-gems-top-strategies-for-exceptional-podcast-titles/"><u>[Updated] Naming Gems  Top Strategies for Exceptional Podcast Titles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-personal-aerial-companions-gps-drones-that-never-stray/"><u>[Updated] Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premier-programs-designing-animated-3d-worlds/"><u>[Updated] Premier Programs  Designing Animated 3D Worlds</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shot-solidity-choose-the-right-mobile-tripod/"><u>[Updated] Shot Solidity  Choose the Right Mobile Tripod</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-speaking-medias-language-mastering-srt-conversions/"><u>[Updated] Speaking Media's Language  Mastering SRT Conversions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-spin-renegade-suite/"><u>[Updated] Spin Renegade Suite</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-time-saving-hacks-for-recording-instagram-stories/"><u>[Updated] Time-Saving Hacks for Recording Instagram Stories</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-essential-iphone-slideshow-apps-series-8plusxr-ios13/"><u>2024 Approved  Essential iPhone Slideshow Apps (Series 8+XR-iOS13)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-viral-potential-in-tiktok-unboxer-videos/"><u>2024 Approved  Mastering Viral Potential in TikTok Unboxer Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-pathway-to-mastering-srt-files/"><u>2024 Approved  Step-by-Step Pathway to Mastering SRT Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-experts-manual-to-windows-10-prowess/"><u>2024 Approved  The Expert's Manual to WINDOWS 10 Prowess</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlocking-creative-expression-tips-for-sharing-gifs-on-snapchat/"><u>2024 Approved  Unlocking Creative Expression  Tips for Sharing GIFs on Snapchat</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-textualizer/"><u>2024 Approved  Video Textualizer</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/a-guide-to-using-snapchats-influencer-showcase-for-2024/"><u>A Guide to Using Snapchat's Influencer Showcase for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-authorship-unleashed-techniques-for-crafting-your-personalized-ai-writer-with-chatgpt/"><u>AI Authorship Unleashed: Techniques for Crafting Your Personalized AI Writer with ChatGPT</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/creating-heartfelt-youtube-journeys/"><u>Creating Heartfelt YouTube Journeys</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/engaging-game-review-plants-vs-zombies-makes-a-splash-in-battle-for-neighborhood-combat/"><u>Engaging Game Review: Plants Vs. Zombies Makes a Splash in Battle for Neighborhood Combat</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/highest-quality-mp4-adapter-for-fb-integration/"><u>Highest Quality MP4 Adapter for FB Integration</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-or-update-corsair-k55-driver-easy-guide/"><u>How to Install or Update Corsair K55 Driver - Easy Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-lava-blaze-curve-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Lava Blaze Curve 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-v30-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme V30 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-g22-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia G22 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-sony-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Sony Phones with/without a PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-open-source-20-best-pubg-images/"><u>In 2024, Leading Open Source  20 Best PUBG Images</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-free-luts-a-pathway-to-improved-obs-streaming/"><u>In 2024, Leveraging Free LUTs  A Pathway to Improved OBS Streaming</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-level-techniques-for-attaching-srt-to-mp4-clips/"><u>In 2024, Master Level Techniques for Attaching SRT to MP4 Clips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-nine-superior-choices-for-live-streaming-now/"><u>In 2024, Nine Superior Choices for Live Streaming Now</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-stories-on-youtube-2023-edition/"><u>In 2024, Pioneering Stories on YouTube, 2023 Edition</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-masterful-lunapic-photography/"><u>In 2024, The Complete Guide to Masterful LunaPic Photography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/insightful-analysis-the-dji-inspire-2-story-for-2024/"><u>Insightful Analysis - The DJI Inspire 2 Story for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/kindle-unlimited-breakdown-why-subscribe/"><u>Kindle Unlimited Breakdown: Why Subscribe?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-time-based-imessage-reminders-for-iphone-users/"><u>Mastering the Art of Time-Based iMessage Reminders for iPhone Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-networking-on-linkedin-for-2024/"><u>Navigating Networking on LinkedIn for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/next-level-photography-smart-hdr-and-beyond-for-2024/"><u>Next-Level Photography  Smart HDR and Beyond for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/phased-opening-visuals-for-2024/"><u>Phased Opening Visuals for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-picks-essential-mp4-lists-for-2024/"><u>Premier Picks  Essential MP4 Lists for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme GT 5 (240W)? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208194874-run-the-latest-engine-successfully-upgrade-to-a-gpu-that-works-with-direct3d-11/"><u>Run the Latest Engine Successfully? Upgrade to a GPU that Works with Direct3D 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/slash-size-save-time-essential-tips-for-editing-big-tiktok-drafts-for-2024/"><u>Slash Size, Save Time  Essential Tips for Editing Big TikTok Drafts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-keeping-your-audience-attentive-and-committed-top-6-methods-revealed-for-2024/"><u>The Art of Keeping Your Audience Attentive & Committed  Top 6 Methods Revealed for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-maximize-audience-impact-peak-viewing-hours/"><u>[New] 2024 Approved Maximize Audience Impact - Peak Viewing Hours</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-zoom-for-high-quality-facebook-live-streams/"><u>[New] Leveraging Zoom for High-Quality Facebook LIVE Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-liberating-your-media-experience-free-movplay-software/"><u>[New] Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-recapture-image-purity-with-these-premium-photo-editors-online/"><u>[New] Recapture Image Purity with These Premium Photo Editors Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sparkling-access-methods-for-new-users/"><u>[New] Sparkling Access Methods for New Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-and-artistry-the-ultimate-crossfade-playbook-with-audacity/"><u>2024 Approved Precision and Artistry The Ultimate Crossfade Playbook with Audacity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-renaming-yourself-in-google-meet-pcandroid-tips/"><u>2024 Approved Renaming Yourself in Google Meet PC/Android Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y02t-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y02T</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

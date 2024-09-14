@@ -1,7 +1,7 @@
 ---
 title: "\"Slippery Surfaces  Olympic Winners of '22 for 2024\""
-date: 2024-09-08T01:52:49.273Z
-updated: 2024-09-09T01:52:49.273Z
+date: 2024-09-12T08:24:02.335Z
+updated: 2024-09-13T23:13:17.131Z
 tags: 
   - screen-recording
   - ai video
@@ -22,26 +22,8 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -62,22 +44,10 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
@@ -90,18 +60,6 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -117,11 +75,12 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -141,11 +100,12 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -156,50 +116,16 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-discover-the-7-most-wanted-apps-to-boost-your-youtube-live-quality-for-2024/"><u>[New] Discover the 7 Most Wanted Apps to Boost Your YouTube LIVE Quality for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-plot-coders-space/"><u>[New] Leading Plot Coders Space</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leveraging-social-proof-for-effective-fb-giving-initiatives/"><u>[New] Leveraging Social Proof for Effective FB Giving Initiatives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-the-unboxing-game-strategies-for-more-viral-videos-and-likes/"><u>[New] Master the Unboxing Game  Strategies for More Viral Videos and Likes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-podcast-dialogue-tips-and-practical-script-examples/"><u>[New] Mastering Podcast Dialogue  Tips & Practical Script Examples</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revenue-breakdown-a-deep-dive-into-podcast-finances/"><u>[New] Revenue Breakdown  A Deep Dive Into Podcast Finances</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-tackling-live-broadcasts-the-intersection-of-obs-and-zoom/"><u>[New] Tackling Live Broadcasts  The Intersection of OBS and Zoom</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-instagrams-rule-on-posted-videos-for-2024/"><u>[New] Unveiling Instagram’s Rule on Posted Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-path-to-perfect-presentation-cutting-out-image-backdrops-on-canva/"><u>[Updated] 2024 Approved  The Path to Perfect Presentation  Cutting Out Image Backdrops on Canva</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-quadcopters-for-kids-and-playtime-for-2024/"><u>[Updated] Best Quadcopters for Kids & Playtime for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-comprehensive-iptv-platform-agnosticism-for-2024/"><u>[Updated] Comprehensive IPTV Platform Agnosticism for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-inside-the-secrets-of-quantum-hdr-photography/"><u>[Updated] Inside the Secrets of Quantum HDR Photography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-win11-performance-boosters-revealed/"><u>[Updated] Maximizing Win11  Performance Boosters Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-masterclass-designing-your-own-hilarious-digital-memeography/"><u>[Updated] Metaverse Masterclass  Designing Your Own Hilarious Digital Memeography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-original-design-potential-utilize-free-logo-templates-and-customization-tools/"><u>[Updated] Original Design Potential  Utilize FREE Logo Templates & Customization Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-the-vr-world-essential-gear-ranked/"><u>[Updated] Pioneering the VR World  Essential Gear Ranked</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-red-eye-vanquished-swiftly-enhance-your-iphone-images-without-spending/"><u>[Updated] Red Eye Vanquished  Swiftly Enhance Your iPhone Images Without Spending</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-showdowns-and-stunts-the-best-of-snowboard-cross/"><u>[Updated] Showdowns and Stunts  The Best of Snowboard Cross</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-deciphering-the-benefits-in-depth-look-at-bandicams-capabilities/"><u>2024 Approved  Deciphering the Benefits  In-Depth Look at Bandicam's Capabilities</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sonic-spellbook-can-you-alter-your-speech-discover-different-magical-solutions/"><u>2024 Approved  Sonic Spellbook  Can You Alter Your Speech? Discover Different Magical Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/acclaimed-melody-hub-for-android-devices-for-2024/"><u>Acclaimed Melody Hub for Android Devices for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-x-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone X After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/captivating-imagery-assemblies-your-lifelong-collection/"><u>Captivating Imagery Assemblies  Your Lifelong Collection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f14-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy F14 5G support MKV video files?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embracing-germanys-linguistic-culture-top-25-phrases/"><u>Embracing Germany's Linguistic Culture: Top 25 Phrases</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-unwanted-shutdown-of-final-fantasy-xv-on-pc-a-step-by-step-guide/"><u>How to Fix the Unwanted Shutdown of Final Fantasy XV on PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-expert-advice-for-capturing-evening-images/"><u>In 2024, Expert Advice for Capturing Evening Images</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-key-aspects-of-web-based-storytelling/"><u>In 2024, Key Aspects of Web-Based Storytelling</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-live-streaming-elite-9-edition/"><u>In 2024, Live Streaming Elite  #9 Edition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-prolific-productions-top-10-text-techniques-to-captivate-viewers/"><u>In 2024, Prolific Productions  Top 10 Text Techniques to Captivate Viewers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/internet-humorista-hub-for-2024/"><u>Internet Humorista Hub for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-photo-framing-digital-sites-and-apps-guide-for-2024/"><u>Perfect Photo Framing  Digital Sites and Apps Guide for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/premier-fb-viewing-sites-ranked-1-10/"><u>Premier FB Viewing Sites Ranked #1-10</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pushing-boundaries-exploring-iphone-xs-unique-lens-tech-for-2024/"><u>Pushing Boundaries  Exploring iPhone X's Unique Lens Tech for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sparkling-access-methods-for-new-users-for-2024/"><u>Sparkling Access Methods for New Users for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -207,3 +133,17 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-your-journey-through-the-maze-of-uploading-videos-on-youtube/"><u>[New] 2024 Approved Your Journey Through the Maze of Uploading Videos on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-gen-skyborne-a-deep-dive-into-h501s-x4/"><u>[New] Next-Gen Skyborne A Deep Dive Into H501S X4</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-soundbite-strategies-transform-your-voice-records/"><u>[New] Soundbite Strategies Transform Your Voice Records</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-making-your-photoshop-projects-pop-with-3d-text-design/"><u>[Updated] Making Your Photoshop Projects Pop with 3D Text Design</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-cameras-showdown-gopro-max-vs-hero-11-comparison/"><u>[Updated] Pro Cameras Showdown GoPro Max VS Hero 11 Comparison</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-nokia-g22-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Nokia G22 Phone? Unlock It Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-scheduled-text-notifications-with-your-iphones-reminders-app/"><u>Mastering Scheduled Text Notifications with Your iPhone's Reminders App</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-whisper-techniques-concealing-commands-effectively/"><u>Window's Whisper Techniques: Concealing Commands Effectively</u></a></li>
+</ul></div>
+
