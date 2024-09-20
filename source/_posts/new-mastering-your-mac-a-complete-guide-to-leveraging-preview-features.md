@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-09-09T06:29:19.797Z
-updated: 2024-09-14T00:56:57.474Z
+date: 2024-09-14T17:32:39.574Z
+updated: 2024-09-19T23:47:37.617Z
 tags: 
   - screen-recording
   - ai video
@@ -80,6 +80,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -108,6 +115,19 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -125,16 +145,10 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -164,13 +178,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -206,13 +213,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -228,17 +228,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-insta-turn-techniques-flipping-your-photos-and-gaining-followers/"><u>[New] 2024 Approved Insta-Turn Techniques Flipping Your Photos and Gaining Followers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-investigating-cash-for-review-scenarios/"><u>[New] Investigating Cash-for-Review Scenarios</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prestigious-directory-free-visuals-hubs-galore-online/"><u>[New] Prestigious Directory FREE Visuals Hubs Galore Online</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sounding-off-instagrams-copyright-rules/"><u>[New] Sounding Off Instagram's Copyright Rules</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-alter-your-macs-snapshot-format/"><u>[Updated] 2024 Approved How to Alter Your Mac's Snapshot Format</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-maximize-your-mobile-podcast-experience-on-iphone/"><u>[Updated] 2024 Approved Maximize Your Mobile Podcast Experience on iPhone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-a-step-by-step-guide-how-to-record-save-and-share-youtube-video-for-no-cost-for-2024/"><u>[Updated] A Step-by-Step Guide How To Record, Save & Share YouTube Video for No Cost for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-zoom-for-high-quality-facebook-live-streams/"><u>[Updated] Leveraging Zoom for High-Quality Facebook LIVE Streams</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-say-goodbye-to-boring-photos-addons-for-iphones-and-android-screenshots/"><u>[Updated] Say Goodbye to Boring Photos – Addons for iPhones and Android Screenshots</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-spectacular-vision-immersive-movies/"><u>[Updated] Spectacular Vision Immersive Movies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/craft-your-photos-in-minutes-learning-lunapic/"><u>Craft Your Photos in Minutes Learning LunaPic</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-xr-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone XR Activation Lock</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-dissecting-youtube-chatter-for-2024/"><u>[New] Dissecting YouTube Chatter for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inspirational-slide-shows-10-best-places-to-download-them-for-free/"><u>[New] Inspirational Slide Shows 10 Best Places to Download Them For Free</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-kodi-remote-x-wmps-easy-alternative/"><u>[New] Kodi Remote X WMP's Easy Alternative</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-restore-lost-details-4-premiere-pro-methods-for-iphone-hdr-footage/"><u>[New] Restore Lost Details 4 Premiere Pro Methods for iPhone HDR Footage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reddits-golden-threads-celebrating-the-highest-rated-posts/"><u>[Updated] Reddit's Golden Threads Celebrating the Highest-Rated Posts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-real-time-proportion-alteration-tool/"><u>2024 Approved Real-Time Proportion Alteration Tool</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/achieving-perfection-insightful-hitman-3-assessment/"><u>Achieving Perfection: Insightful Hitman 3 Assessment</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-xcover-6-pro-tactical-edition-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy XCover 6 Pro Tactical Edition Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/overcoming-obstacles-in-iphone-xs-facial-detection-system-for-2024/"><u>Overcoming Obstacles in iPhone X’s Facial Detection System for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/propel-your-virtual-presence-with-these-gadgets-for-2024/"><u>Propel Your Virtual Presence with These Gadgets for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proven-methods-to-secure-costless-illustrations-for-2024/"><u>Proven Methods to Secure Costless Illustrations for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-video-transcoder-for-macos-seamless-avchd-mkv-mov-and-mp4-format-conversion/"><u>Ultimate Video Transcoder for macOS: Seamless AVCHD, MKV, MOV & MP4 Format Conversion</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-mondlys-updated-help-guide/"><u>Unveiling Mondly's Updated Help Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-from-sketch-to-screen-mastering-animation-drawing-with-the-top-7-software/"><u>Updated 2024 Approved From Sketch to Screen Mastering Animation Drawing with the Top 7 Software</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/utilizing-youtubes-cc-to-enhance-your-videography/"><u>Utilizing YouTube's CC to Enhance Your Videography</u></a></li>
 </ul></div>
 

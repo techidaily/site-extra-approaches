@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Mac Preview with Ease  Ultimate Guide\""
-date: 2024-09-10T17:15:03.696Z
-updated: 2024-09-14T02:54:48.846Z
+date: 2024-09-14T21:06:54.888Z
+updated: 2024-09-20T01:24:34.242Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,13 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -80,6 +87,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -91,13 +105,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -114,13 +121,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -167,10 +167,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -222,20 +222,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-obs-or-wirecast-deciding-on-the-best-streamer-tool/"><u>[New] OBS or Wirecast? Deciding on the Best Streamer Tool</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pioneering-strategies-for-success-in-the-spotify-ad-arena/"><u>[New] Pioneering Strategies for Success in the Spotify Ad Arena</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-rapid-review-windows-files-made-simple/"><u>[New] Rapid Review Windows Files Made Simple</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-use-whiteboard-in-zoom-meeting/"><u>[Updated] 2024 Approved How to Use Whiteboard in Zoom Meeting</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shining-spots-on-screen-top-video-lights-strategies/"><u>[Updated] Shining Spots on Screen Top Video Lights Strategies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-intersection-of-youtube-and-tiktok-networks/"><u>2024 Approved Navigating the Intersection of YouTube and TikTok Networks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-trimming-the-tremble-a-guide-to-smoother-gopro-videos/"><u>2024 Approved Trimming the Tremble A Guide to Smoother GoPro Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>In 2024, Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changefake-your-itel-p55-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Itel P55 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-11-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus 11 5G Phone FRP Lock</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-variable-speed-video-streaming-with-the-latest-plex-feature-update/"><u>Mastering Variable Speed Video Streaming with the Latest Plex Feature Update</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-srt-alteration-in-macos-systems-for-2024/"><u>Navigating the World of SRT Alteration in macOS Systems for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rethink-your-charge-understanding-the-truth-about-larger-phone-batteries/"><u>Rethink Your Charge: Understanding the Truth About Larger Phone Batteries</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/securing-your-scene-minimize-camera-jostle-for-2024/"><u>Securing Your Scene Minimize Camera Jostle for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-android-essentials-must-have-apps-for-your-device/"><u>Updated Android Essentials Must-Have Apps for Your Device</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-social-media-trends-visualized/"><u>[New] In 2024, Social Media Trends Visualized</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-making-an-effective-podcast-launch-video/"><u>[New] Mastering the Art of Making an Effective Podcast Launch Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-removing-photo-backdrops/"><u>[New] Step-by-Step Guide Removing Photo Backdrops</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-poker-professional-panelisms/"><u>[Updated] POKER PROFESSIONAL PANELISMS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-list-top-free-video-recorder-software-explored/"><u>[Updated] Premier List - Top Free Video Recorder Software Explored</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-picks-for-high-quality-insta-tunes-and-secrets-on-how-to-make-a-noteworthy-chime/"><u>[Updated] Prime Picks for High-Quality Insta Tunes & Secrets on How to Make a Noteworthy Chime</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elevate-listener-engagement-seo-strategies-for-podcasts/"><u>2024 Approved Elevate Listener Engagement Seo Strategies for Podcasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-xiaomi-unveils-next-level-screen-recording-for-photo-lovers/"><u>2024 Approved Xiaomi Unveils Next-Level Screen Recording for Photo Lovers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725285379386-ai/"><u>最新のAI技術で写真拡大法：小像素からクリアなビジュアルへ</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/beat-the-rush-grab-your-cost-effective-qualcomm-snapdragon-x-elite-pc-before-its-gone-preorders-open/"><u>Beat the Rush: Grab Your Cost-Effective Qualcomm Snapdragon X Elite PC Before It's Gone – Preorders Open</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rial-elegance-at-the-end/"><u>Editorial Elegance at the End</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-obtain-and-configure-toshiba-printer-drivers-for-windows-systems/"><u>How to Successfully Obtain and Configure Toshiba Printer Drivers for Windows Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimizing-fade-infade-out-routines-for-2024/"><u>Optimizing Fade-In/Fade-Out Routines for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-detection-errors-ensuring-your-tl-wn722n-works-with-windows-devices/"><u>Overcoming Detection Errors: Ensuring Your TL-WN722N Works with Windows Devices</u></a></li>
 </ul></div>
 

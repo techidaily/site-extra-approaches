@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Integrating Secondary Shots  Tips and Tricks\""
-date: 2024-09-08T05:02:25.610Z
-updated: 2024-09-14T07:37:02.186Z
+date: 2024-09-17T01:43:55.808Z
+updated: 2024-09-19T20:03:52.198Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -66,13 +73,6 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -80,10 +80,10 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
@@ -91,16 +91,10 @@ If flaws were discovered during primary photography, the directors could have re
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -137,18 +131,19 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-leading-drones-for-superior-gopro-camera-integration/"><u>[New] Leading Drones for Superior GoPro Camera Integration</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-playwriting-sanctuary/"><u>[New] Pinnacle Playwriting Sanctuary</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-free-power-players-ranking-the-top-10-free-luts/"><u>[New] Premium-Free Power Players Ranking the Top 10 Free LUTs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-action-cameras-with-superior-mics/"><u>[New] Prime Action Cameras with Superior Mics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-essentials-to-record-save-and-refine-videography-on-adobe-connect-for-2024/"><u>[Updated] The Essentials to Record, Save, & Refine Videography on Adobe Connect for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/free-data-phoenix-stellar-recovery-software/"><u>Free Data Phoenix - Stellar Recovery Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-a54-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy A54 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-syncopating-sounds-how-to-edit-music-effectively-in-canva/"><u>In 2024, Syncopating Sounds How to Edit Music Effectively in Canva</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/next-level-screenshots-review-of-apowersofts-pc-recorder-for-2024/"><u>Next-Level Screenshots Review of Apowersoft's PC Recorder for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-aerial-imagery-crews-the-10-drones-for-2024/"><u>Premium Aerial Imagery Crews The #10 Drones for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pro-video-editing-compatible-software-across-windows-systems-for-2024/"><u>Pro Video Editing Compatible Software Across Windows Systems for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-lost-steam-games-images-in-windows/"><u>Restoring Lost Steam Games Images in Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sculpting-soundscapes-the-fading-trick-for-2024/"><u>Sculpting Soundscapes The Fading Trick for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-capturing-the-clouds-advanced-drone-video-techniques-for-2024/"><u>[New] Capturing the Clouds Advanced Drone Video Techniques for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-principles-of-documentary-storytelling/"><u>[New] Principles of Documentary Storytelling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-simplify-transcribing-the-word-guide-to-speech-to-text/"><u>[New] Simplify Transcribing The Word Guide to Speech-to-Text</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-stop-yakuza-3-pc-remastered-from-suddenly-exiting-during-play/"><u>[SOLUTION FOUND] How to Stop Yakuza 3 (PC Remastered) From Suddenly Exiting During Play</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-transform-your-playtime-mastering-ps4-live-recordings-with-obs/"><u>[Updated] 2024 Approved Transform Your Playtime Mastering PS4 Live Recordings with OBS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-free-floating-vr-without-nausea/"><u>[Updated] Navigating Free-Floating VR without Nausea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clipcomposer-critique-thorough-examination/"><u>2024 Approved ClipComposer Critique – Thorough Examination</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-g24-power-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola G24 Power Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reimagine-old-school-vhs-with-modern-computer-techniques-for-2024/"><u>Reimagine Old-School VHS with Modern Computer Techniques for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-when-avatars-frontiers-of-pandora-wont-start/"><u>Solving the Issue When Avatar's 'Frontiers of Pandora' Won't Start</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/unveiling-the-portable-tech-marvel-lenovo-releases-a-37-liter-thinkcentre-esque-yoga-ai-mini-pc-with-cutting-edge-intel-cpus/"><u>Unveiling the Portable Tech Marvel: Lenovo Releases a 3.^7 Liter, ThinkCentre-Esque Yoga AI Mini PC with Cutting-Edge Intel CPUs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Snowy Standouts From Winter 2022 Olympics"
-date: 2024-09-10T16:37:01.054Z
-updated: 2024-09-13T21:34:28.954Z
+date: 2024-09-18T23:04:24.137Z
+updated: 2024-09-19T23:18:25.635Z
 tags: 
   - screen-recording
   - ai video
@@ -40,18 +40,18 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
 Injuries are part of sports events but some injuries are gruesome and are results of terrifying crashes. Team USA alpine racer Nina O'Brien was the victim of a terrifying crash this year at Winter Olympics. During her second run at the women's giant slalom event, she suffered a gruesome leg injury.
 
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
@@ -61,21 +61,7 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Van der Poel Breaks the World Record
 
@@ -83,26 +69,27 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
-Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
-
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
@@ -113,10 +100,10 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
@@ -130,10 +117,10 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. American Favorite Out of the Tournament
@@ -161,15 +148,20 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-elite-3d-player-options-for-android-devices/"><u>[New] In 2024, Elite 3D Player Options for Android Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-srt-file-handling-simplified-on-pcmac/"><u>[New] SRT File Handling Simplified on PC/Mac</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-augmenting-youtube-video-space/"><u>[New] Step-by-Step Augmenting YouTube Video Space</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-charting-a-course-for-wealth-ajeys-youtube-income-blueprint/"><u>[Updated] Charting a Course for Wealth Ajey's YouTube Income Blueprint</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-elevate-your-video-rankings-with-effective-seo-tactics/"><u>2024 Approved Elevate Your Video Rankings with Effective SEO Tactics</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-14-pro-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 14 Pro i Do? Get Answers here</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-best-html5-video-player-landscape-for-2024/"><u>Navigating the Best HTML5 Video Player Landscape for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-picks-top-gimbals-for-drones/"><u>Professional Picks Top Gimbals for Drones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/professional-grade-8-filters-for-live-feeds-for-2024/"><u>Professional-Grade 8 Filters for Live Feeds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-sites-for-extracting-text-aesthetics-packs/"><u>[New] Leading Sites for Extracting Text Aesthetics Packs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-camera-spin-top-professionals-360cameras-of-2023/"><u>[New] Pioneering Camera Spin Top Professionals’ 360°Cameras of 2023</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-power-solutions-for-gopro-hero5-black-certified-and-imposters/"><u>[New] Premium Power Solutions for GoPro Hero5 Black - Certified & Imposters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-starters-manual-to-mastering-screen-clarity/"><u>[New] Starter's Manual to Mastering Screen Clarity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-streamlining-picture-shading-with-adobe-tools-for-2024/"><u>[New] Streamlining Picture Shading with Adobe Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-list-10-relaxing-game-hits/"><u>[Updated] In 2024, Ultimate List 10 Relaxing Game Hits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-sustaining-high-view-count-in-youtube-videos/"><u>[Updated] Secrets to Sustaining High View Count in YouTube Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/exploring-electronics-with-tom-a-hardware-guide/"><u>Exploring Electronics with Tom: A Hardware Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gigglegadget-assistant/"><u>In 2024, GiggleGadget Assistant</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-promotion-essentials/"><u>In 2024, Metaverse Promotion Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pixel-power-streaming-strategies-in-the-software-vs-hardware-arena/"><u>Pixel Power Streaming Strategies in the Software vs Hardware Arena</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/1723262389698-scorching-deal-alert-unbeatable-msi-aegis-r2-with-rtx-4070-and-intel-i7-at-less-than-1600-upgrade-your-game-today/"><u>Scorching Deal Alert: Unbeatable MSI Aegis R2 with RTX 4070 & Intel I7 at Less Than $1,600 – Upgrade Your Game Today!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-online-photo-and-video-collage-makers/"><u>Updated 2024 Approved Best Online Photo and Video Collage Makers</u></a></li>
 </ul></div>
 
