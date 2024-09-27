@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-09-14T17:32:39.574Z
-updated: 2024-09-19T23:47:37.617Z
+date: 2024-09-24T17:10:05.043Z
+updated: 2024-09-27T17:51:23.350Z
 tags: 
   - screen-recording
   - ai video
@@ -80,13 +80,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -98,6 +91,13 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -116,16 +116,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -145,10 +139,16 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -166,6 +166,19 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -226,5 +239,26 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ecoding-the-art-of-asmr-filmmaking-techniques/"><u>[New] Decoding the Art of ASMR Filmmaking Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-windows-11-user-guide-for-professional-audio-recording/"><u>[Updated] 2024 Approved Windows 11 User Guide for Professional Audio Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expedite-your-experience-quick-iphone-time-lapse/"><u>[Updated] Expedite Your Experience Quick iPhone Time-Lapse</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-your-project-b-roll-utilization-tips/"><u>[Updated] Optimizing Your Project B-Roll Utilization Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/10-final-cut-pro-plug-ins-for-2024/"><u>10 Final Cut Pro-Plug-Ins for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-top-8-selection-tripods-for-high-res-cameras/"><u>2024 Approved Premium Top 8 Selection Tripods for High-Res Cameras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-ranking-the-best-most-innovative-pc-vr-headsets/"><u>2024 Approved Ranking the Best, Most Innovative PC VR Headsets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-facebook-videos-on-browsers-today/"><u>2024 Approved Seamless Facebook Videos on Browsers Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/2024-windows/"><u>2024年度のベスト: Windowsユーザに選ばれた無料音声記録プログラム</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/discover-the-most-valuable-online-spots-for-free-photographs-for-2024/"><u>Discover the Most Valuable Online Spots for Free Photographs for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-essential-functionality-in-leading-iphone-image-editors-discover-the-top-10-features/"><u>Expert Tips: Essential Functionality in Leading iPhone Image Editors – Discover the Top 10 Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphoneandroid-choose-great-focus-shots/"><u>In 2024, IPhone/Android Choose Great Focus Shots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-making-sense-of-virtual-realitys-promise-and-peril/"><u>In 2024, Making Sense of Virtual Reality's Promise and Peril</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-perfecting-tiktok-habit-how-to-share-videos-from-macpc/"><u>In 2024, Perfecting TikTok' Habit How to Share Videos From MAC/PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads-for-2024/"><u>Mastering Soundscapes The Ultimate Guide to iPhone/iPad Podcast Downloads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-visual-storytelling-with-vsco-for-2024/"><u>Mastering Visual Storytelling with VSCO for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-your-way-through-vr-headset-selection-is-the-mobile-experience-more-attractive-than-tethered-tech-for-2024/"><u>Navigating Your Way Through VR Headset Selection Is the Mobile Experience More Attractive Than Tethered Tech for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/perfecting-hp-screen-capture-top-4-methods-unveiled/"><u>Perfecting HP Screen Capture Top 4 Methods Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-guide-to-zoom-call-recordings-for-2024/"><u>Step-by-Step Guide to Zoom Call Recordings for 2024</u></a></li>
+</ul></div>
 

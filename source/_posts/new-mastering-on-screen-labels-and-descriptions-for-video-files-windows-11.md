@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)\""
-date: 2024-09-12T05:43:41.106Z
-updated: 2024-09-13T16:10:18.292Z
+date: 2024-09-22T19:30:51.785Z
+updated: 2024-09-27T19:29:17.789Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -68,9 +75,29 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
@@ -79,6 +106,13 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -93,12 +127,20 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-luminaries-crafting-spectaculous-vr-journeys/"><u>[New] Luminaries Crafting Spectaculous VR Journeys</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-your-impact-with-periscope-live/"><u>[New] Maximizing Your Impact with Periscope Live</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nine-ways-to-unblock-live-feeds-on-firefoxchrome/"><u>[New] Nine Ways to Unblock Live Feeds on FireFox/Chrome</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-cutting-through-limitations-with-top-video-editor-alternatives/"><u>[Updated] 2024 Approved Cutting Through Limitations with Top Video Editor Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-enhance-visibility-youtube-thumbnails-made-simple/"><u>[Updated] In 2024, Enhance Visibility YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-starry-secrets-a-guide-to-capturing-the-perfect-night-portraits/"><u>[Updated] In 2024, Starry Secrets A Guide to Capturing the Perfect Night Portraits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-setting-up-zoom-meetings-a-comprehensible-android-methodology/"><u>2024 Approved Setting Up Zoom Meetings A Comprehensible Android Methodology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-capturing-the-live-best-obs-screen-recorders-reviewed/"><u>In 2024, Capturing the Live Best OBS Screen Recorders Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-strategies-to-modify-user-numbers-on-tiktok/"><u>In 2024, Smart Strategies to Modify User Numbers on TikTok</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-smart-techniques-to-elevate-your-youtube-summaries/"><u>In 2024, Smart Techniques to Elevate Your Youtube Summaries</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-motorola-one-5g-ace-excellent-5g-speeds-meet-unbeatable-battery-endurance/"><u>In-Depth Review of the Motorola One 5G Ace: Excellent 5G Speeds Meet Unbeatable Battery Endurance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-harmony-in-vr-exploration-for-2024/"><u>Perfect Harmony in VR Exploration for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Start to Smooth Volume Increase"
-date: 2024-09-09T19:57:52.825Z
-updated: 2024-09-14T01:47:14.510Z
+date: 2024-09-20T19:31:44.438Z
+updated: 2024-09-27T17:10:52.140Z
 tags: 
   - screen-recording
   - ai video
@@ -78,13 +78,6 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 ## Part 3\. Related FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
@@ -93,22 +86,16 @@ If you want to fade in and fade out two clips at the same time, then controlling
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Adobe Audition fade-out greyed out?
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -120,6 +107,13 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -127,33 +121,40 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
-## Part 3\. Related FAQs
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 3\. Related FAQs
 
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Adobe Audition fade-out greyed out?
 
@@ -189,5 +190,22 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-linking-giants-a-step-by-step-guide-to-merging-instagram-and-tiktok/"><u>[New] Linking Giants A Step-by-Step Guide to Merging Instagram and TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-drone-selection-guide-top-5/"><u>[New] Professional Drone Selection Guide (Top 5)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-concoct-a-unique-digital-laugh-stick/"><u>[Updated] Concoct a Unique Digital Laugh Stick</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-interactive-image-merging-for-desktop-enthusiasts/"><u>[Updated] Interactive Image Merging for Desktop Enthusiasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elevate-your-music-library-top-picks-from-8-exceptional-free-android-downloader-apps/"><u>2024 Approved Elevate Your Music Library - Top Picks From 8 Exceptional Free Android Downloader Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-next-gen-titans-windows-10s-newest-games-and-apps/"><u>2024 Approved Next-Gen Titans Windows 10'S Newest Games and Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stay-steady-in-virtual-reality-with-htcs-tips/"><u>2024 Approved Stay Steady in Virtual Reality with HTC's Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-tecno-camon-20-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Tecno Camon 20 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/diretrizes-do-derecho-as-condicoes-para-filmagens-autorizadas-em-portugal-entendendo-a-permissao-individual/"><u>Diretrizes Do Derecho: As Condições Para Filmagens Autorizadas Em Portugal - Entendendo a Permissão Individual</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-12-pro-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 12 Pro Without Backup? | Stellar</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 6 Plus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-punchy-prowess-vs-online-influence/"><u>In 2024, Punchy Prowess Vs Online Influence</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/navigate-effortlessly-how-to-clear-your-browsers-youtube-cache/"><u>Navigate Effortlessly How to Clear Your Browser's YouTube Cache</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionizing-imaging-with-quantum-hdrs-potential-for-2024/"><u>Revolutionizing Imaging with Quantum HDR's Potential for 2024</u></a></li>
+</ul></div>
 

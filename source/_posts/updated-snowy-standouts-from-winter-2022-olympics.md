@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Snowy Standouts From Winter 2022 Olympics"
-date: 2024-09-18T23:04:24.137Z
-updated: 2024-09-19T23:18:25.635Z
+date: 2024-09-26T16:00:36.635Z
+updated: 2024-09-27T18:24:53.044Z
 tags: 
   - screen-recording
   - ai video
@@ -24,11 +24,25 @@ The grand opening ceremony was held on 4th February and the grand closing will b
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Lindsey Jacobellis Gives US Its First Beijing Olympics Gold
 
 American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowboard cross at Beijing Winter Olympics. She broke the deadlock for the United States at Winter Olympics by giving her country the first gold. In fact, Lindsey Jacobellis had to wait 16 years to wind her maiden gold at the Olympics.
 
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
 
@@ -40,18 +54,18 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
 Injuries are part of sports events but some injuries are gruesome and are results of terrifying crashes. Team USA alpine racer Nina O'Brien was the victim of a terrifying crash this year at Winter Olympics. During her second run at the women's giant slalom event, she suffered a gruesome leg injury.
 
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
@@ -61,20 +75,27 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Van der Poel Breaks the World Record
 
 Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year-old Swede started strongly and crossed the finish line in 12 minutes 30.74 seconds to set the world record. His victory also made Sweden taste an Olympic medal after 1988\. The victory also made him the tenth man to win both the 10,000 races and 5,000 races in the same event. It is also the largest Olympic victory as he triumphed the record set by Johan Olav Kloss in 1994 by 18.70 seconds.
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
@@ -83,13 +104,6 @@ Following the victory, he stated that he was sure to win the gold with eight lap
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
@@ -100,13 +114,20 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
@@ -115,13 +136,6 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. American Favorite Out of the Tournament
 
@@ -146,5 +160,21 @@ However, due to some miscommunication, she was allowed to be a participant in th
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-social-media-connectivity-embedding-live-streams-from-twitch-to-fb/"><u>[New] 2024 Approved Social Media Connectivity Embedding Live Streams From Twitch to FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-transforming-mundane-images-with-music-on-instagram/"><u>[New] 2024 Approved Transforming Mundane Images with Music on Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-slow-mo-camera-apps-for-iphoneandroid-users/"><u>[New] Leading Slow Mo Camera Apps for iPhone/Android Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-picsart-in-detail-the-ultimate-guide-to-2024-updates/"><u>[New] PicsArt in Detail The Ultimate Guide to 2024 Updates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamlessly-change-backdrops-explore-our-top-10-image-replace-tools/"><u>[New] Seamlessly Change Backdrops Explore Our Top 10 Image Replace Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-restoring-internet-access-in-cod-cold-war/"><u>[SOLVED] Restoring Internet Access in CoD Cold War</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breakthrough-strategies-for-peak-video-viewership-times/"><u>[Updated] 2024 Approved Breakthrough Strategies for Peak Video Viewership Times</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-instant-reddit-archives-retrieval-with-ease/"><u>[Updated] 2024 Approved Instant Reddit Archives Retrieval with Ease</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pro-streamers-list-5-innovative-webcams-for-gamers/"><u>[Updated] In 2024, Pro Streamer's List 5 Innovative Webcams for Gamers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-video-privacy-measures-blurring-and-concealing-details/"><u>2024 Approved Video Privacy Measures Blurring and Concealing Details</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-make-your-screenshots-stand-out-the-ultimate-ios-and-android-app-list/"><u>In 2024, Make Your Screenshots Stand Out The Ultimate iOS & Android App List</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mp4imovie/"><u>MP4ファイル再生失敗：iMovieから書き出す方法とトラブルシューティング</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-process-of-enlisting-videos-on-youtube-shelves/"><u>Navigating the Process of Enlisting Videos on YouTube Shelves</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/steady-visual-storytelling-techniques-for-2024/"><u>Steady Visual Storytelling Techniques for 2024</u></a></li>
+</ul></div>
 

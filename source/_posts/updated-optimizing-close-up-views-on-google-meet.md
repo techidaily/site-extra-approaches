@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Optimizing Close-Up Views on Google Meet\""
-date: 2024-09-11T09:00:48.650Z
-updated: 2024-09-14T01:07:26.694Z
+date: 2024-09-24T18:17:40.294Z
+updated: 2024-09-27T19:27:11.493Z
 tags: 
   - screen-recording
   - ai video
@@ -38,19 +38,47 @@ Step1 Set up a video conferencing setup and start a conference in your web brows
 
 ![setup google meet](https://images.wondershare.com/filmora/article-images/2022/07/setup-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Hover over the shared screen and click the Pin symbol to save it. Go to the "Webcam Settings" window, pick the "Camera Control" option at the top, then select the webcam from the drop-down list.
 
 ![google meeting settings panel](https://images.wondershare.com/filmora/article-images/2022/07/google-meeting-settings-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 The "Layout" option is next to the slider; click it. Adjust it in the direction the zoom-in zooms in using the slider. The "Ok" button may assist you in making all of your decisions. Select the Minimize icon while your cursor is on your own picture.
 
 ![layout options google meet](https://images.wondershare.com/filmora/article-images/2022/07/layout-options-google-meet.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Change your Layout to "Focus" in the Meet Menu (three dots). By repeatedly hitting CTRL+ minus (-), you can zoom out (!). The Meet controls at the bottom get smaller as a result. With CTRL+0, you may subsequently reverse your zoom.
 
 Step5 To turn off the browser UI, press F11\. By hitting F11 once again, full screen mode may be ended.
 
 ![full screen mode google meet](https://images.wondershare.com/filmora/article-images/2022/07/full-screen-mode-google-meet.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Tips and tricks to use Google Meet
 
@@ -64,13 +92,6 @@ Those who have a Google Account are able to start a meeting. It's simple to make
 * For added convenience, Google Meet lets you cast a meeting to another screen. The TV in your living room or conference room may be projected from your laptop or desktop, in other words.
 * Similar to the subtitle feature seen on other applications like Skype, this feature allows you to have the dialogue show in text on your screen in real-time so that you can more easily understand what is being said during video chats. It is exclusively offered in English. Click Turn on Captions in the Meet's bottom right corner to turn it on.
 * Users of Google Meet will be able to pin many individuals to the top of their tiled screen. This will be especially useful if you have meetings where two or three people talk the majority of the time.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -104,5 +125,22 @@ You may show additional information on your Google Meet by zooming in and out. O
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-use-movie-maker-on-windows-8/"><u>[New] In 2024, How to Use Movie Maker on Windows 8</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-voice-customization-go-beyond-echoes/"><u>[New] Leading Voice Customization Go Beyond Echoes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-looking-gopro-videos-without-shakiness/"><u>[New] Professional-Looking GoPro Videos without Shakiness</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-tiny-tycoon-how-ryans-channel-became-a-millionaire-hub/"><u>[Updated] In 2024, Tiny Tycoon How Ryan’s Channel Became a Millionaire Hub</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-strategic-insights-into-aesthetic-success-for-audio-brands/"><u>[Updated] Strategic Insights Into Aesthetic Success for Audio Brands</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-techkey-bluetooth-driver-for-windows-operating-systems-10-7-and-8/"><u>Download the Latest Techkey Bluetooth Driver for Windows Operating Systems (10, 7 & 8)</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/expert-advice-on-ap-automation-in-depth-qanda-sessions-with-industry-leaders/"><u>Expert Advice on AP Automation: In-Depth Q&A Sessions with Industry Leaders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-standard-to-personalized-installing-unique-ringtones-and-sounds-on-android-for-2024/"><u>From Standard to Personalized Installing Unique Ringtones & Sounds on Android for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-se-2022-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone SE (2022) to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/1717086793086-in-2024-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>In 2024, Photography Tutorial_ How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-slumber-solutions-through-asmr-advisors-choice/"><u>In 2024, Slumber Solutions Through ASMR Advisors' Choice</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-removing-photo-backdrops/"><u>In 2024, Step-by-Step Guide Removing Photo Backdrops</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photozoomelite-ultimate-picture-scaler-for-2024/"><u>PhotoZoomElite Ultimate Picture Scaler for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-to-downloading-and-installing-printer-drivers-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700d324/"><u>Troubleshooting Guide To Downloading And Installing Printer Drivers - Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
+</ul></div>
 

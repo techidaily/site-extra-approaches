@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Ice Racers  Moments From the Short Track Games for 2024\""
-date: 2024-08-17T20:42:26.441Z
-updated: 2024-08-18T20:42:26.441Z
+date: 2024-09-23T19:12:13.614Z
+updated: 2024-09-27T16:05:46.571Z
 tags: 
   - screen-recording
   - ai video
@@ -40,9 +40,29 @@ Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -61,8 +81,12 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -78,8 +102,12 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -99,8 +127,12 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -111,14 +143,9 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -126,3 +153,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-celebrity-fleeting-frame-study/"><u>[New] Celebrity Fleeting Frame Study</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-innovating-interaction-beyond-vidcon-conclaves/"><u>[Updated] 2024 Approved Innovating Interaction Beyond VidCon Conclaves</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-resolution-duel-comparing-gopro-hero-and-polaroid-cube/"><u>[Updated] Resolution Duel Comparing GoPro Hero and Polaroid Cube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shooting-hdr-iphones-pathway-to-enhanced-images/"><u>[Updated] Shooting HDR IPhone's Pathway to Enhanced Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-setting-up-your-first-zoom-call-on-android/"><u>2024 Approved Setting Up Your First Zoom Call on Android</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726029951833-and/"><u>無料でカスタム着信メロディ作成&ダウンロードガイド</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-to-blockchain-stardom-discover-the-top-7-generator-tools/"><u>In 2024, Journey to Blockchain Stardom - Discover the Top 7 Generator Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-multi-stream-video-in-edge/"><u>In 2024, Navigating Multi-Stream Video in Edge</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incorporating-melodic-essence-into-your-creative-videos-with-premiere-pro-for-2024/"><u>Incorporating Melodic Essence Into Your Creative Videos with Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262260720-leak-alert-intel-releases-core-ultra-series-cpu-and-supporting-z890-chip-setnew-era-of-desktop-computing-awaits/"><u>Leak Alert: Intel Releases Core Ultra Series CPU and Supporting Z890 Chip Set—New Era of Desktop Computing Awaits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-webcam-software-suite-cost-free-downloads-for-windows-users/"><u>Logitech Webcam Software Suite: Cost-Free Downloads for Windows Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-photo-finishes-picarts-background-erase-method-for-2024/"><u>Perfect Photo Finishes PicArt's Background Erase Method for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-instructions-for-activating-high-dynamic-range-in-windows-11-for-2024/"><u>Step-by-Step Instructions for Activating High Dynamic Range in Windows 11 for 2024</u></a></li>
+</ul></div>
+

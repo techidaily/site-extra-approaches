@@ -1,7 +1,7 @@
 ---
 title: "\"Revolutionize Editing  The Secret Techniques for Background Obliteration in Affinity for 2024\""
-date: 2024-09-08T10:16:20.762Z
-updated: 2024-09-13T22:18:30.778Z
+date: 2024-09-22T19:16:07.628Z
+updated: 2024-09-27T18:08:04.929Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,13 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -44,6 +51,13 @@ Step3 To make a selection around your subject, first enable the **"Snap To Edges
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
 Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, and use the Selection Brush tool to manually correct the rough edges of your outline.
@@ -51,6 +65,13 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
@@ -83,14 +104,20 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-**Note:** To save your image with a transparent background, do not export it in JPG file format.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 ## The Best Alternative of Affinity Photo
 
@@ -99,6 +126,13 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -115,13 +149,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -156,13 +183,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -196,5 +216,20 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ps5xbox-series-x-the-elite-tvs-for-gamers/"><u>[Updated] In 2024, PS5/Xbox Series X The Elite TVs for Gamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-spectral-stories-telling-tales-through-color/"><u>[Updated] Spectral Stories Telling Tales Through Color</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-network-needs-skilled-approaches-to-file-movement-on-computer/"><u>2024 Approved Navigate Network Needs Skilled Approaches to File Movement on Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-lut-use-in-professional-video-editing/"><u>2024 Approved Navigating LUT Use in Professional Video Editing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-memory-card-for-sony-a7s-ii/"><u>Best Memory Card for Sony A7S II</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-tecno-easily-by-drfone-android/"><u>In 2024, How To Unlock a Tecno Easily?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prior-upgrades-key-points-revisited/"><u>In 2024, Prior Upgrades? Key Points Revisited</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-transform-your-footage-pro-quality-movies-made-easy-for-2024/"><u>New Transform Your Footage Pro-Quality Movies Made Easy for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-text-motion-manuals-for-2024/"><u>Premier Text Motion Manuals for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/telasa/"><u>テラサ(Telasa)ビデオクリッピングのためのステップバイステップ・マニュアル</u></a></li>
+</ul></div>
 

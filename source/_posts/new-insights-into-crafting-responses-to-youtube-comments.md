@@ -1,7 +1,7 @@
 ---
 title: "[New] Insights Into Crafting Responses to YouTube Comments"
-date: 2024-09-09T01:11:42.441Z
-updated: 2024-09-14T04:48:57.589Z
+date: 2024-09-20T18:23:57.403Z
+updated: 2024-09-27T18:37:25.220Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -74,6 +81,13 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
@@ -89,10 +103,10 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 Step6 Make the necessary edits and choose “Save”.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
@@ -122,17 +136,10 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -169,5 +176,22 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-mmos-in-vr-oculus-vs-htc-vive-vs-ps-vr/"><u>[New] Mastering MMOs in VR Oculus vs HTC Vive vs PS VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pedagogic-practices-with-a-focus-on-visual-materials/"><u>[New] Pedagogic Practices with a Focus on Visual Materials</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-11-useful-youtube-seo-tips-to-help-rank-your-video-high-for-2024/"><u>[Updated] 11 Useful YouTube SEO Tips to Help Rank Your Video High for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-transition-to-mixer-broadcast-on-macos/"><u>[Updated] Masterclass Transition to Mixer Broadcast on macOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-gameplay-with-proximity-focus-in-roblox/"><u>[Updated] Precision Gameplay with Proximity Focus in Roblox</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mobile-recorder-iphones-future-call-log/"><u>2024 Approved Mobile Recorder IPhone's Future Call Log</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cyber-conundrum-explore-4-cutting-edge-online-puzzle-adventures/"><u>Cyber Conundrum: Explore 4 Cutting-Edge Online Puzzle Adventures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-simple-starts-proving-talent-with-tiktok-edits/"><u>From Simple Starts Proving Talent with TikTok Edits</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-13-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 13 Pro Max Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-xripad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone XR/iPad Without Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-script-creation-for-attractive-vlogging-content/"><u>In 2024, Mastering Script Creation for Attractive Vlogging Content</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-animation-studios-for-pc-and-mac-top-picks-for-pros/"><u>New Best Animation Studios for PC and Mac Top Picks for Pros</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unraveling-the-mystery-behind-avatars-pandora-adventure-and-pc-system-crashes/"><u>Unraveling the Mystery Behind Avatar's Pandora Adventure and PC System Crashes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-drivers-for-c6515-copier/"><u>Update Drivers for C6515 Copier</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/44or44k944kz44oz5zcr44gr44ky44o844og44k544oi44oq44o844of44oz44kw44ot44oh44kq5yem55cg44gu6kmz57sw44ks44kk44oj/"><u>パソコン向けゲームストリーミングビデオ処理の詳細ガイド</u></a></li>
+</ul></div>
 

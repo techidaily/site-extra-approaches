@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Temporal & Spatial Shifts in Filmmaking"
-date: 2024-09-18T19:34:47.637Z
-updated: 2024-09-19T16:31:01.479Z
+date: 2024-09-22T18:07:21.083Z
+updated: 2024-09-27T19:08:43.266Z
 tags: 
   - screen-recording
   - ai video
@@ -148,6 +148,13 @@ The marking of the clips will give better trimming points. For this, mark the ex
 
 ![marker 2 on the daytime clip](https://images.wondershare.com/filmora/article-images/2023/04/marker-2-on-the-daytime-clip.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4Drag the nighttime clip
 
 After marking the daytime clip, drag and drop the clip of the second round (i.e., nighttime clip) in the second video track.
@@ -159,13 +166,6 @@ After marking the daytime clip, drag and drop the clip of the second round (i.e.
 Find the spot where the subject steps over in the nighttime clip, and select the clip. Then mark it as marker three. This marker is shown when the character changes the transition.
 
 ![marker 3 on the nighttime clip](https://images.wondershare.com/filmora/article-images/2023/04/marker-3-on-the-nighttime-clip.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After marking the points on the clips, then you have to align and adjust the clips!
 
@@ -195,6 +195,13 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 
 ![shape mask from the utility section](https://images.wondershare.com/filmora/article-images/2023/04/shape-mask-from-the-utility-section.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * After that, double-click on the nighttime clips, which will show the settings section of the clip.
 * Go to the Video Effects section and change the shape mask settings.
 * Tweak the mask settings until the nighttime clip appears on the left and the daytime clip with the character on the right.
@@ -217,14 +224,14 @@ To show the energy pack between two time-travel clips, you have to add the effec
 
 ![elemental effects](https://images.wondershare.com/filmora/article-images/2023/04/elemental-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** After dropping the effect, ensure that it starts simultaneously when the nighttime clip appears on the screen.
 
@@ -284,13 +291,6 @@ Create for you and add different effects and experiment with new features. You w
 
 To create shots, we have to do two processing rounds. In the first round, we will film a shot for daytime activity. While in the next round, we will shoot a video for nighttime activity. Get straight into the filming mode and create according to your script.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### #1 daylight lighting setup
 
 In this round, you have to create a daytime action, implying that you need daylight. As well as, you don't need professional filming skills because it is going to be so simple.
@@ -301,13 +301,6 @@ You can also use a light that is 5,600 kelvins, which indicates blue light. We c
 
 ![blue light lighting setup](https://images.wondershare.com/filmora/article-images/2023/04/blue-light-lighting-setup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you don't have an asset to get the lighting set up, then don't worry; we have another option.
 
 **Make colorful shots with plastic binders**
@@ -317,6 +310,13 @@ Professional videographers create these effects using high-end lighting. But you
 First, wrap the colorful divider around the LED light or any other light you're using to take video. The dividers will be melt or burn when the light source gets too hot; therefore, check the temperature of the light after short gaps.
 
 ![wrap the led light with a plastic binder](https://images.wondershare.com/filmora/article-images/2023/04/wrap-the-led-light-with-a-plastic-binder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Shoot the video now, and experiment with adding suspense, terror, and cheerful effects with various colors.
 
@@ -337,6 +337,13 @@ After setting all equipment, now it's time to allow the character to perform in 
 For the first round, the subject has to do acting for the daytime script. Let the character do their performance according to the screenplay.
 
 In this article, we are doing a daytime performance in the first round. For this, the subject should go from right to left to step over for night time dimension.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### #1 night-time lighting setup
 
@@ -375,6 +382,13 @@ You can also create a marking by using anything in yours. We are using the midli
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
 
 ![cross line between two rounds](https://images.wondershare.com/filmora/article-images/2023/04/cross-line-between-two-rounds.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After shooting all the clips, it's time to edit them on Filmora. To do this, check out the step to step guide below.
 
@@ -423,6 +437,13 @@ After marking the daytime clip, drag and drop the clip of the second round (i.e.
 Find the spot where the subject steps over in the nighttime clip, and select the clip. Then mark it as marker three. This marker is shown when the character changes the transition.
 
 ![marker 3 on the nighttime clip](https://images.wondershare.com/filmora/article-images/2023/04/marker-3-on-the-nighttime-clip.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After marking the points on the clips, then you have to align and adjust the clips!
 
@@ -477,10 +498,10 @@ To show the energy pack between two time-travel clips, you have to add the effec
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** After dropping the effect, ensure that it starts simultaneously when the nighttime clip appears on the screen.
@@ -557,5 +578,22 @@ Create for you and add different effects and experiment with new features. You w
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-and-mastering-google-chromes-pip-functionality/"><u>[New] Understanding and Mastering Google Chrome’s PIP Functionality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-guide-to-profit-sharing-for-creators-of-video-clips/"><u>[Updated] 2024 Approved A Guide to Profit Sharing for Creators of Video Clips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-6-social-sites-boosting-biz-success/"><u>[Updated] Prime 6 Social Sites Boosting Biz Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamlessly-scaling-photos-and-videos-via-iphone-features/"><u>[Updated] Seamlessly Scaling Photos & Videos via iPhone Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-secure-and-seamless-file-sharing-with-20-preferred-no-fee-services/"><u>2024 Approved Secure & Seamless File Sharing with 20 Preferred No-Fee Services</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-techniques-to-deactivate-auto-played-podcast-suggestions-in-spotify/"><u>2024 Approved Techniques to Deactivate Auto-Played Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016658102-fast-track-microphone-diagnosis-ensuring-optimal-audio-performance/"><u>Fast-Track Microphone Diagnosis: Ensuring Optimal Audio Performance!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-much-footage-does-instagram-allow/"><u>How Much Footage Does Instagram Allow?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-productivity-activatingdeactivating-pip-on-ios/"><u>In 2024, Maximizing Productivity Activating/Deactivating PIP on iOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-harmony-in-vr-exploration/"><u>In 2024, Perfect Harmony in VR Exploration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-strategic-approaches-to-dominating-spotifys-ad-space/"><u>In 2024, Strategic Approaches to Dominating Spotify's Ad Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-gopro-timelapse-photography/"><u>In 2024, Unveiling the Secrets of GoPro Timelapse Photography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professional-filmmaking-made-simple-phones-with-advanced-ois-features-for-2024/"><u>Professional Filmmaking Made Simple Phones With Advanced OIS Features for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-printing-with-newest-canon-mx340-drivers-for-windows-versions-win-10-8-and-7/"><u>Seamless Printing with Newest Canon MX340 Drivers for Windows Versions: Win 10, 8 & 7</u></a></li>
+</ul></div>
 

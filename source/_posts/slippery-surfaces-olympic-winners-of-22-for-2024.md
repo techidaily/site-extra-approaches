@@ -1,7 +1,7 @@
 ---
 title: "\"Slippery Surfaces  Olympic Winners of '22 for 2024\""
-date: 2024-09-17T18:25:43.278Z
-updated: 2024-09-19T21:53:59.735Z
+date: 2024-09-26T17:41:12.330Z
+updated: 2024-09-27T16:29:35.385Z
 tags: 
   - screen-recording
   - ai video
@@ -36,9 +36,23 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
@@ -47,6 +61,13 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
@@ -74,6 +95,19 @@ To create such a highlight video on any sports event, there are certain videos e
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -93,10 +127,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -109,13 +143,6 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
@@ -127,5 +154,16 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-gopro-filming/"><u>[New] Navigating the World of GoPro Filming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-photography-secrets-unveiled/"><u>[Updated] IPhone Photography Secrets Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-low-cost-pc-screen-grabbing-options-ranked-for-2024/"><u>[Updated] Low-Cost PC Screen Grabbing Options Ranked for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rotate-iphone-pics-sideways-and-upside-down-made-easy/"><u>[Updated] Rotate iPhone Pics Sideways & Upside Down Made Easy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionary-content-your-path-to-100k-views/"><u>2024 Approved Revolutionary Content Your Path to 100K Views</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Moto G73 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-solutions-to-mitigate-vibrational-jello-in-uav-recordings/"><u>In 2024, Solutions to Mitigate Vibrational Jello in UAV Recordings</u></a></li>
+</ul></div>
 

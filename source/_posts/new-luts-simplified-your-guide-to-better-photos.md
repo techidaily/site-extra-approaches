@@ -1,7 +1,7 @@
 ---
 title: "\"[New] LUTs Simplified  Your Guide to Better Photos\""
-date: 2024-09-14T19:00:55.440Z
-updated: 2024-09-19T21:12:49.214Z
+date: 2024-09-24T18:10:18.751Z
+updated: 2024-09-27T17:59:30.151Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
@@ -57,6 +64,13 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 1. Select the Adjustment Layer icon from the drop-down menu.
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Choose Adjustment Layer
 
@@ -74,19 +88,19 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -105,16 +119,10 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -155,5 +163,20 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-analysis-simplified-hdr-techniques/"><u>[New] Comprehensive Analysis Simplified HDR Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-laughing-moments-crafting-with-adobe/"><u>[New] Laughing Moments Crafting with Adobe</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-your-iphone-photo-mosaic-skills/"><u>[New] Perfect Your iPhone Photo Mosaic Skills</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/treamline-your-youtube-shorts-thumbnail-process/"><u>[New] Streamline Your YouTube Shorts Thumbnail Process</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-superior-green-tech-in-video-production/"><u>[New] Superior Green Tech in Video Production</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-iphone-images-with-pro-level-tech/"><u>2024 Approved Master iPhone Images with Pro-Level Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>2024 Approved Perfecting Your SRT Craft A Compreran Guide to Tips & Tricks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capture-and-share-your-screens-bandicam-vs-camtasia-for-2024/"><u>Capture and Share Your Screens Bandicam vs Camtasia for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-av-producers-compendium-online/"><u>Cutting-Edge AV Producers' Compendium Online</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/easy-methods-to-change-your-mov-videos-to-m4a-on-a-pc/"><u>Easy Methods to Change Your MOV Videos to M4A on a PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-fix-kinemaster-for-top-memes/"><u>In 2024, Quick-Fix KineMaster for Top Memes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/white-list-microphones-for-frugal-filmmakers-for-2024/"><u>White-List Microphones for Frugal Filmmakers for 2024</u></a></li>
+</ul></div>
 

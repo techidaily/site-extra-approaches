@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Photo Perfection  Implement These 10 Composition Tenets\""
-date: 2024-09-15T21:27:51.534Z
-updated: 2024-09-19T23:32:56.837Z
+date: 2024-09-22T17:08:39.162Z
+updated: 2024-09-27T17:30:13.940Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Leading Lines
 
  Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
@@ -52,25 +59,18 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Diagonals
 
  Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
 
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Shape
 
@@ -79,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Leave Empty Space
@@ -92,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Direction of Subject
@@ -104,24 +110,38 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fill Your Frame
 
  Making your subject stand out against the entire frame in a photograph creates more impact. You can easily obtain this goal with your iPhone by covering the entire frame with your subject. According to this amazing photography composition technique, all you have to do is move your iPhone closer to the subject and nullify the appearance of the surroundings to take a close shot. Like this, you are able to capture the intricate detailing of a leaf with its vivid colors and texture, the detailing and motif on a wall art and much more.
 
 ![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Break the Rules
 
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
 
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclsion
 
@@ -144,5 +164,22 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-free-ad-less-android-video-editors-for-2024/"><u>[New] Best Free, Ad-Less Android Video Editors for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wmam4a-movavi/"><u>「免費WMA・M4A形式のオンライン音楽ファイル変換 - Movavi」</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterpiece-dialogues-across-8-film-genres/"><u>2024 Approved Masterpiece Dialogues Across 8 Film Genres</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-webcams-designed-for-smooth-zoom-conferencing/"><u>2024 Approved Optimal Webcams Designed for Smooth Zoom Conferencing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-y27s-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Y27s</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-convert-waters-10-tips-for-youtube-to-mp4mpeg/"><u>In 2024, Navigating the Convert Waters 10 Tips for YouTube to MP4/MPEG</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-ig-update-on-todays-compelling-podcast/"><u>In 2024, Quick IG Update on Today's Compelling Podcast</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-which-ios-app-crushes-in-video-editing-cameo-or-filmorago/"><u>In 2024, Which iOS App Crushes in Video Editing? Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-personal-growth-boosting-emotional-quotient-tactics/"><u>Leveraging ChatGPT for Personal Growth: Boosting Emotional Quotient Tactics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-switch-exchanging-playlists-across-streaming-platforms-for-2024/"><u>Seamless Switch Exchanging Playlists Across Streaming Platforms for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/shared-sights-untold-histories-revealed-for-2024/"><u>Shared Sights Untold Histories Revealed for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/silver-winners-prime-dvd-software-for-sierra-os-for-2024/"><u>Silver Winners Prime Dvd Software for Sierra OS for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-compact-drone-guide-unraveling-dji-sparks-selfie-prowess-for-2024/"><u>The Ultimate Compact Drone Guide Unraveling DJI Spark's Selfie Prowess for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-iphone-solutions-how-to-perform-a-reboot-even-when-the-physical-buttons-fail/"><u>Unstuck iPhone Solutions: How to Perform a Reboot Even When the Physical Buttons Fail</u></a></li>
+</ul></div>
 

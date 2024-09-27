@@ -1,7 +1,7 @@
 ---
 title: "\"Stepping Into Filmmaking  Learning the Basics of Key Shots for 2024\""
-date: 2024-09-10T06:24:21.088Z
-updated: 2024-09-13T22:18:11.236Z
+date: 2024-09-26T17:56:23.197Z
+updated: 2024-09-27T17:58:02.915Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ We hope you read this article with all concentration so that your new project is
 
 ## Part 1: 7 Types of Shots in film You Should Know
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Establishing Shot
 
 As the name hints itself, this type of camera shot basically establishes the scene the audience sees as the [first shot of your movie](https://en.wikipedia.org/wiki/Establishing%5Fshot).
@@ -52,6 +59,13 @@ This doesn’t help your audience guess what location is the scene is being shot
 With this type of [shot in the film](https://tools.techidaily.com/wondershare/filmora/download/), you are typically showing and not telling the audience through narrative and it is completely enough to let the audience know the concept.
 
 ![Establishing Shot](https://images.wondershare.com/filmora/filmorapro/establishing-shot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Extreme Long Shot
 
@@ -70,10 +84,10 @@ Also, the chief character or say the protagonist should have a major presence in
 Moreover, while using this type of camera shot, you must take care that it should be dominated by the scenery.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Full Shot
@@ -85,13 +99,6 @@ The main focus should be on the character in such type of shot in the film. Also
 For instance, the audience must get the idea whether your character is confident, weird or sophisticated with just his/her appearance, outfit and the action.
 
 ![Full Shot](https://images.wondershare.com/filmora/filmorapro/full-shot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Medium Shot
 
@@ -119,13 +126,20 @@ This type of shot in films aims to fit the single feature on the entire screen. 
 
 **You may also like:** [10 Best Free Security Camera Software >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Shots Angles for Camera
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Eye Shots
@@ -135,10 +149,10 @@ These types of shots are taken keeping the camera exactly at the [human eye leve
 ![Eye Shots](https://images.wondershare.com/filmora/filmorapro/eye-shots.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 9\. High Shots
@@ -151,18 +165,18 @@ Contrary to the above, this type of shot in the film is taken from the level bel
 
 ![Low Shots](https://images.wondershare.com/filmora/filmorapro/low-shots.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 11\. Tilt shots
 
 To give an effect of uneasy psychological state to the audience, on should go for the tilt shots.
 
 These types of camera shots are taken by setting the camera at an angle on it roll axis to unlevel the horizon line.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 12\. Over-the-Shoulder Shot
 
@@ -174,31 +188,11 @@ Also, the subject in these shots, faces the camera making their neck and shoulde
 
 ![Over-the-Shoulder Shot](https://images.wondershare.com/filmora/filmorapro/over-the-shoulder-shot.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 13\. Cut-In
 
 This shot typically cuts the screen into two or three or sometimes four parts.
 
 It is helpful when you have multiple things to be shown as important in one scene. It takes close-up of the thing that you want to show your viewer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 14\. Master Shot
 
@@ -207,6 +201,13 @@ A shot that is recorded from a single angle and is an uninterrupted shot to brin
 It is basically the complete dramatized shot and can be edited together with other additional shots.
 
 Also, this type of shot can be considered as the only shot to be used by a director for covering the scene. It can be a closer shot, full or long shot.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 15\. Point of View Shot
 
@@ -228,13 +229,6 @@ Please help us by sharing your views on this so that we will update you with mor
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -248,5 +242,23 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-seamless-transitions-with-picsarts-facial-motion-blur/"><u>[New] 2024 Approved Seamless Transitions with Picsart's Facial Motion Blur</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-transforming-mundane-images-with-music-on-instagram/"><u>[New] Transforming Mundane Images with Music on Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-spotify-promos-your-comprehensive-guide/"><u>[Updated] Mastering Spotify Promos Your Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastermind-knowledge-capture-via-mematics-app/"><u>[Updated] Mastermind Knowledge Capture via Mematic's App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photography-on-instagram-adding-images-made-simple/"><u>[Updated] Photography on Instagram Adding Images Made Simple</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-handsets-acknowledged-by-video-enthusiasts/"><u>[Updated] Premier Handsets Acknowledged by Video Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-snicker-secrets-of-virtual-realms-making-funny-memes/"><u>[Updated] Snicker Secrets of Virtual Realms Making Funny Memes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lightning-timelapses-on-iphone-reducing-delay/"><u>2024 Approved Lightning Timelapses on iPhone Reducing Delay</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-redmi-note-12-proplus-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi Redmi Note 12 Pro+ 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-v27-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo V27</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-on-the-move-high-performance-free-online-tempo-tracking-tools/"><u>In 2024, On-the-Move High-Performance, Free Online Tempo Tracking Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimizing-your-workflow-efficiently-editing-360-degree-videos-in-premiere-pro/"><u>In 2024, Optimizing Your Workflow Efficiently Editing 360 Degree Videos in Premiere Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/optimizing-stardew-valley-fun-a-list-of-the-top-7-mods-for-2024/"><u>Optimizing Stardew Valley Fun A List of the Top 7 Mods for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-video-m4a-in-3gp-senza-costi-utilizzando-il-servizio-online-di-convertitori-di-movavi/"><u>Trasforma I Tuoi Video M4A in 3GP Senza Costi Utilizzando Il Servizio Online Di Convertitori Di Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/why-choose-german-for-your-career-top-10-reasons/"><u>Why Choose German for Your Career: Top 10 Reasons</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-methods-for-legally-ripping-your-own-dvd-copies/"><u>Windows Methods for Legally Ripping Your Own DVD Copies</u></a></li>
+</ul></div>
 
