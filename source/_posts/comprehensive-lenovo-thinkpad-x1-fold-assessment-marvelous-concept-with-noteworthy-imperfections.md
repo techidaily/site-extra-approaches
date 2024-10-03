@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Lenovo ThinkPad X1 Fold Assessment: Marvelous Concept with Noteworthy Imperfections"
-date: 2024-09-24T18:28:57.497Z
-updated: 2024-09-27T17:26:21.035Z
+date: 2024-09-29T17:13:09.714Z
+updated: 2024-10-02T17:00:12.480Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Lenovo ThinkPad X1 Fold Assessment: Marvelous Concept with Noteworthy Imperfections"
@@ -44,6 +44,13 @@ Lifewire / Emily Isaacs
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/-RQ5Ui3BjE0KxHGHYE-UjNz7EY4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_HeroSquare-b4b1522941d44a18b75a586155788477.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
 [View On Amazon $1,499](https://www.amazon.com/dp/B07NHQ4CXM?tag=lifewire-onsite-prod-20&ascsubtag=4782074%7Cnbf356f5c2a82467e96b6fbc9b5b4691023%7CB07NHQ4CXM) [View On Walmart $3,497](https://www.walmart.com/ip/LG-65-Class-OLED-C9-Series-4K-2160P-Smart-Ultra-HD-HDR-TV-OLED65C9PUA-2019-Model/543371577)
@@ -70,13 +77,6 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Smart and sleek**
 
 [OLED TVs](https://www.lifewire.com/oled-tv-basics-1846926) are among the best money can buy, characterized by their ability to produce a wide range of colors alongside deep, rich blacks by toggling individual pixels to emit their own light. On top of this, OLED frames are thinner and lighter than their LED predecessors. It’s a powerful combination that makes for a startlingly realistic picture alongside an expanded range of placement options. In the case of the LG C9, it’s a design that’s as smart as it is sleek thanks to the inclusion of Google Assistant and Alexa.
@@ -88,6 +88,13 @@ Lifewire / Emily Isaacs
  For customers with multiple external devices, such as Blu-ray players or gaming consoles, ports are located along the TV’s left-hand side and directly on its backside. These connection options include 4[HDMI](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) 2.1 ports, 3[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) ports, one cable/antenna input, one LAN port, and audio connections. The HDMI 2.1 ports are especially important since consoles began emerging in 2020 that rely on HDMI 2.1 such as the Playstation 5.
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/mxKfDJGuIKYcsSIQoKfzwDbYYmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_02-3da87ff8439343f691cf02e9234d1f04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -115,13 +122,6 @@ Lifewire / Emily Isaacs
 
  These pictures are further enhanced with LG’s α9 Gen 2 intelligent processor, new to 2019’s model. It excels at drawing out detail and correcting quality discrepancies within the picture, such as banding which creates textures and strips in areas of the screen that would otherwise be smooth. This is particularly important given the large screen size and high resolution. While it’s not as bright as an LED TV since it lacks backlighting, it doesn’t need it as the TV already possesses excellent color, a change here would risk washing out the inky blacks on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Audio: Better than expected**
 
  While OLED TVs aren’t generally known for their great sound quality, the LG C9 has a surprisingly good sound system all things considered—but a soundbar would still be recommended. Audio in TV or movies is generally good, but it struggles to regulate loud and soft noises in a scene. Streaming Lizzo’s_Cuz I Love You_ on Spotify produces a surprising depth of sound, but it’s simply not comparable to a more robust system that a soundbar or home theater system would provide.
@@ -129,16 +129,10 @@ Lifewire / Emily Isaacs
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/SZUaFESJi6OZubIeLdK1e9L9FEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_04-c559e4cc6de64f0c8baf4470f883dd9e-4844a7694fb74eb2904f1128ba93f760.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
@@ -151,18 +145,18 @@ Lifewire / Emily Isaacs
 
  In addition to the WebOS software, the LG C9 also comes with Google Assistant as well as Amazon’s Alexa. It makes it easy to search content, switch between apps and features, or check the weather, among other things.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: A premium price for a premium TV**
 
  65-inch 4K TV’s generally retail for between $800-$5,000, and this cost jumps further as screen size increases. The LG C9 is a premium 4K TV that sits at the top of this curve, offering integrated smart technologies and excellent picture with an intuitive, easy-to-use interface. As such, it comes at a premium price of $2,500 (Amazon) that exceeds the cost of many competitor models, but with so many additional features it’s worth the high price—even if it’s difficult to swallow.
 
 [How to Buy a TV For Your Home in 2024](https://www.lifewire.com/best-60-inch-tvs-4580159)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **LG OLED C9 65-inch vs. Samsung 65-inch Class Q60R**
 
@@ -185,10 +179,10 @@ Lifewire / Emily Isaacs
  With its excellent smart features, gorgeous 4K image quality, and an easy-to-use interface, LG has only improved on last year’s model with the LG OLED C9\. That said, these improvements aren’t significant leaps, mainly coming from processor improvements and the addition of HDMI 2.1 ports. If you’re simply looking for the best TV from last year and price isn’t a consideration, look no further. On the other hand, there are other great 65-inch 4K TV models that may not have all the extra features the C9 does, but do have comparable quality without breaking the bank.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -232,19 +226,24 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-learn-to-prevent-persistent-commercials-in-digital-platforms/"><u>[New] In 2024, Learn to Prevent Persistent Commercials in Digital Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-reimagining-home-entertainment-with-lgs-bp550-update/"><u>[New] Reimagining Home Entertainment with LG's BP550 Update</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-decoding-the-appeal-what-makes-you-love-filmora-editing-for-2024/"><u>[Updated] Decoding the Appeal What Makes You Love Filmora Editing for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-elevating-roi-in-facebooks-animated-advertising-arena/"><u>[Updated] Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-effortlessly-manage-followers-with-top-twitter-cleanup-apps/"><u>2024 Approved Effortlessly Manage Followers with Top Twitter Cleanup Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-evaluation-a-vll-approach-to-apps/"><u>2024 Approved Precision Evaluation A VLL Approach to Apps</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-airborne-shots-the-pivotal-role-of-dji-spark-in-selfie-culture/"><u>In 2024, Mastering Airborne Shots The Pivotal Role of DJI Spark in Selfie Culture</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-skill-enhancing-images-in-windows-11/"><u>In 2024, Quick Skill Enhancing Images in Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sound-enriched-photography-web-presence/"><u>In 2024, Sound-Enriched Photography Web Presence</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-8-windows-10-photos-alternatives/"><u>New Discover the Best 8 Windows 10 Photos Alternatives</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unlock-the-power-of-cartoon-conversion-a-comprehensive-guide/"><u>New In 2024, Unlock the Power of Cartoon Conversion A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/picshot-transforming-photographs-into-artistic-tapestries-for-2024/"><u>Picshot Transforming Photographs Into Artistic Tapestries for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/qualitatsbewahrende-methode-zum-hochladen-von-dvds-auf-deinem-mac-ohne-informationsverlust/"><u>Qualitätsbewahrende Methode Zum Hochladen Von DVDs Auf Deinem Mac Ohne Informationsverlust</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unveiling-the-secret-sauce-for-astonishing-gifs-from-vimeo-videos/"><u>[New] 2024 Approved Unveiling the Secret Sauce for Astonishing GIFs From Vimeo Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aster-your-youtube-identity-with-cool-titles/"><u>[New] Master Your YouTube Identity with Cool Titles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-flight-control-best-motor-selections-unveiled/"><u>[New] Mastering Flight Control Best Motor Selections Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>[New] Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>[Updated] 2024 Approved Excellent Video & Picture Capture for iPhones & Androids Here</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-picture-perfect-best-apps-for-framing-your-memories/"><u>[Updated] Picture Perfect Best Apps for Framing Your Memories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reel-motivation-a-curated-list-of-top-10-film-titles/"><u>[Updated] Reel Motivation A Curated List of Top 10 Film Titles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rhythm-and-reel-the-imovie-music-guidebook/"><u>[Updated] Rhythm and Reel The iMovie Music Guidebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-starting-strategies-for-an-engaging-fb-giveaway/"><u>2024 Approved Starting Strategies for an Engaging FB Giveaway</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-youtube-revenue-essential-view-count-milestones/"><u>2024 Approved Unlocking YouTube Revenue Essential View Count Milestones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-new-windows-pin/"><u>A Step-by-Step Approach to New Windows PIN</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-solutions-for-persistent-titanfall-2-game-crashes/"><u>Easy Solutions for Persistent Titanfall 2 Game Crashes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-15-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 15 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-hdr-photos-advanced-techniques-in-photoshop/"><u>In 2024, Mastering HDR Photos Advanced Techniques in Photoshop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-viral-potential-in-tiktok-unboxer-videos-for-2024/"><u>Mastering Viral Potential in TikTok Unboxer Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-dev-error-6034-for-call-of-duty-modern-warfare-players-pc-and-xbox-solutions/"><u>Resolving Dev Error 6034 for Call of Duty: Modern Warfare Players - PC and Xbox Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u-for-2024/"><u>SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-s-top-rated-free-wmv-video-concatenation-software/"><u>Updated 2024 Approved S Top-Rated Free WMV Video Concatenation Software</u></a></li>
 </ul></div>
 

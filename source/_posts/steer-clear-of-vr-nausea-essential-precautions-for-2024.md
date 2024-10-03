@@ -1,7 +1,7 @@
 ---
 title: "\"Steer Clear of VR Nausea  Essential Precautions for 2024\""
-date: 2024-08-17T20:39:39.170Z
-updated: 2024-08-18T20:39:39.170Z
+date: 2024-09-28T20:39:33.479Z
+updated: 2024-10-02T16:58:07.052Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -58,13 +65,18 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -72,6 +84,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-discounts-on-economical-gopro-cameras/"><u>[New] Exclusive Discounts on Economical GoPro Cameras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-and-persuasion-crafting-content-that-sticks-on-reddit/"><u>[New] Precision and Persuasion Crafting Content That Sticks on Reddit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-simplifying-the-complexities-of-vr-devices/"><u>[New] Simplifying the Complexities of VR Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-5-fluid-simulation-games/"><u>[New] Top 5 Fluid Simulation Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-larger-prints-same-sharpness-standard/"><u>[Updated] 2024 Approved Larger Prints, Same Sharpness Standard</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-tools-for-instantaneous-gif-to-video-transformation/"><u>[Updated] Leading Tools for Instantaneous GIF to Video Transformation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfected-audio-for-windows/"><u>[Updated] Perfected Audio for Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversione-gratuita-online-da-wmv-a-3g2-guida-passo-passo-utilizzando-gli-strumenti-avanzati-di-movavi-video-converter/"><u>Conversione Gratuita Online Da WMV a 3G2: Guida Passo-Passo Utilizzando Gli Strumenti Avanzati Di Movavi Video Converter</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elite-wearables-for-high-intensity-sports-for-2024/"><u>Elite Wearables for High-Intensity Sports for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-x100-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo X100 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-se-2020-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone SE (2020) Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-key-strategies-for-harvesting-free-photo-frames/"><u>In 2024, Key Strategies for Harvesting Free Photo Frames</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-slug-lines-for-effective-storytelling/"><u>In 2024, Mastering Slug Lines for Effective Storytelling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snappy-photo-assembly-your-quick-google-collages-blueprint/"><u>In 2024, Snappy Photo Assembly Your Quick Google Collages Blueprint</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-spotifys-advertising-landscape/"><u>Navigating the World of Spotify's Advertising Landscape</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photoshop-sway-decrease-pivotal-or-superfluous-in-2024/"><u>Photoshop Sway Decrease Pivotal or Superfluous, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/set-up-your-windows-xp-professional-videography-tool-for-2024/"><u>Set Up Your Windows XP Professional Videography Tool for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-enabling-wake-on-lan-on-your-pcs-with-windows-10-and-11/"><u>Step-by-Step Guide: Enabling Wake-on-LAN on Your PCs with Windows 10 & 11</u></a></li>
+</ul></div>
+

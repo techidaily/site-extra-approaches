@@ -1,7 +1,7 @@
 ---
 title: "[New] Insights Into Crafting Responses to YouTube Comments"
-date: 2024-09-20T18:23:57.403Z
-updated: 2024-09-27T18:37:25.220Z
+date: 2024-10-01T17:54:30.636Z
+updated: 2024-10-02T16:50:27.330Z
 tags: 
   - screen-recording
   - ai video
@@ -44,13 +44,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -81,16 +74,16 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
 
@@ -98,15 +91,22 @@ Step4 On the right side under the “Manage all history” section, click on “
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
@@ -136,10 +136,16 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -178,20 +184,15 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-mmos-in-vr-oculus-vs-htc-vive-vs-ps-vr/"><u>[New] Mastering MMOs in VR Oculus vs HTC Vive vs PS VR</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pedagogic-practices-with-a-focus-on-visual-materials/"><u>[New] Pedagogic Practices with a Focus on Visual Materials</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-11-useful-youtube-seo-tips-to-help-rank-your-video-high-for-2024/"><u>[Updated] 11 Useful YouTube SEO Tips to Help Rank Your Video High for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-transition-to-mixer-broadcast-on-macos/"><u>[Updated] Masterclass Transition to Mixer Broadcast on macOS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-gameplay-with-proximity-focus-in-roblox/"><u>[Updated] Precision Gameplay with Proximity Focus in Roblox</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mobile-recorder-iphones-future-call-log/"><u>2024 Approved Mobile Recorder IPhone's Future Call Log</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cyber-conundrum-explore-4-cutting-edge-online-puzzle-adventures/"><u>Cyber Conundrum: Explore 4 Cutting-Edge Online Puzzle Adventures</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-simple-starts-proving-talent-with-tiktok-edits/"><u>From Simple Starts Proving Talent with TikTok Edits</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-13-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 13 Pro Max Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-xripad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone XR/iPad Without Computer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-script-creation-for-attractive-vlogging-content/"><u>In 2024, Mastering Script Creation for Attractive Vlogging Content</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-animation-studios-for-pc-and-mac-top-picks-for-pros/"><u>New Best Animation Studios for PC and Mac Top Picks for Pros</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unraveling-the-mystery-behind-avatars-pandora-adventure-and-pc-system-crashes/"><u>Unraveling the Mystery Behind Avatar's Pandora Adventure and PC System Crashes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-drivers-for-c6515-copier/"><u>Update Drivers for C6515 Copier</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/44or44k944kz44oz5zcr44gr44ky44o844og44k544oi44oq44o844of44oz44kw44ot44oh44kq5yem55cg44gu6kmz57sw44ks44kk44oj/"><u>パソコン向けゲームストリーミングビデオ処理の詳細ガイド</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-prime-picks-experts-choice-of-4k-dslr-rigs/"><u>[New] 2024 Approved Prime Picks Expert's Choice of 4K DSLR Rigs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-short-form-video-popularity-on-youtube-for-2024/"><u>[Updated] Maximizing Short Form Video Popularity on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-renewal-of-windows-photo-viewer-two-efficient-methods-in-windows-10/"><u>[Updated] Renewal of Windows Photo Viewer Two Efficient Methods in Windows 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sj6-mastery-showdown-sjcam-vs-xiaomis-yi-pro-4k/"><u>[Updated] SJ6 Mastery Showdown SJCam Vs. Xiaomi's Yi Pro 4K</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x7b-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X7b to Outlook | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-cable-internet-adapters-the-ultimate-guide-2024-edition/"><u>Leading Cable Internet Adapters: The Ultimate Guide - 2024 Edition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/premium-picks-10-must-subscribe-news-channels/"><u>Premium Picks 10 Must-Subscribe News Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quantum-hdr-simplified-a-photographers-guide-for-2024/"><u>Quantum HDR Simplified A Photographer's Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/strategic-moves-for-earning-through-product-sponsorships-on-youtube-for-2024/"><u>Strategic Moves for Earning Through Product Sponsorships on YouTube for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y36i-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y36i Phone</u></a></li>
 </ul></div>
 

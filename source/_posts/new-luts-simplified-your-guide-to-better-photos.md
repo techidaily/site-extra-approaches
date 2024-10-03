@@ -1,7 +1,7 @@
 ---
 title: "\"[New] LUTs Simplified  Your Guide to Better Photos\""
-date: 2024-09-24T18:10:18.751Z
-updated: 2024-09-27T17:59:30.151Z
+date: 2024-09-25T20:44:53.537Z
+updated: 2024-10-02T22:38:22.614Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -66,10 +66,10 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Choose Adjustment Layer
@@ -89,10 +89,10 @@ load 3d lut
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Here's the first method
@@ -101,6 +101,13 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -117,13 +124,6 @@ Grow Together
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -165,18 +165,21 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-analysis-simplified-hdr-techniques/"><u>[New] Comprehensive Analysis Simplified HDR Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-laughing-moments-crafting-with-adobe/"><u>[New] Laughing Moments Crafting with Adobe</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-your-iphone-photo-mosaic-skills/"><u>[New] Perfect Your iPhone Photo Mosaic Skills</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/treamline-your-youtube-shorts-thumbnail-process/"><u>[New] Streamline Your YouTube Shorts Thumbnail Process</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-superior-green-tech-in-video-production/"><u>[New] Superior Green Tech in Video Production</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-iphone-images-with-pro-level-tech/"><u>2024 Approved Master iPhone Images with Pro-Level Tech</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>2024 Approved Perfecting Your SRT Craft A Compreran Guide to Tips & Tricks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-and-share-your-screens-bandicam-vs-camtasia-for-2024/"><u>Capture and Share Your Screens Bandicam vs Camtasia for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-av-producers-compendium-online/"><u>Cutting-Edge AV Producers' Compendium Online</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/easy-methods-to-change-your-mov-videos-to-m4a-on-a-pc/"><u>Easy Methods to Change Your MOV Videos to M4A on a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-fix-kinemaster-for-top-memes/"><u>In 2024, Quick-Fix KineMaster for Top Memes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/white-list-microphones-for-frugal-filmmakers-for-2024/"><u>White-List Microphones for Frugal Filmmakers for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-lit-tales-in-just-a-minute/"><u>[New] 2024 Approved Lit Tales in Just a Minute</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-ultimate-mp4-media-synchronizer-to-fb/"><u>[New] 2024 Approved Ultimate MP4 Media Synchronizer to FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-creating-high-quality-gopro-vlogs/"><u>[New] Mastering The Art Creating High-Quality Gopro Vlogs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-navigating-the-multi-stream-experience-on-netflix/"><u>[New] Navigating the Multi-Stream Experience on Netflix</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-film-techniques-for-drones/"><u>[New] Professional Film Techniques for Drones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-tips-for-effective-chroma-keying-in-kinemaster/"><u>[Updated] Advanced Tips for Effective Chroma Keying in KineMaster</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-illustrators-secret-creating-seamless-image-movement/"><u>[Updated] In 2024, Illustrator's Secret Creating Seamless Image Movement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professionals-choice-top-10-camera-gimbals-compared-iphone-android-dslr/"><u>[Updated] Professional's Choice Top 10 Camera Gimbals Compared - iPhone, Android, DSLR</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamline-your-workflow-learn-to-record-macs-screen-with-shortcuts-for-2024/"><u>[Updated] Streamline Your Workflow Learn to Record Mac's Screen with Shortcuts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/high-speed-capture-device-with-preloaded-narrations/"><u>High-Speed Capture Device with Preloaded Narrations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-instructor-insights-choosing-the-prime-video-capturing-technology/"><u>In 2024, Instructor Insights Choosing the Prime Video Capturing Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-playchoice-pondering-over-dacast/"><u>In 2024, PlayChoice Pondering Over DaCast</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-hacks-for-minimalist-video-presentation-for-2024/"><u>IPhone Hacks for Minimalist Video Presentation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/precise-participation-the-key-to-zooming-in-on-google-meet-talks-for-2024/"><u>Precise Participation The Key to Zooming in on Google Meet Talks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-softening-audio-routine-for-2024/"><u>Step-by-Step Softening Audio Routine for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-11-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme 11 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

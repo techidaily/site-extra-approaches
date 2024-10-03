@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Ice Racers  Moments From the Short Track Games for 2024\""
-date: 2024-09-23T19:12:13.614Z
-updated: 2024-09-27T16:05:46.571Z
+date: 2024-09-26T00:56:14.776Z
+updated: 2024-10-02T20:23:54.056Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,19 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -36,37 +49,31 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
@@ -76,16 +83,16 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -100,13 +107,6 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -126,13 +126,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -142,6 +135,13 @@ Step 4: Add all the still footages and clips on the Video Timeline while add aud
 Step 5: Select individual slides and apply Transition, Effects or add Titles and Elements from the top bar.
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -156,19 +156,18 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-celebrity-fleeting-frame-study/"><u>[New] Celebrity Fleeting Frame Study</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-innovating-interaction-beyond-vidcon-conclaves/"><u>[Updated] 2024 Approved Innovating Interaction Beyond VidCon Conclaves</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-resolution-duel-comparing-gopro-hero-and-polaroid-cube/"><u>[Updated] Resolution Duel Comparing GoPro Hero and Polaroid Cube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shooting-hdr-iphones-pathway-to-enhanced-images/"><u>[Updated] Shooting HDR IPhone's Pathway to Enhanced Images</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-setting-up-your-first-zoom-call-on-android/"><u>2024 Approved Setting Up Your First Zoom Call on Android</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726029951833-and/"><u>無料でカスタム着信メロディ作成&ダウンロードガイド</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-to-blockchain-stardom-discover-the-top-7-generator-tools/"><u>In 2024, Journey to Blockchain Stardom - Discover the Top 7 Generator Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-multi-stream-video-in-edge/"><u>In 2024, Navigating Multi-Stream Video in Edge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/incorporating-melodic-essence-into-your-creative-videos-with-premiere-pro-for-2024/"><u>Incorporating Melodic Essence Into Your Creative Videos with Premiere Pro for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262260720-leak-alert-intel-releases-core-ultra-series-cpu-and-supporting-z890-chip-setnew-era-of-desktop-computing-awaits/"><u>Leak Alert: Intel Releases Core Ultra Series CPU and Supporting Z890 Chip Set—New Era of Desktop Computing Awaits</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-webcam-software-suite-cost-free-downloads-for-windows-users/"><u>Logitech Webcam Software Suite: Cost-Free Downloads for Windows Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfect-photo-finishes-picarts-background-erase-method-for-2024/"><u>Perfect Photo Finishes PicArt's Background Erase Method for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-instructions-for-activating-high-dynamic-range-in-windows-11-for-2024/"><u>Step-by-Step Instructions for Activating High Dynamic Range in Windows 11 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-imaginarium-collagecraft-cutting-edge-assembler/"><u>[New] Imaginarium CollageCraft Cutting-Edge Assembler</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instructions-for-customizing-spiritual-sounds-as-ringtones/"><u>[New] Instructions for Customizing Spiritual Sounds as Ringtones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-setting-up-your-microphone-on-windows-11/"><u>[New] Setting Up Your Microphone on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-conquer-youtubes-realms-a-step-by-step-video-uploading-guidebook/"><u>[Updated] In 2024, Conquer YouTube's Realms A Step-by-Step Video Uploading Guidebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-excellent-quality-hd-screen-recorders/"><u>2024 Approved Excellent Quality HD Screen Recorders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-solo-strategies-making-your-podcast-sensational/"><u>2024 Approved Solo Strategies Making Your Podcast Sensational</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-platforms-enhance-your-youtube-presence/"><u>2024 Approved Top Platforms Enhance Your YouTube Presence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-rankings-the-best-computing-units-for-serious-gamers/"><u>Expert Rankings: The Best Computing Units for Serious Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-couples-share-playlists-on-spotify-simultaneously/"><u>How Do Couples Share Playlists on Spotify Simultaneously?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-flagship-firefox-screenshot-tools/"><u>In 2024, Flagship Firefox Screenshot Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-vr-to-shape-modern-business-practices/"><u>In 2024, Leveraging VR to Shape Modern Business Practices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sky-high-insights-comprehensive-phantom-4-breakdown/"><u>In 2024, Sky-High Insights Comprehensive Phantom 4 Breakdown</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-spectral-skillset-professionals-pathway-to-change/"><u>In 2024, Spectral Skillset Professionals' Pathway to Change</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Leading Action Cameras for Thrill Seekers"
-date: 2024-08-17T20:37:52.214Z
-updated: 2024-08-18T20:37:52.214Z
+date: 2024-09-29T17:22:05.138Z
+updated: 2024-10-03T00:15:17.442Z
 tags: 
   - screen-recording
   - ai video
@@ -76,6 +76,13 @@ With 3 axis type optical stabilization, built in GPS, waterproof casing and live
 
 ![Elmo QBIC MS-1](https://images.wondershare.com/filmora/article-images/elmo-qbic-ms-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here is a water resistant type wide angle camera unit that can be easily paired up with smart phones using Wi-Fi interface. It is a light weight device that offers 1080p video recording along with 5MP picture clarity and you can store huge data with its 64GB microSD card support. This camera offers wide angle view of 185 degrees and you can easily upload your footage to internet via live SD streaming feature.
 
 #### 4\. Drift Compass - $129.99
@@ -95,6 +102,13 @@ Sony offers a versatile, rugged and splash resistant camcorder for action lovers
 #### 6\. Qlippie Q1 - $199
 
 ![Qlippie Q1](https://images.wondershare.com/filmora/article-images/qlippie-q1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This slim and compact camera is capable enough to serve users with 60fps at 1080p and for stills it can go up to 8MP. The internal flash memory of Qlippie is 32GB and with its aluminium clip it can be easily attached to bag, purse or cloths for live recording. In order to reflect your personal style, this camera comes with 14 colourful stickers whereas WiFi connectivity allows easy interfacing with smart phone for remote control and wireless monitoring.
 
@@ -122,9 +136,23 @@ The Clip 2 is one of the ultra compact and portable camera units with very light
 
 ![HTC RE Camera](https://images.wondershare.com/filmora/article-images/htc-re.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It offers 16MP capabilities for stills along with 1080p at 30fps for videos. You can mount this camera on tripod and its creative shot capturing abilities allows users to go beyond imagination. This device is waterproof with 3.3’ rating and for more advanced controls you can operate it from Bluetooth, WI-Fi connectivity on android and iOS. The mounting accessories are offered by HTC separately as per need of user, you can easily buy them when it is time to be more adventurous with your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -132,14 +160,31 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-movie-magic-on-mobile-ioss-best-free-and-paid-film-apps/"><u>[New] Movie Magic on Mobile IOS's Best Free and Paid Film Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>[New] Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-revolutionary-wraps-transforming-virtual-reality-play-for-2024/"><u>[New] Revolutionary Wraps Transforming Virtual Reality Play for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-quickcam-plus-audio-guide-integration-tool/"><u>[Updated] 2024 Approved QuickCam + Audio Guide Integration Tool</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-quick-guide-to-starting-an-instagram-live-show/"><u>[Updated] In 2024, Quick Guide to Starting an Instagram Live Show</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leaders-in-affordable-web-based-photography-tools/"><u>[Updated] Leaders in Affordable Web-Based Photography Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastermind-quiz-series-discovering-trivia-gurus-of-2024/"><u>[Updated] Mastermind Quiz Series Discovering Trivia Gurus of 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-technique-inserting-a-direct-url-into-tiktok-bio/"><u>[Updated] Seamless Technique Inserting a Direct URL Into TikTok Bio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-iphone-podcast-downloads-a-comprehensible-approach/"><u>2024 Approved Master iPhone Podcast Downloads A Comprehensible Approach</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplified-protocol-effortless-video-conversion-and-dvd-making/"><u>2024 Approved Simplified Protocol Effortless Video Conversion and DVD Making</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-funny-image-processing-app/"><u>2024 Approved Top Funny Image Processing App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-windows-movie-maker-alternatives-for-mac-top-free-and-premium-options/"><u>Best Windows Movie Maker Alternatives for Mac: Top Free and Premium Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hitachis-ultra-definition-tv-range-seamless-access-to-entertainment-with-built-in-roku-systems/"><u>Hitachi's Ultra-Definition TV Range: Seamless Access to Entertainment with Built-In Roku Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-70-lite-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor 70 Lite 5G Through Google Earth?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterful-sound-setup-ultimate-tips-and-gear-list-for-2024/"><u>Masterful Sound Setup Ultimate Tips & Gear List for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/snappy-movement-capturing-blur-with-iphone-photos-for-2024/"><u>Snappy Movement Capturing Blur with iPhone Photos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-windows-10-touchpad-responding-to-scroll-gestures/"><u>Why Isn't My Windows 10 Touchpad Responding to Scroll Gestures?</u></a></li>
+</ul></div>
+

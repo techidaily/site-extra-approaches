@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfect Shadows & Highlights with IPhone Lighting Tips"
-date: 2024-08-17T20:42:12.725Z
-updated: 2024-08-18T20:42:12.725Z
+date: 2024-09-30T20:37:50.450Z
+updated: 2024-10-02T18:04:43.207Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,13 @@ The abundance of light puts you at risk of overexposing parts of your photo, and
 
 ![cloudy-sky-lighting](https://images.wondershare.com/filmora/article-images/cloudy-sky-lighting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image resource: Digital Photo Secrets
 
 Cloudy gray days allow you to take better black and white photos because the scenes you can take photos of, don't have too much color. Monochrome photos are easier to take because unlike with color photos you only have to work with blacks and whites.
@@ -72,6 +79,19 @@ Color photos of a cloudy sky look better if the sky is clear and there are only 
 **5\. Mist and Fog:** Mist or fog has a tendency to diffuse light which makes the light more pleasant to the human eye, but the reduced visibility complicates taking pictures for a number of reasons. A great photo always depends on a good moment, so in order to make good use of mist, you have to be at a right location and at a right time. Early morning is the best time to experiment with light softened by fog because usually there is enough light so you can capture sunbeams as they fall on the scene before you.
 
 ![mist-fog-lighting](https://images.wondershare.com/filmora/article-images/mist-fog-lighting.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image resource: Digital Photo Secrets
 
@@ -89,50 +109,47 @@ All you need to do in order to capitalize on backlight is to place the subject o
 
 ![artificial-light-outdoor](https://images.wondershare.com/filmora/article-images/artificial-light-outdoor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image resource: Efram Goldberg Photography
 
 Rain creates reflections of artificial light on the streets at night, which is why if you like night photography, taking pictures at night after the rain is one of the best times for long exposure pictures. iPhones can capture amazing night shots, but they do need additional photo equipment to achieve their best results.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Watch Video! Tips for Taking Photos on iPhone in Different Lighting
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tips for Indoor iPhone Photography Sessions
 
 Indoor photography often includes the use of artificial light, but during the day iPhone photographers can also take advantage of the light that comes through the windows. The light that falls at an angle produces shadows that add a sense of depth to the photo, thus creating an opportunity to take an artistic photo indoors.
 
 ![artificial-light](https://images.wondershare.com/filmora/article-images/artificial-light.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 However, artificial sources of light are usually a better option if you want to take interior photos since the natural sources of light are scarce and unreliable. Using a flash on your iPhone is also an option but its strong light will completely change the light setting of the scene.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +157,21 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-arsenal-of-skills-the-finest-7-fps-selections/"><u>[Updated] Arsenal of Skills The Finest 7 FPS Selections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laughlens-lab-jestjokester-co/"><u>[Updated] LaughLens Lab JestJokester Co</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>2024 Approved LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pinnacle-promotion-reels/"><u>2024 Approved Pinnacle Promotion Reels</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-x5-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco X5 Is Unlocked</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-c33-2023-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme C33 2023 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-calculating-expenses-in-your-yt-marketing-strategy/"><u>In 2024, Calculating Expenses in Your YT Marketing Strategy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-review-top-vehicle-monitoring-devices/"><u>In 2024, Comprehensive Review TOP Vehicle Monitoring Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter/"><u>In 2024, Leading iPhone Apps The Ultimate Guide to Removing Photo Clutter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-masterclass-designing-your-own-hilarious-digital-memeography/"><u>In 2024, Metaverse Masterclass Designing Your Own Hilarious Digital Memeography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rapid-releases-review-best-quick-gaming-selections-for-2024/"><u>Rapid Releases Review Best Quick Gaming Selections for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-your-intel-hd-graphics-630-driver-issues-on-windows-a-detailed-user-guide-corrected/"><u>Resolving Your Intel HD Graphics 630 Driver Issues on Windows - A Detailed User Guide [CORRECTED]</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-text-to-video/"><u>Updated What Is AI Text to Video?</u></a></li>
+</ul></div>
+

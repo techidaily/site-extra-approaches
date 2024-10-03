@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resolving Faulty Airdrop Functionality on Apple Devices"
-date: 2024-08-17T20:41:00.610Z
-updated: 2024-08-18T20:41:00.610Z
+date: 2024-10-01T00:34:03.778Z
+updated: 2024-10-02T19:17:10.840Z
 tags: 
   - screen-recording
   - ai video
@@ -59,11 +59,31 @@ Airdrop contains three options to choose from, Off, Contacts Only, and Everyone.
 
 ![airdrop-detail-setting-on-ios](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-ios.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 03:** Now select Airdrop
 
 **Step 04:** From these three options, make sure to choose "Everyone"
 
 ![airdrop-detail-setting-on-ios2](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-ios2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It will make your device visible to everyone around you whether they are on your contact list or not.
 
@@ -77,16 +97,17 @@ If you are trying to use Airdrop from iPhone or iPad to Mac but the mac is not b
 
 ![airdrop-detail-setting-on-mac-step2](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Step 03:** At the bottom of the screen, you can an option named "Allow me to be discovered by". Click on it and select Everyone from the drop-down list.
 
 ![airdrop-detail-setting-on-mac-step3](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 By doing this, you will make your Mac device ready to be paired with other devices around you. After changing these settings, the Airdrop will start to work fine.
 
 Is airdrop not working yet? If you are still facing the same problem try toggling off and on the Wifi and Bluetooth of your iPhone and Mac. By doing so, it will refresh the state of Wifi and Bluetooth of your device and make sure that they are working fine.
@@ -95,16 +116,10 @@ You can do that on your iPhone simply by navigating to Settings > Wi-Fi. Now tap
 
 ![airdrop-detail-setting-on-mac-step4](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The same is the case with Bluetooth. Navigate to Settings > Bluetooth. Now tap the Bluetooth switch on/off twice.
 
 ![airdrop-detail-setting-on-mac-step5](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 After completing all the stated methods, the Airdrop will start to work properly. But it is important for your device to be compatible with Airdrop. Check your device in the list of compatible devices before trying these methods. If you are still facing the same problem of Airdrop not working, then the last option is to reset your device. To reset your device, follow the following steps.
 
 **For iPhone 7**
@@ -123,27 +138,26 @@ After completing all the stated methods, the Airdrop will start to work properly
 2. Click and Release Volume Down button.
 3. Press & Hold Sleep button and keep holding it until the screen is off and it is on again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We have tried to compile all the possible ways to fix the problem of Airdrop not working on your iPhone, iPad, and Mac. We understand the importance of sharing files such as images, videos, and other media in today's world. Try all these available ways to fix your Airdrop and start sharing and receiving files on your device without any difficulty.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,3 +165,18 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-elevate-your-photos-with-these-top-11-tutorials/"><u>[New] Elevate Your Photos with These Top 11 Tutorials</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-nocturnal-nexus-versus-daylight-dominion/"><u>[Updated] Nocturnal Nexus Versus Daylight Dominion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-advanced-sound-switching-techniques/"><u>2024 Approved Navigating Advanced Sound-Switching Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-s23-tactical-edition-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy S23 Tactical Edition Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-5-filters-elevating-submerged-cinematography/"><u>In 2024, Prime 5 Filters Elevating Submerged Cinematography</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-game-comprehensive-troubleshooting-guide-for-paladins-crashes/"><u>Master the Game: Comprehensive Troubleshooting Guide for Paladins Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-5-key-methods-for-personalized-directives/"><u>Mastering ChatGPT: 5 Key Methods for Personalized Directives</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-13t-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi 13T Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speech-styling-made-simple-tips-for-enriching-your-vocal-presence-affordably-for-2024/"><u>Speech Styling Made Simple Tips for Enriching Your Vocal Presence Affordably for 2024</u></a></li>
+</ul></div>
+
