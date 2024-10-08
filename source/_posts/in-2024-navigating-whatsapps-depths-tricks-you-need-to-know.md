@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating WhatsApp's Depths  Tricks You Need to Know\""
-date: 2024-07-27T23:37:33.633Z
-updated: 2024-07-28T23:37:33.633Z
+date: 2024-10-02T16:46:03.952Z
+updated: 2024-10-08T06:39:40.807Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 
 # Cool Whatsapp Tricks and Hidden Features You Should Know
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -43,9 +40,6 @@ You can do a lot of things with your WhatsApp fonts, appearance, and texts that 
 
 Yes, you can bold your text. Just add a star (\*) symbol before and after your text. Don’t use space between the \* and the letter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Bold](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-bold.jpg)
 
 #### 2.Italic
@@ -58,9 +52,6 @@ Just like the bold, you can also italicize your fonts by simply inserting Unders
 
 Strikethrough is largely used to intend puns in WhatsApp, but sometimes it is also a functional tool for text corrections, used at large for online tutorials, editorials, or brainstorming. For adding Strikethrough use the Tilde Symbol (\~text\~) at the starting and end of your text.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Whatsapp Text Tricks Strikethrough](https://images.wondershare.com/filmora/article-images/whatsapp-text-tricks-strikethrough.png)
 
 #### 4.Monospace
@@ -107,9 +98,6 @@ While typing a WhatsApp message if you need to cross-check certain areas with so
 
 ![Whatsapp Typing Trick](https://images.wondershare.com/filmora/article-images/whatsapp-typing-trick.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What are the Hidden Features of WhatsApp?
 
 Since most of the above-mentioned are owing to the tricks and trades of texting via WhatsApp, let us now jot down a WhatsApp hidden feature list that applies for general usability of the wonder-app. There are useful privacy settings and chat features that can make your user experience a lot more peaceful.
@@ -124,6 +112,13 @@ There are many ways how you can save mobile data consumed by WhatsApp. First, yo
 
 ![Whatsapp Save More Data](https://images.wondershare.com/filmora/article-images/whatsapp-save-more-data.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Source: androidauthority.com
 
 #### 3.Share Your Location Without Ado
@@ -134,9 +129,6 @@ If there is confusion with a location, where sharing addresses is not an option,
 
 As long as you have the chat history intact you can search specific words to trace an old chat within a thread. Open the message thread of the specific contact, tap on the 3 Dots button on the top left and click on “Search”. Then type a word from the particular chat, hit enter to trace it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Whatsapp Search Old Chat](https://images.wondershare.com/filmora/article-images/whatsapp-search-old-chat.png)
 
 #### 5.Restore Your Chat History, and Deleted Chats
@@ -147,19 +139,14 @@ Sometimes you can restore deleted chat history if you have switched sims or mist
 
 Sometimes you just need to hush your WhatsApp for just a while. Perhaps you have to lend your phone to someone but don’t want them bumping into any of your private incoming messages. While other social media allow “logging off”, WhatsApp is always there in your face! Though high-fidelity phones allow fingerprint and face locking, not everyone owns a compatible device right now. Yet you don’t have to delete the app or go Aeroplane Mode, just force stop it. Though it is not an inbuilt WhatsApp feature, you can control the gamut by going to Settings>> Apps and Notifications >> WhatsApp >> Disable. Then in the same section go to Data Settings and disable Background Data. If you do this, your messages will come but you won’t’ get them until you open the app, meanwhile, keep receiving calls and all use your phone full-fledged.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Whatsapp Hidden Feature Snooze Whatsapp](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-snooze-whatsapp.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 7.Automatically Delete Messages After 7 Days
 
@@ -171,10 +158,14 @@ Not every message thread is important, and many people have the habit of deletin
 
 If it is annoying to open a loved one’s story and then automatically sliding into a story you did not want to open, you can MUTE the people whose stories you are not interested to see. Go to Story and tap and hold the unwanted contact to open the Mute option. Even though there is no option that you can stop the automatic carousel to the next contact’s stories altogether, you can always go by the rule of the thumb - place your thumb on the screen and the carousel won’t move.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Mute Whatsapp Stories](https://images.wondershare.com/filmora/article-images/mute-whatsapp-stories.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 9.Reply Privately to Recipients in a WhatsApp Group
 
@@ -184,17 +175,17 @@ This is as simple as it sounds. Tap and hold to select a message in a group and 
 
 Manage how you are notified of messages from specific contacts and groups. Go to the main page of the contact or group you wish to customize, and there you will find Custom Notifications. Activate the mode to open a wide range of options - notification tones, pop up, preview, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Whatsapp Hidden Feature Custom Notification](https://images.wondershare.com/filmora/article-images/whatsapp-hidden-feature-custom-notification.jpg)
 
 Source: beebom.com
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Edit WhatsApp Videos with Ease
 
 Some of the best WhatsApp video editing tricks are coming up, wherein you can add doodles, text, and crop an image. Moreover, you also check in some external video editing tools that are quite handy to integrate with WhatsApp.
@@ -211,18 +202,12 @@ For this WhatsApp Video Editing Trick, you would need to have a third-party scre
 
 You can create an instant GIF out of the video file within WhatsApp. Do this, let the video download, and then freshly share it from Attach >> Gallery >> Videos. Before sending, the video editing panel would open, there, you can see the GIF option at the top right. It will shorten your video to 6 seconds, adjust the cursor to the portion you wish to use.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 When it comes to WhatsApp Tricks and Trades, you always have to look forward to every update. Keep a tab on the updates and find a new WhatsApp Hidden Feature now and then.
 
 **You may also like:**[Best Bio for Whatsapp](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -231,12 +216,30 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-join-the-social-scene-facebook-live-streams-on-roku-tv-for-2024/"><u>[Updated] Join The Social Scene Facebook Live Streams on Roku TV for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laugh-out-loud-for-free-easymemes-tutorial/"><u>[Updated] Laugh Out Loud for Free EasyMemes Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-green-screen-shooting-made-simple/"><u>[Updated] Mastering Green Screen Shooting Made Simple</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-video-wins-essential-ideas-for-vloggers/"><u>[Updated] Quick Video Wins Essential Ideas for Vloggers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-soft-soundscapes-low-profile-alterations-in-garageband/"><u>[Updated] Soft Soundscapes Low-Profile Alterations in Garageband</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-inside-the-core-of-xstream-studios-an-exhaustive-studio-guide/"><u>2024 Approved Inside the Core of XStream Studios – An Exhaustive Studio Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pictureweaver-2021-seamless-photo-video-mix/"><u>2024 Approved PictureWeaver 2021 Seamless Photo-Video Mix</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-to-resolve-the-recurring-crash-of-manor-lords-on-personal-computers/"><u>Fixes to Resolve the Recurring Crash of Manor Lords on Personal Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-sticker-solutions-for-digital-videographers-on-tiktok/"><u>In 2024, Advanced Sticker Solutions for Digital Videographers on TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-your-look-with-top-facelift-apps/"><u>In 2024, Perfecting Your Look with Top Facelift Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unveiling-natures-digital-canvas-a-novices-starter-on-green-screen-technology/"><u>In 2024, Unveiling Nature's Digital Canvas A Novice's Starter on Green Screen Technology</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/optimize-video-flows-5-steps-for-expert-cutting-and-lengthening-of-vimeo-content-for-2024/"><u>Optimize Video Flows 5 Steps for Expert Cutting & Lengthening of Vimeo Content for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scrutinizing-chatgpt-for-personal-data-exposure/"><u>Scrutinizing ChatGPT for Personal Data Exposure</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-audio-avenger-your-pathway-to-sound-in-story-posts-for-2024/"><u>The Audio Avenger Your Pathway to Sound in Story Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-secrets-to-producing-popular-youtube-shorts-for-2024/"><u>Unveiling the Secrets to Producing Popular YouTube Shorts for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-and-optimized-gigabyte-ethernet-driver-for-flawless-internet-connection/"><u>Updated and Optimized Gigabyte Ethernet Driver for Flawless Internet Connection</u></a></li>
+</ul></div>
 

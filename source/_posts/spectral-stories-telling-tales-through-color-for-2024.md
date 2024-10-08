@@ -1,7 +1,7 @@
 ---
 title: "\"Spectral Stories  Telling Tales Through Color for 2024\""
-date: 2024-10-01T19:35:20.883Z
-updated: 2024-10-02T21:28:43.850Z
+date: 2024-10-03T07:39:06.607Z
+updated: 2024-10-07T16:21:03.906Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Color grading and color correction are processes that happen throughout postprod
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why is Color Grading Important?
 
 **Color grading establish a picture's first impression**
@@ -64,25 +71,11 @@ Then select the New Project to create a new project file and click Import to fin
 
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
@@ -107,10 +100,10 @@ Here, there are two options to select: The Color correction. It offers different
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step2Select the specific video portion
@@ -120,6 +113,13 @@ Here, there are two options to select: The Color correction. It offers different
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
@@ -147,18 +147,18 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2Color grading with Wondershare Filmora
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Color Histogram**
 
@@ -228,21 +228,21 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-the-seo-maze-a-guide-to-youtube-keywords/"><u>[New] Navigating the SEO Maze A Guide to YouTube Keywords</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-linkedin-account-termination-procedures/"><u>[New] Navigating Through LinkedIn Account Termination Procedures</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pixels-of-peaceful-bedtime-narratives/"><u>[New] Pixels of Peaceful Bedtime Narratives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smoothing-out-aerial-footage-pulsation/"><u>[New] Smoothing Out Aerial Footage Pulsation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-lullabies-and-lightheartedness-asmr-sleep-helpers/"><u>[Updated] Lullabies and Lightheartedness ASMR Sleep Helpers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-merge-audio-files-into-powerpoint-staging/"><u>[Updated] Merge Audio Files Into PowerPoint Staging</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-transform-your-reddit-presence-with-these-tactics-for-2024/"><u>[Updated] Transform Your Reddit Presence with These Tactics for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-visualvault-review-highlighting-the-best-recording-tools-for-2024/"><u>[Updated] VisualVault Review Highlighting the Best Recording Tools for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-choosing-your-go-to-youtube-video-downloaders-on-android-platform/"><u>2024 Approved Choosing Your Go-To YouTube Video Downloaders on Android Platform</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-se-2022-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone SE (2022) Passcode not Working?</u></a></li>
-<li><a href="https://facebook.techidaily.com/image-rights-user-generated-imagery-claims/"><u>Image Rights: User-Generated Imagery Claims</u></a></li>
-<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-the-delay-is-over-adventure-awaits/"><u>Immortals Fenyx Rising - The Delay Is Over, Adventure Awaits</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-precision-with-zoom-your-ultimate-youtube-live-stream-toolkit/"><u>In 2024, Perfect Precision with Zoom Your Ultimate YouTube Live Stream Toolkit</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/jokegenius-get-the-best-meme-app-for-2024/"><u>JokeGenius - Get the Best Meme App for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-secret-to-maximum-fun-in-fortnite-on-your-mac/"><u>The Secret to Maximum Fun in Fortnite on Your Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-unprecedented-speed-with-asrocks-z890-taichi-aqua-motherboard-includes-10x-superfast-usb-type-c-and-2x-cutting-edge-thunderbolt-ports/"><u>Unleash Unprecedented Speed with ASRock's Z890 Taichi Aqua Motherboard – Includes 10X Superfast USB Type-C & 2X Cutting-Edge Thunderbolt Ports</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nduring-removal-protocol-say-no-to-youtube-shorts/"><u>[New] Enduring Removal Protocol Say No to YouTube Shorts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphones-quintet-of-best-podcast-aides/"><u>[New] IPhone's Quintet of Best Podcast Aides</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rapid-revision-windows-protocol-uncovered/"><u>[New] Rapid Revision Windows Protocol Uncovered</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-rapid-method-converting-images-into-desktop-thumbnails-for-youtube/"><u>[Updated] In 2024, Rapid Method Converting Images Into Desktop Thumbnails for YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-social-media-marketing-a-step-by-step-guide/"><u>[Updated] Mastering Social Media Marketing A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-play-your-srt-files-easily-winmac-tips/"><u>[Updated] Play Your SRT Files Easily Win/Mac Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-comprehensive-guide-to-superior-recordings-in-audacity-for-2024/"><u>[Updated] The Comprehensive Guide to Superior Recordings in Audacity for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-shadowbans-and-eluding-their-effects/"><u>Decoding Shadowbans and Eluding Their Effects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003629034-fix-your-gameplay-stop-minecraft-dungeon-pcs-from-frequent-crashing-easy-tips-inside/"><u>Fix Your Gameplay: Stop Minecraft Dungeon PCs From Frequent Crashing – Easy Tips Inside</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-assortment-of-video-capturing-technology/"><u>In 2024, Assortment of Video Capturing Technology</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-easily-alter-video-velocity-youtubes-playback-speed-mastery/"><u>In 2024, Easily Alter Video Velocity YouTube's Playback Speed Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/intense-evaluation-the-detailed-study-of-bublcam-360-for-2024/"><u>Intense Evaluation The Detailed Study of Bublcam 360 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lightroom-lut-guide-discovering-the-best-10-tools-for-color-grading-for-2024/"><u>Lightroom LUT Guide Discovering the Best 10 Tools for Color Grading for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/obs-sound-issues-a-comprehensive-guide-to-restoring-recording-and-playback/"><u>OBS Sound Issues? A Comprehensive Guide to Restoring Recording & Playback</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/public-melodies-for-calmness-for-2024/"><u>Public Melodies for Calmness for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-free-software-the-best-12-new-animations/"><u>Top Free Software : The Best 12 New Animations</u></a></li>
 </ul></div>
 

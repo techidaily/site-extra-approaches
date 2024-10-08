@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Q500 Typhoon - Yuneec's High-Resolution Bliss\""
-date: 2024-09-27T23:44:41.276Z
-updated: 2024-10-02T20:02:03.742Z
+date: 2024-10-04T03:26:03.375Z
+updated: 2024-10-07T17:14:01.245Z
 tags: 
   - screen-recording
   - ai video
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 ![yuneec typhoon design](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-q500-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This device is having big size that makes it difficult to carry on trips. But the design is sturdy with impressive appearance. At the same time, you are going to find one charger, two batteries and two sets of propellers with this package. Few other accessories are sunshield, neck strap, ST10+ controller, cable and a steady Grip mount. The design is almost good but demands little polish to appear attractive. Professionals love to work with its sturdy body and stable design that helps to keep videos shake free during flight hours.
@@ -102,19 +102,19 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 ![yuneec typhoon q500 camera](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-q500-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As already discussed, it supports 4k recording abilities so users can expect breathtaking shoots in air. The camera is designed to offer 115 degree Field of View where 30 fps frame rate is supported for both 4K and 1080p resolution modes. Users can enjoy automatic settings at initial stage and once they are able to learn all advanced controls then it becomes much easier to shift towards classic flights with smart modes. You will be glad to know that this drone also has settings for slow motion videos with 1080p resolution and at frame rate of 120fps. It provides great flexibility to professional videographers for their advanced recording needs.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -124,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -145,21 +145,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-money-on-youtube-understanding-required-number-of-views/"><u>[New] In 2024, Gain Money on YouTube Understanding Required Number of Views</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionize-design-with-the-top-tier-plugins-for-ae/"><u>[New] Revolutionize Design with the Top-Tier Plugins for AE</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtube-milestone-mastery-breaking-into-the-millions/"><u>[Updated] 2024 Approved Youtube Milestone Mastery Breaking Into the Millions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-inshot-showdown-expert-review-of-best-editing-software/"><u>[Updated] InShot Showdown Expert Review of Best Editing Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-journey-through-filmora-editing-10-standout-functions/"><u>[Updated] Journey Through Filmora Editing 10 Standout Functions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-social-media-savvy-the-art-of-timing-in-instagram-reels/"><u>[Updated] Social Media Savvy The Art of Timing in Instagram Reels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-link-up-movies-to-your-youtube-compendium/"><u>2024 Approved Link Up Movies to Your YouTube Compendium</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rhythm-discoverers-toolkit-all-free-and-online/"><u>2024 Approved Rhythm Discoverer’s Toolkit – All FREE & Online</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-phantom-v-flip-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Tecno Phantom V Flip Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-intro-ideas-free-download-options/"><u>In 2024, Intro Ideas Free Download Options</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-social-media-showdown-comparing-igtv-and-youtubes-unique-aspects/"><u>In 2024, Social Media Showdown Comparing IGTV and YouTube's Unique Aspects</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/nine-essential-considerations-for-chatbot-subscription-success/"><u>Nine Essential Considerations for Chatbot Subscription Success</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/rigorous-testing-of-asus-chromebook-c202sa-perfect-durability-for-learning-environments/"><u>Rigorous Testing of Asus Chromebook C202SA: Perfect Durability for Learning Environments</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/the-ultimate-guide-to-choosing-the-best-android-email-transition-tools/"><u>The Ultimate Guide to Choosing the Best Android Email Transition Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/valheims-flora-frontier-unlocking-the-best-seeds-for-2024/"><u>Valheim's Flora Frontier Unlocking the Best Seeds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inshot-editing-mastery-in-video-transitions/"><u>[New] Inshot Editing Mastery in Video Transitions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-navigating-instagrams-backdrop-swap-a-filmmakers-guide/"><u>[Updated] 2024 Approved Navigating Instagram’s Backdrop Swap A Filmmaker's Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>[Updated] Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pursuing-peak-performance-selecting-premium-drone-motors/"><u>2024 Approved Pursuing Peak Performance Selecting Premium Drone Motors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/complete-guide-eliminating-the-wondershare-video-converter-threat-steps-to-clean-your-computer/"><u>Complete Guide: Eliminating the Wondershare Video Converter Threat - Steps to Clean Your Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-8-plus-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 8 Plus to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-video-spin-vlcs-rotation-guide/"><u>In 2024, Mastering Video Spin VLC's Rotation Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-video-calls-on-zoom/"><u>In 2024, Perfect Your Video Calls on Zoom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soons-review-diverse-perspectives/"><u>In 2024, Soon's Review Diverse Perspectives</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-m54-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy M54 5G FRP</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-malfunctions-decoded-correcting-your-crossbow-complications/"><u>Minecraft Malfunctions Decoded: Correcting Your Crossbow Complications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smart-strategies-for-buying-economical-gopros-for-2024/"><u>Smart Strategies for Buying Economical GoPros for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/this-article-lists-10-cool-plugins-for-final-cut-pro-they-range-in-price-but-each-creates-effects-you-just-cant-get-any-other-way/"><u>This Article Lists 10 Cool Plugins for Final Cut Pro. They Range in Price, but Each Creates Effects You Just Cant Get Any Other Way</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/top-10-iphone-and-android-apps-to-add-stickers-on-your-photos-for-2024/"><u>Top 10 iPhone and Android Apps to Add Stickers on Your Photos for 2024</u></a></li>
 </ul></div>
 

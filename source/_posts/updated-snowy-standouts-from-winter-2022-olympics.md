@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Snowy Standouts From Winter 2022 Olympics"
-date: 2024-09-28T00:53:36.120Z
-updated: 2024-10-02T18:26:17.275Z
+date: 2024-10-02T22:04:16.015Z
+updated: 2024-10-08T05:17:45.827Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,10 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
@@ -55,6 +55,13 @@ Injuries are part of sports events but some injuries are gruesome and are result
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. US-Born Eileen Gu Wins Gold for China
 
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
@@ -64,10 +71,10 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Van der Poel Breaks the World Record
@@ -76,13 +83,20 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
@@ -93,13 +107,6 @@ Yan Wengang becomes the first medalist from China in a sliding sport. In a four-
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
 
 21-year-old Chloe Kim became back-to-back Olympic champion by dominating in the halfpipe. The American confirmed a gold medal on the first run itself. Her runs had 1080, a switch 900, and a switch backside of 540\. It further added another 1080\. She dominated the Snowboarding Women's Halfpipe Final with 94 points. Spain's Queralkt Castellet won silver and the bronze went to Sena Tomita of Japan.
@@ -109,10 +116,16 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
@@ -121,27 +134,20 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. American Favorite Out of the Tournament
 
 US skater Vincent Zhou has tested positive for coronavirus and therefore, he is out of the Winter Olympics. Naturally, Zhou was in tears and extremely emotional as he was a top medal contender. He did take part in the team free skate event but he struggle to perform at his best even though the US team managed to win silver at the event.
 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
 
@@ -162,20 +168,22 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-editing-magic-transformative-strategies-for-youtube-creators/"><u>[New] 2024 Approved Editing Magic Transformative Strategies for YouTube Creators</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-tailored-techniques-for-logging-high-quality-roblox-sessions-on-a-mac/"><u>[New] In 2024, Tailored Techniques for Logging High-Quality Roblox Sessions on a Mac</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-meme-design-excellence-guide-for-2024/"><u>[Updated] Meme Design Excellence Guide for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimal-settings-for-watching-nba-live-streams/"><u>[Updated] Optimal Settings for Watching NBA LIVE STREAMs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-overcoming-windows-11-photo-app-anomalies-with-ease/"><u>[Updated] Overcoming Windows 11 Photo App Anomalies with Ease</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-softening-transitions-gradual-audio-fading-techniques-in-premiere/"><u>[Updated] Softening Transitions Gradual Audio Fading Techniques in Premiere</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-strategic-placement-sites-for-video-marketing/"><u>[Updated] Strategic Placement Sites for Video Marketing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-metaviews-analyzing-6-in-depth-metaverse-scenarios/"><u>2024 Approved Metaviews Analyzing 6 In-Depth Metaverse Scenarios</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pc-transfer-protocols-effective-five-ways-to-send-your-files/"><u>2024 Approved PC Transfer Protocols Effective Five Ways to Send Your Files</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-calculus-of-cashflow-from-creativity-measuring-your-youtube-earnings-and-impact/"><u>2024 Approved The Ultimate Calculus of Cashflow From Creativity Measuring Your YouTube Earnings and Impact</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-revenue-rise-how-to-harness-the-power-of-ads/"><u>2024 Approved Vimeo Revenue Rise How to Harness the Power of Ads</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-samsung-galaxy-z-flip-5-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/selecting-ideal-fpv-propellers-a-comprehensive-guide-for-2024/"><u>Selecting Ideal FPV Propellers A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620275771-ultimate-guide-charging-your-iphone-wirelessly-no-cable-needed/"><u>Ultimate Guide: Charging Your iPhone Wirelessly - No Cable Needed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-low-light-photos-on-ios-11/"><u>[New] Mastering Low-Light Photos on iOS 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-polishing-zoom-picture-quality-simple-solutions/"><u>[New] Polishing Zoom Picture Quality Simple Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-elite-educational-event-emitter/"><u>2024 Approved Elite Educational Event Emitter</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-video-excellence-text-integration-basics/"><u>2024 Approved Instagram Video Excellence Text Integration Basics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lenovo-thinkphone-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Lenovo ThinkPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inshot-cut-mastery-creating-fluid-movements/"><u>In 2024, Inshot Cut Mastery Creating Fluid Movements</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lgs-gaming-monitor-review-the-future-of-4k-freesync/"><u>In 2024, LG’s Gaming Monitor Review - The Future of 4K FreeSync</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-light-the-flame-the-best-inspiring-movie-list/"><u>In 2024, Light the Flame The Best Inspiring Movie List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-low-cost-high-performance-capturing-adrenaline-in-motion/"><u>In 2024, Low-Cost, High-Performance Capturing Adrenaline in Motion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-iphone-filmmaking-for-full-sphere-effects/"><u>In 2024, Master iPhone Filmmaking for Full Sphere Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplified-methods-to-close-unused-social-media-linkedin-account-for-2024/"><u>Simplified Methods to Close Unused Social Media (LinkedIn) Account for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-stability-solved-quick-tricks-to-prevent-unwanted-crashes/"><u>Steam Stability Solved: Quick Tricks to Prevent Unwanted Crashes!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-installing-canon-mx340-printer-drivers-for-various-windows-versions/"><u>Step-by-Step Guide to Downloading & Installing Canon MX340 Printer Drivers for Various Windows Versions</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-k70e-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oppo-find-x7-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Oppo Find X7 Ultra to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>Updated Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
 </ul></div>
 

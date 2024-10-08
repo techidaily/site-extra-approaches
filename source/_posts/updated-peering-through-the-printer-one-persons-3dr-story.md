@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Peering Through the Printer  One Person’s '3DR' Story\""
-date: 2024-09-26T16:00:18.892Z
-updated: 2024-10-02T16:14:37.364Z
+date: 2024-10-01T03:44:54.681Z
+updated: 2024-10-08T03:55:07.078Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -98,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -119,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -140,16 +140,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-radiant-spectrum-enhancer/"><u>[New] In 2024, Radiant Spectrum Enhancer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimize-your-windows-11-photo-viewing-include-audio-files-and-artistic-layers/"><u>[New] Optimize Your Windows 11 Photo Viewing Include Audio Files and Artistic Layers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-personalize-phone-chimes-a-whatsapp-tone-builders-manual/"><u>[New] Personalize Phone Chimes A WhatsApp Tone Builder's Manual</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-cataloging-camera-types-for-visual-media/"><u>[Updated] 2024 Approved Cataloging Camera Types for Visual Media</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-tutorial-applying-computer-vhs-filters/"><u>2024 Approved Step-by-Step Tutorial Applying Computer VHS Filters</u></a></li>
-<li><a href="https://win11.techidaily.com/a-simple-guide-to-finding-out-what-model-you-run-on-windows/"><u>A Simple Guide to Finding Out What Model You Run on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dji-flyer-x20s-flying-high-vision-headset-breakdown/"><u>DJi Flyer X20's Flying High Vision Headset Breakdown</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-peering-through-the-lens-an-in-depth-review-of-polaroid-cubeplus/"><u>In 2024, Peering Through the Lens An In-Depth Review of Polaroid Cube+</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-the-superior-cloud-vaults-for-your-digital-needs/"><u>In 2024, Selecting the Superior Cloud Vaults for Your Digital Needs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-server-error-solutions-a-comprehensive-guide/"><u>Rainbow Six Siege Server Error Solutions: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-setup-to-screening-wirecasts-role-in-facebook-streaming-for-2024/"><u>[New] From Setup to Screening Wirecast’s Role in Facebook Streaming for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-reimagining-ppts-with-todays-webcam-capabilities-for-2024/"><u>[New] Reimagining PPTs with Today's Webcam Capabilities for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-softening-mix-tracks-incrementally-in-fl/"><u>[New] Softening Mix Tracks Incrementally in FL</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photoshop-for-beginners-essential-snapseed-techniques/"><u>[Updated] Photoshop for Beginners Essential Snapseed Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-listenleap-escaping-dacasts-grip/"><u>2024 Approved ListenLeap Escaping DaCast's Grip</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-your-clips-with-the-latest-vida-tools/"><u>2024 Approved Revolutionize Your Clips with the Latest Vida Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/budget-mobile-ransomware-breakthrough-the-encryption-expedition/"><u>Budget Mobile, Ransomware Breakthrough - The Encryption Expedition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/delving-into-the-heart-of-apples-m1-processor/"><u>Delving Into the Heart of Apple's M1 Processor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-the-workings-of-gptzero-in-ai-authenticity/"><u>Demystifying the Workings of GPTZero in AI Authenticity</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-latest-hid-standard-mice-driver-update/"><u>Install the Latest, HID-Standard Mice Driver Update</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-suppress-ambient-sounds-and-insert-unique-soundscapes-with-the-help-of-microsofts-movie-creator/"><u>New Suppress Ambient Sounds and Insert Unique Soundscapes with the Help of Microsofts Movie Creator</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-top-5-virtual-reality-drones-for-2024/"><u>Prime Top 5 Virtual Reality Drones for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files-for-2024/"><u>Updated Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files for 2024</u></a></li>
 </ul></div>
 

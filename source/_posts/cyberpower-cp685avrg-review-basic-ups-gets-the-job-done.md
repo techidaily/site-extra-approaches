@@ -1,7 +1,7 @@
 ---
 title: "Cyberpower CP685AVRG Review: Basic UPS Gets the Job Done"
-date: 2024-09-25T22:59:58.589Z
-updated: 2024-10-03T00:19:13.373Z
+date: 2024-10-02T07:03:04.573Z
+updated: 2024-10-07T21:20:57.728Z
 categories:
   - BestProducts
 description: "This Article Describes Cyberpower CP685AVRG Review: Basic UPS Gets the Job Done"
@@ -37,9 +37,23 @@ Lifewire / Todd Braylor
 
 3.8
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Escort Passport S55
 
 ![Escort Passport S55](https://www.lifewire.com/thmb/sfbFkL8zI4goROALJ4BAsKN18us=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -62,19 +76,6 @@ Lifewire / Todd Braylor
 
  The Escort Passport S55 is designed to deliver high-performance features in a low-budget package; this model has a great range and a high-intensity LED display. Let's take a closer look at some strengths and weaknesses to evaluate what kind of performance you can expect on the road.
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design:** **A bit cheap**
 
  The S55 is palm-sized, about comparable in size and shape to most other radar detectors. The plastic material feels a bit cheaper than other radar detectors I've tested, though the control buttons worked well and felt long-lasting and I never had issues with them sticking. The Passport S55 comes with a very small windshield mount that's functional, but you may want to consider an aftermarket mount. It's minimal with small suction cups and I'm not confident it will last long. Luckily, the lightweight design of the S55 means it doesn't need much to hold it in place.
@@ -84,13 +85,6 @@ Lifewire / Todd Braylor
  The speaker on this radar detector is very small, about a quarter-inch square, but the audio alerts are high volume. You can select between standard and loud tones. The SmartCord power cable for the S55 has a handy mute button on it so you don't have to reach over the dash.
 
  Lifewire / Todd Braylor
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process: Easy installation**
 
@@ -104,6 +98,13 @@ Lifewire / Todd Braylor
 
  It reliably delivers on its promise of long-distance sensitivity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Not exactly enhanced**
 
  The S55 has different modes designed to adjust to specific frequency bands and sensitivity levels for city or highway driving. You can quickly customize the settings by using the included quick reference guide. You can also turn off specific frequency bands if they tend to give a lot of false alerts.
@@ -113,10 +114,10 @@ Lifewire / Todd Braylor
  In terms of false alerts, the AutoSensitivity feature didn't really help in directing the overall high-sensitivity. This radar detector gave frequent false alerts from commercial door-openers and vehicle anti-collision warning systems. Unfortunately, the S55 lacks the advanced filters of more expensive models that help reduce the annoying frequency of false alerts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: You get what you pay for**
@@ -124,13 +125,6 @@ Lifewire / Todd Braylor
  With an MSRP of $128, the Passport S55 is a low-end radar detector priced accordingly. More advanced radar detectors can easily be several hundred dollars more expensive, and the S55 is a good deal if you plan to use it primarily on the highway. Door-openers along the city and commercial roads will frequently trigger false alerts. You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
 
  You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Escort Passport S55 vs. Uniden DFR9 Super long-range Radar/Laser Detector**
 
@@ -173,20 +167,21 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-gastronomes-blueprint-filming-feasts/"><u>[New] In 2024, The Gastronome’s Blueprint Filming Feasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-online-jest-builder/"><u>[New] Online Jest Builder</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-srt-soundfile-compatibility-pc-and-mac/"><u>[New] SRT Soundfile Compatibility PC & Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-gaming-through-time-with-top-5-pc-based-ps1-game-emulators-for-2024/"><u>[Updated] Gaming Through Time with Top 5 PC-Based PS1 Game Emulators for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-mobile-photography-strategies/"><u>[Updated] Professional Mobile Photography Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reviewing-the-next-level-in-mobile-video-with-samsung-s8/"><u>[Updated] Reviewing the Next Level in Mobile Video with Samsung S8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-lut-creation/"><u>2024 Approved Innovative Approaches to LUT Creation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-lengthy-iphone-photo-captures/"><u>2024 Approved Mastering Lengthy iPhone Photo Captures</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g-stylus-5g-2023withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto G Stylus 5G (2023)with/without a PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/melodies-of-matrimony-romantic-hits-for-the-big-moment-for-2024/"><u>Melodies of Matrimony Romantic Hits for the Big Moment for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-complex-projects-on-magix-video-pro-x-for-2024/"><u>Navigating Complex Projects on Magix Video Pro X for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-listing-top-5-free-vector-graphics-online-hubs-for-2024/"><u>Premier Listing Top 5 FREE Vector Graphics Online Hubs for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-science-behind-effective-instagram-puzzle-posts-for-2024/"><u>The Science Behind Effective Instagram Puzzle Posts for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-webm-to-mp3-conversion-software/"><u>Updated Top-Rated WebM to MP3 Conversion Software</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-direct-video-streaming-sending-fb-vids-straight-into-whatsapp/"><u>[New] Direct Video Streaming Sending FB Vids Straight Into WhatsApp</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-amplify-your-social-media-reach-through-judicious-use-of-hash-tags-on-facebook/"><u>[New] How to Amplify Your Social Media Reach Through Judicious Use of Hash Tags on Facebook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-how-to-preserve-your-roblox-experience-with-flawless-recording-mac/"><u>[New] In 2024, How to Preserve Your Roblox Experience with Flawless Recording (Mac)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instagram-success-secrets-8-steps-to-becoming-a-top-poster/"><u>[Updated] Instagram Success Secrets 8 Steps to Becoming a Top Poster</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-visual-enhancements-mastering-the-use-of-luts-in-ae/"><u>[Updated] Professional Visual Enhancements Mastering the Use of LUTs in AE</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-marketing-magic-20-keywords-for-profound-impact/"><u>2024 Approved Mastering Marketing Magic 20 Keywords for Profound Impact</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-newbies-guide-to-vlogging-gear-and-software-insights/"><u>2024 Approved Newbie's Guide to Vlogging Gear and Software Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-social-media-marketing-elevating-public-health-dialogue/"><u>2024 Approved Social Media Marketing Elevating Public Health Dialogue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-automatic-resizing-cells-in-excel-for-effortless-data-management/"><u>Comprehensive Guide to Automatic Resizing Cells in Excel for Effortless Data Management</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-definition-footage-leading-cameras-of-2024/"><u>High Definition Footage Leading Cameras of 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-15-pro-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 15 Pro Max Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-shutterbugs-tips-for-better-images/"><u>In 2024, IPhone Shutterbugs Tips for Better Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stepwise-process-of-animated-image-crafting-gif-for-2024/"><u>Stepwise Process of Animated Image Crafting (GIF) for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-rainbow-six-siege-how-to-restore-voice-communication/"><u>Troubleshooting Steps for Rainbow Six Siege: How to Restore Voice Communication</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/wirecast-techniques-for-captivating-facebook-viewers-for-2024/"><u>Wirecast Techniques for Captivating Facebook Viewers for 2024</u></a></li>
 </ul></div>
 

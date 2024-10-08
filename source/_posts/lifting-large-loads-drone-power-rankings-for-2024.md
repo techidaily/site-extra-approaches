@@ -1,7 +1,7 @@
 ---
 title: "\"Lifting Large Loads - Drone Power Rankings for 2024\""
-date: 2024-07-29T23:41:49.011Z
-updated: 2024-07-30T23:41:49.011Z
+date: 2024-10-07T06:40:49.382Z
+updated: 2024-10-07T19:19:13.608Z
 tags: 
   - screen-recording
   - ai video
@@ -30,10 +30,6 @@ There is no doubt that people are using drones for art (photography and film mak
 
 With this rising need of consumers needing more than just a [flying camera](https://tools.techidaily.com/wondershare/filmora/download/) at their disposal, the market for heavy lift drones is starting to reveal itself as a well-served market. This means you will need to know what you are looking for, as there will be many options laid out before you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Top 10 Heavy lift drones
 
 Here are the best heavy lifting drones available in 2020, broken into over-10 kg and under-10 kg payloads.
@@ -54,15 +50,25 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 | [FREEFLY ALTA 8](#freefly)                     | 18kg                                    | 16min       |       |
 | [ONYXSTAR HYDRA-12](#hydra12)                  | 12kg                                    | 30min       |       |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Heavy lifting Drones: Under-10kg payload
 
 #### 1\. Tarot T-18 Ready To Fly Drone
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![tarot t-18 ready to fly drone](https://images.wondershare.com/filmora/article-images/tarot-t-18-ready-to-fly-drone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (professional or amateur) who are looking to take outstanding, aerial photography with a decent sized DSLR, thanks to its capability of carrying up to an 8 kg payload. Thanks to the Tarot T-18's octocopter design, a heavy DSLR (or any other payload) will not cause stability or power issues that can come from single-, or even double-rotor drones. With a 20 min. flight time, the Tarot T-18 can be the perfect tool to add to any aerial photographers tool chest.
 
@@ -98,17 +104,18 @@ With the capability of taking off with a payload of about 6 kg, the DJI Matrice 
 
 The DJI's Matrice 100 combines the benefits of an easy-to-fly quadocpter with the ability to deliver a relatively good sized payload of around 3.6 kg. The X-configuration of the drone provides the perfect support for the on-board 4K camera, as well as space to add a supported third-party camera (like a GoPro.) With a flight time of around 50 min., the DJI's Matrice 100 is the perfect tool for anyone who needs a drone that can handle slightly heavier lifts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Heavy lifting Drones: Over-10kg payload
 
 #### 1\. Vulcan UAV Airlift
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vulcan uav airlift](https://images.wondershare.com/filmora/article-images/vulcan-uav-airlift.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Airlift series is one of Vulcan's heaviest lifting drones to date. With the ability to lift and move a payload of about 30 kg, this drone has a tough, and durable frame that allows it to display such extraordinary strength and grace. Its central core is made of transparent tubes which allow users to easily check in on the power systems, while also making sure that all vitals are protected, which makes the Vulcan UAV Airlift the ideal machine for working in rugged environments.
 
@@ -134,16 +141,17 @@ Building off of an already sturdy line of drones, the Freefly ALTA 8 is the perf
 
 #### 5\. ONYXSTAR HYDRA-12
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![onyxstar hydra-12](https://images.wondershare.com/filmora/article-images/onyxstar-hydra-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The HYDRA-12 was purpose-designed to be able to help you handle heavy payloads with absolute ease. Thanks to its 12 motors, this drone is capable of carrying a payload of up to 12 kg effectively and smoothly. Thanks to the HYDRA-12's ability to carry heavy payloads the possibilities for this drone are nearly endless. What is impossible for many drones on the market, the HYDRA-12 will do with great ease. And with a 30 min. flight time, you will have a lot of time in the air to get your job done.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -154,11 +162,31 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-extract-youtube-media-directly/"><u>[New] 2024 Approved How to Extract YouTube Media Directly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-essential-tools-ranking-the-best-mobile-videography-apps/"><u>[Updated] In 2024, Essential Tools Ranking the Best Mobile Videography Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lift-mood-and-performance-20-fitness-playlists-ranked-right/"><u>[Updated] Lift Mood & Performance 20 Fitness Playlists Ranked Right</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sharpfocusx7-size-your-photography-right/"><u>[Updated] SharpFocusX7 Size Your Photography Right</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-voice-enhancement-programs-for-virtual-stars/"><u>2024 Approved Leading Voice Enhancement Programs for Virtual Stars</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-memetics-a-9gag-creators-manual/"><u>2024 Approved Mastering the Art of Memetics A 9GAG Creator's Manual</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-pip-functionality-in-apples-browsers/"><u>2024 Approved Navigating PIP Functionality in Apple's Browsers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comprehensive-guide-to-ios-screenshotting/"><u>Comprehensive Guide to iOS Screenshotting</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-simple-scenes-advanced-techniques-for-snapchat-edits/"><u>In 2024, From Simple Scenes Advanced Techniques for Snapchat Edits</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-130-music-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-pubg-tones-in-minutes/"><u>In 2024, Mastering PUBG Tones in Minutes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-novices-path-to-professional-gopro-video-editing/"><u>In 2024, Novice's Path to Professional GoPro Video Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-convert-srt-files-to-text-a-step-by-step-manual/"><u>In 2024, Quick-Convert SRT Files to Text A Step-by-Step Manual</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-your-youtube-income-with-effective-mobile-device-strategies-for-2024/"><u>Maximize Your YouTube Income with Effective Mobile Device Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximizing-your-earnings-how-to-monetize-facebook-videos-successfully/"><u>Maximizing Your Earnings How to Monetize Facebook Videos Successfully</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-multitasking-via-firefoxs-pip-mode-for-2024/"><u>Seamless Multitasking via Firefox's PIP Mode for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unbridled-future-of-gpt-without-limits/"><u>The Unbridled Future of GPT Without Limits?</u></a></li>
+</ul></div>
+

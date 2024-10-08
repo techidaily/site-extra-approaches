@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Photoshop Wizardry for Bending Photos"
-date: 2024-07-27T23:38:48.653Z
-updated: 2024-07-28T23:38:48.653Z
+date: 2024-10-03T03:54:15.445Z
+updated: 2024-10-07T20:52:43.711Z
 tags: 
   - screen-recording
   - ai video
@@ -20,14 +20,8 @@ thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3f
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -38,9 +32,6 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
@@ -57,9 +48,6 @@ Play around with the settings in the options bar. There are quite a few differen
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
@@ -68,9 +56,6 @@ Play around with the settings in the options bar. There are quite a few differen
 
 The **Bend Direction** option rotates the angle of the bend.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
@@ -84,8 +69,12 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -118,6 +107,22 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-eliminating-half-muted-facebook-gaming-videos-2023-fixes/"><u>[New] 2024 Approved Eliminating Half-Muted Facebook Gaming Videos (2023 Fixes)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-hdr-camera-mastery-essential-buying-tips/"><u>[New] HDR Camera Mastery Essential Buying Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-m1-processor-transforming-the-video-editing-experience/"><u>[New] In 2024, M1 Processor Transforming the Video Editing Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iview-harmony-ios-and-macos-slideshow-tool/"><u>[New] IView Harmony IOS & macOS Slideshow Tool</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-6-social-spaces-for-enterprise-driven-collaboration/"><u>[New] Leading 6 Social Spaces for Enterprise-Driven Collaboration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-broadcasting-made-simple-a-practical-guide/"><u>[New] Live Broadcasting Made Simple A Practical Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-comic-editor-app/"><u>[New] Ultimate Comic Editor App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-market-mastery-blueprint-strategic-openings/"><u>[Updated] Market Mastery Blueprint Strategic Openings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-audiovideo-1-players-guide-for-24/"><u>2024 Approved Next Gen Audio/Video #1 Players Guide for '24</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oneplus-ace-2v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus Ace 2V Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberate-your-laptop-slimline-windows-11/"><u>Liberate Your Laptop: Slimline Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/no-cost-upgrade-excellent-online-beat-detection-for-music-producers-for-2024/"><u>No Cost Upgrade Excellent Online Beat Detection for Music Producers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tutorial-complet-pour-debutants-apprenez-a-utiliser-le-logiciel-danimation-pour-faire-des-cartoons-facilement/"><u>Tutorial Complet Pour Débutants: Apprenez À Utiliser Le Logiciel D'Animation Pour Faire Des Cartoons Facilement!</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step for XML & TTML Conversion to Streamlined SRTs for 2024\""
-date: 2024-10-01T19:27:01.012Z
-updated: 2024-10-02T23:29:23.253Z
+date: 2024-10-06T17:28:21.309Z
+updated: 2024-10-08T00:07:47.576Z
 tags: 
   - screen-recording
   - ai video
@@ -47,18 +47,18 @@ But before diving into how to convert different subtitle formats to SRT, let’s
 
 ## What does SRT, SSA, XML, etc., look like?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. SRT
 
 First, there’s a section for subtitle number, which is followed by the time at which the subtitle appears and ends. Then comes the subtitle that will appear.
 
 ![subRip subtitle file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-19.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. SSA
 
@@ -115,13 +115,6 @@ Step1 Visit [VEED.IO Subtitle Editor](https://www.veed.io/subtitle-tools/edit) a
 
 ![select the srt](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Now select the “.srt” as the output format from the top left corner of the screen
 
 ![upload your subtitle file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-7.jpg)
@@ -167,13 +160,6 @@ Step3 Once the file has been uploaded, hit the “Convert” option to convert t
 ![ssa subtitle file appearance](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-2.jpg)
 
 After TTML, it’s time to convert STL subtitles to SRT format.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Convert STL to SRT
 
@@ -273,13 +259,6 @@ Step2 Now launch the software and click on the "New Project."
 
 ![download converted subtitles](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 After that, click on the "Import Media" or drag and drop the video as well as the SRT subtitle file here.
 
 ![convert stl to srt](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-12.jpg)
@@ -293,6 +272,13 @@ nce done, first drag the video file to the video tract below and then the SRT su
 Step5 Lastly, hit the "Export" button to save the video having subtitles.
 
 ![go to the titles](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-27.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now on adding manual subtitles to your video.
 
@@ -334,6 +320,13 @@ If you still have questions in your mind, leave them in the comment section belo
 
 ## What does SRT, SSA, XML, etc., look like?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. SRT
 
 First, there’s a section for subtitle number, which is followed by the time at which the subtitle appears and ends. Then comes the subtitle that will appear.
@@ -359,10 +352,10 @@ This is an XML-based format that has a somewhat complicated look with <> appeari
 ![convert ttml to srt](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. STL
@@ -378,13 +371,6 @@ It’s a container for audio, video, or subtitles that looks like this.
 ![sign up for the sonix](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-14.jpg)
 
 After seeing how these formats look, we’ve arranged other features of these subtitle formats into a comparison table. So let’s have a look at it.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Comparison Table for Different Subtitle Formats
 
@@ -475,13 +461,6 @@ Step4 Now you have to wait patiently until the process completes and then you ca
 
 ![click on the new project](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The last subtitle format we’ll be converting into SRT is the VOB format. Let’s see how to do it.
 
 ## How to Convert VOB to SRT
@@ -504,6 +483,13 @@ Step3 After selecting the language of the VOB file, hit “Start Transcribing No
 
 ![click on the import media](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Once done, the audio in the VOB file will be automatically converted to SRT format within a few minutes.
 
 ![wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-20.jpg)
@@ -511,13 +497,6 @@ Step4 Once done, the audio in the VOB file will be automatically converted to SR
 Step5 After that, hit the “Export” button and a dropdown will appear.
 
 ![vob subtitle file appearance](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6 Now select the “SubRip Subtitle file(.srt)” from there and click “Export.”
 
@@ -535,11 +514,25 @@ Many users ask questions like “How do I open the SRT file with a video player 
 
 If that is your case then here's a bonus tip for you.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus Tips: The Best Way to Edit the Styling of SRT Subtitles for Videos
 
 Adding the SRT subtitle file to the video is not a problem if you are using the right tool.
 
 But what may be the best software for it? Of course, it's [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Wondershare Filmora
 
@@ -605,6 +598,13 @@ ect the type you want by clicking on the "+" sign or by drag-n-drop on the botto
 
 ![type the text](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-29.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step7 Now, type the text you want to add as a subtitle, and change other settings like color or text style as you want. You can also go to the advanced settings for more control over your subtitle.
 
 ![hit the export button](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-25.jpg)
@@ -641,18 +641,19 @@ If you still have questions in your mind, leave them in the comment section belo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-pixel-perfect-free-mobile-photography-booster/"><u>[New] In 2024, Pixel Perfect Free Mobile Photography Booster</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-premier-7-apps-transforming-mobile-video-streaming-on-youtube/"><u>[New] The Premier 7 Apps Transforming Mobile Video Streaming on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-access-to-royalty-free-design-tools/"><u>[Updated] Mastering Access to Royalty-Free Design Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-high-definition-selecting-prime-lenses-for-professional-video/"><u>[Updated] Mastering High Definition Selecting Prime Lenses for Professional Video</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-windows-10-must-have-techniques/"><u>[Updated] Navigating Windows 10 Must-Have Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-green-screen-magic-video-production-tips/"><u>2024 Approved Unlocking Green Screen Magic Video Production Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/eight-in-one-recorders-free-fast-and-flexible-for-android-users/"><u>Eight-in-One Recorders Free, Fast, and Flexible for Android Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722089811112-from-good-to-exceptional-unveiling-the-9-reasons-why-you-need-chatgpt-plus-today/"><u>From Good to Exceptional: Unveiling the 9 Reasons Why You Need ChatGPT Plus Today</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-film-clips-for-aspiring-video-editors/"><u>In 2024, Best Film Clips for Aspiring Video Editors</u></a></li>
-<li><a href="https://tools.techidaily.com/massmailsoftware/products/"><u>Massmailsoftware's Products</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/olympic-sprint-spotlight-year-2022-for-2024/"><u>Olympic Sprint Spotlight Year 2022 for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/slow-it-down-on-iphone-filming-and-modifying-motion-content/"><u>Slow It Down on iPhone Filming & Modifying Motion Content</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-on-leveraging-google-gemini-effectively/"><u>The Ultimate Tutorial on Leveraging Google Gemini Effectively</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-magical-jargon-uncover-the-best-marketing-phrases/"><u>[New] Magical Jargon Uncover the Best Marketing Phrases</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mobile-and-desktop-no-cost-magnifier-toolkit/"><u>[New] Mobile & Desktop No-Cost Magnifier Toolkit</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-navigating-google-meets-virtual-whiteboards-across-appleandroid-and-laptops/"><u>[New] Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-resource-for-artists-identifying-the-top-10-free-online-creative-communities/"><u>[New] The Ultimate Resource for Artists Identifying the Top 10 Free Online Creative Communities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-digital-space-with-impactful-fb-giveaway-posts/"><u>2024 Approved Navigating the Digital Space with Impactful FB Giveaway Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpening-attention-utilizing-leading-lines-on-iphone/"><u>2024 Approved Sharpening Attention Utilizing Leading Lines on iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-content-that-encourages-constructive-youtube-commentary-for-2024/"><u>Crafting Content that Encourages Constructive YouTube Commentary for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-5-email-security-solutions-to-protect-your-privacy/"><u>Discover the Leading 5 Email Security Solutions to Protect Your Privacy</u></a></li>
+<li><a href="https://win11.techidaily.com/file-organization-breakthroughs-with-simultaneous-window-folders/"><u>File Organization Breakthroughs with Simultaneous Window Folders</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-techniques-for-youtube-mpeg-migration/"><u>In 2024, Leading Techniques for YouTube MPEG Migration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-modern-uses-of-drones-to-coming-innovations/"><u>In 2024, Modern Uses of Drones to Coming Innovations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-inspirational-recruiter-playlist/"><u>In 2024, The Ultimate Inspirational Recruiter Playlist</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-ten-ai-driven-melodic-architects-the-prelude-to-2024s-musical-maestros/"><u>Updated Top Ten AI-Driven Melodic Architects The Prelude to 2024S Musical Maestros</u></a></li>
 </ul></div>
 

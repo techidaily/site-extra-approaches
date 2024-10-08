@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
-date: 2024-09-27T16:55:49.607Z
-updated: 2024-10-02T23:47:32.380Z
+date: 2024-09-30T19:42:09.749Z
+updated: 2024-10-08T00:02:32.878Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
@@ -40,6 +40,13 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
@@ -73,10 +80,10 @@ Lifewire / Kelsey Simon
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
@@ -84,13 +91,6 @@ Lifewire / Kelsey Simon
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -107,10 +107,10 @@ Lifewire / Kelsey Simon
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Graphics: Outdated and simplistic**
@@ -131,13 +131,6 @@ Lifewire / Kelsey Simon
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Competition: Other story focused RPGs**
 
  There are quite a few other games available that are story-focused RPGs besides Tides of Numenera. Wasteland 2 (view on[Amazon](https://www.amazon.com/Wasteland-2-Directors-Cut-PlayStation-4/dp/B013CQHQFU/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7C) ) is a very similar game, as it is made by the same developers, but where Numenera falls flat with its heavy-handed storytelling, Wasteland 2 stands apart with a fun, tactical combat system.
@@ -149,6 +142,13 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,20 +173,24 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-interactive-image-merging-for-desktop-enthusiasts/"><u>[New] Interactive Image Merging for Desktop Enthusiasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-facebook-videos-on-browsers-today/"><u>[New] Seamless Facebook Videos on Browsers Today</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-step-by-step-approach-to-webinar-savings-mac-and-pc-systems/"><u>[New] Step-by-Step Approach to Webinar Savings Mac & PC Systems</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-instantly-professional-masterful-thumbnails-created-fast/"><u>[Updated] In 2024, Instantly Professional Masterful Thumbnails Created Fast!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-movie-magic-for-editing-select-excerpts-handpicked/"><u>[Updated] Movie Magic for Editing Select Excerpts Handpicked</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-tools-for-creatives-comprehensively-evaluating-ae-plugins/"><u>[Updated] Pro Tools for Creatives Comprehensively Evaluating AE Plugins</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-iphone-cinematography-nine-crucial-tips-to-perfect-videos/"><u>[Updated] Professional iPhone Cinematography Nine Crucial Tips to Perfect Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-vr-accessories-the-top-10-countdown/"><u>2024 Approved Leading VR Accessories The Top 10 Countdown</u></a></li>
-<li><a href="https://games-able.techidaily.com/counteracting-steams-files-need-reacquire/"><u>Counteracting Steam's Files Need Reacquire</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-gt-10-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix GT 10 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-c55-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme C55 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/keep-your-identity-under-wraps-while-livestreaming-for-2024/"><u>Keep Your Identity Under Wraps While Livestreaming for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-overcome-realtek-hd-motherboard-driver-complications-fixed/"><u>Step-by-Step Tutorial to Overcome Realtek HD Motherboard Driver Complications [Fixed]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-14-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 14 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>[New] Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-and-excellence-a-guide-to-professional-audacity-recordings/"><u>[New] Precision and Excellence A Guide to Professional Audacity Recordings</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/2-decouvrez-les-principes-fondamentaux-de-la-politique-de-confidentialite-de-movavi-pour-assurer-la-vie-privee-en-ligne/"><u>2. Découvrez Les Principes Fondamentaux De La Politique De Confidentialité De Movavi Pour Assurer La Vie Privée en Ligne</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-androids-podcast-superheroes/"><u>2024 Approved Android's Podcast Superheroes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-journey-to-digital-mastery-explore-best-10-android-drawing-apps/"><u>2024 Approved Journey to Digital Mastery Explore Best 10 Android Drawing Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-4k-videography-with-prime-optics/"><u>2024 Approved Mastering the Art of 4K Videography with Prime Optics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-podcast-production-perfection-from-draft-to-audio-bliss/"><u>2024 Approved Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-guide-to-finding-exceptional-pexels-visuals/"><u>2024 Approved Quick Guide to Finding Exceptional Pexels Visuals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stay-updated-the-latest-on-changing-win11-walls/"><u>2024 Approved Stay Updated The Latest on Changing Win11 Walls</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unleash-creativity-with-android-and-iphones-top-free-layering-apps/"><u>2024 Approved Unleash Creativity with Android & iPhone's Top FREE Layering Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-v30-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo V30 is off? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-11-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 11 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-v27-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo V27 to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lifecam-videoapp-quality-checkup/"><u>In 2024, LifeCam VideoApp Quality Checkup</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smile-sourcebook-event-specific-memetic-delights/"><u>In 2024, Smile Sourcebook Event-Specific Memetic Delights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-razer-blade-stealth-13s-game-changing-impact-on-ultrabook-tech/"><u>In-Depth Analysis of the Razer Blade Stealth 13'S Game-Changing Impact on Ultrabook Tech</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-rejoice-discover-these-9-quick-fixes-for-a-non-responsive-chatgpt-application/"><u>IPhone Users Rejoice! Discover These 9 Quick Fixes for a Non-Responsive ChatGPT Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-with-unexpected-sites-displayed-in-ios-screen-time/"><u>Resolving Issues with Unexpected Sites Displayed in iOS Screen Time</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
 </ul></div>
 

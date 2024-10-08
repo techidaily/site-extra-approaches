@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigate Video Trimming with Ease on Windows 11 Photos"
-date: 2024-07-27T23:38:15.735Z
-updated: 2024-07-28T23:38:15.735Z
+date: 2024-10-07T04:40:41.845Z
+updated: 2024-10-08T03:01:31.825Z
 tags: 
   - screen-recording
   - ai video
@@ -43,16 +43,10 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 **Step 2**: Tap on the video to access the menu bar. Once the menu bar appears at the top hit the **Edit and Create** \> **Trim**.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
@@ -67,11 +61,14 @@ Here comes the step by step guide to trim video in VLC –
 
 1. Once you update and install the latest version of the VLC media player on your Windows or another computer, launch it and go to the 'View' menu for activating the 'Advanced controls' option.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
@@ -80,23 +77,33 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -104,12 +111,31 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prime-screen-capture-tools-no-lag-just-clarity/"><u>[New] In 2024, Prime Screen Capture Tools - No Lag, Just Clarity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-filter-pack-for-oceanic-video-shooting/"><u>[New] Optimal Filter Pack for Oceanic Video Shooting</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-eye-catching-youtube-most-followed-channels/"><u>[Updated] Eye-Catching YouTube Most Followed Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-webp-conversion-to-jpeg-format/"><u>[Updated] Perfecting WebP Conversion to JPEG Format</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selective-list-of-pro-gopro-add-ons/"><u>[Updated] Selective List of Pro-Gopro Add-Ons</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skyrocket-space-utilization-top-20-cost-free-storage-providers-up-to-1tb/"><u>[Updated] Skyrocket Space Utilization - Top 20 Cost-Free Storage Providers (Up To 1TB)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-audacity-crossfading-process/"><u>2024 Approved Step-by-Step Audacity Crossfading Process</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-deleting-unwanted-folders-in-windows-1011-with-revo-uninstaller/"><u>Complete Guide: Deleting Unwanted Folders in Windows 10/11 with Revo Uninstaller</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/educators-excellence-the-best-10-recording-equipment-rankings/"><u>Educator's Excellence The Best 10 Recording Equipment Rankings</u></a></li>
+<li><a href="https://win11.techidaily.com/filter-irrelevant-notification-feedback-in-windows-11/"><u>Filter Irrelevant Notification Feedback in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-tecno-camon-30-pro-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-cut-to-the-chase-download-fb-videos-as-mp4/"><u>In 2024, Cut to the Chase - Download FB Videos as MP4</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-mobile-photos-the-best-no-cost-slo-mo-camera-apps-guide/"><u>In 2024, Perfect Your Mobile Photos The Best No-Cost Slo-Mo Camera Apps Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pixel-perfection-best-video-cameras-for-extended-recording-times/"><u>In 2024, Pixel Perfection Best Video Cameras for Extended Recording Times</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-secrets-of-youtube-stardom-3-paths-to-creating-huge-viral-reactions/"><u>In 2024, The Secrets of YouTube Stardom 3 Paths to Creating Huge Viral Reactions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-ultimate-guide-to-smooth-audio-crossfade/"><u>In 2024, The Ultimate Guide to Smooth Audio Crossfade</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/introduction-to-swift-video-streaming-on-snapchat-for-2024/"><u>Introduction to Swift Video Streaming on Snapchat for 2024</u></a></li>
+</ul></div>
 

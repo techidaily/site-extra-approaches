@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Process to Get a Clean Canvas in Figma\""
-date: 2024-08-08T19:03:21.548Z
-updated: 2024-08-09T19:03:21.548Z
+date: 2024-10-01T21:53:26.169Z
+updated: 2024-10-07T20:58:15.070Z
 tags: 
   - screen-recording
   - ai video
@@ -33,8 +33,12 @@ As aforementioned, **Figma** does not offer a **Background Remover** tool but co
 Since you want to remove the image's background, there is no better plugin than [Wondershare PixCut](https://pixcut.wondershare.com/), a free tool that helps you erase your picture's BG instantly. With this plugin, you can edit up to files per day, and that too in high-quality resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Why Use The PixCut Tool?
 
 Here's how the PixCut tool stands out from the rest of the image editing tools available in the digital market:
@@ -61,9 +65,6 @@ Here's how you can get the PixCut plugin in Figma and use it to remove the backg
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
@@ -81,6 +82,13 @@ The program will start running the plugin, and the background of your image will
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
@@ -109,32 +117,32 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -153,14 +161,15 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -201,4 +210,19 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-best-conversion-techniques-youtube-to-mpeg-encoding/"><u>[New] Best Conversion Techniques YouTube to MPEG Encoding</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-luts-unveiled-transforming-the-lands-market/"><u>[Updated] LUTs Unveiled Transforming the Lands Market</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-next-level-mp4-experience-integrating-advanced-srt-audio/"><u>[Updated] Next-Level MP4 Experience Integrating Advanced SRT Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-productivity-with-customized-keyboard-tricks/"><u>Enhance Productivity with Customized Keyboard Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correct-missing-or-inaccessible-winhttpdll-errors-efficiently/"><u>How to Correct Missing or Inaccessible Winhttp.dll Errors Efficiently</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-x-fold-2-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scalable-skills-for-versatile-gif-production-techniques/"><u>In 2024, Scalable Skills for Versatile GIF Production Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-and-user-experience-tips-for-google-maps-on-iphone/"><u>In-Depth Analysis and User Experience Tips for Google Maps on iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pinnacle-performance-comparison-hero5-black-and-hero4-silver-for-2024/"><u>Pinnacle Performance Comparison Hero5 Black and Hero4 Silver for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-tips-to-overcome-nba-2k20-system-freezes/"><u>Quick Tips to Overcome NBA 2K20 System Freezes</u></a></li>
+<li><a href="https://facebook.techidaily.com/techniques-for-swift-deletion-of-facebook-stories/"><u>Techniques for Swift Deletion of Facebook Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-4-fastest-lenovo-record-methods-for-2024/"><u>The 4 Fastest Lenovo Record Methods for 2024</u></a></li>
+</ul></div>
 

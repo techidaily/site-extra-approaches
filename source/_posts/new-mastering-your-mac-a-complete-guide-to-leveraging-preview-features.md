@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-09-26T22:57:51.076Z
-updated: 2024-10-02T21:23:54.550Z
+date: 2024-10-03T01:09:17.472Z
+updated: 2024-10-07T16:13:50.294Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -58,10 +58,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
@@ -77,19 +77,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -108,10 +95,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -141,6 +128,13 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -235,17 +229,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-splitcam-review/"><u>[New] 2024 Approved SplitCam Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-high-quality-edits-explore-these-9-cloud-apps-for-2024/"><u>[New] Free, High-Quality Edits Explore These 9 Cloud Apps for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-snapchat-soundscapes-full-playback-no-missed-beats/"><u>[Updated] In 2024, Snapchat Soundscapes Full Playback, No Missed Beats</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-workflow-tackling-backdrops-in-affinity-photo-to-perfection/"><u>[Updated] Precision Workflow Tackling Backdrops in Affinity Photo to Perfection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-profound-analysis-of-morphvox-technology-and-its-role-in-audio-modification/"><u>[Updated] Profound Analysis of MorphVOX Technology and Its Role in Audio Modification</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimizing-colors-in-films-via-luts/"><u>2024 Approved Optimizing Colors in Films via Luts</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-effective-teacher-videos-on-youtube-top-10-strategies/"><u>In 2024, Crafting Effective Teacher Videos on YouTube – Top 10 Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-screen-scribes-editing-edition-guide/"><u>In 2024, Screen Scribes Editing Edition Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/ranked-highest-audio-transformation-tools-including-magic-for-2024/"><u>Ranked Highest Audio Transformation Tools, Including Magic for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-resolution-struggles-with-starting-the-witcher-3-wild-hunt-successfully/"><u>Step by Step Resolution: Struggles with Starting The Witcher 3: Wild Hunt Successfully</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/asy-guide-to-youtube-to-avi-conversion-technology/"><u>The Easy Guide to YouTube-to-AVI Conversion Technology</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/write-on-windows-of-imagery-ios-and-android-leaders-for-2024/"><u>Write on Windows of Imagery – iOS & Android Leaders for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-spoken-word-unveiled-enhancing-expressiveness-on-slides-for-2024/"><u>[New] The Spoken Word Unveiled Enhancing Expressiveness on Slides for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-filmora-features-every-videographer-adores/"><u>[Updated] 2024 Approved Essential Filmora Features Every Videographer Adores</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-your-own-soundtrack-awaits-step-by-step-youtube-playlist-creation-guide-webmobile/"><u>[Updated] 2024 Approved Your Own Soundtrack Awaits Step-by-Step YouTube Playlist Creation Guide (Web/Mobile)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-convert-fb-videos-on-the-fly-mp4-style/"><u>[Updated] In 2024, Convert FB Videos on the Fly – MP4 Style</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-tackling-inaudible-speech-in-obs-captures/"><u>[Updated] Tackling Inaudible Speech in OBS Captures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-samsungs-virtual-world-enhanced-by-compatible-smartphones-2023-guide/"><u>2024 Approved Samsung's Virtual World Enhanced by Compatible Smartphones - 2023 Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-social-media-magic-viral-trends-in-youtube-hashing/"><u>2024 Approved Social Media Magic Viral Trends in YouTube Hashing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-comparison-between-sharex-and-rivals/"><u>2024 Approved The Ultimate Comparison Between ShareX & Rivals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/choose-your-output-folder-where-the-converted-files-will-be-saved-by-clicking-on-a-button-labeled-browse-or-similar/"><u>Choose Your Output Folder Where the Converted Files Will Be Saved by Clicking on a Button Labeled Browse or Similar.</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-nextgen-flawless-frame-processor-windowsmac/"><u>In 2024, NextGen Flawless Frame Processor (Windows/Mac)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-capture-deep-insight-time-lapse-techniques-for-samsung-users/"><u>In 2024, Quick Capture, Deep Insight Time-Lapse Techniques for Samsung Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smilescape-turn-daily-life-into-hilarious-stories/"><u>In 2024, SmileScape Turn Daily Life Into Hilarious Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/meme-tacular-iphone-hacks-for-2024/"><u>Meme-Tacular iPhone Hacks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-depths-of-c-spans-digital-library-for-2024/"><u>Navigating the Depths of C-Span's Digital Library for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-srt-into-subc-top-3-actionable-steps/"><u>Transforming SRT Into SUBC Top 3 Actionable Steps</u></a></li>
 </ul></div>
 

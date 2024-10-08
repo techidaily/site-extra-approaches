@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Freezing Out the Backdrop in Your Design for 2024"
-date: 2024-07-29T23:41:45.109Z
-updated: 2024-07-30T23:41:45.109Z
+date: 2024-10-06T18:37:15.764Z
+updated: 2024-10-07T18:34:39.684Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,14 @@ Here's how you can get the PixCut plugin in Figma and use it to remove the backg
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
 
@@ -71,20 +75,28 @@ To get the APPkey, visit **"Wondershare PixCut,"** log in to your account using 
 
 Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, click the **"Main Menu"** icon and navigate to **"Plugins" > "PixCut Background Remover" > "Run."**
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
 Follow these tips to remove the background of images with transparent or solid color:
@@ -92,9 +104,6 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -115,31 +124,25 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -159,6 +162,13 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### (3) Using Online Removers
 
@@ -200,4 +210,17 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-comprehensive-list-of-free-video-intros/"><u>[New] Comprehensive List of Free Video Intros</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-5-webcams-for-cutting-edge-twitch-live-streaming-quality/"><u>[Updated] In 2024, Top 5 Webcams for Cutting-Edge Twitch Live Streaming Quality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplifying-large-screen-viewing-for-youtubers/"><u>2024 Approved Simplifying Large-Screen Viewing for YouTubers</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-upsurge-is-it-nearing-climb-out/"><u>Facebook's Upsurge: Is It Nearing Climb-Out?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-12-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 12 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reactivate-and-enhance-photo-viewing-with-ease-win-11/"><u>In 2024, Reactivate and Enhance Photo Viewing with Ease (Win 11)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/metaverse-journeys-ten-sci-fi-films-that-expand-realities-for-2024/"><u>Metaverse Journeys Ten Sci-Fi Films that Expand Realities for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-vanishing-touchpad-pointers-in-windows-11/"><u>Resolving the Issue of Vanishing Touchpad Pointers in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secrets-of-successful-podcast-covers-revealed-for-2024/"><u>Secrets of Successful Podcast Covers Revealed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-fixing-monitor-not-connected-issue/"><u>Troubleshooting Steps for Fixing 'Monitor Not Connected' Issue</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mixed Reality  Blending Physical and Virtual Worlds\""
-date: 2024-09-29T21:13:53.393Z
-updated: 2024-10-02T20:02:55.467Z
+date: 2024-10-02T18:34:38.379Z
+updated: 2024-10-08T00:10:08.317Z
 tags: 
   - screen-recording
   - ai video
@@ -32,39 +32,39 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  In mixed reality, the user is given the ability to explore the virtual environment and the real world seamlessly at the same time. Through the use space and coordinates, the virtual objects will be positioned on the real world and whenever you move towards the virtual objects, they become larger while moving away from them makes them smaller. Moving around the virtual objects will also give you different angles and perspectives. Additionally, mixed reality will allow users to manipulate the virtual objects and interact with them as if they were with them in the same place.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does Mixed Reality work
 
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Applications of Mixed Reality
 
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mixed Reality for sharing real-world virtual workspaces
 
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
  Most enterprises usually find it difficult to address all the support requests from all the clients in need of expert advice. It is not only costly to fly in specialists to fix things in different locations, but also time consuming. Besides, it is never adequate to troubleshoot an issue over the phone and video conferencing in such situations also have its limitations. But all these can now be avoided through the application of mixed reality for offering over the shoulder coaching remotely. With mixed reality, access to experts can be done quickly and inexpensively. For example, doctors in the healthcare industry can offer guidance and decisions to students or other doctors without the need of being in the actual locations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The future of mixed reality
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -115,20 +115,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-photo-perfection-seamless-text-integration-on-pc-and-mac-systems/"><u>[New] Photo Perfection Seamless Text Integration on PC & Mac Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-simplifying-your-workflow-online-photo-cropping-made-simple/"><u>[New] Simplifying Your Workflow Online Photo Cropping Made Simple</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sprint-to-stunning-photos-in-win-11-edition/"><u>[New] Sprint to Stunning Photos in Win 11 Edition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sculpt-personalized-digital-laughs-now/"><u>[Updated] Sculpt Personalized Digital Laughs Now</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-outro-designs-ending-credits-for-every-budget/"><u>2024 Approved Outro Designs Ending Credits for Every Budget</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-images-the-art-of-applying-luts-in-pro/"><u>2024 Approved Transforming Images The Art of Applying LUTs in Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/8-powerful-strategies-boosting-daily-efficiency-with-gpt/"><u>8 Powerful Strategies: Boosting Daily Efficiency with GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-possibilities-how-nvidia-is-revolutionizing-ai-with-customizable-foundations/"><u>Discovering the Possibilities: How NVIDIA Is Revolutionizing AI with Customizable Foundations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-the-top-ai-gemini-enhanced-or-gptplusplus/"><u>Discovering the Top AI: Gemini Enhanced or GPT++?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-old-world-wonders-iphone-x-portraits/"><u>In 2024, Old World Wonders – iPhone X Portraits</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-corsair-h80i-v2-liquid-cpu-cooler-drivers-free-download/"><u>Latest Corsair H80i V2 Liquid CPU Cooler Drivers - Free Download</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/real-time-reality-rally-does-digital-dethrone-device-dominance-for-2024/"><u>Real-Time Reality Rally Does Digital Dethrone Device Dominance for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-collaboration-using-google-drive-for-microsoft-office-file-management/"><u>Seamless Collaboration: Using Google Drive for Microsoft Office File Management</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-gionee-f3-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Gionee F3 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-forum.techidaily.com/wake-on-lan-setup-tutorial-for-windows-11-users/"><u>Wake-on-LAN Setup Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-tapping-into-tiktoks-magic-secrets-to-surpassing-your-competitors/"><u>[New] In 2024, Tapping Into TikTok's Magic Secrets to Surpassing Your Competitors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-is-there-money-in-evaluating-merchandise-vids/"><u>[New] Is There Money in Evaluating Merchandise Vids?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-video-editor-landscape-choose-filmora-or-democracy-creator/"><u>[Updated] Navigating Video Editor Landscape Choose Filmora or Democracy Creator?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-energy-solutions-official-and-third-party-hero5-batteries/"><u>[Updated] Optimal Energy Solutions - Official & Third-Party Hero5 Batteries</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-viewing-and-audio-top-webcams-for-podcast-creators/"><u>[Updated] Optimal Viewing & Audio Top Webcams for Podcast Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-the-secrets-of-successful-instagram-posts-through-hashtags/"><u>[Updated] Unlocking the Secrets of Successful Instagram Posts Through Hashtags</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-multiplayer-sessions-with-xbox-zoom-support/"><u>In 2024, Seamless Multiplayer Sessions with Xbox Zoom Support</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-nokia-130-music-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Nokia 130 Music.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Panasonic HX-A1 Wearable Camera Explored\""
-date: 2024-09-25T23:57:55.506Z
-updated: 2024-10-02T19:56:35.821Z
+date: 2024-10-04T05:11:49.001Z
+updated: 2024-10-07T21:34:41.324Z
 tags: 
   - screen-recording
   - ai video
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -69,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 | Waterproof, dustproof, shockproof and freeze proof. No additional housing or case needed to take it underwater as a replacement glass cover for lens is also included. | Not compatible for 4K shooting                                                                         |
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Accessories in the box
 
@@ -108,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Features
@@ -143,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -158,10 +158,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -179,22 +179,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-legal-ways-to-download-c-span-videos/"><u>[New] Navigating Legal Ways to Download C-Span Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reinvigorating-windows-photo-viewer-in-w10-procedures-1-and-2/"><u>[Updated] Reinvigorating Windows Photo Viewer in W10 Procedures #1 & #2</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-world-of-subtitle-uploads-social-media-edition/"><u>2024 Approved Navigating the World of Subtitle Uploads Social Media Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-walking-dead-top-picks-for-horror-gamers/"><u>2024 Approved Walking Dead Top Picks for Horror Gamers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-whatsapp-friendly-broadcasting-facebook-videos/"><u>2024 Approved WhatsApp-Friendly Broadcasting Facebook Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-zoom-clarity-in-teams-for-2024/"><u>Expert Tips for Zoom Clarity in Teams for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-edge-40-neo-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Motorola Edge 40 Neo to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-maximize-your-footage-pro-level-tips-for-gopro-studio-users/"><u>In 2024, Maximize Your Footage Pro-Level Tips for GoPro Studio Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-live-feed-select-from-the-best-9-filters/"><u>In 2024, Optimize Live Feed Select From the Best 9 Filters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-punpixel-producer/"><u>In 2024, PunPixel Producer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revamping-videography-the-story-of-nikon-1j5s-4k-achievement/"><u>In 2024, Revamping Videography The Story of Nikon 1J5’s 4K Achievement</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-snapedit-fundamentals-for-budding-photographers/"><u>In 2024, Snapedit Fundamentals for Budding Photographers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-to-mastering-slug-line-crafting/"><u>In 2024, Step-by-Step Guide to Mastering Slug Line Crafting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/iphonedvditunes/"><u>IPhoneでダウンロード可能なジャニーズDVD視聴手順︰パソコン不要、iTunesフリー解析</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/los-mejores-programas-de-grabacion-de-pantalla-compatible-con-windows-1187-guia-completa/"><u>Los Mejores Programas De Grabación De Pantalla Compatible Con Windows 11/8/7 - Guía Completa</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-s18-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo S18</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seo-power-play-strategies-to-amplify-your-podcasts-impact-for-2024/"><u>SEO Power Play Strategies To Amplify Your Podcast's Impact for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-a-new-dawn-in-gaming-stardew-valleys-best-mods-7/"><u>[New] In 2024, A New Dawn in Gaming - Stardew Valley's Best Mods (#7)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-capture-the-spectacular-with-nikon-d500-in-4k/"><u>[New] In 2024, Capture the Spectacular with Nikon D500 in 4K</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-leveraging-tiktok-for-greater-facebook-reach-and-impact/"><u>[New] In 2024, Leveraging TikTok for Greater Facebook Reach and Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-navigating-through-the-best-cricket-livestreams/"><u>[New] Masterclass Navigating Through the Best Cricket Livestreams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-log-every-victory-on-samsungs-mobile-arena/"><u>[Updated] In 2024, Log Every Victory on Samsung's Mobile Arena</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-srt-to-sub-shift-expert-strategies-and-actions/"><u>[Updated] SRT to SUB Shift Expert Strategies & Actions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stills-extraction-procedure-windows-11-photos-guide/"><u>[Updated] Stills Extraction Procedure Windows 11 Photos Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-propel-your-brand-with-a-10-step-blueprint-for-top-smm-performance/"><u>2024 Approved Propel Your Brand with a 10-Step Blueprint for Top SMM Performance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-asus-rog-phone-7-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Asus ROG Phone 7 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-keep-your-iphone-video-steady-three-effective-stabilization-tips/"><u>In 2024, Keep Your iPhone Video Steady Three Effective Stabilization Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-s18-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo S18 Phone Network-Ready</u></a></li>
 </ul></div>
 

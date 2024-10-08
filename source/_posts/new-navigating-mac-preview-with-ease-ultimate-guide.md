@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Mac Preview with Ease  Ultimate Guide\""
-date: 2024-09-30T22:53:35.814Z
-updated: 2024-10-02T17:04:08.304Z
+date: 2024-10-03T02:52:35.864Z
+updated: 2024-10-07T23:50:32.855Z
 tags: 
   - screen-recording
   - ai video
@@ -36,13 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -57,6 +50,13 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -70,13 +70,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -94,6 +87,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -105,13 +105,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -128,6 +121,13 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -162,10 +162,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -229,22 +229,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-culinary-craftsmanship-innovative-naming-for-food-shows/"><u>[New] In 2024, Culinary Craftsmanship Innovative Naming for Food Shows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-maximize-your-valorant-potential-try-this-costless-game-changer-today/"><u>[New] Maximize Your Valorant Potential - Try This Costless Game Changer Today</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-must-see-upgrades-in-vr-armor/"><u>[New] Must-See Upgrades in VR Armor</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-notable-20-free-non-exclusive-pubg-screenshots/"><u>[New] Notable 20 Free, Non-Exclusive PUBG Screenshots</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sculpting-soundtracks-for-animation-using-movie-maker-tools/"><u>[New] Sculpting Soundtracks for Animation Using Movie Maker Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-starting-a-podcast-financial-planning-essentials/"><u>[New] Starting a Podcast Financial Planning Essentials</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-step-by-step-to-superior-image-clarity-by-removing-backgrounds-using-affinity-for-2024/"><u>[New] Step-by-Step to Superior Image Clarity by Removing Backgrounds Using Affinity for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ideal-obs-parameters-for-economical-pcs/"><u>[Updated] In 2024, Ideal OBS Parameters for Economical PCs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-viral-spotlight-top-10-tiktoks-of-the-week/"><u>[Updated] In 2024, Twitter's Viral Spotlight Top 10 TikToks of the Week</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-gaming-horizon-upcoming-bests-in-playstation-vr/"><u>[Updated] Next-Gen Gaming Horizon Upcoming Bests in PlayStation VR</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-securing-social-streaming-download-strategies-unveiled/"><u>[Updated] Securing Social Streaming Download Strategies Unveiled</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dji-phantom-4-pro-version-20-critique-striving-for-aerial-excellence/"><u>DJI Phantom 4 Pro Version 2.0 Critique: Striving for Aerial Excellence</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ny-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android-for-2024/"><u>Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-audio-alteration-in-sony-games/"><u>In 2024, Master the Art of Audio Alteration in Sony Games</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-portable-gyro-assisted-visual-soother/"><u>In 2024, Portable Gyro-Assisted Visual Soother</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-finding-and-installing-the-newest-dell-latitude-e6430-drivers-on-windows/"><u>Step-by-Step Guide: Finding and Installing the Newest Dell Latitude E6430 Drivers on Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-asmr-mastery-in-action-strategies-for-dynamic-and-effective-videos/"><u>[New] 2024 Approved ASMR Mastery in Action Strategies for Dynamic and Effective Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-key-steps-to-accurate-and-effective-market-research-analysis/"><u>[New] Key Steps to Accurate and Effective Market Research Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-metaverse-inspiration-enhanced-by-ar-and-vr/"><u>[New] Metaverse Inspiration Enhanced by AR & VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laughter-lab-virtually/"><u>[Updated] Laughter Lab Virtually</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-secrets-of-swift-youtube-subtitle-insertion/"><u>[Updated] Unveiling the Secrets of Swift YouTube Subtitle Insertion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-6-networks-supporting-business-development/"><u>2024 Approved Pioneering 6 Networks Supporting Business Development</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battlefield-5-starts-up-woes-master-the-fastest-fix-techniques-today/"><u>Battlefield 5 Starts-Up Woes? Master the Fastest Fix Techniques Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/civilization-vi-troubleshooting-issues-with-launch-on-windows-11-explained/"><u>Civilization VI Troubleshooting: Issues with Launch on Windows 11 Explained</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cutting-edge-concepts-for-captivating-youtube-video-thumbnails-for-2024/"><u>Cutting-Edge Concepts for Captivating YouTube Video Thumbnails for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-dac-do-you-really-need-it/"><u>Demystifying DAC - Do You Really Need It?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-bouncie-connect-an-easy-and-economical-choice-for-gps-trackers/"><u>Exploring Bouncie Connect - An Easy & Economical Choice for GPS Trackers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/glowing-mastery-step-by-step-to-brighten-android-videos-for-2024/"><u>Glowing Mastery Step-by-Step to Brighten Android Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-selective-picture-smoothing-made-simple/"><u>In 2024, Selective Picture Smoothing Made Simple</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-six-sensational-videos-that-keep-on-watchers/"><u>In 2024, Six Sensational Videos That Keep On Watchers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rhythmic-reflections-in-photo-cinema-for-2024/"><u>Rhythmic Reflections in Photo Cinema for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/standout-6-platforms-empowering-biz-marketing-for-2024/"><u>Standout 6 Platforms Empowering Biz Marketing for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-frequent-issues-with-your-apple-watch-easy-troubleshooting-tips/"><u>Top 10 Frequent Issues with Your Apple Watch: Easy Troubleshooting Tips</u></a></li>
 </ul></div>
 
