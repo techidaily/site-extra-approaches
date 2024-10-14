@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Slippery Surfaces  Olympic Winners of '22\""
-date: 2024-10-06T04:22:08.363Z
-updated: 2024-10-08T02:15:50.342Z
+date: 2024-10-11T00:12:52.953Z
+updated: 2024-10-14T01:10:40.272Z
 tags: 
   - screen-recording
   - ai video
@@ -25,10 +25,10 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
@@ -42,6 +42,13 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
@@ -59,6 +66,13 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
@@ -68,10 +82,10 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -89,10 +103,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -113,13 +127,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -129,13 +136,6 @@ Step 4: Add all the still footages and clips on the Video Timeline while add aud
 Step 5: Select individual slides and apply Transition, Effects or add Titles and Elements from the top bar.
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -150,22 +150,24 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-enhancing-efficiency-the-key-to-srt-export-in-premiere-for-2024/"><u>[New] Enhancing Efficiency The Key to SRT Export in Premiere for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-crafting-engaging-vids-with-template-magic/"><u>[New] In 2024, Crafting Engaging Vids with Template Magic</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-voice-alteration-techniques-for-enhanced-competitive-play-in-the-world-of-free-fire-gaming/"><u>[New] Mastering Voice Alteration Techniques for Enhanced Competitive Play in the World of Free Fire Gaming</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-haul-videography-tips-and-tricks/"><u>[New] Navigating the World of Haul Videography Tips and Tricks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-picture-perfect-zero-cost-photo-enhancement-app/"><u>[New] Picture Perfect Zero Cost Photo Enhancement App</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-activating-or-deactivating-youtube-comments/"><u>[Updated] Expert Tips Activating or Deactivating YouTube Comments</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-apeaksofts-screen-recorder-mastery-2023-exposed/"><u>[Updated] In 2024, Apeaksoft's Screen Recorder Mastery - 2023 Exposed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-into-the-abyss-and-beyond-shadowbearer-vs-daybeam/"><u>[Updated] Into the Abyss and Beyond Shadowbearer Vs Daybeam</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-photographic-archives/"><u>[Updated] Premium Photographic Archives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-snappy-photo-assembly-your-quick-google-collages-blueprint/"><u>[Updated] Snappy Photo Assembly Your Quick Google Collages Blueprint</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-modulating-murmurs-for-free-fire-success/"><u>2024 Approved Modulating Murmurs for Free Fire Success</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/bypassing-identification-to-explore-instagram-stories-desktop-android-ios-for-2024/"><u>Bypassing Identification to Explore Instagram Stories [Desktop, Android, iOS] for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-techniques-for-longevity-in-gopro-batteries/"><u>In 2024, Master Techniques for Longevity in GoPro Batteries</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precise-participation-the-key-to-zooming-in-on-google-meet-talks/"><u>In 2024, Precise Participation The Key to Zooming in on Google Meet Talks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/revolutionary-3d-ink-requires-just-saltwater-no-light-or-heat-needed/"><u>Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/time-management-using-timestamps-to-amplify-views-on-youtube-for-2024/"><u>Time Management Using Timestamps to Amplify Views on YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-breaking-down-freevid-cam-capture-tech/"><u>[New] 2024 Approved Breaking Down FreeVid Cam Capture Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-music-making-magic-selecting-background-beats-for-vids/"><u>[New] Music Making Magic Selecting Background Beats for Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ranking-the-leading-10-pixels-for-free-access/"><u>[New] Ranking the Leading 10 Pixels for Free Access</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-explore-and-enjoy-locating-recently-liked-videos-on-facebook/"><u>[Updated] In 2024, Explore & Enjoy Locating Recently Liked Videos on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-your-first-ps-project-10-easy-tips/"><u>[Updated] Master Your First PS Project 10 Easy Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-video-magnification-system/"><u>2024 Approved Interactive Video Magnification System</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-soft-volume-tricks-lives-hidden-gems/"><u>2024 Approved Soft Volume Tricks Live’s Hidden Gems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-30-cameras-frontal-screen-for-convenience/"><u>2024 Approved Top 30 Cameras Frontal Screen for Convenience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevate-your-nba-experience-with-these-15-tips-for-2024/"><u>Elevate Your NBA Experience with These 15 Tips for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-6s-plus-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 6s Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-photo-text-edits-online-and-app-guide/"><u>In 2024, Mastering Photo Text Edits Online & App Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-newest-list-of-engaging-podcast-dialogues/"><u>In 2024, Newest List of Engaging Podcast Dialogues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-frenzy-stories-of-popularity/"><u>In 2024, Photo Frenzy Stories of Popularity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-up-in-the-metaverse-game-with-these-critical-devices-top-7/"><u>In 2024, Step Up in the Metaverse Game with These Critical Devices (Top 7)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-sharpened-internet-video-views-for-2024/"><u>Mastering the Art of Sharpened Internet Video Views for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-se-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone SE Before the Plan Expires</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-jump-cuts-in-final-cut-pro-x/"><u>Updated 2024 Approved The Ultimate Guide to Jump Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728492725437-windows-11/"><u>Windows 11におけるシャドウバックアップ機能を用いたファイル回復手順</u></a></li>
 </ul></div>
 

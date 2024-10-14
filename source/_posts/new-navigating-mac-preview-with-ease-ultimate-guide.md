@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Mac Preview with Ease  Ultimate Guide\""
-date: 2024-10-03T02:52:35.864Z
-updated: 2024-10-07T23:50:32.855Z
+date: 2024-10-07T18:55:37.668Z
+updated: 2024-10-13T21:25:14.630Z
 tags: 
   - screen-recording
   - ai video
@@ -50,13 +50,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -88,10 +81,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -105,6 +98,13 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -123,10 +123,16 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -162,10 +168,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -229,22 +235,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-asmr-mastery-in-action-strategies-for-dynamic-and-effective-videos/"><u>[New] 2024 Approved ASMR Mastery in Action Strategies for Dynamic and Effective Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-key-steps-to-accurate-and-effective-market-research-analysis/"><u>[New] Key Steps to Accurate and Effective Market Research Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-metaverse-inspiration-enhanced-by-ar-and-vr/"><u>[New] Metaverse Inspiration Enhanced by AR & VR</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-laughter-lab-virtually/"><u>[Updated] Laughter Lab Virtually</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-secrets-of-swift-youtube-subtitle-insertion/"><u>[Updated] Unveiling the Secrets of Swift YouTube Subtitle Insertion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-6-networks-supporting-business-development/"><u>2024 Approved Pioneering 6 Networks Supporting Business Development</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/battlefield-5-starts-up-woes-master-the-fastest-fix-techniques-today/"><u>Battlefield 5 Starts-Up Woes? Master the Fastest Fix Techniques Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/civilization-vi-troubleshooting-issues-with-launch-on-windows-11-explained/"><u>Civilization VI Troubleshooting: Issues with Launch on Windows 11 Explained</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/cutting-edge-concepts-for-captivating-youtube-video-thumbnails-for-2024/"><u>Cutting-Edge Concepts for Captivating YouTube Video Thumbnails for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-dac-do-you-really-need-it/"><u>Demystifying DAC - Do You Really Need It?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-bouncie-connect-an-easy-and-economical-choice-for-gps-trackers/"><u>Exploring Bouncie Connect - An Easy & Economical Choice for GPS Trackers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/glowing-mastery-step-by-step-to-brighten-android-videos-for-2024/"><u>Glowing Mastery Step-by-Step to Brighten Android Videos for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selective-picture-smoothing-made-simple/"><u>In 2024, Selective Picture Smoothing Made Simple</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-six-sensational-videos-that-keep-on-watchers/"><u>In 2024, Six Sensational Videos That Keep On Watchers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/rhythmic-reflections-in-photo-cinema-for-2024/"><u>Rhythmic Reflections in Photo Cinema for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/standout-6-platforms-empowering-biz-marketing-for-2024/"><u>Standout 6 Platforms Empowering Biz Marketing for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-10-frequent-issues-with-your-apple-watch-easy-troubleshooting-tips/"><u>Top 10 Frequent Issues with Your Apple Watch: Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-is-there-a-superior-cameras-marketplace-in-2024/"><u>[New] Is There a Superior Cameras Marketplace, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rapid-methods-to-customize-your-soundscaping-in-pubg/"><u>[New] Rapid Methods to Customize Your Soundscaping in PUBG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-video-editor-selection-guide-understanding-filmora-and-democracy-creator-for-2024/"><u>[New] Video Editor Selection Guide Understanding Filmora and Democracy Creator for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-save-the-day-guide-to-downloading-and-converting-vimeo-videos-mp4-for-2024/"><u>[Updated] Save the Day Guide to Downloading and Converting Vimeo Videos (MP4) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-streamlining-communication-scheduling-monthly-meets/"><u>[Updated] Streamlining Communication Scheduling Monthly Meets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mac-and-pcs-top-10-supercharged-srt-systems-unveiled/"><u>2024 Approved Mac & PC's Top 10 Supercharged SRT Systems Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-poetry-top-10-writing-tools-for-image-capture-on-iosandroid/"><u>2024 Approved Photo Poetry Top 10 Writing Tools for Image Capture on iOS/Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-power-play-essential-10-motivational-films/"><u>2024 Approved Power Play Essential 10 Motivational Films</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stepwise-approach-to-impressive-collage-creation/"><u>2024 Approved Stepwise Approach to Impressive Collage Creation</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proficient-strategies-for-hyperlink-integration-into-tiktok-profiles/"><u>In 2024, Proficient Strategies for Hyperlink Integration Into TikTok Profiles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/magical-alternatives-to-top-voice-changing-software-for-2024/"><u>Magical Alternatives to Top Voice-Changing Software for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-shopping-destinations-customizable-presents-with-flair-for-2024/"><u>Prime Shopping Destinations Customizable Presents with Flair for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/region-a-ninguna-restriccion-convierte-tu-dvd-para-usar-en-windows-sin-limitaciones/"><u>Región a Ninguna Restricción: Convierte Tu DVD Para Usar en Windows Sin Limitaciones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sierra-sovereign-dvd-and-media-cutting-tools-for-2024/"><u>Sierra Sovereign Dvd & Media Cutting Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-common-connectivity-errors-for-logitech-g-hub-in-windows-systems/"><u>Solving Common Connectivity Errors for Logitech G Hub in Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-fitness-journal-apps-our-picks-and-reviews/"><u>The Best Fitness Journal Apps : Our Picks and Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-places-to-buy-phones/"><u>The Best Places to Buy Phones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-to-usb-mouse-drivers-renewal/"><u>The Ultimate Guide to USB-Mouse Drivers Renewal</u></a></li>
 </ul></div>
 

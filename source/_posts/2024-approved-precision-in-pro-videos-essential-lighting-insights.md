@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Precision in Pro Videos  Essential Lighting Insights\""
-date: 2024-07-27T23:33:18.222Z
-updated: 2024-07-28T23:33:18.222Z
+date: 2024-10-11T21:46:43.866Z
+updated: 2024-10-13T22:42:44.003Z
 tags: 
   - screen-recording
   - ai video
@@ -46,9 +46,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -61,9 +58,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -76,9 +70,6 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
@@ -89,9 +80,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
@@ -102,15 +90,21 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -143,7 +137,22 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-lecture-audio-recording-techniques-for-mac-users/"><u>[New] 2024 Approved Lecture Audio Recording Techniques for Mac Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-tags-the-ultimate-guide-for-video-optimization/"><u>[New] 2024 Approved Mastering Tags The Ultimate Guide for Video Optimization</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-full-screen-pro-tips-and-tricks-for-editors/"><u>[New] Full Screen Pro Tips and Tricks for Editors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-bringing-history-forward-digitizing-old-photographs-into-video/"><u>[New] In 2024, Bringing History Forward Digitizing Old Photographs Into Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfectly-sync-apple-music-to-your-videos/"><u>[New] Perfectly Sync Apple Music to Your Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-look-whatsapps-voice-message-technology/"><u>[Updated] Inside Look WhatsApp's Voice Message Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-length-and-style-in-your-instagram-videos/"><u>[Updated] Leveraging Length and Style in Your Instagram Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-storytelling-on-screen-crafting-compelling-narratives-for-instareels/"><u>2024 Approved Storytelling on Screen Crafting Compelling Narratives for InstaReels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unleash-photos-on-instagram-with-ease-follow-this-guide/"><u>2024 Approved Unleash Photos on Instagram with Ease – Follow This Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-features-in-the-latest-magix-video-pro-x/"><u>Cutting-Edge Features in the Latest Magix Video Pro X</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mediamagic-8-edition-for-2024/"><u>MediaMagic 8 Edition for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/noir-effects-in-adobe-premiere-for-2024/"><u>Noir Effects in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/optimiza-tus-videos-para-la-excelencia-de-calidad-con-winxvideo-ai/"><u>Optimiza Tus Videos Para La Excelencia De Calidad Con Winxvideo AI</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/resizing-imagery-on-iphone-without-hassle-for-2024/"><u>Resizing Imagery on iPhone Without Hassle for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-hand-drawing-whiteboard-animation-makers-for-2024/"><u>Updated The Ultimate Guide to Hand Drawing Whiteboard Animation Makers for 2024</u></a></li>
+</ul></div>
 

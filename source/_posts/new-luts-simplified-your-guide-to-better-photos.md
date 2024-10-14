@@ -1,7 +1,7 @@
 ---
 title: "\"[New] LUTs Simplified  Your Guide to Better Photos\""
-date: 2024-10-04T16:09:38.304Z
-updated: 2024-10-07T22:33:14.941Z
+date: 2024-10-07T23:13:51.861Z
+updated: 2024-10-14T00:07:48.159Z
 tags: 
   - screen-recording
   - ai video
@@ -58,13 +58,6 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -81,6 +74,13 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -89,10 +89,10 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Here's the second one
@@ -112,10 +112,10 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -129,10 +129,10 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -165,22 +165,19 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quick-guide-capturing-time-lapse-on-your-ipad/"><u>[New] 2024 Approved Quick Guide Capturing Time Lapse on Your iPad</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-is-splitcam-the-pinnacle-of-recording-capabilities/"><u>[New] Is SplitCam The Pinnacle of Recording Capabilities?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-overcome-blurred-images-the-best-online-enhancers-listed/"><u>[New] Overcome Blurred Images The Best Online Enhancers Listed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quintessential-plots-making-movies-great/"><u>[New] Quintessential Plots Making Movies Great</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamlining-image-purity-via-photopea-methods/"><u>[New] Streamlining Image Purity via Photopea Methods</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ultra-30-garmin-camera-a-comprehensive-evaluation-for-2024/"><u>[New] Ultra 30 Garmin Camera - A Comprehensive Evaluation for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-expert-advice-capturing-and-storing-twitter-vids-on-phones/"><u>[Updated] 2024 Approved Expert Advice Capturing and Storing Twitter Vids on Phones</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-brief-scene-structure-summary/"><u>[Updated] Brief Scene Structure Summary</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-kinemaster-edge-the-ultimate-transition-strategies/"><u>2024 Approved Kinemaster Edge The Ultimate Transition Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-filmmaking-moves-with-kinemaster/"><u>2024 Approved Masterful Filmmaking Moves with Kinemaster</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-melodic-moments-the-art-of-music-in-insta-videos/"><u>2024 Approved Melodic Moments The Art of Music in Insta-Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-void-mic-trouble-heres-how-you-can-repair-it-easily/"><u>Corsair Void Mic Trouble? Here's How You Can Repair It Easily!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-touchscreen-functionality-when-its-not-responding/"><u>How to Restore Touchscreen Functionality When It's Not Responding</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-share-a-podcast-on-instagram-story-or-post/"><u>In 2024, Share a Podcast on Instagram Story or Post</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterclass-in-image-moods-zenithcams-spectacle-for-2024/"><u>Masterclass in Image Moods ZenithCams Spectacle for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-gopro-fixing-fish-eye-effects-in-video-for-2024/"><u>Mastering GoPro Fixing Fish Eye Effects in Video for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-self-portraits-that-talk-100-words-to-define-you-on-insta/"><u>[New] Self-Portraits That Talk 100 Words to Define You on Insta</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sunset-symphony-cinematic-darkening-in-pro/"><u>[New] Sunset Symphony Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-obs-streamers-toolkit-for-captivating-sessions/"><u>[Updated] 2024 Approved OBS Streamer’s Toolkit for Captivating Sessions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-magical-image-maker-turning-pictures-into-cartoons-on-devices/"><u>[Updated] Magical Image Maker Turning Pictures Into Cartoons on Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-ai-transcribers-for-speech/"><u>[Updated] Pinnacle AI Transcribers for Speech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-video-editing-apps-for-the-gopro-community/"><u>2024 Approved Premier Video Editing Apps for the GoPro Community</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-s23-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Itel S23 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-organizing-your-iphones-picture-collection-from-sorting-to-icloud-backing-up/"><u>In 2024, Organizing Your iPhone's Picture Collection From Sorting to iCloud Backing Up</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quickly-master-time-lapse-techniques-for-samsung-phones/"><u>In 2024, Quickly Master Time Lapse Techniques for Samsung Phones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/laughter-labyrinas-ideas-that-resonate-with-crowds-for-2024/"><u>Laughter Labyrinas Ideas That Resonate with Crowds for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-resolve-windows-11-version-0x80240034-issue-efficiently/"><u>Step-by-Step Guide to Resolve Windows 11 Version 0X80240034 Issue Efficiently</u></a></li>
+<li><a href="https://article-helps.techidaily.com/vivavideo-review-insights-and-impressions/"><u>VivaVideo Review Insights and Impressions</u></a></li>
 </ul></div>
 

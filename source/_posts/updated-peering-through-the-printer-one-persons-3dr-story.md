@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Peering Through the Printer  One Person’s '3DR' Story\""
-date: 2024-10-01T03:44:54.681Z
-updated: 2024-10-08T03:55:07.078Z
+date: 2024-10-10T00:14:14.947Z
+updated: 2024-10-13T19:54:07.217Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -75,10 +75,16 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -98,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -119,10 +125,16 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -140,19 +152,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-from-setup-to-screening-wirecasts-role-in-facebook-streaming-for-2024/"><u>[New] From Setup to Screening Wirecast’s Role in Facebook Streaming for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-reimagining-ppts-with-todays-webcam-capabilities-for-2024/"><u>[New] Reimagining PPTs with Today's Webcam Capabilities for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-softening-mix-tracks-incrementally-in-fl/"><u>[New] Softening Mix Tracks Incrementally in FL</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photoshop-for-beginners-essential-snapseed-techniques/"><u>[Updated] Photoshop for Beginners Essential Snapseed Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-listenleap-escaping-dacasts-grip/"><u>2024 Approved ListenLeap Escaping DaCast's Grip</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-your-clips-with-the-latest-vida-tools/"><u>2024 Approved Revolutionize Your Clips with the Latest Vida Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/budget-mobile-ransomware-breakthrough-the-encryption-expedition/"><u>Budget Mobile, Ransomware Breakthrough - The Encryption Expedition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/delving-into-the-heart-of-apples-m1-processor/"><u>Delving Into the Heart of Apple's M1 Processor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-the-workings-of-gptzero-in-ai-authenticity/"><u>Demystifying the Workings of GPTZero in AI Authenticity</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-latest-hid-standard-mice-driver-update/"><u>Install the Latest, HID-Standard Mice Driver Update</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-suppress-ambient-sounds-and-insert-unique-soundscapes-with-the-help-of-microsofts-movie-creator/"><u>New Suppress Ambient Sounds and Insert Unique Soundscapes with the Help of Microsofts Movie Creator</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-top-5-virtual-reality-drones-for-2024/"><u>Prime Top 5 Virtual Reality Drones for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files-for-2024/"><u>Updated Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximize-your-visuals-10-free-image-editing-tools-for-smartphones/"><u>[New] Maximize Your Visuals 10 Free Image Editing Tools for Smartphones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-noshadowedit-advanced-background-shadow-elimination/"><u>[New] NoShadowEdit Advanced Background Shadow Elimination</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-recovery-methods-for-erased-reddit-topics/"><u>[New] Quick Recovery Methods for Erased Reddit Topics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shield-identities-blurring-techniques-for-photos/"><u>[New] Shield Identities Blurring Techniques for Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-magix-beatstrip-harmonizing-your-beats-easily/"><u>[Updated] Magix Beatstrip Harmonizing Your Beats Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-npc-details-with-zoom-in-on-roblox/"><u>[Updated] Perfecting NPC Details with Zoom In on Roblox</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prestigious-music-archives-for-vfx-artists/"><u>[Updated] Prestigious Music Archives for VFX Artists</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-enhancing-viewer-attention-igtv-cover-tips/"><u>2024 Approved Enhancing Viewer Attention IGTV Cover Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-social-media-giants-to-skyrocket-your-marketing-game/"><u>2024 Approved Leveraging Social Media Giants to Skyrocket Your Marketing Game</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplified-file-conversion-for-audio-enthusiasts/"><u>2024 Approved Simplified File Conversion for Audio Enthusiasts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-instructions-to-install-toshiba-printer-software-for-windows-users/"><u>Complete Instructions to Install Toshiba Printer Software for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/converting-pal-dvds-to-ntsc-made-easy-a-comprehensive-tutorial-for-smooth-playback/"><u>Converting PAL DVDs to NTSC Made Easy – A Comprehensive Tutorial for Smooth Playback</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photos-app-magic-crafting-stunningly-slow-motion-videos-online/"><u>In 2024, Photos App Magic Crafting Stunningly Slow-Motion Videos Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-vs-pc-showdown-what-sets-them-apart-insights-into-their-unique-features/"><u>Mac Vs. PC Showdown: What Sets Them Apart? Insights Into Their Unique Features</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/transform-your-snaps-with-cutting-edge-filter-techniques/"><u>Transform Your Snaps with Cutting-Edge Filter Techniques</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/ultimate-guide-to-the-simplest-music-managers-on-windows-find-play-and-sort-tunes-like-a-pro/"><u>Ultimate Guide to the Simplest Music Managers on Windows: Find, Play & Sort Tunes Like a Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-the-full-potential-of-zoom-in-your-xbox-setup/"><u>Unlock the Full Potential of Zoom in Your Xbox Setup</u></a></li>
 </ul></div>
 
