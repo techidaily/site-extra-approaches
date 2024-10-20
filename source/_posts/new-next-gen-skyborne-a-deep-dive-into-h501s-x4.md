@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Next-Gen Skyborne  A Deep Dive Into H501S X4\""
-date: 2024-10-06T19:02:03.114Z
-updated: 2024-10-07T23:56:47.566Z
+date: 2024-10-16T16:06:49.741Z
+updated: 2024-10-19T22:27:44.022Z
 tags: 
   - screen-recording
   - ai video
@@ -109,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
@@ -122,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
@@ -135,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
@@ -150,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -171,19 +171,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-new-screen-recorder-tools-analysis-march-2023/"><u>[Updated] 2024 Approved New Screen Recorder Tools Analysis – March 2023</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-avoiding-malpractice-how-to-safely-grow-a-million-fanbase-for-2024/"><u>[Updated] Avoiding Malpractice How to Safely Grow a Million Fanbase for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtubes-quick-tunes-essential-insights-for-short-video-fans/"><u>[Updated] In 2024, YouTube's Quick Tunes Essential Insights for Short Video Fans</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-expertise-the-quantum-hdr-journey/"><u>In 2024, From Basics to Expertise The Quantum HDR Journey</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-capturing-dynamic-images-on-ios-devices/"><u>In 2024, Mastering the Art of Capturing Dynamic Images on iOS Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-complexities-of-health-marketing-on-fb/"><u>In 2024, Navigating the Complexities of Health Marketing on FB</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-applying-the-cartoon-face-filter-in-snapchat/"><u>In 2024, Step-by-Step Applying the Cartoon Face Filter in Snapchat</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-superior-android-3d-film-watcher/"><u>In 2024, Superior Android 3D Film Watcher</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-comprehensible-guide-to-marketing-on-snapchat/"><u>In 2024, The Comprehensible Guide to Marketing on Snapchat</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-uncovering-the-practical-benefits-of-photo-stability-features/"><u>In 2024, Uncovering the Practical Benefits of Photo Stability Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inspiration-unleashed-list-of-10-motivating-flicks-for-2024/"><u>Inspiration Unleashed List of 10 Motivating Flicks for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-srt-file-sharing-on-social-platforms-for-2024/"><u>Mastering SRT File Sharing on Social Platforms for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-champions-guide-to-martial-arts-gaming-for-2024/"><u>The Champion's Guide to Martial Arts Gaming for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fcpx-title-effects-take-your-videos-to-the-next-level/"><u>Updated In 2024, FCPX Title Effects Take Your Videos to the Next Level</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gear-for-capturing-journeys-on-camera/"><u>[New] Gear for Capturing Journeys on Camera</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-clear-conferencing-backdrops-blurring-for-better-presence/"><u>[New] In 2024, Clear Conferencing Backdrops Blurring for Better Presence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-4-pro-tips-for-looped-video-content/"><u>[New] Mastering Instagram 4 Pro Tips for Looped Video Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-future-of-video-editing-with-powerdirector-app-2024/"><u>[Updated] Navigating the Future of Video Editing with PowerDirector App 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-quick-fixes-todays-rapidly-watched-videos-for-2024/"><u>[Updated] Quick Fixes Today's Rapidly Watched Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-start-of-a-zoom-call-android-edition/"><u>2024 Approved Navigating the Start of a Zoom Call Android Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-your-tiktok-bio-how-to-add-an-effective-link/"><u>2024 Approved Perfect Your TikTok Bio How to Add an Effective Link</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixel-power-the-best-for-web-video-gems/"><u>2024 Approved Pixel Power The Best for Web Video Gems</u></a></li>
+<li><a href="https://article-files.techidaily.com/clearing-up-tips-for-preventing-gopro-haze/"><u>Clearing Up Tips for Preventing GoPro Haze</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-my-desire-for-simplicity-led-me-to-pre-order-the-unique-light-phone-featuring-a-rotary-dial-and-handcrafted-design/"><u>How My Desire for Simplicity Led Me to Pre-Order the Unique Light Phone √†√≠ - Featuring a Rotary Dial and Handcrafted Design</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y77t-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y77t</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-12-mini-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 12 mini with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-memetic-magic-mastering-the-top-7-techniques-of-gif-craftsmanship/"><u>In 2024, Memetic Magic Mastering the Top 7 Techniques of GIF Craftsmanship</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soundscapes-for-your-status-story/"><u>In 2024, Soundscapes for Your Status Story</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Insights Into Crafting Responses to YouTube Comments"
-date: 2024-10-02T00:34:40.784Z
-updated: 2024-10-08T05:20:37.201Z
+date: 2024-10-17T18:43:57.252Z
+updated: 2024-10-19T23:55:51.114Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -43,13 +50,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments can help you gauge customer sentiment: How do your viewers respond to your content? Positively? Negatively? Not at all? Monitoring your comments can help you understand how viewers feel about your brand.
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Comment on a YouTube Video
 
@@ -62,6 +62,13 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
@@ -85,25 +92,11 @@ Step2 On the YouTube homepage, click on the three horizontal parallel lines in t
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
@@ -116,6 +109,13 @@ Among the comments you see on a video, you might notice some that YouTube has la
 For example, you might click on a notification, and YouTube takes you to a particular video. Then, when somebody else views and leaves a comment on that video, YouTube will often add the “Highlighted Comment” label on the comment to make it easy for you to spot it when you next go back to that video.
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
 
@@ -136,10 +136,10 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -178,20 +178,20 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-ios-and-android-perfecting-your-chat-tone-with-whatsapp-ringtones/"><u>[New] IOS & Android Perfecting Your Chat Tone with WhatsApp Ringtones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-elevate-your-video-calling-game-with-skype-and-obs-for-2024/"><u>[Updated] Elevate Your Video Calling Game with Skype & OBS for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-elevate-your-visual-storytelling-with-lut-techniques-in-premiere/"><u>[Updated] Elevate Your Visual Storytelling with LUT Techniques in Premiere</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-inverted-playback-the-hidden-technique-for-a-reversed-youtube-list/"><u>[Updated] Inverted Playback The Hidden Technique for a Reversed YouTube List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-innovative-features-a-guide-to-implementing-speech-inputs-in-powerpoint/"><u>[Updated] Leveraging Innovative Features A Guide to Implementing Speech Inputs in PowerPoint</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-pixiz-photo-video-creation-guide/"><u>[Updated] Mastering Pixiz Photo Video Creation Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-on-demand-acting-rights-form/"><u>[Updated] On-Demand Acting Rights Form</u></a></li>
-<li><a href="https://extra-information.techidaily.com/framed-fantasies-expert-recommendations-on-software-and-sites/"><u>Framed Fantasies Expert Recommendations on Software & Sites</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-fall-guys-crashes-when-you-hit-play-a-comprehensive-guide/"><u>How to Prevent Fall Guys Crashes When You Hit Play: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-oneplus-nord-ce-3-lite-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from OnePlus Nord CE 3 Lite 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-elevate-your-sims-gaming-with-recording-expertise/"><u>In 2024, Elevate Your Sims Gaming with Recording Expertise</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximizing-your-viewing-experience-top-10-ios-video-apps-for-2024/"><u>Maximizing Your Viewing Experience Top 10 iOS Video Apps for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/ranking-the-premier-online-church-service-providers-for-2024/"><u>Ranking the Premier Online Church Service Providers for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/skyline-scanning-smartphone-panorama-techniques-for-2024/"><u>Skyline Scanning Smartphone Panorama Techniques for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-smart-8-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Smart 8 FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-photographers-tale-assembly-tool/"><u>[New] Master Photographer's Tale Assembly Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-hdmi-display-showdown-the-creme-de-la-creme-monitors/"><u>[Updated] 2024 Approved HDMI Display Showdown The Crème De La Crème Monitors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-iphone-photos-discover-prime-angles-for-perfect-shots/"><u>[Updated] Mastering iPhone Photos Discover Prime Angles for Perfect Shots</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-secrets-to-filmoras-fcc-status/"><u>[Updated] Unveiling the Secrets to Filmora’s FCC Status</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-penning-powerful-stories-with-a-camera-lens/"><u>2024 Approved Penning Powerful Stories with a Camera Lens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-steps-to-conquer-hdr-images-in-ps/"><u>2024 Approved Proven Steps to Conquer HDR Images in PS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-obstacles-for-smooth-final-exam-release-tips-and-tricks/"><u>Bypassing Obstacles for Smooth Final Exam Release - Tips & Tricks</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-6-bargains-for-your-homes-ultimate-viewing/"><u>In 2024, Prime 6 Bargains for Your Home's Ultimate Viewing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamed-dialogue-scribe/"><u>In 2024, Streamed Dialogue Scribe</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/integrating-trakttv-into-your-kodi-experience-user-account-configuration-tips/"><u>Integrating Trakt.TV Into Your Kodi Experience: User Account Configuration Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-photos-master-the-art-of-adding-motion-blur-effects-for-2024/"><u>Pro Photos Master the Art of Adding Motion Blur Effects for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proven-techniques-to-convert-and-download-pinterest-video-audio-for-2024/"><u>Proven Techniques to Convert and Download Pinterest Video Audio for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/screencast-pro-efficient-recording-macpc-upload-to-youtube-for-2024/"><u>ScreenCast Pro Efficient Recording, Mac/PC Upload to YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-latest-update-reimagines-game-sharing-for-families/"><u>Steam's Latest Update Reimagines Game Sharing for Families</u></a></li>
 </ul></div>
 

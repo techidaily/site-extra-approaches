@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mixed Reality  Blending Physical and Virtual Worlds\""
-date: 2024-10-12T21:20:39.310Z
-updated: 2024-10-13T20:20:13.363Z
+date: 2024-10-18T22:06:52.587Z
+updated: 2024-10-19T21:06:31.966Z
 tags: 
   - screen-recording
   - ai video
@@ -32,34 +32,20 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  In mixed reality, the user is given the ability to explore the virtual environment and the real world seamlessly at the same time. Through the use space and coordinates, the virtual objects will be positioned on the real world and whenever you move towards the virtual objects, they become larger while moving away from them makes them smaller. Moving around the virtual objects will also give you different angles and perspectives. Additionally, mixed reality will allow users to manipulate the virtual objects and interact with them as if they were with them in the same place.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does Mixed Reality work
 
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Applications of Mixed Reality
 
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mixed Reality for sharing real-world virtual workspaces
 
@@ -67,9 +53,23 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mixed reality for remote experts – over the shoulder coaching
 
  Most enterprises usually find it difficult to address all the support requests from all the clients in need of expert advice. It is not only costly to fly in specialists to fix things in different locations, but also time consuming. Besides, it is never adequate to troubleshoot an issue over the phone and video conferencing in such situations also have its limitations. But all these can now be avoided through the application of mixed reality for offering over the shoulder coaching remotely. With mixed reality, access to experts can be done quickly and inexpensively. For example, doctors in the healthcare industry can offer guidance and decisions to students or other doctors without the need of being in the actual locations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The future of mixed reality
 
@@ -82,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -103,15 +103,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-rotation-revelation-manual-transform-your-visual-content-on-social-media-sites/"><u>[Updated] 2024 Approved The Rotation Revelation Manual Transform Your Visual Content on Social Media Sites</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-igtv-success-guide-three-methods-to-convert-and-share-videos/"><u>[Updated] In 2024, IGTV Success Guide Three Methods to Convert and Share Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unlock-the-full-potential-of-your-gadgets-to-record-youtube-live/"><u>[Updated] In 2024, Unlock the Full Potential of Your Gadgets to Record YouTube Live</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-the-art-of-filming-at-home-top-5-efficient-tricks/"><u>[Updated] Master the Art of Filming at Home – Top 5 Efficient Tricks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lightroom-guide-blending-high-dynamic-range-magic/"><u>2024 Approved Lightroom Guide Blending High Dynamic Range Magic</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-8-visual-artists-choice-for-photo-assembly/"><u>2024 Approved No. 8 Visual Artist's Choice for Photo Assembly</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-your-mobile-film-game-best-9-camera-add-ons-for-vloggers/"><u>Boost Your Mobile Film Game Best 9 Camera Add-Ons For Vloggers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-the-clouds-advanced-drone-video-techniques/"><u>Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-the-core-of-xstream-studios-an-exhaustive-studio-guide/"><u>In 2024, Inside the Core of XStream Studios – An Exhaustive Studio Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-art-of-revisiting-your-private-snap-history/"><u>In 2024, The Art of Revisiting Your Private Snap History</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-story-complete-guide/"><u>[New] 2024 Approved Facebook Story Complete Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unveiling-the-secrets-to-audio-visual-cohesion-on-facebook/"><u>[New] 2024 Approved Unveiling the Secrets to Audio-Visual Cohesion on Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-right-tools-for-your-youtube-journey-camera-lenses-explained-for-2024/"><u>[New] The Right Tools For Your YouTube Journey - Camera Lenses Explained for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-eco-friendly-film-tech/"><u>[Updated] 2024 Approved Top Eco-Friendly Film Tech</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-for-2024/"><u>[Updated] Ryan Kaji’s Net Worth 11-Year-Old Boy Gets Highest-Paid From YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-in-script-to-speech-turning-xmlttml-files-to-srt-wonders/"><u>2024 Approved Mastery in Script-to-Speech Turning XML/TTML Files to SRT Wonders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-ensuring-accurate-age-on-tiktok/"><u>2024 Approved Step-by-Step Ensuring Accurate Age on TikTok</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-word-2021-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a Word 2021</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-investing-time-wisely-on-cover-art-creation/"><u>In 2024, Investing Time Wisely on Cover Art Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigate-the-excellent-world-of-top-vr-cycling/"><u>In 2024, Navigate the Excellent World of Top VR Cycling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-fix-for-iphone-video-length-and-scope-reduction/"><u>In 2024, Quick-Fix for iPhone Video Length & Scope Reduction</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/quickly-resolve-your-youtube-mp3-conversion-woes-with-our-step-by-step-fixes/"><u>Quickly Resolve Your YouTube-MP3 Conversion Woes with Our Step-by-Step Fixes</u></a></li>
 </ul></div>
 

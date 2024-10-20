@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Luminary Lessons  Teaching the Power of Proper Lighting\""
-date: 2024-07-27T23:28:44.852Z
-updated: 2024-07-28T23:28:44.852Z
+date: 2024-10-15T17:44:50.284Z
+updated: 2024-10-19T21:28:27.450Z
 tags: 
   - screen-recording
   - ai video
@@ -46,18 +46,12 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -80,18 +74,12 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
@@ -102,14 +90,15 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -142,5 +131,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ream-makers-the-online-marvel-experience/"><u>[New] Dream Makers The Online Marvel Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-leveraging-the-power-of-movie-maker-in-windows-8-for-professional-results-for-2024/"><u>[New] Leveraging the Power of Movie Maker in Windows 8 for Professional Results for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones/"><u>[New] Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-slomo-videography-the-complete-app-analysis/"><u>[New] SloMo Videography The Complete App Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lift-mood-and-performance-20-fitness-playlists-ranked-right/"><u>2024 Approved Lift Mood & Performance 20 Fitness Playlists Ranked Right</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pursuit-for-perfection-exploring-4k-with-hps-z32x/"><u>2024 Approved Pursuit for Perfection Exploring 4K with HP's Z32X</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-clip-art-creator-seamless-image-to-cartoon-conversion/"><u>2024 Approved Quick Clip-Art Creator Seamless Image-to-Cartoon Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/approaches-to-fixing-windows-file-download-failures/"><u>Approaches to Fixing Windows File Download Failures</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-identity-control-nintendo-console-mastery-guide/"><u>Enhancing Identity Control: Nintendo Console Mastery Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-crisp-videos-best-free-online-video-quality-enhancement-services-for-2024/"><u>Get Crisp Videos Best Free Online Video Quality Enhancement Services for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-to-editing-event-handlers-in-the-windows-dialog-box-interface/"><u>Guide to Editing Event Handlers in the Windows Dialog Box Interface</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-live-streamers-predicament-pick-between-wirecast-and-obs/"><u>In 2024, Live Streamer's Predicament Pick Between Wirecast and OBS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-audit-vll-application-review/"><u>In 2024, Precision Audit VLL Application Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-f23-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo F23 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-the-terms-and-conditions-of-abbyys-cloud-offerings-protecting-user-consent-and-compliance/"><u>Navigating the Terms and Conditions of ABBYY's Cloud Offerings: Protecting User Consent and Compliance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scriptwriting-the-creative-process-for-2024/"><u>Scriptwriting The Creative Process for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-non-working-shift-with-simple-tweaks/"><u>Tackle Non-Working Shift with Simple Tweaks</u></a></li>
+</ul></div>
 

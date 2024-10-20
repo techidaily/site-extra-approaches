@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
-date: 2024-10-12T22:03:45.462Z
-updated: 2024-10-13T17:09:17.117Z
+date: 2024-10-14T16:53:14.646Z
+updated: 2024-10-19T23:12:55.328Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
@@ -36,16 +36,16 @@ Lifewire / Kelsey Simon
 
 2.7
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -70,13 +70,6 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -106,13 +99,6 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -122,13 +108,20 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -137,6 +130,13 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -173,18 +173,18 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-launching-your-first-telegram-marketing-campaign/"><u>[New] Launching Your First Telegram Marketing Campaign</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-listening-and-viewing-with-best-android-music-vids/"><u>[New] Master the Art of Listening and Viewing with Best Android Music Vids</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-obs-studio-vs-bandicam-which-takes-the-crown-in-2024/"><u>[New] OBS Studio Vs. Bandicam Which Takes the Crown, In 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-reigning-over-micro-drones-the-dji-spark-breakdown-for-selfies/"><u>[New] Reigning Over Micro Drones The DJI Spark Breakdown for Selfies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-backtrack-with-your-iphone-films/"><u>[Updated] 2024 Approved Backtrack with Your iPhone Films</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-in-search-of-prime-zero-dollar-video-improvement-websites/"><u>[Updated] In 2024, In Search of Prime Zero-Dollar Video Improvement Websites</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-jumpstart-your-journey-essential-youtubing-skills-course/"><u>[Updated] In 2024, Jumpstart Your Journey Essential YouTubing Skills Course</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimize-editing-efficiency-using-xps-capabilities/"><u>[Updated] Optimize Editing Efficiency Using XP's Capabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-of-google-wireless-earbuds-pixel-buds-pro-2-speculations-release-details-inside/"><u>Future of Google Wireless Earbuds: Pixel Buds Pro 2 Speculations - Release Details Inside</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-tecno-phantom-v-flip-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Tecno Phantom V Flip Without PUK Codes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/layers-of-plot-and-character-design-for-2024/"><u>Layers of Plot and Character Design for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-endless-wait-solving-valorants-infinite-loading-issue/"><u>Overcome the Endless Wait: Solving Valorant's Infinite Loading Issue</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sony-snapshot-standstill-no-video-viewing-for-2024/"><u>Sony Snapshot Standstill No Video Viewing for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhance-youtube-creations-with-soundtrack-perfection-guide-for-2024/"><u>[New] Enhance YouTube Creations with Soundtrack Perfection Guide for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-a-guide-to-identifying-the-right-discord-servers/"><u>[Updated] In 2024, A Guide to Identifying the Right Discord Servers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-proof-your-data-with-top-30-free-unlimited-1tbplus-options/"><u>2024 Approved Future-Proof Your Data with Top 30 Free, Unlimited (1TB+) Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-time-stamps-for-enhanced-video-clarity-on-youtube/"><u>2024 Approved Leveraging Time Stamps for Enhanced Video Clarity on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-close-up-cinematography-through-zooming/"><u>2024 Approved Mastering Close-Up Cinematography Through Zooming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-media-with-extraearsound/"><u>2024 Approved Mastering Media with ExtraEarSound</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-your-gaming-with-advanced-controller-software/"><u>2024 Approved Revolutionizing Your Gaming with Advanced Controller Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-oppo-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Oppo .</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-outshine-filmora-a-roundup-of-the-best-tablets-for-image-tweaking/"><u>In 2024, Outshine Filmora A Roundup of the Best Tablets for Image Tweaking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-playwriting-for-podcasts-and-radios/"><u>In 2024, Premier Playwriting for Podcasts & Radios</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pixel-perfection-for-those-just-starting-out-for-2024/"><u>Pixel Perfection for Those Just Starting Out for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-6s-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone 6s Is Unlocked</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-controller-parts-breakdown/"><u>Xbox Series X Controller Parts Breakdown</u></a></li>
 </ul></div>
 

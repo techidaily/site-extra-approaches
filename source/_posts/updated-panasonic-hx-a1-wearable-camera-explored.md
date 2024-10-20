@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Panasonic HX-A1 Wearable Camera Explored\""
-date: 2024-10-04T05:11:49.001Z
-updated: 2024-10-07T21:34:41.324Z
+date: 2024-10-15T23:13:01.552Z
+updated: 2024-10-19T17:59:55.762Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -64,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Accessories in the box
@@ -108,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Features
@@ -143,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -156,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -179,16 +179,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-a-new-dawn-in-gaming-stardew-valleys-best-mods-7/"><u>[New] In 2024, A New Dawn in Gaming - Stardew Valley's Best Mods (#7)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-capture-the-spectacular-with-nikon-d500-in-4k/"><u>[New] In 2024, Capture the Spectacular with Nikon D500 in 4K</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-leveraging-tiktok-for-greater-facebook-reach-and-impact/"><u>[New] In 2024, Leveraging TikTok for Greater Facebook Reach and Impact</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-masterclass-navigating-through-the-best-cricket-livestreams/"><u>[New] Masterclass Navigating Through the Best Cricket Livestreams</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-log-every-victory-on-samsungs-mobile-arena/"><u>[Updated] In 2024, Log Every Victory on Samsung's Mobile Arena</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-srt-to-sub-shift-expert-strategies-and-actions/"><u>[Updated] SRT to SUB Shift Expert Strategies & Actions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-stills-extraction-procedure-windows-11-photos-guide/"><u>[Updated] Stills Extraction Procedure Windows 11 Photos Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-propel-your-brand-with-a-10-step-blueprint-for-top-smm-performance/"><u>2024 Approved Propel Your Brand with a 10-Step Blueprint for Top SMM Performance</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-asus-rog-phone-7-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Asus ROG Phone 7 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-keep-your-iphone-video-steady-three-effective-stabilization-tips/"><u>In 2024, Keep Your iPhone Video Steady Three Effective Stabilization Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-s18-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo S18 Phone Network-Ready</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphones-darkest-hours-decoded-for-photographers/"><u>[Updated] IPhone's Darkest Hours Decoded for Photographers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-play-music-10-best-apps-phones/"><u>[Updated] Quick Play Music 10 Best Apps, Phones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secure-your-snapshots-anywhere-anytime-the-ultimate-cloud-choices/"><u>[Updated] Secure Your Snapshots Anywhere, Anytime The Ultimate Cloud Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sleek-arenas-2022s-olympic-skating/"><u>[Updated] Sleek Arenas 2022'S Olympic Skating</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/2-years-of-mondly-languages/"><u>2 Years of Mondly Languages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/budget-conscious-skydrive-keepers-mass-file-basket-savings-for-2024/"><u>Budget-Conscious Skydrive Keepers Mass File Basket Savings for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-navigating-netflix-and-youtubers-how-jake-paul-succeeded/"><u>In 2024, Navigating Netflix & YouTubers How Jake Paul Succeeded</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y78plus-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y78+? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/olympic-ice-racers-moments-from-the-short-track-games-for-2024/"><u>Olympic Ice Racers Moments From the Short Track Games for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfect-your-video-edits-step-by-step-on-youtube-cutting/"><u>Perfect Your Video Edits Step-by-Step on YouTube Cutting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/personalized-pick-our-top-12-favorite-pc-clicker-games-for-2024/"><u>Personalized Pick Our Top 12 Favorite PC Clicker Games for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-tutorial-for-moving-dvd-data-from-disc-to-computer-storage-in-windows-and-macos/"><u>Step-by-Step Tutorial for Moving DVD Data From Disc to Computer Storage in Windows & macOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-bing-and-how-does-it-compare-with-google/"><u>What Is Bing and How Does It Compare with Google?</u></a></li>
 </ul></div>
 

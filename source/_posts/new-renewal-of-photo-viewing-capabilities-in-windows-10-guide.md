@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Renewal of Photo Viewing Capabilities in Windows 10 - Guide\""
-date: 2024-10-06T22:03:01.465Z
-updated: 2024-10-13T18:37:19.566Z
+date: 2024-10-17T23:51:33.683Z
+updated: 2024-10-19T22:54:44.410Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,10 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -72,16 +72,16 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -102,10 +102,17 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -115,13 +122,6 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -138,22 +138,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capturing-contentment-top-streaming-techniques/"><u>[New] 2024 Approved Capturing Contentment Top Streaming Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-melody-makers-best-places-for-free-skype-ringtones/"><u>[New] Melody Makers Best Places for Free Skype Ringtones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revealing-the-art-of-zoomed-details-using-kinemasters-tools/"><u>[New] Revealing the Art of Zoomed Details Using Kinemaster's Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-mac-os-guide-for-screen-casting-for-2024/"><u>[New] The Ultimate Mac OS Guide for Screen Casting for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-silence-the-algorithmic-intrusions-on-ig/"><u>[Updated] In 2024, Silence the Algorithmic Intrusions on IG</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-roadmap-to-ad-excellence-navigating-the-top-20-fb-video-strategies/"><u>[Updated] In 2024, The Roadmap to Ad Excellence Navigating the Top 20 FB Video Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-digital-comedy-in-the-metaverse/"><u>[Updated] Mastering the Art of Digital Comedy in the Metaverse</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-nine-key-points-before-investing-in-a-new-4k-lens/"><u>[Updated] Nine Key Points Before Investing in a New 4K Lens</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-integration-of-text-with-image-editing-tools/"><u>2024 Approved Seamless Integration of Text with Image Editing Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/8-leading-edge-screensnap-solutions/"><u>8 Leading-Edge Screensnap Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/decreasing-cpu-and-ram-usage-tackling-unrealcefsubprocess-issues/"><u>Decreasing CPU and RAM Usage: Tackling UnrealCEFSubprocess Issues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-x-photography-leveraging-latest-features/"><u>In 2024, IPhone X Photography Leveraging Latest Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-market-of-dronescopic-stabilizers/"><u>In 2024, Navigating the Market of Dronescopic Stabilizers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-noiseless-speech-transcription-services/"><u>In 2024, Noiseless Speech Transcription Services</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-internet-experience-with-the-amplifi-hd-complete-mesh-system-zero-dead-zones/"><u>Revolutionize Your Internet Experience with the Amplifi HD Complete Mesh System - Zero Dead Zones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/strategic-lighting-for-best-iphone-photography/"><u>Strategic Lighting for Best iPhone Photography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-windows-media-connection-issues/"><u>Ultimate Guide: Resolving Windows Media Connection Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-guide-to-free-melodies-in-youtube-productions/"><u>[New] 2024 Approved Effortless Guide to Free Melodies in YouTube Productions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-seo-explosion-leading-tech-for-your-videos/"><u>[New] 2024 Approved SEO Explosion Leading Tech for Your Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-navigating-color-grading-using-luts-to-refine-your-work-in-ae/"><u>[Updated] Navigating Color Grading Using LUTs to Refine Your Work in AE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speed-up-filmmaking-skills-at-home-with-top-5-hacks/"><u>[Updated] Speed Up Filmmaking Skills at Home with Top 5 Hacks</u></a></li>
+<li><a href="https://article-files.techidaily.com/app-accuracy-check-through-the-lens-of-vll/"><u>App Accuracy Check Through the Lens of VLL</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199720194-control-charts-are-central-tools-in-spc-helping-to-distinguish-between-common-cause-and-special-cause-variations/"><u>Control Charts Are Central Tools in SPC, Helping to Distinguish Between Common Cause and Special Cause Variations.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-6-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 6 With 7 Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-time-stamps-for-enhanced-video-clarity-on-youtube-for-2024/"><u>Leveraging Time Stamps for Enhanced Video Clarity on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lg-27uhd68-screen-revolution-understanding-4k-sync-technology-for-2024/"><u>LG 27UHD68 Screen Revolution Understanding 4K Sync Technology for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lightning-fast-visualization-for-win11-users-for-2024/"><u>Lightning-Fast Visualization for Win11 Users for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterclass-in-tv-streaming-the-ultimate-guide-for-2024/"><u>Masterclass in TV Streaming The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-mp3s-incorporating-tunes-into-powerpoint-slides-for-2024/"><u>Mastering MP3s Incorporating Tunes Into PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-slug-lines-for-effective-storytelling-for-2024/"><u>Mastering Slug Lines for Effective Storytelling for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-video-content-conversion-xml-ssa-and-ttml-to-srt-guide-for-2024/"><u>Mastering Video Content Conversion XML, SSA & TTML to SRT Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-video-loading-on-facebook-for-2024/"><u>Mastering Video Loading on Facebook for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-installing-videoleap-on-macbook-a-step-by-step-guide-for-2024/"><u>New Installing Videoleap on MacBook A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/series-configurations-often-require-careful-design-to-ensure-desired-voltages-and-charge-distributions-across-components/"><u>Series Configurations Often Require Careful Design to Ensure Desired Voltages and Charge Distributions Across Components.</u></a></li>
 </ul></div>
 

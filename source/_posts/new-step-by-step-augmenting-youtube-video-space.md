@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Augmenting YouTube Video Space\""
-date: 2024-10-05T04:42:14.219Z
-updated: 2024-10-08T05:34:26.263Z
+date: 2024-10-17T22:33:21.368Z
+updated: 2024-10-19T18:27:03.133Z
 tags: 
   - screen-recording
   - ai video
@@ -54,26 +54,26 @@ Step2Drag and drop the target YouTube video on Filmora into Project Media folder
 
 ![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
 ![drag video file into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4From Crop window, go to Pan & Zoom section. Place the rectangular box on that portion of the video which you want to zoom in. Mark the start and end of the video for pan and zoom effect. Play the video to watch how the effect unfolds. Finally, click on OK button.
 
 ![go to pan zoom section](https://images.wondershare.com/filmora/guide/crop-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you want, you can export the edited video in any desired file format directly from [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -93,6 +93,20 @@ Step3After uploading, click on the Video and select Editor option from the left 
 Step4You will find Zoom in and Zoom out icon below the video preview. Here, zoom in means the timeline gets zoomed so that you can check out the video frame by frame to find out all the details in any portion of the video.
 
 ![zoom in out youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -106,23 +120,9 @@ Step2Drag and drop the target YouTube video on Filmora into Project Media folder
 
 ![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
 ![drag video file into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4From Crop window, go to Pan & Zoom section. Place the rectangular box on that portion of the video which you want to zoom in. Mark the start and end of the video for pan and zoom effect. Play the video to watch how the effect unfolds. Finally, click on OK button.
 
@@ -147,10 +147,10 @@ Step4You will find Zoom in and Zoom out icon below the video preview. Here, zoom
 ![zoom in out youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -181,19 +181,24 @@ There are several ways you can zoom into YouTube videos to check out the desired
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-metaverse-vs-multiverse-whats-the-difference/"><u>[New] Metaverse vs Multiverse What's the Difference?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-deconstructing-the-viva-video-experience-for-2024/"><u>[Updated] Deconstructing the Viva Video Experience for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instantaneous-picture-viewing-on-windows-11/"><u>[Updated] Instantaneous Picture Viewing on Windows 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-captivating-content-with-a-click-phones-and-youtube/"><u>2024 Approved Captivating Content with a Click Phones & YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-snowboard-cross-winter-olympics-2022-highlights/"><u>2024 Approved Snowboard Cross Winter Olympics 2022 Highlights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-unveils-exclusive-motherboard-for-chinese-cpu-overclocking-enhancing-kx-7000-performance-by-one-quarter/"><u>Asus Unveils Exclusive Motherboard for Chinese CPU Overclocking, Enhancing KX-7000 Performance by One Quarter</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-the-best-hp-officejet-pro-6970-drivers-for-your-windows-device-download-install-and-enjoy-flawless-printing/"><u>Find the Best HP OfficeJet Pro 6970 Drivers for Your Windows Device: Download, Install and Enjoy Flawless Printing!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-and-set-up-microsoft-surface-pro-4-drivers-on-your-pc/"><u>How to Get and Set Up Microsoft Surface Pro 4 Drivers on Your PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-hot-30i-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Hot 30i</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y56-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y56 5GFRP Lock</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-luts-simplified-your-guide-to-better-photos/"><u>In 2024, LUTs Simplified Your Guide to Better Photos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-phones-best-gopro-videos-editing-tools-for-2024/"><u>Leading Phones' Best GoPro Videos Editing Tools for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Prevention & Solution</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/srgb-adoption-over-traditional-rgb-techniques-for-2024/"><u>Srgb Adoption Over Traditional Rgb Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-simple-shelter-strategies-in-mc/"><u>[New] In 2024, Essential Simple Shelter Strategies in MC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snapedit-fundamentals-for-amateur-photographers/"><u>[New] Snapedit Fundamentals for Amateur Photographers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-azure-ai-for-audio-to-text-translation/"><u>[Updated] Leveraging Azure AI for Audio to Text Translation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-light-intensity-in-hdr-scrutinized-beneficial/"><u>[Updated] Light Intensity in HDR Scrutinized Beneficial?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mighty-machines-meet-thieyes-t5-vs-jcb-sjcam-s6/"><u>[Updated] Mighty Machines Meet Thieye's T5 Vs JCB SJCAM S6</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rejuvenated-interview-framework-for-auditory-appeal/"><u>[Updated] Rejuvenated Interview Framework for Auditory Appeal</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimizing-game-streams-through-ai-facial-recognition/"><u>2024 Approved Optimizing Game Streams Through AI Facial Recognition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-family-film-picks-perfect-for-celebrating-mom-this-2022-mothers-day/"><u>Best Family Film Picks Perfect for Celebrating Mom This 2022 Mother's Day</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-xs-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone XS Max</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-proplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-a-visual-journey-uncovering-the-best-icons-and-logos-online/"><u>In 2024, A Visual Journey Uncovering the Best Icons & Logos Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-dash.techidaily.com/introducing-the-latest-upgrade-microsofts-revamped-sticky-notes-on-windows-11/"><u>Introducing the Latest Upgrade: Microsoft's Revamped Sticky Notes on Windows 11!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175706813-lamptrons-latest-st060-cpu-cooler-a-mighty-large-6-inch-display-matching-iphone-15-specs-and-acts-as-an-extra-screen/"><u>Lamptron's Latest ST060 CPU Cooler: A Mighty Large 6-Inch Display Matching iPhone 15 Specs and Acts as an Extra Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-hardware-choices-through-toms-insights/"><u>Mastering Hardware Choices Through Tom’s Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-googles-podcast-uploading-guide-for-2024/"><u>Navigating Google's Podcast Uploading Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/next-level-thrills-with-samsungs-leading-vr-games-for-2024/"><u>Next-Level Thrills with Samsung's Leading VR Games for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/samsung-photo-editor-review-pros-con-features-and-guide-for-2024/"><u>Samsung Photo Editor Review - Pros, Con, Features, and Guide for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-ultimate-list-of-androids-best-music-video-apps/"><u>The Ultimate List of Android's Best Music Video Apps</u></a></li>
 </ul></div>
 
