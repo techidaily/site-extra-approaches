@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)\""
-date: 2024-10-16T18:59:22.997Z
-updated: 2024-10-19T17:56:34.216Z
+date: 2024-10-22T19:15:27.293Z
+updated: 2024-10-25T16:20:10.933Z
 tags: 
   - screen-recording
   - ai video
@@ -51,19 +51,6 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -75,30 +62,37 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -108,10 +102,10 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -129,22 +123,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-boost-viewers-interaction-via-youtube-cards/"><u>[New] Boost Viewers Interaction via YouTube Cards</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-digitally-chronicled-tweets-of-the-year-so-far-for-2024/"><u>[New] Digitally Chronicled Tweets of the Year So Far for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-implementing-gradual-intensity-boost-in-audio-projects/"><u>[New] Implementing Gradual Intensity Boost in Audio Projects</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-free-virtual-meeting-software-options-for-both-windows-and-mac/"><u>[New] In 2024, Best Free Virtual Meeting Software Options For Both Windows & Mac</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-polaroid-xs-review-capturing-life-in-full-hd/"><u>[New] Polaroid XS Review Capturing Life in Full HD</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-free-excellence-analyzing-and-sharing-best-free-luts/"><u>[New] Premium-Free Excellence Analyzing and Sharing Best Free LUTs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smart-strategies-for-iphone-podcast-acquisition/"><u>[New] Smart Strategies for iPhone Podcast Acquisition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-intelligent-volume-modulation-strategies/"><u>[Updated] Intelligent Volume Modulation Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-revolutionizing-gaming-with-funimate/"><u>[Updated] Revolutionizing Gaming with Funimate</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-snap-it-up-iphone-and-androids-best-10-photo-enhancers/"><u>[Updated] Snap It Up! IPhone and Android's Best 10 Photo Enhancers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-k70-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Xiaomi Redmi K70 support MOV videos ?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10/"><u>In 2024, Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/install-open-source-gpt-clone-for-free-on-your-windows-machine/"><u>Install Open Source GPT Clone for Free on Your Windows Machine</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigate-angular-video-transitions-on-android-devices-for-2024/"><u>Navigate Angular Video Transitions on Android Devices for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-science-of-audience-retention-on-tweets/"><u>The Science of Audience Retention on Tweets</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-advanced-strategies-to-transform-your-snaps-into-boomers/"><u>[New] In 2024, Advanced Strategies to Transform Your Snaps Into Boomers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-nuances-zoom-and-youtube-live-streaming-explored/"><u>[New] Navigating the Nuances Zoom and YouTube Live Streaming Explored</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-beyond-boundaries-a-comprehensive-hubsan-h501x4-study-for-2024/"><u>[Updated] Beyond Boundaries A Comprehensive Hubsan H501X4 Study for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-maximizing-the-potential-of-virtual-dialogue-secrets-from-a-pro-zoom-chat-guru-for-2024/"><u>[Updated] Maximizing the Potential of Virtual Dialogue Secrets From a Pro ZOOM Chat Guru for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-introduce-audible-elements-seamlessly-to-premiere-pro/"><u>2024 Approved Introduce Audible Elements Seamlessly to Premiere Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-facebooks-verification-protocols/"><u>Decoding Facebook's Verification Protocols</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-jabras-high-tech-steel-headphones/"><u>Exploring Jabra's High-Tech Steel Headphones</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hello-in-portuguese-and-other-basic-portuguese-greetings-you-need-to-know/"><u>Hello in Portuguese and Other Basic Portuguese Greetings You Need to Know</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-learning-the-ropes-of-lunapics-user-interface/"><u>In 2024, Learning the Ropes of LunaPic's User Interface</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-price-tracker-finding-the-best-cloud-services/"><u>In 2024, Price Tracker Finding the Best Cloud Services</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-novice-to-pro-20-adobe-premiere-shortcuts-to-elevate-your-skills/"><u>New In 2024, From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/post-tomorrow-assessment-original-ideas-for-2024/"><u>Post-Tomorrow Assessment Original Ideas for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proven-methods-for-obtaining-free-picture-screens-for-2024/"><u>Proven Methods for Obtaining Free Picture Screens for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-samsung-universal-remote-with-any-television/"><u>Ultimate Guide: Connecting Your Samsung Universal Remote with Any Television</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-xcover-6-pro-tactical-edition-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy XCover 6 Pro Tactical Edition Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

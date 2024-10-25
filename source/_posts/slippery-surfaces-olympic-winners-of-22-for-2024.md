@@ -1,7 +1,7 @@
 ---
 title: "\"Slippery Surfaces  Olympic Winners of '22 for 2024\""
-date: 2024-10-12T21:04:51.782Z
-updated: 2024-10-19T16:10:59.444Z
+date: 2024-10-20T20:01:43.444Z
+updated: 2024-10-25T16:05:52.079Z
 tags: 
   - screen-recording
   - ai video
@@ -33,38 +33,25 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
@@ -75,16 +62,16 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
@@ -95,10 +82,10 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -133,6 +120,13 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -156,16 +150,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-professional-iphone-hdr-techniques-unveiled/"><u>[New] In 2024, Professional iPhone HDR Techniques Unveiled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-invigorate-snaps-implement-inner-blur-spread-in-cs/"><u>[New] Invigorate Snaps Implement Inner Blur Spread in CS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-is-inshot-leading-video-editing-an-examination-review/"><u>[New] Is InShot Leading Video Editing? An Examination Review</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-guide-to-zoom-transcription-software-fee-based/"><u>[New] Ultimate Guide to Zoom Transcription Software (Fee-Based)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-compiled-list-of-top-3ip-ipad-voice-recorders/"><u>[Updated] 2024 Approved Compiled List of Top 3iP iPad Voice Recorders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photo-perfection-for-newbies-the-lunapic-way/"><u>[Updated] Photo Perfection for Newbies The LunaPic Way</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-resources-for-text-style-adjustment-files/"><u>[Updated] Prime Resources for Text Style Adjustment Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-click-quests-top-10-agile-gaming-platforms/"><u>[Updated] Quick Click Quests Top 10 Agile Gaming Platforms</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-diversifying-audience-across-30plus-online-venues/"><u>2024 Approved Diversifying Audience Across 30+ Online Venues</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-13-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 13 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-installing-custom-fonts-on-your-iphone/"><u>Ultimate Guide: Installing Custom Fonts on Your iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-sporting-cameras-for-adventure/"><u>[Updated] Premium Sporting Cameras for Adventure</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prime-shopping-destinations-customizable-presents-with-flair-for-2024/"><u>[Updated] Prime Shopping Destinations Customizable Presents with Flair for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lighting-the-way-in-film-tips-for-immaculate-visuals/"><u>2024 Approved Lighting the Way in Film Tips for Immaculate Visuals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-video-storytelling-adding-narration-step-by-step/"><u>2024 Approved Mastering Video Storytelling Adding Narration Step-by-Step</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-video-editing-does-m1-macbook-air-hold-up/"><u>2024 Approved Professional Video Editing Does M1 MacBook Air Hold Up?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/5-rapid-methods-to-upgrade-your-indoor-film-project/"><u>5 Rapid Methods to Upgrade Your Indoor Film Project</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210129341-decode-and-defeat-error-0x887a0006-effortless-solutions-inside/"><u>Decode and Defeat Error 0X887A0006: Effortless Solutions Inside!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-offer-m3-macbook-air-laptop-powerful-16gb-compact-n-13-inch-at-a-bargain-price-of-1149/"><u>Exclusive Offer - M3 MacBook Air Laptop: Powerful 16GB / Compact N 13-Inch at a Bargain Price of $1,149</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-13-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 13 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-key-picks-the-best-6-online-communities-for-enterprise-expansion/"><u>In 2024, Key Picks The Best 6 Online Communities for Enterprise Expansion</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-mastering-close-up-web-views-on-screen/"><u>In 2024, Mastering Close-Up Web Views on Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimizing-your-podcasts-itunes-placement/"><u>In 2024, Optimizing Your Podcast's iTunes Placement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-your-images-lightrooms-favorite-luts/"><u>In 2024, Perfecting Your Images LightRoom's Favorite LUTs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-and-simple-ipad-conversion-turn-jpgpng-into-pdf/"><u>In 2024, Quick and Simple iPad Conversion Turn JPG/PNG Into PDF</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-stubbornly-mute-airpods-in-windows-1011-a-step-by-step-guide/"><u>Troubleshooting Stubbornly Mute AirPods in Windows 10/11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-mac-video-editing-vn-video-editor-and-other-top-options-for-2024/"><u>Updated Unlock Mac Video Editing VN Video Editor and Other Top Options for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-unpairing-woes-bluetooth-troubleshooting-techniques-on-windows/"><u>Winning the Battle Against Unpairing Woes: Bluetooth Troubleshooting Techniques on Windows 지대</u></a></li>
 </ul></div>
 

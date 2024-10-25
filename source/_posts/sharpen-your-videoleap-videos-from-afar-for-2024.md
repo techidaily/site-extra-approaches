@@ -1,7 +1,7 @@
 ---
 title: "Sharpen Your Videoleap Videos From Afar for 2024"
-date: 2024-10-16T21:15:16.889Z
-updated: 2024-10-19T18:29:50.178Z
+date: 2024-10-22T18:16:59.383Z
+updated: 2024-10-25T20:58:10.065Z
 tags: 
   - screen-recording
   - ai video
@@ -55,27 +55,20 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
 ![add keyframes videoleap](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-videoleap.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
 * When you are satisfied, simply export the project and your animated zoom video will be saved successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternative way to Zoom Video on Computer
 
@@ -91,23 +84,17 @@ If for some reason you are not able to install and use Videoleap on your system 
 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -124,22 +111,23 @@ Videoleap is one of the leading video editing platforms available out there. The
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -173,22 +161,18 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-expert-audio-techniques-in-audacity-for-professionals/"><u>[New] Expert Audio Techniques in Audacity for Professionals</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-essential-instructions-for-effective-use-of-telegram-browser/"><u>[New] In 2024, Essential Instructions for Effective Use of Telegram Browser</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-integrating-instant-video-playback-within-the-social-media-webspace-for-2024/"><u>[New] Integrating Instant Video Playback Within the Social Media Webspace for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-balancing-act-volume-control-techniques-for-logic-pro-x-for-2024/"><u>[Updated] Balancing Act Volume Control Techniques for Logic Pro X for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-easy-guide-to-tweeting-videos-and-turning-them-into-music-for-2024/"><u>[Updated] Easy Guide to Tweeting Videos & Turning Them Into Music for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-maximizing-memory-storing-snapshots-in-photo-albums-from-snapchat/"><u>[Updated] In 2024, Maximizing Memory Storing Snapshots in Photo Albums From Snapchat</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-webcams-to-improve-your-zoom-video-interactions/"><u>2024 Approved Optimal Webcams to Improve Your Zoom Video Interactions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/best-photo-text-editor-to-add-text-on-picture-for-2024/"><u>Best Photo Text Editor to Add Text on Picture for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-a24-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy A24 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-13-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 13 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-craft-of-macro-video-production-techniques/"><u>In 2024, Mastering the Craft of Macro Video Production Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mystical-video-pause-hints/"><u>In 2024, Mystical Video Pause Hints</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-outstanding-20-anime-opening-melodies/"><u>In 2024, Outstanding 20 Anime Opening Melodies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-video-cutting-software-recommendations-for-windows-users/"><u>In 2024, Premier Video Cutting Software Recommendations for Windows Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-and-easy-iphone-burst-techniques/"><u>In 2024, Quick and Easy iPhone Burst Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-scenes-crafting-smooth-transitions-using-kinemaster/"><u>In 2024, Seamless Scenes Crafting Smooth Transitions Using Kinemaster</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-generating-ai-visuals-with-chatgpt-a-step-by-step-guide/"><u>Mastering the Art of Generating AI Visuals with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-how-to-take-landscape-photos-on-iphone-killer-tips/"><u>[New] How to Take Landscape Photos on iPhone [Killer Tips]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphoneipad-masterclass-crafting-engaging-interview-and-exploration-podcasts/"><u>[New] IPhone/iPad Masterclass Crafting Engaging Interview and Exploration Podcasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-limited-time-dji-drone-visual-enhancements-no-pay-required/"><u>[New] Limited-Time DJI Drone Visual Enhancements No Pay Required</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-free-travel-planning-ai-and-chatgpt-apps-to-get-an-instant-itinerary/"><u>7 Free Travel Planning AI and ChatGPT Apps to Get an Instant Itinerary</u></a></li>
+<li><a href="https://driver-download.techidaily.com/compatible-windows-11-drivers-available-now-what-you-need-for-your-epson-ds-530/"><u>Compatible Windows 11 Drivers Available Now - What You Need for Your Epson DS-530</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-rescue-deskanywhere-on-win11/"><u>Essential Tips to Rescue DeskAnywhere on Win11</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guia-paso-a-paso-para-utilizar-la-clave-de-recuperacion-de-asus-y-reparar-fallos-del-sistema-con-facilidad/"><u>Guía Paso a Paso Para Utilizar La Clave De Recuperación De Asus Y Reparar Fallos Del Sistema Con Facilidad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-does-predictive-ai-generate-accurate-forecasts/"><u>How Does Predictive AI Generate Accurate Forecasts?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-defining-methods-in-digital-stories-design/"><u>In 2024, Defining Methods in Digital Stories Design</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-quality-edits-the-ultimate-guide-to-pixlr/"><u>In 2024, Quick, Quality Edits The Ultimate Guide to Pixlr</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/kinetic-control-on-android-the-kinemaster-dive-for-2024/"><u>Kinetic Control on Android The KineMaster Dive for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-the-art-of-leaving-facebook-on-android/"><u>Master the Art of Leaving Facebook on Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-pip-chromes-full-screen-multi-tasking-guide-for-2024/"><u>Mastering PIP Chrome's Full-Screen Multi-Tasking Guide for 2024</u></a></li>
 </ul></div>
 

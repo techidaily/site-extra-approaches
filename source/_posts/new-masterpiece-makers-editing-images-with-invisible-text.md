@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterpiece Makers  Editing Images with Invisible Text\""
-date: 2024-07-27T23:27:16.151Z
-updated: 2024-07-28T23:27:16.151Z
+date: 2024-10-24T19:18:33.355Z
+updated: 2024-10-25T16:45:54.584Z
 tags: 
   - screen-recording
   - ai video
@@ -54,296 +54,6 @@ Step 3: Upload your Image (Optional)
 
 You can also upload the photo on which you want to add the text to design it. Access the “Upload” tab from the left sidebar and click on “Upload an image,” and then add the image to the canvas.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-![upload your own image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-3.jpg)
-
-Step 4: Add or Adjust the Text
-
-Now, open the “Text” tab and select the desired font style and size from it. You can change the size, opacity, color, position, and font of the added text. You can edit the pre-added text of the templates as well.
-
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![add and customize text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-4.jpg)
-
-Step 5: Export the Edited Image
-
-Once done with all the photo designing, click on "Download" and select the format to save the image on your device. The downloading process won't take much time
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-![download the edited image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 2: How to Edit Text on Photo on iPhone and Android Phone?
-
-Do you want to make quick edits through the photo text editor app on your mobile phone? People need photo text editors specially designed for their smartphones to create and design attractive posts instantly. In this part, we will recommend a game-changer text editor that you can easily install on your mobile devices and can execute designing without any professional assistance.
-
-This photo text editor has more than 400 style fonts, and also you have options to install other fonts as well. You don't need to worry about ads and bugs as this app is constantly trying to improve itself. The important features of this tool include letter spacing, line spacing, text stroke color, and text background colors. Through their manual controls, you can precisely add text to their images with a few clicks.
-
-Go and try Phonto text editor to design your images and posts on your phones easily. This editor app is highly compatible with [iOS](https://apps.apple.com/us/app/phonto-text-on-photos/id438429273) and [Android](https://play.google.com/store/apps/details?id=com.youthhr.phonto&hl=en&gl=US) users and has a quick responsive interface. To write text on photo through the Phonto editor, read the following instructions:
-
-Step 1: Load the New Image
-
-Begin with downloading the app on your phone and then tap on the "Camera" icon to upload the image from the phone or click a new picture. Select the image from the gallery, and it will be automatically uploaded to the tool.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
-![tap on camera icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-6.jpg)
-
-Step 2: Click to Add Text
-
-Click on anywhere on the photo to add the text to the photo. Type the text you want to enter on the pop-up menu and adjust it by selecting its position and font. Tap on "Done," and then from the given options, tilt and move the text box according to your preference.
-
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
-
-Step 3: Save the Text Image
-
-After making all the changes, tap on the “Share” icon to save the image on your phone or share it on social media with your friends and family.
-
-![tap share icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-## Part 3: Basic Tips to Edit Text on Photo with Ease
-
-There are multiple tips that can be employed for a clear display of text across a photo. Being a photo text editor, you need to be careful about every element that is across the photo. Thus, to make your photos look perfect with the added text, you should be aware of the few tips that are featured below:
-
-### 1\. Understanding the Perspective
-
-Adding text as a perspective is believed to be an inclusive way of providing viewers with the idea of the image and helping them understand it to the fullest. If you are looking forward to writing a text on photos,you can give your text a little angle and appearance according to the image shoot for a good illusion.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![understand image perspective](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-9.jpg)
-
-### 2\. Blending in with the Photo’s Properties
-
-It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
-
-![ blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
-
-### 3\. Look for Negative Space
-
-When you consider adding text across a photo, it is highly advised that you should always go for an option that contains a general space for covering. Often referred to as negative space, utilizing that space for the text may be the perfect way that you can consider writing a text on photos. This puts no effect on the photo and helps the user display the whole idea with prominence.
-
-![add text in negative space](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-11.jpg)
-
-### 4\. Framing the Text
-
-If you go for prominence, you should always use elements that are meant for bringing prominence. Text that is to be highlighted with purity across a photo should be framed rather than any other tactful technique. This helps you create a clear focal point while sustaining the quality of the image. Following this, it also keeps a good view across the photo as a subjective associate picture.
-
-![frame the text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-12.jpg)
-
-### 5\. Control your Sizes and Styles
-
-Make sure that you always select a font size or style that is relevant to the photo. The use of inappropriate sizes and styles in photos takes away the essence of the picture. A balance across these traits is essential for the user to bring. Capture the viewers' attention without compromising the quality of the photo itself.
-
-![select accurate font size and style](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## The Bottom Line
-
-The best illustration of images is not possible without adding typography to them. People add text to the images to share social media posts or create poster events. Read this article to get a clear picture of how to write text on photos through powerful photo text editors.
-
-02 [How to Edit Text on Photo on iPhone and Android Phone?](#part2)
-
-03 [Basic Tips to Edit Text on Photo with Ease](#part3)
-
-## Part 1: How to Edit Text on Photo Online?
-
-Do you want to add and edit text on picture online? Use [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/) as an incredible photo text editor app to conveniently add text to your images. Individuals can design their images, YouTube thumbnails, and graphics by adding stylish and vibrant text to them. The user interface of PixStudio photo text editor online is simple and quick to use, and non-professionals can begin anytime to design their images.
-
-You can use their templates that are available for separate categories such as invitations, posters, and social media posts. Afterward, you can select the font, color, style, and size of the text through the options and can easily make your image captivating. The elements on their pre-established templates are extremely eye-catchy and can give your image an artistic look with no effort.
-
-Once done with making all the alterations, you can download the customized text image within seconds. To add text to images through Wondershare PixStudio, the steps are:
-
-Step 1: Select the Design
-
-Navigate to the Wondershare PixStudio website and tap on “Start Design” after creating your account. From here, click on the “Create a Design” button to select a design template size such as a YouTube thumbnail, event poster, ticket, and Instagram post. To design an Instagram post, tap on its design template size.
-
-![select canvas size](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-1.jpg)
-
-Step 2: Explore the Templates
-
-The pre-designed templates of the Instagram post will be displayed on your screen. There will be tons of options, so pick and choose your preferred style carefully by clicking on it. Click on the template and adjust and position the elements of the template manually.
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
-![ choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
-
-Step 3: Upload your Image (Optional)
-
-You can also upload the photo on which you want to add the text to design it. Access the “Upload” tab from the left sidebar and click on “Upload an image,” and then add the image to the canvas.
-
-![upload your own image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-3.jpg)
-
-Step 4: Add or Adjust the Text
-
-Now, open the “Text” tab and select the desired font style and size from it. You can change the size, opacity, color, position, and font of the added text. You can edit the pre-added text of the templates as well.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![add and customize text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-4.jpg)
-
-Step 5: Export the Edited Image
-
-Once done with all the photo designing, click on "Download" and select the format to save the image on your device. The downloading process won't take much time
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
-![download the edited image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 2: How to Edit Text on Photo on iPhone and Android Phone?
-
-Do you want to make quick edits through the photo text editor app on your mobile phone? People need photo text editors specially designed for their smartphones to create and design attractive posts instantly. In this part, we will recommend a game-changer text editor that you can easily install on your mobile devices and can execute designing without any professional assistance.
-
-This photo text editor has more than 400 style fonts, and also you have options to install other fonts as well. You don't need to worry about ads and bugs as this app is constantly trying to improve itself. The important features of this tool include letter spacing, line spacing, text stroke color, and text background colors. Through their manual controls, you can precisely add text to their images with a few clicks.
-
-Go and try Phonto text editor to design your images and posts on your phones easily. This editor app is highly compatible with [iOS](https://apps.apple.com/us/app/phonto-text-on-photos/id438429273) and [Android](https://play.google.com/store/apps/details?id=com.youthhr.phonto&hl=en&gl=US) users and has a quick responsive interface. To write text on photo through the Phonto editor, read the following instructions:
-
-Step 1: Load the New Image
-
-Begin with downloading the app on your phone and then tap on the "Camera" icon to upload the image from the phone or click a new picture. Select the image from the gallery, and it will be automatically uploaded to the tool.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![tap on camera icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-6.jpg)
-
-Step 2: Click to Add Text
-
-Click on anywhere on the photo to add the text to the photo. Type the text you want to enter on the pop-up menu and adjust it by selecting its position and font. Tap on "Done," and then from the given options, tilt and move the text box according to your preference.
-
-![ write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
-
-Step 3: Save the Text Image
-
-After making all the changes, tap on the “Share” icon to save the image on your phone or share it on social media with your friends and family.
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
-![tap share icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
-## Part 3: Basic Tips to Edit Text on Photo with Ease
-
-There are multiple tips that can be employed for a clear display of text across a photo. Being a photo text editor, you need to be careful about every element that is across the photo. Thus, to make your photos look perfect with the added text, you should be aware of the few tips that are featured below:
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### 1\. Understanding the Perspective
-
-Adding text as a perspective is believed to be an inclusive way of providing viewers with the idea of the image and helping them understand it to the fullest. If you are looking forward to writing a text on photos,you can give your text a little angle and appearance according to the image shoot for a good illusion.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
-![understand image perspective](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-9.jpg)
-
-### 2\. Blending in with the Photo’s Properties
-
-It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![ blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
-
-### 3\. Look for Negative Space
-
-When you consider adding text across a photo, it is highly advised that you should always go for an option that contains a general space for covering. Often referred to as negative space, utilizing that space for the text may be the perfect way that you can consider writing a text on photos. This puts no effect on the photo and helps the user display the whole idea with prominence.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-![add text in negative space](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-11.jpg)
-
-### 4\. Framing the Text
-
-If you go for prominence, you should always use elements that are meant for bringing prominence. Text that is to be highlighted with purity across a photo should be framed rather than any other tactful technique. This helps you create a clear focal point while sustaining the quality of the image. Following this, it also keeps a good view across the photo as a subjective associate picture.
-
-![frame the text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-12.jpg)
-
-### 5\. Control your Sizes and Styles
-
-Make sure that you always select a font size or style that is relevant to the photo. The use of inappropriate sizes and styles in photos takes away the essence of the picture. A balance across these traits is essential for the user to bring. Capture the viewers' attention without compromising the quality of the photo itself.
-
-![select accurate font size and style](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## The Bottom Line
-
-The best illustration of images is not possible without adding typography to them. People add text to the images to share social media posts or create poster events. Read this article to get a clear picture of how to write text on photos through powerful photo text editors.
-
-02 [How to Edit Text on Photo on iPhone and Android Phone?](#part2)
-
-03 [Basic Tips to Edit Text on Photo with Ease](#part3)
-
-## Part 1: How to Edit Text on Photo Online?
-
-Do you want to add and edit text on picture online? Use [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/) as an incredible photo text editor app to conveniently add text to your images. Individuals can design their images, YouTube thumbnails, and graphics by adding stylish and vibrant text to them. The user interface of PixStudio photo text editor online is simple and quick to use, and non-professionals can begin anytime to design their images.
-
-You can use their templates that are available for separate categories such as invitations, posters, and social media posts. Afterward, you can select the font, color, style, and size of the text through the options and can easily make your image captivating. The elements on their pre-established templates are extremely eye-catchy and can give your image an artistic look with no effort.
-
-Once done with making all the alterations, you can download the customized text image within seconds. To add text to images through Wondershare PixStudio, the steps are:
-
-Step 1: Select the Design
-
-Navigate to the Wondershare PixStudio website and tap on “Start Design” after creating your account. From here, click on the “Create a Design” button to select a design template size such as a YouTube thumbnail, event poster, ticket, and Instagram post. To design an Instagram post, tap on its design template size.
-
-![select canvas size](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-1.jpg)
-
-Step 2: Explore the Templates
-
-The pre-designed templates of the Instagram post will be displayed on your screen. There will be tons of options, so pick and choose your preferred style carefully by clicking on it. Click on the template and adjust and position the elements of the template manually.
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
-![ choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
-
-Step 3: Upload your Image (Optional)
-
-You can also upload the photo on which you want to add the text to design it. Access the “Upload” tab from the left sidebar and click on “Upload an image,” and then add the image to the canvas.
-
 ![upload your own image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-3.jpg)
 
 Step 4: Add or Adjust the Text
@@ -358,9 +68,6 @@ Once done with all the photo designing, click on "Download" and select the forma
 
 ![download the edited image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Part 2: How to Edit Text on Photo on iPhone and Android Phone?
 
 Do you want to make quick edits through the photo text editor app on your mobile phone? People need photo text editors specially designed for their smartphones to create and design attractive posts instantly. In this part, we will recommend a game-changer text editor that you can easily install on your mobile devices and can execute designing without any professional assistance.
@@ -373,151 +80,14 @@ Step 1: Load the New Image
 
 Begin with downloading the app on your phone and then tap on the "Camera" icon to upload the image from the phone or click a new picture. Select the image from the gallery, and it will be automatically uploaded to the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on camera icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-6.jpg)
 
-Step 2: Click to Add Text
-
-Click on anywhere on the photo to add the text to the photo. Type the text you want to enter on the pop-up menu and adjust it by selecting its position and font. Tap on "Done," and then from the given options, tilt and move the text box according to your preference.
-
-![ write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
-
-Step 3: Save the Text Image
-
-After making all the changes, tap on the “Share” icon to save the image on your phone or share it on social media with your friends and family.
-
-![tap share icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-8.jpg)
-
-## Part 3: Basic Tips to Edit Text on Photo with Ease
-
-There are multiple tips that can be employed for a clear display of text across a photo. Being a photo text editor, you need to be careful about every element that is across the photo. Thus, to make your photos look perfect with the added text, you should be aware of the few tips that are featured below:
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-### 1\. Understanding the Perspective
-
-Adding text as a perspective is believed to be an inclusive way of providing viewers with the idea of the image and helping them understand it to the fullest. If you are looking forward to writing a text on photos,you can give your text a little angle and appearance according to the image shoot for a good illusion.
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
-![understand image perspective](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-9.jpg)
-
-### 2\. Blending in with the Photo’s Properties
-
-It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
-
-![ blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
-
-### 3\. Look for Negative Space
-
-When you consider adding text across a photo, it is highly advised that you should always go for an option that contains a general space for covering. Often referred to as negative space, utilizing that space for the text may be the perfect way that you can consider writing a text on photos. This puts no effect on the photo and helps the user display the whole idea with prominence.
-
-![add text in negative space](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### 4\. Framing the Text
-
-If you go for prominence, you should always use elements that are meant for bringing prominence. Text that is to be highlighted with purity across a photo should be framed rather than any other tactful technique. This helps you create a clear focal point while sustaining the quality of the image. Following this, it also keeps a good view across the photo as a subjective associate picture.
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-![frame the text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-### 5\. Control your Sizes and Styles
-
-Make sure that you always select a font size or style that is relevant to the photo. The use of inappropriate sizes and styles in photos takes away the essence of the picture. A balance across these traits is essential for the user to bring. Capture the viewers' attention without compromising the quality of the photo itself.
-
-![select accurate font size and style](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-## The Bottom Line
-
-The best illustration of images is not possible without adding typography to them. People add text to the images to share social media posts or create poster events. Read this article to get a clear picture of how to write text on photos through powerful photo text editors.
-
-02 [How to Edit Text on Photo on iPhone and Android Phone?](#part2)
-
-03 [Basic Tips to Edit Text on Photo with Ease](#part3)
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
-## Part 1: How to Edit Text on Photo Online?
-
-Do you want to add and edit text on picture online? Use [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/) as an incredible photo text editor app to conveniently add text to your images. Individuals can design their images, YouTube thumbnails, and graphics by adding stylish and vibrant text to them. The user interface of PixStudio photo text editor online is simple and quick to use, and non-professionals can begin anytime to design their images.
-
-You can use their templates that are available for separate categories such as invitations, posters, and social media posts. Afterward, you can select the font, color, style, and size of the text through the options and can easily make your image captivating. The elements on their pre-established templates are extremely eye-catchy and can give your image an artistic look with no effort.
-
-Once done with making all the alterations, you can download the customized text image within seconds. To add text to images through Wondershare PixStudio, the steps are:
-
-Step 1: Select the Design
-
-Navigate to the Wondershare PixStudio website and tap on “Start Design” after creating your account. From here, click on the “Create a Design” button to select a design template size such as a YouTube thumbnail, event poster, ticket, and Instagram post. To design an Instagram post, tap on its design template size.
-
-![select canvas size](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-1.jpg)
-
-Step 2: Explore the Templates
-
-The pre-designed templates of the Instagram post will be displayed on your screen. There will be tons of options, so pick and choose your preferred style carefully by clicking on it. Click on the template and adjust and position the elements of the template manually.
-
-![ choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
-
-Step 3: Upload your Image (Optional)
-
-You can also upload the photo on which you want to add the text to design it. Access the “Upload” tab from the left sidebar and click on “Upload an image,” and then add the image to the canvas.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![upload your own image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-3.jpg)
-
-Step 4: Add or Adjust the Text
-
-Now, open the “Text” tab and select the desired font style and size from it. You can change the size, opacity, color, position, and font of the added text. You can edit the pre-added text of the templates as well.
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
-![add and customize text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-4.jpg)
-
-Step 5: Export the Edited Image
-
-Once done with all the photo designing, click on "Download" and select the format to save the image on your device. The downloading process won't take much time
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
-![download the edited image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-5.jpg)
-
-## Part 2: How to Edit Text on Photo on iPhone and Android Phone?
-
-Do you want to make quick edits through the photo text editor app on your mobile phone? People need photo text editors specially designed for their smartphones to create and design attractive posts instantly. In this part, we will recommend a game-changer text editor that you can easily install on your mobile devices and can execute designing without any professional assistance.
-
-This photo text editor has more than 400 style fonts, and also you have options to install other fonts as well. You don't need to worry about ads and bugs as this app is constantly trying to improve itself. The important features of this tool include letter spacing, line spacing, text stroke color, and text background colors. Through their manual controls, you can precisely add text to their images with a few clicks.
-
-Go and try Phonto text editor to design your images and posts on your phones easily. This editor app is highly compatible with [iOS](https://apps.apple.com/us/app/phonto-text-on-photos/id438429273) and [Android](https://play.google.com/store/apps/details?id=com.youthhr.phonto&hl=en&gl=US) users and has a quick responsive interface. To write text on photo through the Phonto editor, read the following instructions:
-
-Step 1: Load the New Image
-
-Begin with downloading the app on your phone and then tap on the "Camera" icon to upload the image from the phone or click a new picture. Select the image from the gallery, and it will be automatically uploaded to the tool.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
-![tap on camera icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-6.jpg)
 
 Step 2: Click to Add Text
 
@@ -532,24 +102,16 @@ After making all the changes, tap on the “Share” icon to save the image on y
 ![tap share icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-8.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Basic Tips to Edit Text on Photo with Ease
 
 There are multiple tips that can be employed for a clear display of text across a photo. Being a photo text editor, you need to be careful about every element that is across the photo. Thus, to make your photos look perfect with the added text, you should be aware of the few tips that are featured below:
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Understanding the Perspective
 
 Adding text as a perspective is believed to be an inclusive way of providing viewers with the idea of the image and helping them understand it to the fullest. If you are looking forward to writing a text on photos,you can give your text a little angle and appearance according to the image shoot for a good illusion.
@@ -557,8 +119,12 @@ Adding text as a perspective is believed to be an inclusive way of providing vie
 ![understand image perspective](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Blending in with the Photo’s Properties
 
 It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
@@ -575,19 +141,371 @@ When you consider adding text across a photo, it is highly advised that you shou
 
 If you go for prominence, you should always use elements that are meant for bringing prominence. Text that is to be highlighted with purity across a photo should be framed rather than any other tactful technique. This helps you create a clear focal point while sustaining the quality of the image. Following this, it also keeps a good view across the photo as a subjective associate picture.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![frame the text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-12.jpg)
 
 ### 5\. Control your Sizes and Styles
 
 Make sure that you always select a font size or style that is relevant to the photo. The use of inappropriate sizes and styles in photos takes away the essence of the picture. A balance across these traits is essential for the user to bring. Capture the viewers' attention without compromising the quality of the photo itself.
 
+![select accurate font size and style](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-13.jpg)
+
+## The Bottom Line
+
+The best illustration of images is not possible without adding typography to them. People add text to the images to share social media posts or create poster events. Read this article to get a clear picture of how to write text on photos through powerful photo text editors.
+
+02 [How to Edit Text on Photo on iPhone and Android Phone?](#part2)
+
+03 [Basic Tips to Edit Text on Photo with Ease](#part3)
+
+## Part 1: How to Edit Text on Photo Online?
+
+Do you want to add and edit text on picture online? Use [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/) as an incredible photo text editor app to conveniently add text to your images. Individuals can design their images, YouTube thumbnails, and graphics by adding stylish and vibrant text to them. The user interface of PixStudio photo text editor online is simple and quick to use, and non-professionals can begin anytime to design their images.
+
+You can use their templates that are available for separate categories such as invitations, posters, and social media posts. Afterward, you can select the font, color, style, and size of the text through the options and can easily make your image captivating. The elements on their pre-established templates are extremely eye-catchy and can give your image an artistic look with no effort.
+
+Once done with making all the alterations, you can download the customized text image within seconds. To add text to images through Wondershare PixStudio, the steps are:
+
+Step 1: Select the Design
+
+Navigate to the Wondershare PixStudio website and tap on “Start Design” after creating your account. From here, click on the “Create a Design” button to select a design template size such as a YouTube thumbnail, event poster, ticket, and Instagram post. To design an Instagram post, tap on its design template size.
+
+![select canvas size](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-1.jpg)
+
+Step 2: Explore the Templates
+
+The pre-designed templates of the Instagram post will be displayed on your screen. There will be tons of options, so pick and choose your preferred style carefully by clicking on it. Click on the template and adjust and position the elements of the template manually.
+
+![ choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
+
+Step 3: Upload your Image (Optional)
+
+You can also upload the photo on which you want to add the text to design it. Access the “Upload” tab from the left sidebar and click on “Upload an image,” and then add the image to the canvas.
+
+![upload your own image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-3.jpg)
+
+Step 4: Add or Adjust the Text
+
+Now, open the “Text” tab and select the desired font style and size from it. You can change the size, opacity, color, position, and font of the added text. You can edit the pre-added text of the templates as well.
+
+![add and customize text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-4.jpg)
+
+Step 5: Export the Edited Image
+
+Once done with all the photo designing, click on "Download" and select the format to save the image on your device. The downloading process won't take much time
+
+![download the edited image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-5.jpg)
+
+## Part 2: How to Edit Text on Photo on iPhone and Android Phone?
+
+Do you want to make quick edits through the photo text editor app on your mobile phone? People need photo text editors specially designed for their smartphones to create and design attractive posts instantly. In this part, we will recommend a game-changer text editor that you can easily install on your mobile devices and can execute designing without any professional assistance.
+
+This photo text editor has more than 400 style fonts, and also you have options to install other fonts as well. You don't need to worry about ads and bugs as this app is constantly trying to improve itself. The important features of this tool include letter spacing, line spacing, text stroke color, and text background colors. Through their manual controls, you can precisely add text to their images with a few clicks.
+
+Go and try Phonto text editor to design your images and posts on your phones easily. This editor app is highly compatible with [iOS](https://apps.apple.com/us/app/phonto-text-on-photos/id438429273) and [Android](https://play.google.com/store/apps/details?id=com.youthhr.phonto&hl=en&gl=US) users and has a quick responsive interface. To write text on photo through the Phonto editor, read the following instructions:
+
+Step 1: Load the New Image
+
+Begin with downloading the app on your phone and then tap on the "Camera" icon to upload the image from the phone or click a new picture. Select the image from the gallery, and it will be automatically uploaded to the tool.
+
+![tap on camera icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-6.jpg)
+
+Step 2: Click to Add Text
+
+Click on anywhere on the photo to add the text to the photo. Type the text you want to enter on the pop-up menu and adjust it by selecting its position and font. Tap on "Done," and then from the given options, tilt and move the text box according to your preference.
+
+![ write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
+
+Step 3: Save the Text Image
+
+After making all the changes, tap on the “Share” icon to save the image on your phone or share it on social media with your friends and family.
+
+![tap share icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-8.jpg)
+
+## Part 3: Basic Tips to Edit Text on Photo with Ease
+
+There are multiple tips that can be employed for a clear display of text across a photo. Being a photo text editor, you need to be careful about every element that is across the photo. Thus, to make your photos look perfect with the added text, you should be aware of the few tips that are featured below:
+
+### 1\. Understanding the Perspective
+
+Adding text as a perspective is believed to be an inclusive way of providing viewers with the idea of the image and helping them understand it to the fullest. If you are looking forward to writing a text on photos,you can give your text a little angle and appearance according to the image shoot for a good illusion.
+
+![understand image perspective](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 2\. Blending in with the Photo’s Properties
+
+It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
+
+![ blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
+
+### 3\. Look for Negative Space
+
+When you consider adding text across a photo, it is highly advised that you should always go for an option that contains a general space for covering. Often referred to as negative space, utilizing that space for the text may be the perfect way that you can consider writing a text on photos. This puts no effect on the photo and helps the user display the whole idea with prominence.
+
+![add text in negative space](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-11.jpg)
+
+### 4\. Framing the Text
+
+If you go for prominence, you should always use elements that are meant for bringing prominence. Text that is to be highlighted with purity across a photo should be framed rather than any other tactful technique. This helps you create a clear focal point while sustaining the quality of the image. Following this, it also keeps a good view across the photo as a subjective associate picture.
+
+![frame the text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-12.jpg)
+
+### 5\. Control your Sizes and Styles
+
+Make sure that you always select a font size or style that is relevant to the photo. The use of inappropriate sizes and styles in photos takes away the essence of the picture. A balance across these traits is essential for the user to bring. Capture the viewers' attention without compromising the quality of the photo itself.
+
+![select accurate font size and style](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-13.jpg)
+
+## The Bottom Line
+
+The best illustration of images is not possible without adding typography to them. People add text to the images to share social media posts or create poster events. Read this article to get a clear picture of how to write text on photos through powerful photo text editors.
+
+02 [How to Edit Text on Photo on iPhone and Android Phone?](#part2)
+
+03 [Basic Tips to Edit Text on Photo with Ease](#part3)
+
+## Part 1: How to Edit Text on Photo Online?
+
+Do you want to add and edit text on picture online? Use [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/) as an incredible photo text editor app to conveniently add text to your images. Individuals can design their images, YouTube thumbnails, and graphics by adding stylish and vibrant text to them. The user interface of PixStudio photo text editor online is simple and quick to use, and non-professionals can begin anytime to design their images.
+
+You can use their templates that are available for separate categories such as invitations, posters, and social media posts. Afterward, you can select the font, color, style, and size of the text through the options and can easily make your image captivating. The elements on their pre-established templates are extremely eye-catchy and can give your image an artistic look with no effort.
+
+Once done with making all the alterations, you can download the customized text image within seconds. To add text to images through Wondershare PixStudio, the steps are:
+
+Step 1: Select the Design
+
+Navigate to the Wondershare PixStudio website and tap on “Start Design” after creating your account. From here, click on the “Create a Design” button to select a design template size such as a YouTube thumbnail, event poster, ticket, and Instagram post. To design an Instagram post, tap on its design template size.
+
+![select canvas size](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-1.jpg)
+
+Step 2: Explore the Templates
+
+The pre-designed templates of the Instagram post will be displayed on your screen. There will be tons of options, so pick and choose your preferred style carefully by clicking on it. Click on the template and adjust and position the elements of the template manually.
+
+![ choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
+
+Step 3: Upload your Image (Optional)
+
+You can also upload the photo on which you want to add the text to design it. Access the “Upload” tab from the left sidebar and click on “Upload an image,” and then add the image to the canvas.
+
+![upload your own image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-3.jpg)
+
+Step 4: Add or Adjust the Text
+
+Now, open the “Text” tab and select the desired font style and size from it. You can change the size, opacity, color, position, and font of the added text. You can edit the pre-added text of the templates as well.
+
+![add and customize text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 5: Export the Edited Image
+
+Once done with all the photo designing, click on "Download" and select the format to save the image on your device. The downloading process won't take much time
+
+![download the edited image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-5.jpg)
+
+## Part 2: How to Edit Text on Photo on iPhone and Android Phone?
+
+Do you want to make quick edits through the photo text editor app on your mobile phone? People need photo text editors specially designed for their smartphones to create and design attractive posts instantly. In this part, we will recommend a game-changer text editor that you can easily install on your mobile devices and can execute designing without any professional assistance.
+
+This photo text editor has more than 400 style fonts, and also you have options to install other fonts as well. You don't need to worry about ads and bugs as this app is constantly trying to improve itself. The important features of this tool include letter spacing, line spacing, text stroke color, and text background colors. Through their manual controls, you can precisely add text to their images with a few clicks.
+
+Go and try Phonto text editor to design your images and posts on your phones easily. This editor app is highly compatible with [iOS](https://apps.apple.com/us/app/phonto-text-on-photos/id438429273) and [Android](https://play.google.com/store/apps/details?id=com.youthhr.phonto&hl=en&gl=US) users and has a quick responsive interface. To write text on photo through the Phonto editor, read the following instructions:
+
+Step 1: Load the New Image
+
+Begin with downloading the app on your phone and then tap on the "Camera" icon to upload the image from the phone or click a new picture. Select the image from the gallery, and it will be automatically uploaded to the tool.
+
+![tap on camera icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-6.jpg)
+
+Step 2: Click to Add Text
+
+Click on anywhere on the photo to add the text to the photo. Type the text you want to enter on the pop-up menu and adjust it by selecting its position and font. Tap on "Done," and then from the given options, tilt and move the text box according to your preference.
+
+![ write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
+
+Step 3: Save the Text Image
+
+After making all the changes, tap on the “Share” icon to save the image on your phone or share it on social media with your friends and family.
+
+![tap share icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-8.jpg)
+
+## Part 3: Basic Tips to Edit Text on Photo with Ease
+
+There are multiple tips that can be employed for a clear display of text across a photo. Being a photo text editor, you need to be careful about every element that is across the photo. Thus, to make your photos look perfect with the added text, you should be aware of the few tips that are featured below:
+
+### 1\. Understanding the Perspective
+
+Adding text as a perspective is believed to be an inclusive way of providing viewers with the idea of the image and helping them understand it to the fullest. If you are looking forward to writing a text on photos,you can give your text a little angle and appearance according to the image shoot for a good illusion.
+
+![understand image perspective](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2\. Blending in with the Photo’s Properties
+
+It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
+
+![ blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
+
+### 3\. Look for Negative Space
+
+When you consider adding text across a photo, it is highly advised that you should always go for an option that contains a general space for covering. Often referred to as negative space, utilizing that space for the text may be the perfect way that you can consider writing a text on photos. This puts no effect on the photo and helps the user display the whole idea with prominence.
+
+![add text in negative space](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-11.jpg)
+
+### 4\. Framing the Text
+
+If you go for prominence, you should always use elements that are meant for bringing prominence. Text that is to be highlighted with purity across a photo should be framed rather than any other tactful technique. This helps you create a clear focal point while sustaining the quality of the image. Following this, it also keeps a good view across the photo as a subjective associate picture.
+
+![frame the text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-12.jpg)
+
+### 5\. Control your Sizes and Styles
+
+Make sure that you always select a font size or style that is relevant to the photo. The use of inappropriate sizes and styles in photos takes away the essence of the picture. A balance across these traits is essential for the user to bring. Capture the viewers' attention without compromising the quality of the photo itself.
+
+![select accurate font size and style](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-13.jpg)
+
+## The Bottom Line
+
+The best illustration of images is not possible without adding typography to them. People add text to the images to share social media posts or create poster events. Read this article to get a clear picture of how to write text on photos through powerful photo text editors.
+
+02 [How to Edit Text on Photo on iPhone and Android Phone?](#part2)
+
+03 [Basic Tips to Edit Text on Photo with Ease](#part3)
+
+## Part 1: How to Edit Text on Photo Online?
+
+Do you want to add and edit text on picture online? Use [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/) as an incredible photo text editor app to conveniently add text to your images. Individuals can design their images, YouTube thumbnails, and graphics by adding stylish and vibrant text to them. The user interface of PixStudio photo text editor online is simple and quick to use, and non-professionals can begin anytime to design their images.
+
+You can use their templates that are available for separate categories such as invitations, posters, and social media posts. Afterward, you can select the font, color, style, and size of the text through the options and can easily make your image captivating. The elements on their pre-established templates are extremely eye-catchy and can give your image an artistic look with no effort.
+
+Once done with making all the alterations, you can download the customized text image within seconds. To add text to images through Wondershare PixStudio, the steps are:
+
+Step 1: Select the Design
+
+Navigate to the Wondershare PixStudio website and tap on “Start Design” after creating your account. From here, click on the “Create a Design” button to select a design template size such as a YouTube thumbnail, event poster, ticket, and Instagram post. To design an Instagram post, tap on its design template size.
+
+![select canvas size](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-1.jpg)
+
+Step 2: Explore the Templates
+
+The pre-designed templates of the Instagram post will be displayed on your screen. There will be tons of options, so pick and choose your preferred style carefully by clicking on it. Click on the template and adjust and position the elements of the template manually.
+
+![ choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
+
+Step 3: Upload your Image (Optional)
+
+You can also upload the photo on which you want to add the text to design it. Access the “Upload” tab from the left sidebar and click on “Upload an image,” and then add the image to the canvas.
+
+![upload your own image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-3.jpg)
+
+Step 4: Add or Adjust the Text
+
+Now, open the “Text” tab and select the desired font style and size from it. You can change the size, opacity, color, position, and font of the added text. You can edit the pre-added text of the templates as well.
+
+![add and customize text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-4.jpg)
+
+Step 5: Export the Edited Image
+
+Once done with all the photo designing, click on "Download" and select the format to save the image on your device. The downloading process won't take much time
+
+![download the edited image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 2: How to Edit Text on Photo on iPhone and Android Phone?
+
+Do you want to make quick edits through the photo text editor app on your mobile phone? People need photo text editors specially designed for their smartphones to create and design attractive posts instantly. In this part, we will recommend a game-changer text editor that you can easily install on your mobile devices and can execute designing without any professional assistance.
+
+This photo text editor has more than 400 style fonts, and also you have options to install other fonts as well. You don't need to worry about ads and bugs as this app is constantly trying to improve itself. The important features of this tool include letter spacing, line spacing, text stroke color, and text background colors. Through their manual controls, you can precisely add text to their images with a few clicks.
+
+Go and try Phonto text editor to design your images and posts on your phones easily. This editor app is highly compatible with [iOS](https://apps.apple.com/us/app/phonto-text-on-photos/id438429273) and [Android](https://play.google.com/store/apps/details?id=com.youthhr.phonto&hl=en&gl=US) users and has a quick responsive interface. To write text on photo through the Phonto editor, read the following instructions:
+
+Step 1: Load the New Image
+
+Begin with downloading the app on your phone and then tap on the "Camera" icon to upload the image from the phone or click a new picture. Select the image from the gallery, and it will be automatically uploaded to the tool.
+
+![tap on camera icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-6.jpg)
+
+Step 2: Click to Add Text
+
+Click on anywhere on the photo to add the text to the photo. Type the text you want to enter on the pop-up menu and adjust it by selecting its position and font. Tap on "Done," and then from the given options, tilt and move the text box according to your preference.
+
+![ write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
+
+Step 3: Save the Text Image
+
+After making all the changes, tap on the “Share” icon to save the image on your phone or share it on social media with your friends and family.
+
+![tap share icon](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 3: Basic Tips to Edit Text on Photo with Ease
+
+There are multiple tips that can be employed for a clear display of text across a photo. Being a photo text editor, you need to be careful about every element that is across the photo. Thus, to make your photos look perfect with the added text, you should be aware of the few tips that are featured below:
+
+### 1\. Understanding the Perspective
+
+Adding text as a perspective is believed to be an inclusive way of providing viewers with the idea of the image and helping them understand it to the fullest. If you are looking forward to writing a text on photos,you can give your text a little angle and appearance according to the image shoot for a good illusion.
+
+![understand image perspective](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-9.jpg)
+
+### 2\. Blending in with the Photo’s Properties
+
+It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
+
+![ blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
+
+### 3\. Look for Negative Space
+
+When you consider adding text across a photo, it is highly advised that you should always go for an option that contains a general space for covering. Often referred to as negative space, utilizing that space for the text may be the perfect way that you can consider writing a text on photos. This puts no effect on the photo and helps the user display the whole idea with prominence.
+
+![add text in negative space](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-11.jpg)
+
+### 4\. Framing the Text
+
+If you go for prominence, you should always use elements that are meant for bringing prominence. Text that is to be highlighted with purity across a photo should be framed rather than any other tactful technique. This helps you create a clear focal point while sustaining the quality of the image. Following this, it also keeps a good view across the photo as a subjective associate picture.
+
+![frame the text](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-12.jpg)
+
+### 5\. Control your Sizes and Styles
+
+Make sure that you always select a font size or style that is relevant to the photo. The use of inappropriate sizes and styles in photos takes away the essence of the picture. A balance across these traits is essential for the user to bring. Capture the viewers' attention without compromising the quality of the photo itself.
+
 ![select accurate font size and style](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-13.jpg)
 
 ## The Bottom Line
@@ -616,5 +534,22 @@ The best illustration of images is not possible without adding typography to the
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-lg-360-camera-mastered-a-full-review/"><u>[Updated] LG 360 Camera Mastered A Full Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterful-14-textual-movement-illustrations/"><u>[Updated] Masterful 14 Textual Movement Illustrations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-brand-collaboration-on-youtube/"><u>[Updated] Mastering Brand Collaboration on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masters-tutorial-total-deep-dive-into-xmedia-suite-workshop/"><u>2024 Approved Master's Tutorial Total Deep Dive Into XMedia Suite Workshop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sculpting-soundscapes-gradual-volume-reduction/"><u>2024 Approved Sculpting Soundscapes Gradual Volume Reduction</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-securing-a-seamless-srt-upload-experience-on-social-networks/"><u>2024 Approved Securing a Seamless SRT Upload Experience on Social Networks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevate-your-imagery-top-lights-tactics-on-iphones-for-2024/"><u>Elevate Your Imagery Top Lights Tactics on iPhones for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-laserjet-windows-11108-hp-laserjet-5200-printer-driver-download-guide/"><u>HP LaserJet 지정자 드라이버를 Windows 11/10/8에서 다운로드하기 위해 항상 예비: HP LaserJet 5200 Printer Driver Download Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-a-beginners-guide-to-jujutsu-kaisen-on-tiktok/"><u>In 2024, A Beginner’s Guide to Jujutsu Kaisen on TikTok</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-xcover-7-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-starlight-and-storms-in-high-fidelity-hdr-sky-websites/"><u>In 2024, Starlight and Storms in High Fidelity HDR Sky Websites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2-grosser-kinderfilm-highlights-auf-disneyplus-unser-top-5/"><u>July 2 Großer Kinderfilm-Highlights Auf Disney+: Unser Top 5</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-entry-points-creating-an-account/"><u>Twitters' Entry Points Creating an Account</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-fcp-voice-over-guide-tips-tricks-and-best-practices/"><u>Updated In 2024, The Ultimate FCP Voice Over Guide Tips, Tricks, and Best Practices</u></a></li>
+</ul></div>
 

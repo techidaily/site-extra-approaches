@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Integrating Secondary Shots  Tips and Tricks\""
-date: 2024-10-17T19:18:07.741Z
-updated: 2024-10-19T21:06:28.154Z
+date: 2024-10-20T16:32:31.901Z
+updated: 2024-10-25T17:34:49.424Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,10 @@ On the other hand, cutaways can show how different people react to what is being
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
@@ -60,10 +60,10 @@ Aerial B roll is the solution when you like to show your viewers where your film
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
@@ -73,6 +73,13 @@ B roll footage can be used to tell a story that supports the narrative of your v
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
 
@@ -86,28 +93,15 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -144,22 +138,19 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-identifying-10-quick-growth-youtube-blogs-that-encourage/"><u>[Updated] Identifying 10 Quick-Growth YouTube Blogs that Encourage</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mastery-of-memes-how-to-download-twitters-animated-images/"><u>[Updated] In 2024, Mastery of Memes How to Download Twitter's Animated Images</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-plot-coders-space/"><u>2024 Approved Leading Plot Coders Space</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-gopro-studio-ultimate-video-edits-step-by-step/"><u>2024 Approved Mastering GoPro Studio Ultimate Video Edits Step-by-Step</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiered-5-screen-options-for-ps5-gamers/"><u>2024 Approved Premiered 5 Screen Options for PS5 Gamers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-recording-internet-radios-simplified-tips-and-tricks/"><u>2024 Approved Recording Internet Radios Simplified Tips and Tricks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpen-your-skills-with-these-essential-pixlr-tips/"><u>2024 Approved Sharpen Your Skills with These Essential Pixlr Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-infinix-gt-10-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Infinix GT 10 Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/drone-racing-all-you-need-to-know-and-5-best-fpv-racing-drones-for-2024/"><u>Drone Racing All You Need to Know and 5 Best FPV Racing Drones for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-x6-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco X6 Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-edges-in-mobile-photography-best-phones-for-clear-videos/"><u>In 2024, Leading Edges in Mobile Photography Best Phones for Clear Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastery-in-making-advanced-tiktok-editing-techniques/"><u>In 2024, Mastery in Making Advanced TikTok Editing Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-navigate-and-binge-with-finesse-perfect-use-of-floating-window-in-netflix/"><u>In 2024, Navigate and Binge with Finesse Perfect Use of Floating Window in Netflix</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rgb-to-srgb-transition-what-it-means-for-visual-media/"><u>In 2024, Rgb to Srgb Transition What It Means for Visual Media</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-performance-choosing-the-right-components-with-toms-hardware/"><u>Precision Performance - Choosing the Right Components with Tom's Hardware</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-nomad-experience-high-fidelity-on-the-go-with-sonos/"><u>The Nomad Experience: High Fidelity on the Go with Sonos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-a-critical-review-of-top-no-cost-video-communication-apps-iosandroid/"><u>[New] In 2024, A Critical Review of Top No-Cost Video Communication Apps (iOS/Android)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-hue-transformations-in-post-production/"><u>[New] Mastering Hue Transformations in Post-Production</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peak-computing-powerhouses-the-best-on-the-market/"><u>[New] Peak Computing Powerhouses - The Best On the Market</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-the-art-of-smooth-ipad-video-recording-for-2024/"><u>[Updated] Mastering the Art of Smooth iPad Video Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capturing-the-moment-leading-recorder-analysis/"><u>2024 Approved Capturing the Moment Leading Recorder Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-intimate-perspectives-with-team-zooms/"><u>2024 Approved Intimate Perspectives with Team Zooms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-convertir-archivos-wtv-a-formato-de-video-online-sin-coste-guia-inmediata-con-movavi/"><u>Cómo Convertir Archivos WTV a Formato De Vídeo Online Sin Coste: Guía Inmediata Con Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-steadicam-brands-for-drones-and-camera-work/"><u>In 2024, Premium Steadicam Brands for Drones and Camera Work</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nokia-g310-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nokia G310 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-audio-format-switches-srt-to-ssa-and-more-for-2024/"><u>Mastering Audio Format Switches SRT to SSA & More for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-telegram-web-a-step-by-step-pathway-for-2024/"><u>Mastering Telegram Web A Step-by-Step Pathway for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimizing-conversational-ai-engagement-through-tailored-personas-in-chatgpt/"><u>Optimizing Conversational AI Engagement Through Tailored Personas in ChatGPT</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/sincronizar-eficientemente-sus-carpetas-tres-metodos-para-administrar-archivo-en-red-entre-ordenadores/"><u>Sincronizar Eficientemente Sus Carpetas: Tres Métodos Para Administrar Archivo en Red Entre Ordenadores</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/voice-assignment-verification/"><u>Voice Assignment Verification</u></a></li>
 </ul></div>
 

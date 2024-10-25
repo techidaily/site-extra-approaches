@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Slippery Surfaces  Olympic Winners of '22\""
-date: 2024-10-16T22:14:09.066Z
-updated: 2024-10-19T19:12:08.653Z
+date: 2024-10-20T17:18:14.191Z
+updated: 2024-10-25T19:56:15.385Z
 tags: 
   - screen-recording
   - ai video
@@ -36,22 +36,15 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
@@ -59,46 +52,47 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -156,20 +150,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pull-off-professional-video-edits-with-ken-burns-effect-for-2024/"><u>[New] Pull Off Professional Video Edits with Ken Burns Effect for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-social-streamers-guide-broadcast-from-phone-subscriber-free-edition/"><u>[New] Social Streamer's Guide Broadcast From Phone, Subscriber-Free Edition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reviewing-acid-pro-seeking-substitutes/"><u>[Updated] Reviewing ACID Pro Seeking Substitutes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mobile-audio-speed-the-fastest-app-list/"><u>2024 Approved Mobile Audio Speed The Fastest App List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-snipping-videophotographs-in-windows-11/"><u>2024 Approved Snipping Videophotographs in Windows 11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-turning-social-media-sounds-into-functional-phone-alarms/"><u>2024 Approved Turning Social Media Sounds Into Functional Phone Alarms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-tutorial-on-setting-up-and-making-calls-with-microsoft-teams-on-pcs/"><u>A Comprehensive Tutorial on Setting Up and Making Calls with Microsoft Teams on PCs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-moto-g14-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Moto G14 has native HEVC support?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi 12 5G</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-content-choice-conundrum-is-podcasting-right-or-should-you-go-for-youtube/"><u>In 2024, Content Choice Conundrum Is Podcasting Right, Or Should You Go for YouTube?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photography-made-easy-beginners-guide-to-lunapic/"><u>In 2024, Photography Made Easy Beginner’s Guide to LunaPic</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-the-revamped-echo-dot-gen-4-unveiled/"><u>In-Depth Analysis: The Revamped Echo Dot (Gen 4) Unveiled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-adobe-illustrator-adding-smooth-motion-blurs-for-2024/"><u>Mastering Adobe Illustrator Adding Smooth Motion Blurs for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pioneer-bdr-xd05b-blu-ray-drive-evaluation-examining-key-design-flaws/"><u>Pioneer BDR-XD05B Blu-Ray Drive Evaluation: Examining Key Design Flaws</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/retro-tech-treasure-for-2024/"><u>Retro Tech Treasure for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-dominance-plan-studio-protocol-vs-beta-update/"><u>[Updated] 2024 Approved Channel Dominance Plan Studio Protocol Vs. Beta Update</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-professional-gopro-cinematography/"><u>[Updated] Mastering the Art of Professional Gopro Cinematography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-image-transformation-via-smartphone-luts/"><u>[Updated] Simplified Image Transformation via Smartphone LUTs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-methods-to-add-a-secure-link-to-your-tiktok-profile/"><u>2024 Approved Masterful Methods to Add a Secure Link to Your TikTok Profile</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-note-30-vip-racing-edition-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix Note 30 VIP Racing Edition Device SIM</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/to-fun-converting-youtube-videos-to-playful-download-free-gifs-for-2024/"><u>Flip to Fun Converting YouTube Videos to Playful, Download-Free GIFs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-epson-ds-c89-series-drivers-on-windows-11-64-bit-compatibility-and-installation-guide/"><u>Get Official Epson DS-C89 Series Drivers on Windows 11 (64-Bit): Compatibility & Installation Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-love-and-light-nine-essential-filmora-elements/"><u>In 2024, Love and Light Nine Essential Filmora Elements</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ode-to-open-minds-transitioning-playlists-freely/"><u>In 2024, Ode to Open Minds Transitioning Playlists Freely</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-portable-picture-pixels-windows-mac-best-photo-to-cartoon-converter/"><u>In 2024, Portable Picture Pixels Windows, Mac - Best Photo-to-Cartoon Converter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-steps-for-crafting-professional-srt-files/"><u>In 2024, Simplified Steps for Crafting Professional SRT Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/principles-of-crafting-alluring-vlog-storylines-for-2024/"><u>Principles of Crafting Alluring Vlog Storylines for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ranking-the-best-mac-recording-alternatives-to-bandicam-for-2024/"><u>Ranking the Best Mac Recording Alternatives to Bandicam for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-a-broken-symbol-functionality-in-typing-devices/"><u>Solutions for a Broken '@' Symbol Functionality in Typing Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-iphones-guide-to-great-night-images-for-2024/"><u>The Essential iPhones Guide to Great Night Images for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-is-now-with-the-rumored-tesla-phone-delving-into-release-schedule-and-potential-costs/"><u>The Future Is Now with the Rumored 'Tesla Phone': Delving Into Release Schedule and Potential Costs</u></a></li>
 </ul></div>
 

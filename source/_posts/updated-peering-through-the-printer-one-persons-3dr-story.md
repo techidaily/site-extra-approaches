@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Peering Through the Printer  One Person’s '3DR' Story\""
-date: 2024-10-12T22:17:05.960Z
-updated: 2024-10-19T19:28:44.897Z
+date: 2024-10-19T18:51:40.307Z
+updated: 2024-10-25T16:17:00.682Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -98,16 +98,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -125,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -146,21 +140,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-expressive-satire-kapwings-memetic-tool/"><u>[New] Expressive Satire Kapwing’s Memetic Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-impactful-online-ads-on-a-limited-budget/"><u>[New] In 2024, How to Create Impactful Online Ads on a Limited Budget</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-supreme-storytelling-spanning-eight-movie-types/"><u>[New] Supreme Storytelling Spanning Eight Movie Types</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-introduction-to-interactive-graphic-design-for-2024/"><u>[Updated] Introduction to Interactive Graphic Design for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-pictorial-storage-hubs/"><u>2024 Approved Leading Pictorial Storage Hubs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-converting-speech-to-text-with-google-docs/"><u>2024 Approved Mastering the Art of Converting Speech to Text with Google Docs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-musical-alchemy-transforming-previews-into-memories/"><u>2024 Approved Musical Alchemy Transforming Previews Into Memories</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-plunge-into-metaverse-top-8-high-tech-goggles-and-helmets/"><u>2024 Approved Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/handbrake-essentials-how-to-effortlessly-edit-subtitles-for-any-video/"><u>HandBrake Essentials: How to Effortlessly Edit Subtitles for Any Video</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-infinix-gt-10-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Infinix GT 10 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-vivo-s18-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo S18 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mold-amusement-pictures-for-giphy-platform/"><u>In 2024, Mold Amusement Pictures for Giphy Platform</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-photo-curvature-techniques-in-ps/"><u>In 2024, Navigating Photo Curvature Techniques in PS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-reimagined-classrooms-through-vr-technology/"><u>In 2024, Reimagined Classrooms Through VR Technology</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-realme-c53-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Realme C53 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/virtual-frontiers-current-trends-in-vr-tech/"><u>Virtual Frontiers Current Trends in VR Tech</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pc-videography-leveraging-windows-hdr/"><u>[New] PC Videography Leveraging Windows HDR</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-complete-breakdown-of-downloading-status-videos-on-fb/"><u>[New] The Complete Breakdown of Downloading Status Videos on Fb</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-guide-to-the-enhanced-2024-video-show-app/"><u>[Updated] Full Guide to the Enhanced 2024 Video Show App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-effective-interview-techniques/"><u>[Updated] Mastering Effective Interview Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-implementing-closed-captions-on-social-video-platforms-snapchat/"><u>2024 Approved Implementing Closed Captions on Social Video Platforms (Snapchat)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-transition-from-photography-to-video-with-pixiz/"><u>2024 Approved Seamless Transition From Photography to Video with Pixiz</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>2024 Approved Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-aim-insights-into-the-world-of-early-online-messaging-with-aol-instant-messenger/"><u>Decoding AIM: Insights Into the World of Early Online Messaging with AOL Instant Messenger</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/defining-tablet-leadership-the-apple-ipad-pro-11-2018-edition-in-focus/"><u>Defining Tablet Leadership: The Apple iPad Pro 11 (2018 Edition) in Focus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-jovial-jingles-a-compilation-of-easy-download-links/"><u>In 2024, Jovial Jingles A Compilation of Easy Download Links</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-laughing-lineup-step-by-step-guide-to-funny-memes/"><u>In 2024, Laughing Lineup Step-by-Step Guide to Funny Memes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-progressive-array-of-engaging-queries-for-podcasters/"><u>In 2024, Progressive Array of Engaging Queries for Podcasters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-the-best-equipment-for-expeditions/"><u>In 2024, Selecting the Best Equipment for Expeditions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-inshot-pc-editing-made-easy-for-2024/"><u>Mastering Inshot PC Editing Made Easy for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-picture-preservation-websites-for-2024/"><u>Premier Picture Preservation Websites for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-x100-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo X100 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tops-in-audio-modification-software-echos-successor/"><u>Tops in Audio Modification Software Echo's Successor</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-free-video-cutting-software-for-divx-files/"><u>Updated Top-Rated Free Video Cutting Software for Divx Files</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-10-and-11-erfolgreicher-papierkorb-wiederaufbau-nach-versehentlichen-loschungen-meinwiederholen/"><u>Windows 10 & 11: Erfolgreicher Papierkorb-Wiederaufbau Nach Versehentlichen Löschungen – Meinwiederholen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Spectral Stories  Telling Tales Through Color for 2024\""
-date: 2024-10-17T16:46:21.394Z
-updated: 2024-10-19T21:43:40.393Z
+date: 2024-10-23T19:49:46.081Z
+updated: 2024-10-25T17:27:45.162Z
 tags: 
   - screen-recording
   - ai video
@@ -35,19 +35,6 @@ Color grading and color correction are processes that happen throughout postprod
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why is Color Grading Important?
 
@@ -83,6 +70,19 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
@@ -113,19 +113,6 @@ First, you need to select the specific video portion you want to change the colo
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * And I selected the end portion of the video. After that, choose the part of the video.
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
@@ -133,6 +120,13 @@ First, you need to select the specific video portion you want to change the colo
 ##### Step3Apply the color correction preset that you want then click ok
 
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You will notice that the color changes depending on your selected preset.
 
@@ -144,13 +138,6 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Using the Color Panel Window**
 
 ##### Step1To perform color correction in Filmora, switch to the Color tab
@@ -159,6 +146,13 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Color grading with Wondershare Filmora
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
@@ -166,10 +160,10 @@ Click the button Advanced at the lower corner, then the color grading window wil
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Color Histogram**
@@ -240,24 +234,22 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-laughs-in-a-click-building-hilarious-memes/"><u>[New] Laughs in a Click Building Hilarious Memes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-online-tools-select-your-new-photo-background/"><u>[New] Leading Online Tools Select Your New Photo Background</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-self-verification-on-instagram-does-it-serve-us/"><u>[New] Self-Verification on Instagram Does It Serve Us?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-easy-to-use-free-youtube-downloader-with-mp3-support/"><u>[Updated] 2024 Approved Easy-to-Use Free YouTube Downloader with MP3 Support</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insights-into-instagrams-maxed-out-videos/"><u>[Updated] 2024 Approved Insights Into Instagram's Maxed-Out Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ip-landscape-of-instagram-music/"><u>[Updated] In 2024, The IP Landscape of Instagram Music</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-insightful-pricing-comparison-for-cloud-platforms/"><u>[Updated] Insightful Pricing Comparison for Cloud Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfect-your-titling-skills-with-our-best-practices/"><u>[Updated] Perfect Your Titling Skills with Our Best Practices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-strategies-for-success-in-the-spotify-ad-arena/"><u>[Updated] Pioneering Strategies for Success in the Spotify Ad Arena</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-x7b-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor X7b Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-m34-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy M34 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-reno-8t-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 8T</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-must-have-3d-model-systems-in-animation/"><u>In 2024, Must-Have 3D Model Systems in Animation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-picture-driven-journey-maker/"><u>In 2024, Premier Picture-Driven Journey Maker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-starters-manual-to-mastering-screen-clarity/"><u>In 2024, Starter's Manual to Mastering Screen Clarity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/master-of-catchphrase-design-for-2024/"><u>Master of Catchphrase Design for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/packaging-perfection-strategies-for-stunning-first-touches/"><u>Packaging Perfection Strategies for Stunning First Touches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-website-design-with-artifice-intelligence-in-search-engines/"><u>Revolutionizing Website Design with Artifice Intelligence in Search Engines</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-stealthy-downloads-fastest-international-vpns-for-safe-torrenting/"><u>Ultimate Stealthy Downloads: Fastest International VPNs for Safe Torrenting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-a-compreayers-guide-to-selecting-a-top-4k-lens/"><u>[New] A Compreayer's Guide to Selecting a Top 4K Lens</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-stay-ahead-with-the-top-yt-thumbnail-techniques/"><u>[New] In 2024, Stay Ahead with the Top YT Thumbnail Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-scriptwriting-secrets-for-docu-films/"><u>[New] Scriptwriting Secrets for Docu-Films</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unveiling-prospects-and-limitations-within-samsungs-2023-image-editor-for-2024/"><u>[New] Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-pairing-sound-and-imagery-in-media-production/"><u>[Updated] Perfect Pairing Sound & Imagery in Media Production</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-iphone-data-control-app-seamlessly-manage-and-secure-your-iphones-11-xsxrx87-files-and-backups/"><u>Comprehensive iPhone Data Control App: Seamlessly Manage and Secure Your iPhones 11, XS/XR/X/8/7 Files & Backups</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-a15-4g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy A15 4G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-lava-yuva-3-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Lava Yuva 3 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-6-ways-to-increase-audience-retention-on-youtube/"><u>In 2024, 6 Ways To Increase Audience Retention on YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oppo-a78-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo A78 Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-steadicams-matched-with-dslr-cameras/"><u>In 2024, Optimal Steadicams Matched with DSLR Cameras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-panoramic-lenses-vs-depth-filled-images/"><u>In 2024, Panoramic Lenses vs Depth-Filled Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-editing-full-mastery-of-fcp/"><u>In 2024, Perfect Your Editing Full Mastery of FCP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reality-beyond-boundaries-grasping-the-metaverse-through-6-models-for-2024/"><u>Reality Beyond Boundaries Grasping the Metaverse Through 6 Models for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reimagine-your-gaming-experience-sonys-audio-customization-for-2024/"><u>Reimagine Your Gaming Experience Sony's Audio Customization for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rhythmic-reconnaissance-video-music-matchmaking-for-2024/"><u>Rhythmic Reconnaissance Video Music Matchmaking for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/screens-guide-to-smart-stocks-for-2024/"><u>Your Screen's Guide to Smart Stocks for 2024</u></a></li>
 </ul></div>
 
