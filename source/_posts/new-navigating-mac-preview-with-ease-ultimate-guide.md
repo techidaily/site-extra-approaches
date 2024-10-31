@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Mac Preview with Ease  Ultimate Guide\""
-date: 2024-10-21T18:29:47.583Z
-updated: 2024-10-25T18:45:17.871Z
+date: 2024-10-28T16:21:11.852Z
+updated: 2024-10-31T16:01:41.073Z
 tags: 
   - screen-recording
   - ai video
@@ -64,19 +64,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -93,6 +80,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -104,6 +98,13 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -138,10 +139,10 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -171,13 +172,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -214,10 +208,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -235,17 +229,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-science-behind-the-best-sized-videos-for-your-instagram-story/"><u>[New] In 2024, The Science Behind the Best-Sized Videos for Your Instagram Story</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-spark-the-flame-top-10-motivational-films-for-you/"><u>[New] Spark the Flame Top 10 Motivational Films for You</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outubers-toolkit-essential-setup-guidelines-for-2024/"><u>[New] Youtubers' Toolkit Essential Setup Guidelines for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-tips-for-shaping-images-with-photoshop-curves/"><u>[Updated] In 2024, Tips for Shaping Images with Photoshop Curves</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pcmobile-tips-for-partial-image-gaussian-blur/"><u>[Updated] PC/Mobile Tips for Partial Image Gaussian Blur</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-crafting-new-dimensions-a-look-at-mixed-reality/"><u>2024 Approved Crafting New Dimensions A Look at Mixed Reality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-selection-best-10-free-online-subtitle-editors/"><u>2024 Approved Prime Selection Best 10 Free Online Subtitle Editors</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-solutions-for-eliminating-speaker-noise-on-pcs-running-windows-operating-systems/"><u>DIY Solutions for Eliminating Speaker Noise on PCs Running Windows Operating Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-nubia-red-magic-8s-proplus-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Nubia Red Magic 8S Pro+ is off? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-productivity-with-auditory-storytelling/"><u>In 2024, Maximizing Productivity with Auditory Storytelling</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-polaroid-cubeplus-camera-insight-for-fans-of-live-action/"><u>In 2024, Polaroid Cube+ Camera Insight for Fans of Live-Action</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/quick-solution-capturing-downloading-and-keeping-tweets-visuals/"><u>Quick Solution Capturing, Downloading, & Keeping Tweets' Visuals</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-experts-selection-top-10-social-media-viewers/"><u>[New] 2024 Approved Expert's Selection Top 10 Social Media Viewers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-building-bonds-youtube-and-brands-in-unity/"><u>[New] Building Bonds YouTube and Brands in Unity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastermind-mind-games-trivia-channel-hunt-for-24/"><u>[New] Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-pixels-11-proven-methods-for-better-colors/"><u>[New] Perfecting Pixels 11 Proven Methods for Better Colors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-say-goodbye-to-data-limits-explore-the-best-of-30-free-clouds-offering-1tbplus-included/"><u>[New] Say Goodbye to Data Limits - Explore the Best of 30 Free Clouds Offering 1TB+ Included</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spiral-fabricator-package/"><u>[New] Spiral Fabricator Package</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-space-saver-protocols-premium-storage-reviewed/"><u>[Updated] Space Saver Protocols Premium Storage Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proart-pa-329q-a-review-of-asuss-leading-edge-4k-monitoring-technology/"><u>2024 Approved ProArt PA 329Q A Review of Asus's Leading-Edge 4K Monitoring Technology</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v30-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V30 without App | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capturecrafter-chronicles-your-2023-software-digest-for-2024/"><u>CaptureCrafter Chronicles Your 2023 Software Digest for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-insight-into-sierras-icloud-file-management-for-2024/"><u>Complete Insight Into Sierra’s iCloud File Management for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211386051-9782384553860-cuentos-espiritistas/"><u>Cuentos Espiritistas | Free Book</u></a></li>
+<li><a href="https://fox-place.techidaily.com/essential-tips-how-to-permanently-delete-files-on-windows-1011/"><u>Essential Tips: How to Permanently Delete Files on Windows 10/11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>In 2024, Leading Android & iOS Timer Tools Reviewed Your Big Day Planner's Must-Haves</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-play-5-proven-techniques-for-zoomed-gameplay/"><u>In 2024, Precision Play 5 Proven Techniques for Zoomed Gameplay</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-the-scoring-of-toolwizs-photography-software-for-2024/"><u>Inside the Scoring of Toolwiz's Photography Software for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-11-proplus-by-drfone-android/"><u>Three Ways to Sim Unlock Realme 11 Pro+</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-4k-upscaling-techniques-to-enhance-low-res-videos/"><u>Understanding 4K Upscaling: Techniques to Enhance Low-Res Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-powerful-performance-with-meteor-lake-cpu-onexplayers-new-mini-pc-featuring-intel-core-i9-and-up-to-among-other-features/"><u>Unleash Powerful Performance with Meteor Lake CPU: OneXPlayer's New Mini-PC Featuring Intel Core I9 and up to Among Other Features</u></a></li>
 </ul></div>
 

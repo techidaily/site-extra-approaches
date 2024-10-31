@@ -1,7 +1,7 @@
 ---
 title: "[New] Photoshop Wizardry for Bending Photos"
-date: 2024-07-27T23:19:21.306Z
-updated: 2024-07-28T23:19:21.306Z
+date: 2024-10-29T16:00:37.415Z
+updated: 2024-10-31T16:05:53.127Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
 ## Simple Steps to Curve an Image in Photoshop
@@ -35,41 +32,26 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
 The **Bend Direction** option rotates the angle of the bend.
@@ -85,6 +67,13 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -118,5 +107,20 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-starting-up-key-gopro-add-ons-unveiled/"><u>[New] Starting Up Key GoPro Add-Ons Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-top-11-list-of-soundscape-capturers/"><u>[Updated] Cutting-Edge Top 11 List of Soundscape Capturers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-macos-11-big-sur-compatibility-guide/"><u>[Updated] MacOS 11 Big Sur Compatibility Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-nikons-masterpiece-unveiling-the-4k-capabilities-of-j5/"><u>[Updated] Nikon's Masterpiece Unveiling The 4K Capabilities of J5</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-the-art-of-storytelling-top-youtubers-of-year-2023/"><u>[Updated] Pioneering the Art of Storytelling - Top YouTubers of Year 2023</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionize-file-formats-with-rapid-srt-transformation/"><u>[Updated] Revolutionize File Formats with Rapid SRT Transformation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-credit-calls-unlocking-free-tools-for-iphone-photo-blurring/"><u>2024 Approved No Credit Calls Unlocking Free Tools for iPhone Photo Blurring</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-selecting-gear-for-youtube-a-filmmakers-essentials/"><u>2024 Approved Selecting Gear for YouTube A Filmmaker's Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-premier-team-boss-playing-manager-cheaply-on-windows/"><u>Become a Premier Team Boss: Playing Manager Cheaply on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diversify-your-skills-using-chatgpt-excel-in-board-games-and-generate-stunning-images-with-ease/"><u>Diversify Your Skills Using ChatGPT: Excel in Board Games and Generate Stunning Images with Ease</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-windows-11-movie-maker-a-step-by-step-guide/"><u>Mastering Windows 11 Movie Maker A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-through-mixed-reality-an-overview/"><u>Navigating Through Mixed Reality An Overview</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/secure-your-screen-content-mastering-the-ezvide-technique-for-2024/"><u>Secure Your Screen Content - Mastering the EZvide Technique for 2024</u></a></li>
+</ul></div>
 

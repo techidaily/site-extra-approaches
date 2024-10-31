@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Slippery Surfaces  Olympic Winners of '22\""
-date: 2024-10-20T17:18:14.191Z
-updated: 2024-10-25T19:56:15.385Z
+date: 2024-10-25T16:15:51.424Z
+updated: 2024-10-31T16:02:26.109Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,10 @@ Russia’s Semen Elistratov wins the bronze medal.
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
@@ -52,48 +52,41 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -127,6 +120,13 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -150,22 +150,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-dominance-plan-studio-protocol-vs-beta-update/"><u>[Updated] 2024 Approved Channel Dominance Plan Studio Protocol Vs. Beta Update</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-professional-gopro-cinematography/"><u>[Updated] Mastering the Art of Professional Gopro Cinematography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simplified-image-transformation-via-smartphone-luts/"><u>[Updated] Simplified Image Transformation via Smartphone LUTs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-methods-to-add-a-secure-link-to-your-tiktok-profile/"><u>2024 Approved Masterful Methods to Add a Secure Link to Your TikTok Profile</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-note-30-vip-racing-edition-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix Note 30 VIP Racing Edition Device SIM</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/to-fun-converting-youtube-videos-to-playful-download-free-gifs-for-2024/"><u>Flip to Fun Converting YouTube Videos to Playful, Download-Free GIFs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-official-epson-ds-c89-series-drivers-on-windows-11-64-bit-compatibility-and-installation-guide/"><u>Get Official Epson DS-C89 Series Drivers on Windows 11 (64-Bit): Compatibility & Installation Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-love-and-light-nine-essential-filmora-elements/"><u>In 2024, Love and Light Nine Essential Filmora Elements</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-ode-to-open-minds-transitioning-playlists-freely/"><u>In 2024, Ode to Open Minds Transitioning Playlists Freely</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-portable-picture-pixels-windows-mac-best-photo-to-cartoon-converter/"><u>In 2024, Portable Picture Pixels Windows, Mac - Best Photo-to-Cartoon Converter</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-steps-for-crafting-professional-srt-files/"><u>In 2024, Simplified Steps for Crafting Professional SRT Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/principles-of-crafting-alluring-vlog-storylines-for-2024/"><u>Principles of Crafting Alluring Vlog Storylines for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ranking-the-best-mac-recording-alternatives-to-bandicam-for-2024/"><u>Ranking the Best Mac Recording Alternatives to Bandicam for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-a-broken-symbol-functionality-in-typing-devices/"><u>Solutions for a Broken '@' Symbol Functionality in Typing Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-essential-iphones-guide-to-great-night-images-for-2024/"><u>The Essential iPhones Guide to Great Night Images for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-is-now-with-the-rumored-tesla-phone-delving-into-release-schedule-and-potential-costs/"><u>The Future Is Now with the Rumored 'Tesla Phone': Delving Into Release Schedule and Potential Costs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-anatomy-of-apple-m1-chip-redefining-tech/"><u>[New] 2024 Approved The Anatomy of Apple M1 Chip, Redefining Tech</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ural-clarity-unleashed-secrets-to-high-quality-audio-for-2024/"><u>[New] Aural Clarity Unleashed Secrets to High-Quality Audio for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revive-your-experience-with-these-key-iphone-x-tips/"><u>[New] Revive Your Experience with These Key iPhone X Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-amd-graphics-relic/"><u>[Updated] AMD Graphics Relic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-shopping-spree-videography/"><u>[Updated] Mastering the Art of Shopping Spree Videography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-17-background-eradication-software-reviews/"><u>[Updated] Prime 17 Background Eradication Software Reviews</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-editorial-maze-answers-for-filmora-users/"><u>2024 Approved Navigating the Editorial Maze Answers for Filmora Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-overview-of-google-ar-sticker-and-its-alternative/"><u>2024 Approved Overview of Google AR Sticker and Its Alternative</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-striking-the-perfect-balance-in-profile-videos/"><u>2024 Approved Striking the Perfect Balance in Profile Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/crescendo-of-comprehension-musical-techniques-for-learning-languages/"><u>Crescendo of Comprehension: Musical Techniques for Learning Languages</u></a></li>
+<li><a href="https://win-bits.techidaily.com/fast-solution-resolving-no-photos-detected-issue-on-iphone/"><u>Fast Solution: Resolving 'No Photos Detected' Issue on iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-leverage-chatgpt-within-whatsapp-for-superior-customer-assistance/"><u>How to Leverage ChatGPT Within WhatsApp for Superior Customer Assistance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphones-quickest-way-to-record-time-lapse-photos/"><u>In 2024, IPhone's Quickest Way to Record Time-Lapse Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-subtleties-with-title-texts/"><u>In 2024, Sculpting Subtleties with Title Texts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterpieces-in-film-script-writing-by-genre-for-2024/"><u>Masterpieces in Film Script Writing, By Genre for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719332049172-swiftly-addressing-windows-faults-with-easy-fixes/"><u>Swiftly Addressing Windows Faults with Easy Fixes!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-11-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on 11 5G without backup.</u></a></li>
 </ul></div>
 

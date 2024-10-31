@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Renewal of Photo Viewing Capabilities in Windows 10 - Guide\""
-date: 2024-10-22T21:00:41.713Z
-updated: 2024-10-25T16:25:43.935Z
+date: 2024-10-28T16:08:46.537Z
+updated: 2024-10-31T16:09:24.894Z
 tags: 
   - screen-recording
   - ai video
@@ -65,16 +65,16 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -95,23 +95,17 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -123,10 +117,10 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -144,20 +138,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-creating-a-backup-securing-your-fb-messenger-records/"><u>[New] 2024 Approved Creating a Backup Securing Your FB Messenger Records</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-cartooncanvas-comprehensive-review-and-guidebook-24/"><u>[New] In 2024, CartoonCanvas Comprehensive Review & Guidebook '24</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-inspiring-podcast-artwork-essential-design-insights/"><u>[New] Inspiring Podcast Artwork Essential Design Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-your-mix-essential-audio-devices-for-podcast-success/"><u>[New] Master Your Mix Essential Audio Devices for Podcast Success</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-guide-to-collecting-massive-tiktok-video-collections/"><u>[New] Quick Guide to Collecting Massive TikTok Video Collections</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-resolution-showdown-gopro-vs-polaroids-editing-experience/"><u>[New] Resolution Showdown GoPro Vs. Polaroid's Editing Experience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-selection-top-15-cameras-for-action/"><u>[Updated] Premium Selection Top 15 Cameras for Action</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-revel-in-easy-sound-personalization-techniques-for-pubg-gaming/"><u>[Updated] Revel in Easy Sound Personalization Techniques for PUBG Gaming</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-podcast-submission-googles-steps/"><u>2024 Approved Mastering Podcast Submission Google's Steps</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a05-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A05 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-edge-40-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Edge 40 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-approaches-to-supercharge-your-editing-workflow/"><u>In 2024, Innovative Approaches to Supercharge Your Editing Workflow</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>In 2024, Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/no-8-virtual-pixel-mashup-software-for-2024/"><u>No. 8 Virtual Pixel Mashup Software for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-capturing-live-action-from-espnplus-across-computers-and-smartphones/"><u>Step-by-Step Tutorial for Capturing Live Action From ESPN+ Across Computers and Smartphones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-your-blogging-bravery-following-youtuber-leaders/"><u>[New] In 2024, Boost Your Blogging Bravery Following YouTuber Leaders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-comprehensive-strategies-for-overwatch-gaming-saves/"><u>[Updated] Comprehensive Strategies for Overwatch Gaming Saves</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-ace-the-art-of-online-fame-trending-on-youtube/"><u>[Updated] In 2024, Ace the Art of Online Fame Trending on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-memories-storing-digitalized-vintage-photographs/"><u>[Updated] Maximizing Memories Storing Digitalized Vintage Photographs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-media-best-twittersave-converters/"><u>2024 Approved Mastering Media Best Twittersave Converters</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-mix-fold-3-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-resolving-acrocefexe-program-malfunction/"><u>Effective Solutions for Resolving AcroCEF.exe Program Malfunction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-message-unsupported-input-detected-on-display-device/"><u>Error Message: Unsupported Input Detected on Display Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-play-youtube-in-background-on-iphone-and-android/"><u>In 2024, How to Play YouTube in Background on iPhone and Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-integrating-soundscape-and-aesthetics-in-windows-photos-app/"><u>In 2024, Integrating Soundscape and Aesthetics in Windows Photos App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-gopros-time-lapse-potential/"><u>In 2024, Navigating Through GoPro's Time-Lapse Potential</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-profit-on-reddit-here-are-your-13-most-accessible-ways/"><u>In 2024, Quick Profit on Reddit? Here Are Your 13 Most Accessible Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-itel-a60s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Itel A60s? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-xls-documents-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for .xls documents</u></a></li>
 </ul></div>
 

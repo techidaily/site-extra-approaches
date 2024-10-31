@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Integrating Secondary Shots  Tips and Tricks\""
-date: 2024-10-20T16:32:31.901Z
-updated: 2024-10-25T17:34:49.424Z
+date: 2024-10-24T16:18:37.864Z
+updated: 2024-10-31T16:06:17.344Z
 tags: 
   - screen-recording
   - ai video
@@ -45,26 +45,26 @@ On the other hand, cutaways can show how different people react to what is being
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
@@ -75,10 +75,10 @@ B roll footage can be used to tell a story that supports the narrative of your v
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
@@ -93,16 +93,16 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,19 +138,16 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-a-critical-review-of-top-no-cost-video-communication-apps-iosandroid/"><u>[New] In 2024, A Critical Review of Top No-Cost Video Communication Apps (iOS/Android)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-hue-transformations-in-post-production/"><u>[New] Mastering Hue Transformations in Post-Production</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-peak-computing-powerhouses-the-best-on-the-market/"><u>[New] Peak Computing Powerhouses - The Best On the Market</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-the-art-of-smooth-ipad-video-recording-for-2024/"><u>[Updated] Mastering the Art of Smooth iPad Video Recording for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capturing-the-moment-leading-recorder-analysis/"><u>2024 Approved Capturing the Moment Leading Recorder Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-intimate-perspectives-with-team-zooms/"><u>2024 Approved Intimate Perspectives with Team Zooms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/como-convertir-archivos-wtv-a-formato-de-video-online-sin-coste-guia-inmediata-con-movavi/"><u>Cómo Convertir Archivos WTV a Formato De Vídeo Online Sin Coste: Guía Inmediata Con Movavi</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-steadicam-brands-for-drones-and-camera-work/"><u>In 2024, Premium Steadicam Brands for Drones and Camera Work</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nokia-g310-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nokia G310 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-audio-format-switches-srt-to-ssa-and-more-for-2024/"><u>Mastering Audio Format Switches SRT to SSA & More for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-telegram-web-a-step-by-step-pathway-for-2024/"><u>Mastering Telegram Web A Step-by-Step Pathway for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-conversational-ai-engagement-through-tailored-personas-in-chatgpt/"><u>Optimizing Conversational AI Engagement Through Tailored Personas in ChatGPT</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/sincronizar-eficientemente-sus-carpetas-tres-metodos-para-administrar-archivo-en-red-entre-ordenadores/"><u>Sincronizar Eficientemente Sus Carpetas: Tres Métodos Para Administrar Archivo en Red Entre Ordenadores</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/voice-assignment-verification/"><u>Voice Assignment Verification</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-proper-placement-of-external-webpages-in-insta-content/"><u>[New] In 2024, Proper Placement of External Webpages in Insta Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-photopea-blueprint-for-flawless-image-backdrop/"><u>[New] In 2024, The Photopea Blueprint for Flawless Image Backdrop</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs/"><u>[Updated] Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secure-and-updated-altering-numbers-in-tiktok-profiles/"><u>[Updated] Secure and Updated Altering Numbers in TikTok Profiles</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-world-of-video-timestamps-on-youtube/"><u>In 2024, Navigating the World of Video Timestamps on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>In 2024, The Streaming Platform Faceoff Twitch Versus YouTube Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubing-green-magic-ideas-that-come-to-life/"><u>In 2024, Youtubing Green Magic – Ideas That Come to Life</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/luminous-levels-in-android-videography-for-2024/"><u>Luminous Levels in Android Videography for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pinnacle-top-5-camcorders-for-flexible-filming-for-2024/"><u>Pinnacle Top 5 Camcorders for Flexible Filming for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smart-setup-for-your-windows-11-journey-for-2024/"><u>Smart Setup for Your Windows 11 Journey for 2024</u></a></li>
 </ul></div>
 

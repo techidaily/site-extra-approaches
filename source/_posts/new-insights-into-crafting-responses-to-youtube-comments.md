@@ -1,7 +1,7 @@
 ---
 title: "[New] Insights Into Crafting Responses to YouTube Comments"
-date: 2024-10-18T17:45:58.692Z
-updated: 2024-10-25T17:43:38.907Z
+date: 2024-10-27T16:14:11.192Z
+updated: 2024-10-31T16:29:04.363Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -56,6 +63,13 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -74,22 +88,15 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
@@ -98,22 +105,15 @@ Step4 On the right side under the “Manage all history” section, click on “
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
@@ -178,24 +178,19 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-cost-effective-aerospace-for-huge-datasets-at-low-rates/"><u>[New] Cost-Effective AeroSpace for Huge Datasets at Low Rates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-premiere-pro-starter-kit-with-top-templates/"><u>[New] Free Premiere Pro Starter Kit with Top Templates</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leveraging-social-media-for-maximum-impact/"><u>[New] Leveraging Social Media for Maximum Impact</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-masterful-archive-of-twitter-animations-at-your-fingertips-for-2024/"><u>[New] Masterful Archive of Twitter Animations at Your Fingertips for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-simplified-steps-for-effective-telegram-web-use/"><u>[New] Simplified Steps for Effective Telegram Web Use</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-six-sensational-videos-that-keep-on-watchers/"><u>[New] Six Sensational Videos That Keep On Watchers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-teachers-choice-top-recording-applications/"><u>[Updated] 2024 Approved Teachers' Choice Top Recording Applications</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-top-7-must-have-metaverse-devices-you-need-to-prepare/"><u>[Updated] Top 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-vlcs-features-for-mp4-and-diverse-format-changes/"><u>2024 Approved Navigating VLC's Features for MP4 & Diverse Format Changes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-fourteen-high-res-full-frame-selection/"><u>2024 Approved Premium Fourteen High Res Full Frame Selection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-iphone-markers-our-reviewed-top-9-water-marking-apps/"><u>2024 Approved Proven iPhone Markers Our Reviewed Top 9 Water-Marking Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-shine-strategy-top-tools-to-brighten-streams/"><u>2024 Approved Shine Strategy Top Tools to Brighten Streams</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-to-stunning-timelapses-a-comprehensive-guide-using-gopro/"><u>2024 Approved Step-By-Step to Stunning Timelapses A Comprehensive Guide Using GoPro</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos-for-2024/"><u>Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-the-best-15-dolby-atmos-releases-to-elevate-your-movie-night-at-home/"><u>Explore the Best 15 Dolby Atmos Releases to Elevate Your Movie Night at Home</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-strategic-insights-for-triumph-in-smm/"><u>In 2024, Strategic Insights for Triumph in SMM</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-uncover-the-past-advanced-methods-for-instagram-image-retrieval/"><u>In 2024, Uncover the Past Advanced Methods for Instagram Image Retrieval</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-capturing-your-epic-adventures-in-garrys-mod-on-pc/"><u>Step-by-Step Guide: Capturing Your Epic Adventures in Garry's Mod on PC</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/visual-voyage-your-guide-to-broadcasting-vids-with-confidence-on-facebook-for-2024/"><u>Visual Voyage Your Guide to Broadcasting Vids with Confidence on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-2023s-leading-facebook-film-extractors-top-picks/"><u>[New] 2024 Approved 2023'S Leading Facebook Film Extractors - Top Picks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proven-strategies-building-time-lapses-using-samsung-cameras/"><u>[New] Proven Strategies Building Time-Lapses Using Samsung Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-illustration-revolution-adding-depth-to-text-with-3d/"><u>[Updated] 2024 Approved Illustration Revolution Adding Depth to Text with 3D</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bright-future-in-hd-a-fit-or-overstepping-for-hdr/"><u>2024 Approved Bright Future in HD A Fit or Overstepping for HDR?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-momentum-meets-mass-audience/"><u>2024 Approved Momentum Meets Mass Audience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-picture-in-picture-video-integration-for-mac-os-x/"><u>2024 Approved Navigating Picture in Picture Video Integration for Mac OS X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-animals-in-play-essential-android-titles-reviewed/"><u>2024 Approved Top Animals in Play Essential Android Titles Reviewed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100i-power-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-se-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone SE - 4 Easy Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canoscan-lide-123-image-scanner-free-software-and-latest-updates/"><u>CanoScan LiDE 123 Image Scanner - Free Software and Latest Updates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneers-of-virtual-reality-top-vr-headsets-on-pc/"><u>In 2024, Pioneers of Virtual Reality Top VR Headsets on PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-mobile-vr-transform-your-phone-into-a-vr-headset-for-2024/"><u>Mastering Mobile VR Transform Your Phone Into a VR Headset for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-through-modern-cameras-complex-shooting-modes-for-2024/"><u>Navigating Through Modern Camera's Complex Shooting Modes for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-rainbow-six-siege-pc-issues-overcoming-the-persistent-black-screen-problem/"><u>Troubleshooting Rainbow Six Siege PC Issues - Overcoming the Persistent Black Screen Problem</u></a></li>
 </ul></div>
 

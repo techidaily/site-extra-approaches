@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Splendid Screenplay  Strategies for Spectaculous Lights\""
-date: 2024-07-27T23:18:41.538Z
-updated: 2024-07-28T23:18:41.538Z
+date: 2024-10-25T16:18:50.790Z
+updated: 2024-10-31T16:03:56.822Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -61,9 +58,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -72,16 +66,10 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
@@ -92,16 +80,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
@@ -109,6 +91,13 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -142,5 +131,16 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-8-windows-audio-apps-compared/"><u>[Updated] Premier 8-Windows Audio Apps Compared</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/isoand-imgburn/"><u>画像ISOファイル作成&書き込み - ImgBurn使い方ビデオ解説!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-nubia-flip-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from ZTE Nubia Flip 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-15-pro-5-ways-to-get-into-a-locked-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 15 Pro? 5 Ways to get into a Locked iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-motionmaster-win8-version/"><u>In 2024, MotionMaster Win8 Version</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-personalized-guide-to-the-best-android-podcast-apps-top-6-selections/"><u>In 2024, Personalized Guide to the Best Android Podcast Apps – Top 6 Selections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-shareable-online-laughter/"><u>In 2024, Sculpting Shareable Online Laughter</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-fb-potential-link-your-youtube-video/"><u>Unlock FB Potential Link Your YouTube Video</u></a></li>
+</ul></div>
 

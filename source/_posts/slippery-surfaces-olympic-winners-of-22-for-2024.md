@@ -1,7 +1,7 @@
 ---
 title: "\"Slippery Surfaces  Olympic Winners of '22 for 2024\""
-date: 2024-10-20T20:01:43.444Z
-updated: 2024-10-25T16:05:52.079Z
+date: 2024-10-27T16:14:44.767Z
+updated: 2024-10-31T16:25:18.142Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,10 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Canada’s Steven Dubois wins the silver medal.
@@ -47,27 +47,20 @@ Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
@@ -77,15 +70,22 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -121,10 +121,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -150,22 +150,14 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-sporting-cameras-for-adventure/"><u>[Updated] Premium Sporting Cameras for Adventure</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-prime-shopping-destinations-customizable-presents-with-flair-for-2024/"><u>[Updated] Prime Shopping Destinations Customizable Presents with Flair for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lighting-the-way-in-film-tips-for-immaculate-visuals/"><u>2024 Approved Lighting the Way in Film Tips for Immaculate Visuals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-video-storytelling-adding-narration-step-by-step/"><u>2024 Approved Mastering Video Storytelling Adding Narration Step-by-Step</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-video-editing-does-m1-macbook-air-hold-up/"><u>2024 Approved Professional Video Editing Does M1 MacBook Air Hold Up?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/5-rapid-methods-to-upgrade-your-indoor-film-project/"><u>5 Rapid Methods to Upgrade Your Indoor Film Project</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210129341-decode-and-defeat-error-0x887a0006-effortless-solutions-inside/"><u>Decode and Defeat Error 0X887A0006: Effortless Solutions Inside!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-offer-m3-macbook-air-laptop-powerful-16gb-compact-n-13-inch-at-a-bargain-price-of-1149/"><u>Exclusive Offer - M3 MacBook Air Laptop: Powerful 16GB / Compact N 13-Inch at a Bargain Price of $1,149</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-13-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 13 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-key-picks-the-best-6-online-communities-for-enterprise-expansion/"><u>In 2024, Key Picks The Best 6 Online Communities for Enterprise Expansion</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-mastering-close-up-web-views-on-screen/"><u>In 2024, Mastering Close-Up Web Views on Screen</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimizing-your-podcasts-itunes-placement/"><u>In 2024, Optimizing Your Podcast's iTunes Placement</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-your-images-lightrooms-favorite-luts/"><u>In 2024, Perfecting Your Images LightRoom's Favorite LUTs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-and-simple-ipad-conversion-turn-jpgpng-into-pdf/"><u>In 2024, Quick and Simple iPad Conversion Turn JPG/PNG Into PDF</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-stubbornly-mute-airpods-in-windows-1011-a-step-by-step-guide/"><u>Troubleshooting Stubbornly Mute AirPods in Windows 10/11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-mac-video-editing-vn-video-editor-and-other-top-options-for-2024/"><u>Updated Unlock Mac Video Editing VN Video Editor and Other Top Options for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-unpairing-woes-bluetooth-troubleshooting-techniques-on-windows/"><u>Winning the Battle Against Unpairing Woes: Bluetooth Troubleshooting Techniques on Windows 지대</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mobile-image-mastery-with-top-10-stickers-for-appleandroid-users/"><u>[Updated] Mobile Image Mastery with Top 10 Stickers for Apple/Android Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfectly-preserve-and-profitably-play-your-phones-gifs/"><u>[Updated] Perfectly Preserve and Profitably Play Your Phone's GIFs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unraveling-vloggers-terrors-and-techniques-to-triumph-for-2024/"><u>[Updated] Unraveling Vloggers' Terrors and Techniques to Triumph for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ranking-the-leading-10-pixels-for-free-access/"><u>In 2024, Ranking the Leading 10 Pixels for Free Access</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/juxtaposing-flight-with-flair-a-bebop-parrot-analysis-for-2024/"><u>Juxtaposing Flight with Flair – A Bebop Parrot Analysis for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-places-to-download-high-quality-free-digital-images-for-2024/"><u>Leading Places to Download High-Quality, Free Digital Images for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-valheims-launch-problem-for-seamless-gameplay/"><u>Resolving Valheim's Launch Problem for Seamless Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolved-windows-no-longer-able-to-find-updates/"><u>Successfully Resolved: Windows No Longer Able To Find Updates?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-every-gamer-should-know-5-important-questions-to-ask-before-buying-your-next-console/"><u>What Every Gamer Should Know: 5 Important Questions to Ask Before Buying Your Next Console</u></a></li>
 </ul></div>
 

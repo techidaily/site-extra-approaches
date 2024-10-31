@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
-date: 2024-10-23T19:00:46.998Z
-updated: 2024-10-25T17:09:31.868Z
+date: 2024-10-29T16:02:42.511Z
+updated: 2024-10-31T16:15:57.991Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
@@ -40,13 +40,6 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
@@ -66,10 +59,10 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Story: Heavy-handed writing to the exclusion of all else**
@@ -78,6 +71,13 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
  This whole introduction is slow moving and boring, and getting through it is rough. But even past this, things don’t necessarily pick up and get more interesting. The game has such a heavy hand with its narration, telling you the game’s visuals even though you can see them right there on your screen. The whole game reads like someone wrote a novel, couldn’t publish it, and then decided making a[video game](https://www.lifewire.com/best-gaming-consoles-4154610) was a better idea, and instead of trimming the fat, they left every unnecessary description and detail in the game’s prompt.
@@ -85,13 +85,6 @@ Lifewire / Kelsey Simon
  I did continue forward, even though I was already disinterested, hoping the game would become more gripping. After the memory room, you’ll wake to another platform where a being tells you you’ve suffered a great injury and they are in your mind. He tries to explain who you are but before he gets too far, you’ll be attacked by something called the Sorrow. Eventually, you’ll wake in the real world, enter the game’s main city, and be able to talk to the wealth of characters living there. You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
 
@@ -121,7 +114,21 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -142,19 +149,6 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,20 +173,15 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/remium-5-noise-canceling-gaming-mics/"><u>[New] Premium 5 Noise-Canceling Gaming Mics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sharpening-your-zoom-images-for-professional-conferencing/"><u>[New] Sharpening Your Zoom Images for Professional Conferencing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-stages-of-change/"><u>[New] Stages of Change</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-sony-s6700-latest-features-reviewed-for-2024/"><u>[Updated] Sony S6700 Latest Features Reviewed for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-art-of-video-crafting-on-pc-for-youtube-audiences/"><u>[Updated] Unveiling the Art of Video Crafting on PC for YouTube Audiences</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ken-burns-effect-techniques-for-camtasia-users/"><u>2024 Approved Ken Burns Effect Techniques for Camtasia Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-never-a-cap-on-saved-instagram-stories/"><u>2024 Approved Never a Cap on Saved Instagram Stories</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-roblox-lag-and-downtime-essential-fixes-that-work-new-6-step-guide-for-gamers/"><u>Beat Roblox Lag & Downtime: Essential Fixes That Work - New 6-Step Guide for Gamers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/d-views-a-triadic-approach-to-analyzing-youtube-income/"><u>Beyond Views A Triadic Approach to Analyzing YouTube Income</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-elegance-and-mobility-an-expert-review-of-the-lenovo-ideapad-320-with-its-iconic-keyboard-layout/"><u>Experience Elegance and Mobility: An Expert Review of the Lenovo Ideapad 320 with Its Iconic Keyboard Layout</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-key-sites-for-enhancing-youtube-video-popularity/"><u>In 2024, Key Sites for Enhancing YouTube Video Popularity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-cloud-data-costs-comparison-and-best-price-paths/"><u>In 2024, Navigating Cloud Data Costs Comparison & Best Price Paths</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionary-ai-for-artistic-photography/"><u>In 2024, Revolutionary AI for Artistic Photography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-instagram-reels-tips-and-techniques-for-2024/"><u>Mastering Instagram Reels Tips & Techniques for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-iphones-mirror-images-in-photos-for-2024/"><u>Mastering iPhone's Mirror Images in Photos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-the-art-of-erasing-stickers-in-social-media-clips/"><u>[Updated] Perfecting the Art of Erasing Stickers in Social Media Clips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-strategies-for-inclusion-in-the-apple-catalog/"><u>[Updated] Proven Strategies for Inclusion in the Apple Catalog</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpening-screen-views-for-improved-virtual-interactions/"><u>2024 Approved Sharpening Screen Views for Improved Virtual Interactions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/breakthrough-ideas-to-amplify-brand-impact-on-reddit/"><u>Breakthrough Ideas to Amplify Brand Impact on Reddit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-essence-a-deep-dive-into-distinct-features-between-apple-macintosh-and-personal-computers/"><u>Deciphering the Essence: A Deep Dive Into Distinct Features Between Apple Macintosh & Personal Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/embracing-the-best-of-both-worlds-how-huaweis-upcoming-kirin-chip-could-mirror-apple-and-intels-packaging-techniques/"><u>Embracing the Best of Both Worlds: How Huawei's Upcoming Kirin Chip Could Mirror Apple and Intel’s Packaging Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-failed-to-install-the-hcmon-driver-error/"><u>How to Fix Failed to Install the Hcmon Driver Error</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-most-reliable-image-archiving-sites/"><u>In 2024, Most Reliable Image Archiving Sites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-eps-a-comprehensive-guide-on-the-eps-file-type-and-opening-methods/"><u>Understanding EPS: A Comprehensive Guide on the EPS File Type & Opening Methods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-5-best-online-tone-generators-free-and-simple/"><u>Updated 2024 Approved 5 Best Online Tone Generators Free & Simple</u></a></li>
 </ul></div>
 

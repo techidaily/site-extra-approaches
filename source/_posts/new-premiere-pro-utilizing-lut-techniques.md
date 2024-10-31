@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premiere Pro  Utilizing LUT Techniques\""
-date: 2024-10-20T16:29:16.171Z
-updated: 2024-10-25T18:33:43.245Z
+date: 2024-10-28T16:04:11.654Z
+updated: 2024-10-31T16:09:13.932Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,19 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to add LUTs to your footage
 
 Step1Choose the Color Workspace at the top after your clip is in the timeline and prepared for grading.
@@ -41,13 +54,6 @@ Step2Click OK after selecting New Item > Adjustment Layer in the Project window'
 Step3The first Basic Correction option in the right-hand panel of Lumetri Color is Input LUT. Choose this, click Browse, and then go to the location where your LUTs are stored.
 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Why use LUTs in your project?
 
@@ -60,10 +66,10 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Can you adjust the strength of the LUT?
@@ -75,10 +81,16 @@ The entire color panel in Premiere Pro is packed with all of the color grading t
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Export LUTs
@@ -93,13 +105,6 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -112,6 +117,19 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Complete Cinema LUTs
 * Filmic Tone LUTs
 * Urban Dark Creative LUTs
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,18 +167,16 @@ Sometimes, some of them are out there to steal your money rather than provide th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-rethinking-gameplay-mavic-air-versus-spark-showdown/"><u>[New] Rethinking Gameplay Mavic Air Versus Spark Showdown</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-iphone-night-photography-step-by-step/"><u>[Updated] IPhone Night Photography Step by Step</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-proven-methods-to-improve-zoom-efficiency-on-a-chromebook/"><u>[Updated] Proven Methods to Improve Zoom Efficiency on a Chromebook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-journey-to-the-core-of-instagram-finding-all-about-free-filters/"><u>2024 Approved Journey to the Core of Instagram Finding All About Free Filters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-musical-embellishments-for-digital-images/"><u>2024 Approved Musical Embellishments for Digital Images</u></a></li>
-<li><a href="https://win-community.techidaily.com/1728507799272-sd/"><u>重現失去的相片：如何將自助拭掉的照片撤銷從SD卡中回復，無需任何程式！</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y100-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y100 5G</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-to-change-avi-video-files-to-flv-online-no-cost-solutions/"><u>How to Change AVI Video Files to FLV Online – No Cost Solutions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-investing-5-yields-hundreds-of-new-viewers-now/"><u>In 2024, Investing $5 Yields Hundreds of New Viewers Now</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-digital-adjustments-optimal-photo-framing-software-2023/"><u>In 2024, Leading Digital Adjustments Optimal Photo Framing Software, 2023</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-office-design-a-key-to-unlocking-employee-efficiency/"><u>In 2024, Smart Office Design A Key to Unlocking Employee Efficiency</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-15-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 15 You Should Try Out</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11s-most-reliable-drawing-app-compilation/"><u>Win 11'S Most Reliable Drawing App Compilation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-leading-tech-for-remote-team-engagement/"><u>[New] In 2024, Leading Tech for Remote Team Engagement</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-webcam-video-production-record-edit-and-export-guide/"><u>[New] In 2024, Webcam Video Production Record, Edit & Export Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterclasses-on-procuring-photo-and-video-borders/"><u>[New] Masterclasses on Procuring Photo & Video Borders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stealth-in-social-media-going-unseen-with-live-feeds/"><u>[New] Stealth in Social Media Going Unseen with Live Feeds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-record-internal-audio-in-android-without-root-4-ways-for-2024/"><u>[Updated] Record Internal Audio in Android without Root [4 Ways] for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-taking-control-of-a-stopped-up-obs-capture-device-for-2024/"><u>[Updated] Taking Control of a Stopped-Up OBS Capture Device for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-screencast-wisdom-key-facts-and-strategies-for-2024/"><u>Expert Screencast Wisdom Key Facts and Strategies for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo X Fold 2 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/invisible-strategies-to-avoid-home-school-vids-for-2024/"><u>Invisible Strategies to Avoid Home School Vids for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/peak-popularity-on-reddit-10-most-upvoted-stories-for-2024/"><u>Peak Popularity on Reddit 10 Most Upvoted Stories for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/robiquity-secures-strategic-alliance-with-abbyy-enhancing-rpa-and-content-solutions/"><u>Robiquity Secures Strategic Alliance with ABBYY, Enhancing RPA and Content Solutions</u></a></li>
 </ul></div>
 

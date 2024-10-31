@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Maximize Your Window Usage  Top 30 Unknown Tips and Tricks for Windows 11\""
-date: 2024-10-23T16:50:19.865Z
-updated: 2024-10-25T20:22:35.886Z
+date: 2024-10-27T16:20:28.028Z
+updated: 2024-10-31T16:03:47.467Z
 tags: 
   - screen-recording
   - ai video
@@ -28,18 +28,24 @@ In 2015, Microsoft announced that Windows 10 would be the last version number fo
 
 After years of small updates, the biggest and most popular operating system in the world finally has some great news for you. At last, Windows fans have something they should get excited about. The following section of this article will share Windows 11 tips and tricks with you that are hidden and secret.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Turn off the Notifications
 
 With the increased number of notifications in Windows 11, you might get annoyed. For that, you can turn off the notifications from the 'Settings.' Either you can go to the settings from the Start Menu or by pressing 'Win+I.' Then, head over to ‘System’ and hit 'Notifications.' The notifications are ‘On’ by default, but you can turn them 'Off' if you want to.
 
 ![turn off unnecessary notifications](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Minimize Applications
 
@@ -49,18 +55,18 @@ This feature can be activated through Windows Settings and then by clicking on �
 
 ![minimize applications by shaking](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Shortcut Keys
 
 Windows 11 has many shortcut keys that will save your time on a busy day. These shortcut keys cover areas such as Widgets with (Win + W). It Opens the Team Chat app (Win + C), notification center (Win + N), Quick settings with (Win + A), and a lot more. Whereas the shortcuts for copying, pasting, and screenshots are the same as Windows 10.
 
 ![windows 11 shortcut keys](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Taskbar and Start Menu Placements
 
@@ -74,6 +80,13 @@ The updated technology allows you to have better control over the privacy of you
 
 ![disable unwanted ads](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Voice Typing Feature
 
 The coolest thing about Windows 11 that most people don’t know is the ‘Voice Typing’ feature. You might have experienced this before in your iPhones or Android devices, but this is new for Windows to have voice typing built-in. Press ‘Windows Key + H’ when you are in a text box and then start speaking. By using the mic button from the pop-out menu, you can start using the feature.
@@ -81,17 +94,10 @@ The coolest thing about Windows 11 that most people don’t know is the ‘Voice
 ![windows 11 voice typing feature](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Widgets and Chat Customization
@@ -102,25 +108,24 @@ However, some people do not like using this kind of stuff. They don’t even pre
 
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. Block Trackers and Pop-up
 
 Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups and also the tracking. For that, open Microsoft Edge and head over to the 3 dots on the top right corner to open 'Settings.' From the left panel in Settings, look for 'Privacy, Search and Services.' By default, it is set to 'Balanced.' You are suggested to select the 'Strict' option so that all the harmful trackers are blocked.
 
 ![secure your browsing on windows 11](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9\. Change your Geolocation
 
@@ -131,10 +136,10 @@ For changing your default location, hit the ‘Set Default’ button on the righ
 ![change windows 11 location](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 10\. Bring Folders on Start
@@ -144,6 +149,19 @@ Windows 11 tips and tricks also include bringing back the folders on the start m
 For that, press ‘Win + I’ and then select 'Personalization.' Now, choose 'Start,' and after that, select 'Folders.' At this point, select the system folders that you want to see on the Start Menu. You can flip the switch to 'On.'
 
 ![bring folders to windows 11 start](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-10.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -165,16 +183,16 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -200,20 +218,21 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-using-zooms-snap-to-boost-video-conferences/"><u>[New] In 2024, Using Zoom’s Snap to Boost Video Conferences</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-redefining-the-sony-s3700-video-experience/"><u>[New] Redefining the Sony S3700 Video Experience</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-broadcasting-hidden-voices-on-instagram-live/"><u>[Updated] Broadcasting Hidden Voices on Instagram Live</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-firefoxs-picture-in-picture-capabilities/"><u>[Updated] Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-stream-rates-on-netflix/"><u>[Updated] Optimizing Stream Rates on Netflix</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-level-strategies-for-photo-color-enhancement/"><u>[Updated] Pro-Level Strategies for Photo Color Enhancement</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-obtain-pristine-photo-sets-for-free-use/"><u>2024 Approved Obtain Pristine Photo Sets for Free Use</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ate-search-results-powerful-youtube-seo-techniques-exposed/"><u>Dominate Search Results Powerful YouTube SEO Techniques Exposed</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-best-free-downloaders-download-youtube-thumbnail-for-free/"><u>In 2024, Best Free Downloaders Download YouTube Thumbnail for Free</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi K70?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-money-matters-finns-financial-framework/"><u>In 2024, Money Matters Finn's Financial Framework</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-prime-6-sleek-designs-in-virtual-houses/"><u>In 2024, Prime 6 Sleek Designs in Virtual Houses</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-video-aspects-online-for-2024/"><u>Mastering Video Aspects Online for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-chat-platforms-without-facebook-involvement/"><u>Navigating Chat Platforms without Facebook Involvement</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mac-techniques-for-capturing-your-minecraft-adventures/"><u>[New] 2024 Approved Mac Techniques for Capturing Your Minecraft Adventures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nhancing-on-screen-appeal-essential-tips-for-talking-head-shots-for-2024/"><u>[New] Enhancing On-Screen Appeal Essential Tips for Talking-Head Shots for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-first-row-leisure-10-alternatives-to-sports-for-2024/"><u>[New] First Row Leisure 10 Alternatives to Sports for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterful-artwork-corrections/"><u>[Updated] Masterful Artwork Corrections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-luts-for-enhanced-photoshop-images/"><u>[Updated] Mastering LUTs for Enhanced Photoshop Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-for-building-impressive-iphone-photo-collagues/"><u>[Updated] Step-by-Step Guide for Building Impressive iPhone Photo Collagues</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-android-podcast-apps/"><u>2024 Approved Leading Android Podcast Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tips-how-to-quickly-enjoy-instagram-videos/"><u>2024 Approved Tips How to Quickly Enjoy Instagram Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-extract-and-convert-twitter-videos-hosted-on-youtube-to-mp3s/"><u>How to Extract and Convert Twitter Videos Hosted on YouTube to MP3s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-vip-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Note 30 VIP PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reinstate-crystal-clear-zoom-sound/"><u>In 2024, Reinstate Crystal-Clear Zoom Sound</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/ion-air-pro-3-visionary-revolutionizing-action-video-for-2024/"><u>ION Air Pro 3 Visionary - Revolutionizing Action Video for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/luts-techniques-for-movie-visuals-enhancement-for-2024/"><u>Luts Techniques for Movie Visuals Enhancement for 2024</u></a></li>
 </ul></div>
 

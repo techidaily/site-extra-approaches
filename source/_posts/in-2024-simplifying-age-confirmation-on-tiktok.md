@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Simplifying Age Confirmation on TikTok"
-date: 2024-07-27T23:21:31.373Z
-updated: 2024-07-28T23:21:31.373Z
+date: 2024-10-28T16:14:04.914Z
+updated: 2024-10-31T16:04:02.700Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,13 @@ The 13-year age restriction on TikTok is not only to protect minors from the har
 
 It has also made all the accounts of those under 16 privates. If your account has been age-restricted by mistake, below are two possible methods on **how** **to edit age on TikTok**.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 1: Contact TikTok Support Team to Change Your Age (Recommended)
 
 Since TikTok has removed the feature to edit your birthdate from its app, you will need to contact their support team to change your age. You can contact support through the app if your account is still working. Otherwise, you will need to contact them through email. Below are the steps to contact support for changing your age through the TikTok app on your smartphone:
@@ -38,19 +45,33 @@ Since TikTok has removed the feature to edit your birthdate from its app, you wi
 
 ![select settings and privacy](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Now navigate to the "Support & About" section and tap “Report a Problem.” Press "Account and Profile" on the next screen and tap "Editing Profile."
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![select report a problem option](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-3.jpg)
 
 **Step 3:** Here, choose "Other," and on the next window, press “Need More Help?” It will open a feedback form where you can mention your problem and request the support team to solve it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on need more help](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 2: Create a New TikTok Account to Change Your Age (Not-Recommended)
 
@@ -60,9 +81,6 @@ If you are underage, you should not try to create a new account with a false age
 
 **Step 1:** Download and install the TikTok app through Google Play Store or App Store and open it. Agree to their terms and services and tap “Profile” from the bottom right corner to navigate to the signup page.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access the profile tab](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-5.jpg)
 
 **Step 2:** If you choose “Email or Phone,” you will need to provide your “Email” or “Phone” on the next screen. You will need to go through a verification CAPTCHA and, on the next screen, create a password for your account. Provide your correct birthdate and press "Next" to complete the account creation.
@@ -74,8 +92,12 @@ If you are underage, you should not try to create a new account with a false age
 ![select social media to sign up](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: TikTok Video Editor – Filmora for Mobile
 
 Are you an avid TikTok user who likes creating fun and stunning videos to share with your followers? If yes, then we have a great TikTok video editor, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), formerly known as Filmora, for you. Filmora is a must-have video editor for any passionate content creator on TikTok due to its amazing features and simple editing process. It has over 1000 music tracks and over 5000 stickers and filters for you to use in your [TikTok videos](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -84,30 +106,25 @@ With its help, you can trim clips, add transition effects, insert music, and cha
 
 [download filmora app for ios](https://images.wondershare.com/filmorago/article-common/app_store.svg) ](https://app.adjust.com/b0k9hf2%5F4bsu85t) [download filmora app for android](https://images.wondershare.com/filmorago/article-common/google_play.svg) ](https://app.adjust.com/b0k9hf2%5F4bsu85t)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
@@ -120,12 +137,16 @@ We have prepared you a video to help you better start your video editing journey
 
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -153,5 +174,20 @@ Protecting underage teens and kids from the negative side of the internet is imp
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-full-insight-into-vsco-image-editing/"><u>[New] In 2024, Full Insight Into VSCO Image Editing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovate-your-mobile-photography-with-these-free-overlay-experts/"><u>[New] Innovate Your Mobile Photography with These Free Overlay Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionary-capturing-best-5-cameras-for-slow-mo/"><u>[New] Revolutionary Capturing Best 5 Cameras for Slow Mo</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-seamless-transition-to-using-a-virtual-whiteboard-on-zoom-platforms-for-2024/"><u>[New] Seamless Transition to Using a Virtual Whiteboard on Zoom Platforms for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-strategies-for-splendid-colors-in-gopro-videos/"><u>[New] Step-by-Step Strategies for Splendid Colors in GoPro Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-picsarts-full-spectrum-exploration/"><u>[Updated] PicsArt's Full Spectrum Exploration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-video-conferencing-a-complete-guide-to-zoom-on-android/"><u>2024 Approved Mastering Video Conferencing A Complete Guide to Zoom on Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production/"><u>2024 Approved SDR Vs. HDR The Superiority of High Dynamic Range in Video Production</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-frp-by-drfone-android/"><u>How Can We Bypass Samsung FRP?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-madness-top-tips-for-crafting-hitsome-memes/"><u>In 2024, Metaverse Madness Top Tips for Crafting Hitsome Memes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/professional-audio-quality-and-wireless-connectivity-insights-into-tascams-cd-200bt-review/"><u>Professional Audio Quality and Wireless Connectivity: Insights Into Tascam's CD-200BT Review</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-methods-for-recovering-information-from-polluted-hard-disks-in-french/"><u>Simple Methods for Recovering Information From Polluted Hard Disks in French</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/what-financial-gain-stems-from-one-million-youtube-eyeballs-for-2024/"><u>What Financial Gain Stems From One Million YouTube Eyeballs for 2024</u></a></li>
+</ul></div>
 

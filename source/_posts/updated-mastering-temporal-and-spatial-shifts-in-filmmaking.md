@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Temporal & Spatial Shifts in Filmmaking"
-date: 2024-10-23T16:17:28.546Z
-updated: 2024-10-25T18:23:46.645Z
+date: 2024-10-28T16:01:47.490Z
+updated: 2024-10-31T16:01:22.434Z
 tags: 
   - screen-recording
   - ai video
@@ -44,13 +44,6 @@ You can also use a light that is 5,600 kelvins, which indicates blue light. We c
 
 ![blue light lighting setup](https://images.wondershare.com/filmora/article-images/2023/04/blue-light-lighting-setup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you don't have an asset to get the lighting set up, then don't worry; we have another option.
 
 **Make colorful shots with plastic binders**
@@ -60,6 +53,19 @@ Professional videographers create these effects using high-end lighting. But you
 First, wrap the colorful divider around the LED light or any other light you're using to take video. The dividers will be melt or burn when the light source gets too hot; therefore, check the temperature of the light after short gaps.
 
 ![wrap the led light with a plastic binder](https://images.wondershare.com/filmora/article-images/2023/04/wrap-the-led-light-with-a-plastic-binder.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Shoot the video now, and experiment with adding suspense, terror, and cheerful effects with various colors.
 
@@ -72,6 +78,13 @@ After setting the lights, now it's time to check the camera!
 It is a very important step that you don't have to change the camera position during filming. Because if the camera angle will not be same, it's difficult to show in the same alignment during editing.
 
 ![camera alignment](https://images.wondershare.com/filmora/article-images/2023/04/camera-alignment.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After setting all equipment, now it's time to allow the character to perform in front of the camera.
 
@@ -115,13 +128,6 @@ You can also create a marking by using anything in yours. We are using the midli
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
 
 ![cross line between two rounds](https://images.wondershare.com/filmora/article-images/2023/04/cross-line-between-two-rounds.jpg)
@@ -148,6 +154,13 @@ Find the best clips you have shotted for each dimension. Then follow the below s
 * Then, drag and drop the daytime clip on the bottom video track of the timeline.
 
 ![daytime clip on the bottom video track](https://images.wondershare.com/filmora/article-images/2023/04/daytime-clip-on-the-bottom-video-track.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After importing the daytime clip to the timeline, now it's time to add marks for better editing.
 
@@ -187,13 +200,6 @@ To make sure that the video will play smoothly, you ensure the correct alignment
 For better alignment of the clips, trim the nighttime clip where marker one is pointed. It is the point where the subject presses the button from the remote.
 
 ![trim the nighttime clip at marker 1](https://images.wondershare.com/filmora/article-images/2023/04/trim-the-nighttime-clip-at-marker-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After alignment and trimming points, the timeline is finalized, then add the mask effects for a fascinating look.
 
@@ -252,10 +258,10 @@ To apply the chromatic effect after the power pack effect, follow the below step
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** Change the settings of the effects as needed from the top left setting panel on filmora.
@@ -281,10 +287,10 @@ Congratulations! You have all done with the time travel teleportation effects an
 ![final results of time travel teleportation effects](https://images.wondershare.com/filmora/article-images/2023/04/final-results-of-time-travel-teleportation-effects.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you want to change the effects, then you can easily switch from the stock of the Wondershare Filmora. It gives unlimited creative and fun effects to interact with more audiences daily.
@@ -329,13 +335,6 @@ First, wrap the colorful divider around the LED light or any other light you're 
 
 ![final results after changing led light by colorful binders](https://images.wondershare.com/filmora/article-images/2023/04/final-results-after-changing-led-light-by-colorful-binders.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After setting the lights, now it's time to check the camera!
 
 **Camera alignment**
@@ -343,6 +342,13 @@ After setting the lights, now it's time to check the camera!
 It is a very important step that you don't have to change the camera position during filming. Because if the camera angle will not be same, it's difficult to show in the same alignment during editing.
 
 ![camera alignment](https://images.wondershare.com/filmora/article-images/2023/04/camera-alignment.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After setting all equipment, now it's time to allow the character to perform in front of the camera.
 
@@ -352,13 +358,6 @@ For the first round, the subject has to do acting for the daytime script. Let th
 
 In this article, we are doing a daytime performance in the first round. For this, the subject should go from right to left to step over for night time dimension.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### #1 night-time lighting setup
 
 In the second round, you have to create a nighttime action indicating that you need a night light. You have to change the costume of a subject as well as you can change the set too.
@@ -366,13 +365,6 @@ In the second round, you have to create a nighttime action indicating that you n
 To film a night mode, you need a warmer light, which is used to make shots for the second round. You can also use a light that is under 2700-3000 kelvins because it indicates warm light.
 
 ![night time warmer light](https://images.wondershare.com/filmora/article-images/2023/04/night-time-warmer-light.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You don't need to worry if you don't have enough budget to get this setup. Because plastic binders will make your way easy, and you can create your own at home, as told earlier.
 
@@ -385,6 +377,13 @@ In this round, the subject should start from the right to left and perform stepp
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### #3 cross line between two rounds
 
@@ -489,6 +488,13 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 Play the video again and check out the smoothness of the actions. As we have already marked the points, that's why the actions match with each other and give an equivalent look!
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** If your video actions are not aligning with each other, then adjust again according to the requirements.
 
@@ -580,14 +586,22 @@ Create for you and add different effects and experiment with new features. You w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-crafting-a-cinematic-short-blending-images-and-melodies-for-2024/"><u>[New] Crafting a Cinematic Short Blending Images and Melodies for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cutting-edge-simulators-for-sonys-playstation-3-games-pc/"><u>[Updated] Cutting-Edge Simulators for Sony's PlayStation 3 Games (PC)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-cost-effective-techniques-in-text-animations/"><u>[Updated] Mastering Cost-Effective Techniques in Text Animations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-proactive-zoom-meeting-strategies-for-improved-skype-interactions/"><u>2024 Approved Proactive Zoom Meeting Strategies for Improved Skype Interactions</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/analyzing-splitcams-place-among-best-recorders/"><u>Analyzing SplitCam's Place Among Best Recorders</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-pova-6-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Pova 6 Pro 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-sound-collection-no-cost-top-luts-listed-here-for-2024/"><u>Premium Sound Collection No-Cost, Top LUTs Listed Here for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-video-camera-selections-for-superior-recording-for-2024/"><u>Prime Video Camera Selections for Superior Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-evaluating-the-top-video-streaming-apps-for-phones/"><u>[New] 2024 Approved Evaluating the Top Video Streaming Apps for Phones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-streamline-live-4-proven-recording-techniques-for-fb/"><u>[New] 2024 Approved Streamline Live 4 Proven Recording Techniques for FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-share-todays-enlightening-voice-lesson/"><u>[New] Share Today's Enlightening Voice Lesson</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-the-art-of-video-chatting-on-snapchat-for-2024/"><u>[Updated] Mastering the Art of Video Chatting on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-of-photo-date-annotation-methods/"><u>2024 Approved Mastery of Photo Date Annotation Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-moto-cams-best-top-5-hats-for-riders/"><u>2024 Approved Moto Cam's Best Top 5 Hats for Riders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-audiovideo-1-players-guide-for-24/"><u>2024 Approved Next Gen Audio/Video #1 Players Guide for '24</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sprint-showcase-short-track-22-glory/"><u>2024 Approved Sprint Showcase Short Track '22 Glory</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-google-pixel-fold-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Google Pixel Fold</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-cross-platform-tools-windows-meets-android/"><u>Crucial Cross-Platform Tools: Windows Meets Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigate-high-speed-stories-on-instagram-effectively/"><u>In 2024, Navigate High-Speed Stories on Instagram Effectively</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-technology-tools-for-accurate-and-efficient-market-analysis-for-2024/"><u>Leveraging Technology Tools for Accurate and Efficient Market Analysis for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/methods-for-extracting-video-tweets-from-twitter-and-youtube-into-mp3-format-for-2024/"><u>Methods for Extracting Video Tweets From Twitter & YouTube Into MP3 Format for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ten-years-countless-connections-at-mondly/"><u>Ten Years, Countless Connections at Mondly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-solutions-for-diablo-2-resurrected-game-stop-issues/"><u>Tips and Solutions for Diablo 2 Resurrected Game-Stop Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-walmart-bargains-in-july-2024-exclusive-offers-featured-on-zdnet/"><u>Top Walmart Bargains in July 2024: Exclusive Offers Featured on ZDNet</u></a></li>
 </ul></div>
 

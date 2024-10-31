@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-10-19T17:27:46.785Z
-updated: 2024-10-25T16:12:55.615Z
+date: 2024-10-27T16:21:03.561Z
+updated: 2024-10-31T16:01:03.223Z
 tags: 
   - screen-recording
   - ai video
@@ -36,19 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -62,6 +49,13 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -78,10 +72,10 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Crop in Preview
@@ -100,13 +94,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -118,6 +105,13 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -134,6 +128,13 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -178,13 +179,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -235,18 +229,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-captivating-comedy-crafted-step-by-step-meme-tutorial/"><u>[New] Captivating Comedy Crafted Step-by-Step Meme Tutorial</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-canvas-with-these-top-10-secrets/"><u>[New] Master the Art of Canvas with These Top 10 Secrets</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-journey-of-personalized-instagram-notification-creation-for-2024/"><u>[Updated] The Journey of Personalized Instagram Notification Creation for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reviving-airtunes-fixing-disrupted-transfer-between-iphone-ipad-and-mac/"><u>2024 Approved Reviving Airtunes Fixing Disrupted Transfer Between iPhone, iPad & Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bypassing-edgenuity-a-guide-to-focused-self-study/"><u>Bypassing Edgenuity A Guide to Focused Self-Study</u></a></li>
-<li><a href="https://discover-able.techidaily.com/free-techniques-for-seamless-tsv-file-management-and-transformation-into-high-quality-mp4-videos/"><u>Free Techniques for Seamless .TSV File Management and Transformation Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hatch-humorous-habits-for-2024/"><u>Hatch Humorous Habits for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hikaritvdvd/"><u>HikariTVからDVD化：ストレージに保存するためのシンプル方法</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-installation-masterclass-transitioning-to-macos-sierra/"><u>In 2024, Installation Masterclass Transitioning to macOS Sierra</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-slomo-videography-comprehensive-review/"><u>In 2024, Mastering SloMo Videography - Comprehensive Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/larger-visuals-elevating-your-youtube-footage-for-2024/"><u>Larger Visuals Elevating Your YouTube Footage for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/master-the-art-of-photo-purity-with-picart-for-2024/"><u>Master the Art of Photo Purity with PicArt for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-green-screen-software-for-mobile-top-picks-for-android-and-ios/"><u>New Free Green Screen Software for Mobile Top Picks for Android and iOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-photo-wizards-perfecting-silhouette-art/"><u>[New] IPhone Photo Wizards Perfecting Silhouette Art</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>[New] Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-essential-tips-for-free-youtube-video-transcriptions/"><u>2024 Approved Essential Tips for FREE YouTube Video Transcriptions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-peaceful-playback-practices-for-pcos-users/"><u>2024 Approved Peaceful Playback Practices for PC/OS Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-mkv-reader-laptoptablet-edition/"><u>2024 Approved Superior MKV Reader (Laptop/Tablet Edition)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/art-of-healthful-eating-simplified-with-chatai/"><u>Art of Healthful Eating Simplified with ChatAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-important-is-it-to-be-cordial-when-engaging-with-ai-services-like-microsofts-chatgpt-alexa-or-apples-siri/"><u>How Important Is It to Be Cordial When Engaging with AI Services Like Microsoft's ChatGPT, Alexa, or Apple’s Siri?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-14-pro-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 14 Pro Stuck On Activation Lock?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-principles-of-crafting-alluring-video-scripts/"><u>In 2024, Principles of Crafting Alluring Video Scripts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-subtitle-extraction-from-youtube-unveiling-three-steps-for-2024/"><u>Mastering Subtitle Extraction From YouTube Unveiling Three Steps for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transforma-tus-archivos-vob-en-audio-flac-de-calidad-premium-gratuito-online-con-movavi/"><u>Transforma Tus Archivos VOB en Audio Flac De Calidad Premium Gratuito Online Con Movavi</u></a></li>
 </ul></div>
 

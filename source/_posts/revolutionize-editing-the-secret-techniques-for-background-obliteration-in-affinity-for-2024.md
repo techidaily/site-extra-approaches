@@ -1,7 +1,7 @@
 ---
 title: "\"Revolutionize Editing  The Secret Techniques for Background Obliteration in Affinity for 2024\""
-date: 2024-10-18T21:00:12.668Z
-updated: 2024-10-25T17:41:23.736Z
+date: 2024-10-29T16:00:13.104Z
+updated: 2024-10-31T16:26:13.390Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,13 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -36,19 +43,6 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
@@ -56,13 +50,6 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
@@ -103,13 +90,20 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Alternative of Affinity Photo
@@ -135,13 +129,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -154,10 +141,10 @@ And if you have any interests in finding free images to expand your resource, yo
 Hopefully, this article and video can help you create ideal images!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Alternative of Affinity Photo
@@ -183,6 +170,13 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -218,18 +212,21 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-photographic-archives/"><u>[New] Premium Photographic Archives</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-top-value-360-cameras-delivering-cost-effective-coverage/"><u>[New] Top Value 360° Cameras Delivering Cost-Effective Coverage</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-discover-the-prime-lineup-of-affordable-cutting-tools-for-2024/"><u>[Updated] Discover the Prime Lineup of Affordable Cutting Tools for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-quickfix-for-podcast-broadcasts/"><u>[Updated] Master Quickfix for Podcast Broadcasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-oculus-illness-prevention-guide/"><u>[Updated] Oculus Illness Prevention Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-powerpoint-guide-to-adding-youtube-links-with-ease-for-2024/"><u>[Updated] PowerPoint Guide to Adding YouTube Links with Ease for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-streamline-your-audio-preferences-moving-spotify-playlists-to-youtube-music-for-2024/"><u>[Updated] Streamline Your Audio Preferences Moving Spotify Playlists to YouTube Music for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/essential-compilation-top-8-4k-ultra-hd-players-for-2024/"><u>Essential Compilation Top 8 4K Ultra HD Players for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-xs-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone XS or iPad?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-lightrooms-artistic-control-creating-and-merging-hdr-images/"><u>In 2024, Master Lightroom's Artistic Control Creating & Merging HDR Images</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-11-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme 11 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/livestreaming-leaderboards-which-software-tops-the-chartvmixwirecast-in-2024/"><u>Livestreaming Leaderboards Which Software Tops the Chart—VMix/Wirecast, In 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionary-2020-apple-mac-mini-m1-chip-how-apple-outshines-the-rival-computers/"><u>Revolutionary 2020 Apple Mac Mini (M1 Chip): How Apple Outshines the Rival Computers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-youtube-music-rippers-for-android-and-ios/"><u>[New] 10 YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-from-newcomer-to-notable-nominee-nudging-numbers-naturally-for-2024/"><u>[Updated] From Newcomer to Notable Nominee Nudging Numbers Naturally for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-transformative-tiktok-techniques-unveiled-for-2024/"><u>[Updated] Transformative TikTok Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrate-sound-and-sight-web-studio/"><u>2024 Approved Integrate Sound & Sight Web Studio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-gentle-decreases-into-your-audience-experience-via-audacity/"><u>2024 Approved Integrating Gentle Decreases Into Your Audience Experience via Audacity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-stop-motion-films-the-ultimate-15-list/"><u>2024 Approved Pioneering Stop-Motion Films - The Ultimate 15 List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sly-satire-crafting-digital-chuckles-on-kapwing/"><u>2024 Approved Sly Satire Crafting Digital Chuckles on Kapwing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/adhering-to-correct-aspect-ratio-in-twitter-videos-for-2024/"><u>Adhering to Correct Aspect Ratio in Twitter Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-analysis-of-wondershare-filmora-pricing-functionality-and-additional-factors/"><u>Comprehensive Analysis of Wondershare Filmora: Pricing, Functionality, and Additional Factors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-in-color-expert-guides-on-adjustment-and-grading/"><u>In 2024, Precision in Color Expert Guides on Adjustment & Grading</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionary-strategy-mac-opening-with-wearable/"><u>In 2024, Revolutionary Strategy Mac Opening With Wearable</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-the-art-of-captivating-audiences-in-tiktok-unpack-videos-for-2024/"><u>Master the Art of Captivating Audiences in TikTok Unpack Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-facebook-profile-pictures-with-these-expert-creators/"><u>Mastering Facebook Profile Pictures with These Expert Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-assisted-writing-best-practices-for-freelancers/"><u>Navigating AI-Assisted Writing: Best Practices for Freelancers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-your-printer-with-windows-1/"><u>Step-by-Step Guide: Setting Up Your Printer with Windows 1</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Phone Pattern Lock</u></a></li>
 </ul></div>
 
