@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Peering Through the Printer  One Person’s '3DR' Story\""
-date: 2024-10-25T16:10:22.578Z
-updated: 2024-10-31T16:01:56.225Z
+date: 2024-11-04T18:22:23.897Z
+updated: 2024-11-06T02:12:55.867Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -98,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -119,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -140,16 +140,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-comprehensive-rundown-longer-videos-on-youtube/"><u>[Updated] 2024 Approved A Comprehensive Rundown Longer Videos on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-enter-the-world-of-online-promotion-exclusive-free-youtube-banner-access/"><u>[Updated] 2024 Approved Enter the World of Online Promotion Exclusive Free YouTube Banner Access</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-instagrams-best-kept-trick-for-stunning-collages/"><u>2024 Approved Instagram's Best-Kept Trick for Stunning Collages</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-your-beat-matching-try-free-online-detectors-now/"><u>2024 Approved Revolutionize Your Beat Matching – Try Free Online Detectors Now</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-common-apex-legends-game-crashes-and-engine-errors/"><u>How to Resolve Common Apex Legends Game Crashes and Engine Errors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-c53-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme C53 online without jailbreak</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-picshot-the-easy-breezy-way-to-create-photo-wonders/"><u>In 2024, Picshot The Easy-Breezy Way to Create Photo Wonders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-proart-pa-329q-a-review-of-asuss-leading-edge-4k-monitoring-technology/"><u>In 2024, ProArt PA 329Q A Review of Asus's Leading-Edge 4K Monitoring Technology</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/looking-beneath-surface-understanding-vr-drawbacks-for-2024/"><u>Looking Beneath Surface Understanding VR Drawbacks for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/online-signatures-for-xlsx-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for .xlsx </u></a></li>
-<li><a href="https://techidaily.com/simple-guide-to-moving-your-files-with-windows-backup-and-restore/"><u>Simple Guide to Moving Your Files with Windows Backup & Restore</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-streaming-made-simple-free-downloader-to-mp3s-now/"><u>[New] 2024 Approved Streaming Made Simple Free Downloader to MP3s Now!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-steady-smartphone-snapshots-best-tripods-guide/"><u>[Updated] Steady Smartphone Snapshots Best Tripods Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-kid-safe-car-challenges-galore/"><u>2024 Approved Kid-Safe Car Challenges Galore</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pixiz-masterclass-merging-photography-and-motion/"><u>2024 Approved Pixiz Masterclass Merging Photography and Motion</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-hair-and-makeup-guide-on-youtubes-top-influencers/"><u>2024 Approved The Ultimate Hair & Makeup Guide on YouTube's Top Influencers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-game-lag-fixing-the-path-of-exile-continuous-crash-problem/"><u>Banish Game Lag: Fixing the Path of Exile Continuous Crash Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/geforce-experience-wont-launch-heres-how-you-can-get-it-working-again/"><u>GeForce Experience Won't Launch? Here’s How You Can Get It Working Again!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guide-to-installing-the-huffington-post-download-tool-on-pcmac-systems-step-by-step-video-instructions/"><u>Guide to Installing the Huffington Post Download Tool on PC/Mac Systems – Step-by-Step Video Instructions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-c110-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on C110</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-investigating-magix-audio-mixer-mastery/"><u>In 2024, Investigating MAGIX Audio Mixer Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-joke-jingles-guide-best-ringtones-online/"><u>In 2024, Joke Jingles Guide Best Ringtones Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-software-titles-for-animation-artistry/"><u>In 2024, Leading Software Titles for Animation Artistry</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-video-narrative-an-ultimate-guide-to-adding-chapters-on-youtube/"><u>In 2024, Perfect Your Video Narrative An Ultimate Guide to Adding Chapters on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pictomixer-dynamic-media-player-for-macos-for-2024/"><u>PictoMixer Dynamic Media Player for macOS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-mobile-entertainment-funimates-apk-pathway-for-2024/"><u>Step Into Mobile Entertainment Funimate's APK Pathway for 2024</u></a></li>
 </ul></div>
 

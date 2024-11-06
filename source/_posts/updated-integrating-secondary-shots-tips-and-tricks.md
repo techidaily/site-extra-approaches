@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Integrating Secondary Shots  Tips and Tricks\""
-date: 2024-10-24T16:18:37.864Z
-updated: 2024-10-31T16:06:17.344Z
+date: 2024-10-31T02:44:11.008Z
+updated: 2024-11-05T17:23:58.827Z
 tags: 
   - screen-recording
   - ai video
@@ -44,27 +44,27 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
@@ -75,10 +75,10 @@ B roll footage can be used to tell a story that supports the narrative of your v
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
@@ -87,18 +87,18 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
 
@@ -138,16 +138,24 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-proper-placement-of-external-webpages-in-insta-content/"><u>[New] In 2024, Proper Placement of External Webpages in Insta Content</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-photopea-blueprint-for-flawless-image-backdrop/"><u>[New] In 2024, The Photopea Blueprint for Flawless Image Backdrop</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs/"><u>[Updated] Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-secure-and-updated-altering-numbers-in-tiktok-profiles/"><u>[Updated] Secure and Updated Altering Numbers in TikTok Profiles</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-world-of-video-timestamps-on-youtube/"><u>In 2024, Navigating the World of Video Timestamps on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>In 2024, The Streaming Platform Faceoff Twitch Versus YouTube Analysis</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubing-green-magic-ideas-that-come-to-life/"><u>In 2024, Youtubing Green Magic – Ideas That Come to Life</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/luminous-levels-in-android-videography-for-2024/"><u>Luminous Levels in Android Videography for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pinnacle-top-5-camcorders-for-flexible-filming-for-2024/"><u>Pinnacle Top 5 Camcorders for Flexible Filming for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smart-setup-for-your-windows-11-journey-for-2024/"><u>Smart Setup for Your Windows 11 Journey for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unlock-enhanced-audio-visual-sync-subtitle-addition-to-wmp/"><u>[New] In 2024, Unlock Enhanced Audio-Visual Sync Subtitle Addition to WMP</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-ideal-hosts-maximizing-youtube-video-exposure/"><u>[Updated] In 2024, Ideal Hosts Maximizing YouTube Video Exposure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-the-art-complete-vsco-editor-breakdown/"><u>[Updated] Master the Art Complete VSCO Editor Breakdown</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-mac-livestream-tech-best-of-the-best-ranked-1-to-5/"><u>2024 Approved Masterful Mac Livestream Tech Best of the Best, Ranked 1 to 5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unite-film-selections-with-playlist-accumulation/"><u>2024 Approved Unite Film Selections with Playlist Accumulation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-at-your-service-6-innovations-revolutionizing-smartwatch-tech/"><u>ChatGPT at Your Service: 6 Innovations Revolutionizing Smartwatch Tech</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-on-major-platforms-like-instagram-twitter-facebook-and-youtube/"><u>Connect & Share on Major Platforms Like Instagram, Twitter, Facebook & YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-emulation-of-legendary-dreamcast-games-on-your-phone/"><u>Effortless Emulation of Legendary Dreamcast Games on Your Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leap-into-the-future-with-strategic-technology-enhancements/"><u>In 2024, Leap Into the Future with Strategic Technology Enhancements</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-google-pixel-fold-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Google Pixel Fold and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pure-greenprints-accessible-templates-to-amplify-your-filmmaking-expertise/"><u>In 2024, Pure Greenprints Accessible Templates to Amplify Your Filmmaking Expertise</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-your-video-content-with-vce-22-mastery/"><u>In 2024, Revolutionize Your Video Content with VCE 2.2 Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-safaris-picture-in-picture-settings-simplified/"><u>In 2024, Safari’s Picture In Picture Settings Simplified</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/meme-magic-online-for-2024/"><u>Meme Magic Online for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/protective-phone-cases-with-screen-shields-for-2024/"><u>Protective Phone Cases with Screen Shields for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionizing-gaming-with-funimate-for-2024/"><u>Revolutionizing Gaming with Funimate for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/skillful-strategies-for-sustaining-design-success-for-2024/"><u>Skillful Strategies for Sustaining Design Success for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-playgrounds-for-gamers-glory/"><u>Ultimate Playgrounds for Gamers' Glory</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-a58-4g-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo A58 4G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Q500 Typhoon - Yuneec's High-Resolution Bliss\""
-date: 2024-10-24T16:09:12.088Z
-updated: 2024-10-31T16:05:55.159Z
+date: 2024-10-31T16:13:30.530Z
+updated: 2024-11-06T07:18:16.266Z
 tags: 
   - screen-recording
   - ai video
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 ![yuneec typhoon design](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-q500-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This device is having big size that makes it difficult to carry on trips. But the design is sturdy with impressive appearance. At the same time, you are going to find one charger, two batteries and two sets of propellers with this package. Few other accessories are sunshield, neck strap, ST10+ controller, cable and a steady Grip mount. The design is almost good but demands little polish to appear attractive. Professionals love to work with its sturdy body and stable design that helps to keep videos shake free during flight hours.
@@ -95,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 
 ![yuneec typhoon controller](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The transmitter as well as personal ground station of this system, both are combined together to form a single device that supports 10 channel functioning at 2.4GHz. Controller helps to make easy adjustments for flight modes and decisions about adventurous activities in air can be done easily. Roughly the control range is reported up to 800 meters. The dynamic return to home buttons offers fast response from drone to get back to its original position and it is very helpful if your device is running out of battery and it is required to make a safe landing as soon as possible. If you are able to understand the surroundings perfectly and learn all the control functions then it will become much easier to avoid crashes on the way and your device will surely work for years with great flight performances.
 
 #### 6\.  Camera
@@ -109,19 +102,19 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 ![yuneec typhoon q500 camera](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-q500-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As already discussed, it supports 4k recording abilities so users can expect breathtaking shoots in air. The camera is designed to offer 115 degree Field of View where 30 fps frame rate is supported for both 4K and 1080p resolution modes. Users can enjoy automatic settings at initial stage and once they are able to learn all advanced controls then it becomes much easier to shift towards classic flights with smart modes. You will be glad to know that this drone also has settings for slow motion videos with 1080p resolution and at frame rate of 120fps. It provides great flexibility to professional videographers for their advanced recording needs.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
  After watching all the incredible features as well as few limitations of Q500 drone, it appears to be the winner in many aspects as compared to other drones in market. If you have great budget and want to buy a classic drone with high camera resolution then Yuneec Q500 is recommended for you. It possesses all incredibly responsive control function and smart modes make flying experiences more interesting. You will love to work with its durable and strong body. But you have to spend more to get this device for your routine needs.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -145,19 +145,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-live-stream-providers-with-10-top-insights/"><u>[New] Navigating Live Stream Providers with 10 Top Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimize-oust-and-outperform-youtube-titles-that-dominate/"><u>[New] Optimize, Oust & Outperform YouTube Titles That Dominate</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-your-brands-presence-in-spotify-advertising/"><u>[Updated] Optimizing Your Brand's Presence in Spotify Advertising</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-monitoring-loved-comments-on-youtube/"><u>2024 Approved Mastering the Art of Monitoring Loved Comments on YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aerial-excellence-with-mi-drone-a-high-quality-look/"><u>Aerial Excellence with MI Drone - A High-Quality Look</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/fast-fingers-for-capturing-chat-transcripts-for-2024/"><u>Fast Fingers for Capturing Chat Transcripts for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-f25-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo F25 Pro 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-motorola-edge-40-neo-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Motorola Edge 40 Neo FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-oneplus-nord-ce-3-lite-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus Nord CE 3 Lite 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/picsart-tips-infusing-life-with-facial-motion-blur-for-2024/"><u>Picsart Tips Infusing Life with Facial Motion Blur for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/professional-shutter-sense-the-prime-6-4k-dslr-selections-for-2024/"><u>Professional Shutter Sense The Prime 6 4K DSLR Selections for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tutorial-how-to-save-your-screen-from-anywhere-using-remote-desktop-on-pcs-and-macbooks/"><u>Tutorial: How to Save Your Screen From Anywhere Using Remote Desktop on PCs and MacBooks</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/unleash-your-childs-creativity-10-best-video-editing-apps-for-2024/"><u>Unleash Your Childs Creativity 10 Best Video Editing Apps for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-exploring-best-fit-basic-to-pro-in-vimeo-services/"><u>[New] 2024 Approved Exploring Best Fit Basic to Pro in Vimeo Services</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-painting-with-light-the-role-of-film-grade/"><u>[New] Painting with Light The Role of Film Grade</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-easy-to-follow-guide-recording-non-root-android-sounds/"><u>[Updated] Easy-to-Follow Guide Recording Non-Root Android Sounds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-download-and-relive-a-compreran-review-of-top-youtube-playlist-extractors/"><u>[Updated] In 2024, Download and Relive A Compreran Review of Top YouTube Playlist Extractors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-insightful-update-sonys-s6500-hd-and-bd-player/"><u>[Updated] Insightful Update Sony's S6500 HD & BD Player</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-slidestream-creator-pro-macos/"><u>2024 Approved SlideStream Creator Pro (macOS)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-into-professionalism-aiseesofts-screen-recording-made-accessible/"><u>2024 Approved Step Into Professionalism Aiseesoft's Screen Recording Made Accessible</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-amv-conversion-to-mp4-effortless-online-upgrade-by-movavi/"><u>Free AMV Conversion to MP4: Effortless Online Upgrade by Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-parts-to-proficiency-assembling-a-powerhouse-4k-video-editor-pc/"><u>From Parts to Proficiency Assembling a Powerhouse 4K Video Editor PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-iphone-photo-angles-flip-and-tilt-with-skill/"><u>In 2024, Mastering iPhone Photo Angles Flip & Tilt with Skill</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-notable-top-5-lightweight-action-recording-units/"><u>In 2024, Notable Top 5 Lightweight Action Recording Units</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-transition-timings-in-premiere-audio/"><u>In 2024, Perfecting Transition Timings in Premiere Audio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-secrets-to-high-resolution-pics-on-deal/"><u>In 2024, Secrets to High-Resolution Pics on Deal</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y100 5G | Dr.fone</u></a></li>
 </ul></div>
 

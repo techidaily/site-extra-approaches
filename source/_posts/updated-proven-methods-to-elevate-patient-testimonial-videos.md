@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Proven Methods to Elevate Patient Testimonial Videos"
-date: 2024-07-27T23:15:26.369Z
-updated: 2024-07-28T23:15:26.369Z
+date: 2024-10-30T22:20:39.753Z
+updated: 2024-11-06T01:36:20.037Z
 tags: 
   - screen-recording
   - ai video
@@ -32,25 +32,36 @@ It may seem like a daunting task, but there are several ways you can go about de
 * If that's not an option for some reason (maybe there aren't any current customers), consider hiring a research firm or marketing agency that specializes in surveying potential customers and asking questions like "What would encourage you to buy from us?" or "How could we improve our service?" With this information in hand, it should be easier than ever before!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Ask Authentic Questions
 
 ![ask authentic questions](https://images.wondershare.com/filmora/article-images/2022/07/ask-authentic-questions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Open-ended questions are the best way to engage customers and get them to speak naturally.
 * Make your question relevant to the customer and your product or service.
 * The more specific you can be with these questions, the better. For example, if you're selling pet products online, ask about their pets' names, breed, and color (if applicable).
 * If there's no good reason for asking a question then don't! For example: "How was your experience with our website?"
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Include Strong Opinions
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![include strong opinion](https://images.wondershare.com/filmora/article-images/2022/07/include-strong-opinion.jpg)
 
 * Use the word “I”.
@@ -58,6 +69,13 @@ It may seem like a daunting task, but there are several ways you can go about de
 * Use the word “you”.
 * You can also use the word "they" for an authoritative tone, or "them", which is more casual and vaguer, depending on what you want to convey.
 * Please avoid saying the word "me" because this makes it sound like you're speaking in the third person—which can come across as unnatural and pretentious.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep it All Short and Sweet
 
@@ -69,14 +87,8 @@ When asking someone for their thoughts on a topic or issue, there's always going
 
 Asking open-ended questions allows people greater freedom when responding—and while this may sound like an ideal situation when creating content, it often results in less-than-ideal responses when creating content at scale since you won't always get exactly what you want out of every shot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lighting, Sound, and Video Quality Matter
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lighting sound video quality](https://images.wondershare.com/filmora/article-images/2022/07/lighting-sound-video-quality.jpg)
 
 Lighting, sound, and video quality matter.
@@ -85,22 +97,29 @@ This is a given. If you want your testimonial videos to be effective and believa
 
 ## Really Listen to Your Prospects
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When you're listening to your customers, don't just take notes on what they say. Also, look at their body language and eye movement. This can tell you a lot about whether they are telling the truth or not, and it will give you an idea of what may be going on in their head.
 
 If someone says "I love this product," but then shows their eyes darting around nervously, that could mean that they're worried about saying something nice about the product because it's not really meeting their needs. If someone says "It's okay," but he or she is nodding along with enthusiasm when talking about it, that probably means he or she really does like it!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Beware of Skeptics and Negative Nellies
 
 ![beware skeptics](https://images.wondershare.com/filmora/article-images/2022/07/beware-skeptics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You might have skeptics and negative nellies in your audience. They're the ones who are less likely to buy, but more likely to be negative about everything.
 
@@ -140,5 +159,19 @@ If you're looking to boost your sales with testimonial videos, then you need to 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-behind-the-scenes-youtubes-view-count-algorithm-for-2024/"><u>[New] Behind the Scenes YouTube's View Count Algorithm for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-depth-look-at-frozen-delight-recording-software-for-2024/"><u>[New] In-Depth Look at Frozen Delight Recording Software for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-youtube-to-twitter-share-videos-without-twitting/"><u>[New] YouTube to Twitter Share Videos Without Twitting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-live-video-quest-evaluating-the-strengths-of-obs-and-twitch-studio/"><u>2024 Approved Live Video Quest Evaluating the Strengths of OBS and Twitch Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-music-to-video-seamless-audio-import-for-inshot/"><u>2024 Approved Music to Video Seamless Audio Import for InShot</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insta-pros-guide-accelerate-your-path-to-social-media-stardom/"><u>In 2024, Insta Pro's Guide Accelerate Your Path to Social Media Stardom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigate-iphones-dual-task-capabilities-effortlessly/"><u>In 2024, Navigate iPhone's Dual-Task Capabilities Effortlessly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smirk-sessions-humorous-content-for-all-events/"><u>In 2024, Smirk Sessions Humorous Content for All Events</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-how-to-catch-every-thrilling-moment-in-cricket/"><u>In 2024, Step-by-Step Guide How to Catch Every Thrilling Moment in Cricket</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-want-to-find-a-high-quality-video-editing-tool-for-your-64-bit-operating-system-youve-come-to-the-right-place-for-2024/"><u>New Want to Find a High-Quality Video Editing Tool for Your 64 Bit Operating System? Youve Come to the Right Place for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-windows-with-5-mac-inspired-ideas/"><u>Simplify Your Windows with 5 Mac-Inspired Ideas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-beats-optimal-background-music-for-vids-for-2024/"><u>Unveiling Beats Optimal Background Music for Vids for 2024</u></a></li>
+</ul></div>
 

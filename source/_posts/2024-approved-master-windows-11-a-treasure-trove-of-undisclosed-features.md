@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master Windows 11  A Treasure Trove of Undisclosed Features\""
-date: 2024-07-27T23:14:41.276Z
-updated: 2024-07-28T23:14:41.276Z
+date: 2024-10-29T23:14:39.931Z
+updated: 2024-11-06T07:01:50.379Z
 tags: 
   - screen-recording
   - ai video
@@ -32,23 +32,14 @@ After years of small updates, the biggest and most popular operating system in t
 
 With the increased number of notifications in Windows 11, you might get annoyed. For that, you can turn off the notifications from the 'Settings.' Either you can go to the settings from the Start Menu or by pressing 'Win+I.' Then, head over to ‘System’ and hit 'Notifications.' The notifications are ‘On’ by default, but you can turn them 'Off' if you want to.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off unnecessary notifications](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Minimize Applications
 
 Minimizing Applications allows you to minimize the extra tabs as a whole rather than doing it individually. You have to hold the tab that you are using by left-clicking and shaking it. It will minimize all extra tabs. The same process can be done to restore the minimized windows.
 
 This feature can be activated through Windows Settings and then by clicking on ‘Multi-Tasking.' Switch on the toggle switch next to ‘Title Bar Window Shake,' and it is ready to use.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![minimize applications by shaking](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-2.jpg)
 
 ### 3\. Shortcut Keys
@@ -57,14 +48,31 @@ Windows 11 has many shortcut keys that will save your time on a busy day. These 
 
 ![windows 11 shortcut keys](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### 4\. Taskbar and Start Menu Placements
 
 The biggest Windows 11 tip and trick is the placement of Taskbar and Start Menu. Windows 11 has a taskbar and start menu in the center. The relocation of the taskbar and the start menu can be done easily. By changing the placement, you can make Windows 11 look like Windows 10 if you prefer it that way. For that, open the ‘Taskbar Behavior’ and click on ‘Taskbar Alignment’ and relocate it.
 
 ![align taskbar to the left](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Remove Unwanted Ads on Apps
 
@@ -72,9 +80,6 @@ The updated technology allows you to have better control over the privacy of you
 
 ![disable unwanted ads](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Voice Typing Feature
 
 The coolest thing about Windows 11 that most people don’t know is the ‘Voice Typing’ feature. You might have experienced this before in your iPhones or Android devices, but this is new for Windows to have voice typing built-in. Press ‘Windows Key + H’ when you are in a text box and then start speaking. By using the mic button from the pop-out menu, you can start using the feature.
@@ -87,10 +92,14 @@ Using Widgets and Chats helps the user have a quick chat with people that they l
 
 However, some people do not like using this kind of stuff. They don’t even prefer crowding their taskbar. For such cases, you can turn them off from the toggle switches that are available in the ‘Show or Hide the buttons that appear on Taskbar' or 'Taskbar Items. '
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Block Trackers and Pop-up
 
@@ -104,14 +113,15 @@ Every app we install has our location, but with Windows 11, we can change our de
 
 For changing your default location, hit the ‘Set Default’ button on the right side of the screen. This will open the Map. Now, enter the location that you want to have, and lastly, click on the ‘Change’ button in the top left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![change windows 11 location](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 10\. Bring Folders on Start
 
 Windows 11 tips and tricks also include bringing back the folders on the start menu. Windows 11 have a built-in setting that shows the folders next to the power button on the Start Menu. You can also personalize things.
@@ -119,6 +129,13 @@ Windows 11 tips and tricks also include bringing back the folders on the start m
 For that, press ‘Win + I’ and then select 'Personalization.' Now, choose 'Start,' and after that, select 'Folders.' At this point, select the system folders that you want to see on the Start Menu. You can flip the switch to 'On.'
 
 ![bring folders to windows 11 start](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -136,24 +153,33 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <ins class="adsbygoogle"
@@ -178,5 +204,21 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-srt-to-sub-shift-expert-strategies-and-actions/"><u>[Updated] SRT to SUB Shift Expert Strategies & Actions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-telegram-web-setup-for-novices/"><u>[Updated] Step-by-Step Telegram Web Setup for Novices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stills-extraction-procedure-windows-11-photos-guide/"><u>[Updated] Stills Extraction Procedure Windows 11 Photos Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-vlcs-full-potential-an-overview-for-2024/"><u>[Updated] Unlocking VLC's Full Potential An Overview for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-propel-your-brand-with-a-10-step-blueprint-for-top-smm-performance/"><u>2024 Approved Propel Your Brand with a 10-Step Blueprint for Top SMM Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-meizu-21-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Meizu 21? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210164940-9781645449911-behind-the-scenes/"><u>Behind the Scenes | Free Book</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/behind-the-scenes-crafting-your-next-big-fb-reel/"><u>Behind-the-Scenes Crafting Your Next Big FB Reel</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/celebrity-quick-shot-analysis-for-2024/"><u>Celebrity Quick Shot Analysis for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/free-online-conversion-transforming-rmvb-files-into-mp4-format-with-ease-moveavi/"><u>Free Online Conversion: Transforming RMVB Files Into MP4 Format with Ease - Moveavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-keep-your-iphone-video-steady-three-effective-stabilization-tips/"><u>In 2024, Keep Your iPhone Video Steady Three Effective Stabilization Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-with-advanced-cookie-based-tracking-technology/"><u>Optimized with Advanced Cookie-Based Tracking Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/taming-the-beast-a-step-by-step-guide-to-resolving-titanfall-2-issues/"><u>Taming the Beast: A Step-by-Step Guide to Resolving Titanfall 2 Issues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-the-code-to-perfect-instagrams-every-time/"><u>Unlocking the Code to Perfect Instagrams Every Time</u></a></li>
+</ul></div>
 

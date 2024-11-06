@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Professional Techniques for Video Narrative Inclusion"
-date: 2024-10-30T16:16:49.807Z
-updated: 2024-10-31T16:23:28.185Z
+date: 2024-10-30T17:07:51.300Z
+updated: 2024-11-06T02:37:06.595Z
 tags: 
   - screen-recording
   - ai video
@@ -50,13 +50,6 @@ So the easiest way to add narration is directly to a project. The benefit of thi
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
@@ -64,10 +57,10 @@ You put the playhead where you want to start recording and hit the microphone ic
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
@@ -77,10 +70,10 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
@@ -92,13 +85,6 @@ Know what you want to tell your viewer rather than speak aimlessly. What can you
 You can edit pauses or weak parts out of the voiceover to trim it up. But if it is still too long, you can easily add another video clip, or even still images to help boost the length to match your narration.
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Narration is a great storytelling device
 
@@ -114,7 +100,21 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should you use narration in your next project?
 
@@ -154,18 +154,19 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-monetization-how-to-apply-for-the-youtube-partner-program-2024/"><u>[New] Unlock Monetization How to Apply for the YouTube Partner Program 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-continuous-connection-avoiding-streak-breakers-on-snapchat-for-2024/"><u>[Updated] Continuous Connection Avoiding Streak Breakers on Snapchat for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinpointing-the-premier-top-10-pc-vr-headset-models-of-2-written-by-dr-jane-smith-on-january-15-2023/"><u>[Updated] Pinpointing the Premier Top 10 PC VR Headset Models of 2 Written by Dr. Jane Smith on January 15, 2023</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-speed-control-for-elite-pc-users/"><u>[Updated] Precision Speed Control for Elite PC Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shrinking-or-enlarging-images-on-your-iphone-effortlessly/"><u>[Updated] Shrinking or Enlarging Images on Your iPhone Effortlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/civilization-vi-crashing-woes-heres-how-you-can-get-smooth-gameplay-again/"><u>Civilization VI Crashing Woes? Here's How You Can Get Smooth Gameplay Again</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-how-to-fade-audio-in-lumafusion/"><u>In 2024, How To Fade Audio In Lumafusion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-performance-comparison-hero5-black-and-hero4-silver/"><u>In 2024, Pinnacle Performance Comparison Hero5 Black and Hero4 Silver</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-pros-and-cons-delving-into-the-world-of-video-downloading-methods/"><u>In 2024, Pros and Cons Delving Into the World of Video Downloading Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seconds-in-a-snapshot-20mb-videography/"><u>In 2024, Seconds in a Snapshot 20MB Videography</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-totally-tune-out-mastering-the-art-of-muting-media-on-internet-platforms-for-2024/"><u>New Totally Tune-Out Mastering the Art of Muting Media on Internet Platforms for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-search-feature-in-win11-taskbar/"><u>Unlocking the Search Feature in Win11 Taskbar</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-chuckle-factory-designing-7-video-ideas-for-humorists/"><u>[New] Chuckle Factory Designing 7 Video Ideas for Humorists</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-distinctive-video-stream-names-tips-for-filmora-users/"><u>[New] In 2024, Crafting Distinctive Video Stream Names Tips for Filmora Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-jocular-images-for-apple-devices/"><u>[New] Jocular Images for Apple Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-proven-ways-to-capture-and-preserve-your-favorite-discord-sessions-for-2024/"><u>[Updated] Proven Ways to Capture and Preserve Your Favorite Discord Sessions for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reclaiming-gone-reddit-content-a-time-saving-guide/"><u>[Updated] Reclaiming Gone-Reddit Content A Time-Saving Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-definitive-handbook-to-reacting-on-youtube-tweets/"><u>2024 Approved The Definitive Handbook to Reacting on YouTube Tweets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/bezproblevela-konverze-webm-na-mp4-online-priklad-rychla-metoda-a-snadna-technika/"><u>Bezproblévelá Konverze WebM Na MP4 Online: Příklad, Rychlá Metoda a Snadná Technika</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects/"><u>In 2024, Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-learn-how-to-assemble-memories-with-iphone-images/"><u>In 2024, Learn How to Assemble Memories with iPhone Images</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-x-jump-cuts-from-beginner-to-pro-in-no-time/"><u>New 2024 Approved Final Cut Pro X Jump Cuts From Beginner to Pro in No Time</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-chuckle-inducing-layout-for-2024/"><u>Optimal Chuckle-Inducing Layout for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/retrospective-of-stop-motion-films-top-15-honorees-for-2024/"><u>Retrospective of Stop-Motion Films - Top 15 Honorees for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxdvd-die-bevorzugte-software-zum-extrahieren-verbessern-and-konvertieren-von-dvd-inhalten-unter-beibehaltung-hochster-qualitat-perfekt-fur-iphone-and-and5/"><u>WinXDVD: Die Bevorzugte Software Zum Extrahieren, Verbessern & Konvertieren Von DVD-Inhalten Unter Beibehaltung Höchster Qualität – Perfekt Für iPhone & Android</u></a></li>
 </ul></div>
 

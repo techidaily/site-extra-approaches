@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Reddit's Golden Threads  Celebrating the Highest-Rated Posts\""
-date: 2024-10-25T16:08:13.552Z
-updated: 2024-10-31T16:08:15.248Z
+date: 2024-10-30T08:52:58.180Z
+updated: 2024-11-05T20:36:56.759Z
 tags: 
   - screen-recording
   - ai video
@@ -55,13 +55,6 @@ Its purpose is quite ironic. The point was to make this image of Chancellor Palp
 
 Sadly, the attempt failed but still received a lot of attention.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [$GME GO BRRR (r/wallstreetbets)](https://www.reddit.com/r/wallstreetbets/comments/l8rf4k/times%5Fsquare%5Fright%5Fnow/)
 
 This post currently has 469k votes with a stunning 99% Upvote rate. It’s now the most upvoted Reddit post in this list.
@@ -74,13 +67,6 @@ $GME stands for GameStop's stock name. BRR represents printing money. The idea b
 
 ![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as[/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
 
 If you know the famous song "Never Gonna Give You Up, " you know who this is. Well, this is the Reddit account of the artist Rick Astley himself, taking over the platform with a photo of himself he found in 1989.
@@ -89,18 +75,18 @@ If you know the famous song "Never Gonna Give You Up, " you know who this is. We
 
 ![nyc taxi driver calendar](https://images.wondershare.com/filmora/article-images/2023/01/new-york-taxi-driver.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Another funny post in the official /r/funny subreddit itself. At this time, this one has 308k votes, 97% of which are Upvotes.
 
 The image depicts the New York spirit as an excited cab driver shows off his cab in the 2018 New York Taxi Driver calendar.
 
 What's even more interesting is that the driver commented on this Reddit post, letting everyone know that he also got the title "Mr. December" that year.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. [Showing a Game You Mastered to Someone You Care About (/r/gaming)](https://www.reddit.com/r/gaming/comments/ccr8c8/take%5Fyour%5Ftime%5Fyou%5Fgot%5Fthis/)
 
@@ -113,13 +99,6 @@ This one, for example, features 269k votes. 98% of them Upvoted, all probably en
 The image shows an experienced gamer who spent countless hours beating a game, trying to teach a friend how to play it.
 
 You understand the pain if you've gone through something like this.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. [All News Anchors Say the Same Thing(/r/videos)](https://www.reddit.com/r/videos/comments/88ll08/this%5Fis%5Fwhat%5Fhappens%5Fwhen%5Fone%5Fcompany%5Fowns%5Fdozens/)
 
@@ -145,16 +124,22 @@ That's all there is to it. No politics, no serious issues, and so on. Just a fro
 
 ![battle for net neutrality reddit post](https://images.wondershare.com/filmora/article-images/2023/01/battle-for-net-neutrality.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This is another most upvoted Reddit post that encouraged over 180k users to join the battle for net neutrality. Again, 86% of these users are upvoters who agree with the statements in the post.
 
 It's a post with a title and a link to a site where anyone can join the battle. The goal - prevent Internet Service Providers from blocking apps and websites.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\. [Deangelo Juggles Balls for Real(/r/DunderMifflin)](https://www.reddit.com/r/DunderMifflin/comments/cec448/i%5Fwas%5Fwithout%5Finternet%5Ffor%5Fa%5Fwhile%5Fdecided%5Fto%5Fuse/)
 
@@ -166,22 +151,16 @@ Well, a Reddit user made an edit of this clip and now it looks as if Will juggle
 
 The post has a 98% upvote rate with 170k voters in total. The reason it's so popular is that The Office fans can't get enough of this show. Many say they never stop watching short clips of the show on Youtube and Reddit after finishing the entire series.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 10\. [Brave Soldier Buried Amongst His Devoted Troops (/r/todayilearned)](https://www.reddit.com/r/todayilearned/comments/7pbzcb/til%5Fafter%5Fcol%5Fshaw%5Fdied%5Fin%5Fbattle%5Fconfederates/)
 
 ![reddit post of soldier and his fathers message](https://images.wondershare.com/filmora/article-images/2023/01/brave-soldier-buried-with-his-devoted-troops-reddit.png)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Finally, this is an inspiring and heartwarming post about a brave troop.
 
@@ -192,6 +171,13 @@ The troop is known as Col. Shaw. The confederates buried this man in a mass grav
 After an attempt by Union Troops to recover his body, they received a letter from Col' Shaw's father, saying, "_We would not have his body removed from where it lies surrounded by his brave and devoted soldiers._"
 
 The Reddit post has over 4k comments, many of which feature thousands of upvotes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Video – Top 10 Most Upvoted Posts on Reddit
 
@@ -271,6 +257,13 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 
 97% of these 293k users upvoted and agreed that all news anchors say the same thing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. [Thirsty Frog Takes a Bath (r/aww)](https://www.reddit.com/r/aww/comments/90bu6w/heat%5Findex%5Fwas%5F110%5Fdegrees%5Fso%5Fwe%5Foffered%5Fhim%5Fa/)
 
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
@@ -280,6 +273,13 @@ Some things on Reddit don't have to make sense to get a lot of attention.
 Like this frog, for example. 99% out of the 313k voters on this post upvoted and loved watching this tiny frog take a bath on a hot summer day.
 
 That's all there is to it. No politics, no serious issues, and so on. Just a frog trying to cool off in a bottle cup.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. [Battle for Net Neutrality (/r/books)](https://www.reddit.com/r/books/comments/7en6do/join%5Fthe%5Fbattle%5Ffor%5Fnet%5Fneutrality%5Fwe%5Fneed%5Fto/)
 
@@ -300,22 +300,15 @@ Well, a Reddit user made an edit of this clip and now it looks as if Will juggle
 The post has a 98% upvote rate with 170k voters in total. The reason it's so popular is that The Office fans can't get enough of this show. Many say they never stop watching short clips of the show on Youtube and Reddit after finishing the entire series.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 10\. [Brave Soldier Buried Amongst His Devoted Troops (/r/todayilearned)](https://www.reddit.com/r/todayilearned/comments/7pbzcb/til%5Fafter%5Fcol%5Fshaw%5Fdied%5Fin%5Fbattle%5Fconfederates/)
 
 ![reddit post of soldier and his fathers message](https://images.wondershare.com/filmora/article-images/2023/01/brave-soldier-buried-with-his-devoted-troops-reddit.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Finally, this is an inspiring and heartwarming post about a brave troop.
 
@@ -326,6 +319,13 @@ The troop is known as Col. Shaw. The confederates buried this man in a mass grav
 After an attempt by Union Troops to recover his body, they received a letter from Col' Shaw's father, saying, "_We would not have his body removed from where it lies surrounded by his brave and devoted soldiers._"
 
 The Reddit post has over 4k comments, many of which feature thousands of upvotes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Video – Top 10 Most Upvoted Posts on Reddit
 
@@ -365,21 +365,21 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-video-guide-top-15-youtube-channels-for-ultimate-product-reviews/"><u>[New] Premium Video Guide Top 15 YouTube Channels for Ultimate Product Reviews</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-photo-editing-blur-or-eliminate-unwanted-borders/"><u>[Updated] Professional Photo Editing Blur or Eliminate Unwanted Borders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quietude-quotient-windowsmac-music-control/"><u>[Updated] Quietude Quotient Windows/Mac Music Control</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-efficient-practices-logging-google-voice-dialogues/"><u>2024 Approved Efficient Practices Logging Google Voice Dialogues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-art-of-social-media-stardom-with-these-9-strategies/"><u>2024 Approved Master the Art of Social Media Stardom with These 9 Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-redefine-creativity-the-ultimate-selection-of-best-android-drawing-apps/"><u>2024 Approved Redefine Creativity The Ultimate Selection of Best Android Drawing Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-unraveling-virtual-realitys-interactive-gear/"><u>2024 Approved Unraveling Virtual Reality's Interactive Gear</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-a58-4g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo A58 4G Device SIM</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-accelerating-windows-7s-startup-time-and-performance/"><u>Expert Tips for Accelerating Windows 7'S Startup Time and Performance</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-elite-no-cost-fb-imagemovie-design-toolkit/"><u>In 2024, Elite No-Cost FB Image/Movie Design Toolkit</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-file-imports-into-windows-11-with-ease/"><u>In 2024, Mastering File Imports Into Windows 11 with Ease</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rofl-roundup-10-best-apps-for-meme-creation/"><u>In 2024, ROFL Roundup 10 Best Apps for Meme Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-art-of-installation-plugging-issues-with-tiny-tinas-wonderlands-pc-version/"><u>Mastering the Art of Installation: Plugging Issues with Tiny Tina's Wonderlands [PC Version]</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rediscovering-hidden-cds-and-dvds/"><u>Rediscovering Hidden CDs & DVDs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-ranking-free-screencast-tools-capture-your-screen-smoothly-without-delays/"><u>Top-Ranking Free Screencast Tools - Capture Your Screen Smoothly Without Delays</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/webcammastery-practicalrecordingsteps/"><u>WebCamMastery PracticalRecordingSteps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-ai-photo-editor/"><u>[New] Best AI Photo Editor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-your-videos-final-impression-for-2024/"><u>[New] Enhancing Your Video's Final Impression for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-magical-voice-change-tools-for-efficient-calls/"><u>[Updated] Magical Voice Change Tools for Efficient Calls</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-free-power-players-ranking-the-top-10-free-luts/"><u>[Updated] Premium-Free Power Players Ranking the Top 10 Free LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tailoring-content-the-importance-of-aspect-ratios/"><u>[Updated] Tailoring Content The Importance of Aspect Ratios</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-android-and-ios-the-best-sound-distortion-tools/"><u>2024 Approved Android & iOS The Best Sound Distortion Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-hdr-photography-for-enthusiasts/"><u>2024 Approved IPhone HDR Photography for Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/divide-both-sides-by-2-to-solve-for-x/"><u>Divide Both Sides by 2 to Solve for (X ):</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-15-plus-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 15 Plus screen lock without Passcode?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximum-videos-on-a-64gb-drive/"><u>In 2024, Maximum Videos on a 64GB Drive</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-fps-in-low-speed-clips/"><u>In 2024, Optimal FPS in Low-Speed Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sightline-synopsis-study/"><u>In 2024, Sightline Synopsis Study</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-audacity-for-top-notch-audio-recording-for-2024/"><u>Navigating Audacity for Top-Notch Audio Recording for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-professional-photoshop-mastering-luts-in-cs6cc-for-2024/"><u>Step Into Professional Photoshop Mastering LUTs in CS6/CC for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-cult-of-the-lamb-pc-game-crashes/"><u>Troubleshooting Steps: Resolving 'Cult of the Lamb' PC Game Crashes</u></a></li>
 </ul></div>
 

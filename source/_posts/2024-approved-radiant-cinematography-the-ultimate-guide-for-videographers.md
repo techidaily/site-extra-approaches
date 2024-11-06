@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Radiant Cinematography  The Ultimate Guide for Videographers\""
-date: 2024-07-27T23:08:49.860Z
-updated: 2024-07-28T23:08:49.860Z
+date: 2024-10-31T21:03:36.376Z
+updated: 2024-11-06T01:02:50.698Z
 tags: 
   - screen-recording
   - ai video
@@ -52,18 +52,12 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -76,9 +70,6 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
@@ -93,33 +84,21 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -152,5 +131,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-calculating-monetary-gain-for-a-milion-of-youtube-watchers/"><u>[New] In 2024, Calculating Monetary Gain for a Milion of YouTube Watchers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-applications-to-elevate-your-vtubers-sonic-brand/"><u>[New] Optimal Applications to Elevate Your Vtuber's Sonic Brand</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ailoring-tags-to-achieve-six-figures-in-views/"><u>[New] Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-guide-to-disable-facebook-broadcasts-mobiledesktop/"><u>[Updated] In 2024, Guide to Disable Facebook Broadcasts, Mobile/Desktop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-introduction-to-effective-telegram-promotion-for-rookies/"><u>[Updated] Introduction to Effective Telegram Promotion for Rookies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-linguistic-inputs-utilize-no-fee-required/"><u>[Updated] Linguistic Inputs, Utilize No Fee Required</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-drone-models/"><u>2024 Approved Pioneering Drone Models</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oneplus-nord-ce-3-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked OnePlus Nord CE 3 5G Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A25 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-media-landsranking-with-magix-video-pro-x/"><u>In 2024, Navigating Media Landsranking with Magix Video Pro X</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-applications-transforming-vtuber-voices-on-the-fly/"><u>In 2024, Prime Applications Transforming VTuber Voices on the Fly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/podcasts-versus-video-based-platforms-who-wins-for-2024/"><u>Podcasts versus Video-Based Platforms – Who Wins for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-camera-powerhouse-the-sj-cam-s6-reviewed-for-2024/"><u>Pro Camera Powerhouse The SJ-CAM S6 Reviewed for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-best-lgbtplus-films-streaming-on-netflix-this-july/"><u>Top Picks: Best LGBT+ Films Streaming on Netflix This July</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970994134-troubleshooting-and-fixing-amd-radeon-driver-issues-solutions-proven-effective/"><u>Troubleshooting and Fixing AMD Radeon Driver Issues: Solutions Proven Effective!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-a-stuck-screen-here-are-10-fixes-for-iphone-ghost-touch-problems/"><u>Unstick a Stuck Screen? Here Are 10 Fixes for iPhone Ghost Touch Problems</u></a></li>
+</ul></div>
 

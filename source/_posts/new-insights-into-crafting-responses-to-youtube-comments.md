@@ -1,7 +1,7 @@
 ---
 title: "[New] Insights Into Crafting Responses to YouTube Comments"
-date: 2024-10-27T16:14:11.192Z
-updated: 2024-10-31T16:29:04.363Z
+date: 2024-11-01T01:03:08.988Z
+updated: 2024-11-06T00:38:32.220Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,10 @@ Not only does it show your fans followers that you care about what they have to 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Advantage of YouTube comments
@@ -50,6 +50,13 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments can help you gauge customer sentiment: How do your viewers respond to your content? Positively? Negatively? Not at all? Monitoring your comments can help you understand how viewers feel about your brand.
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Comment on a YouTube Video
 
@@ -62,13 +69,6 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
@@ -93,10 +93,10 @@ Step2 On the YouTube homepage, click on the three horizontal parallel lines in t
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
@@ -108,13 +108,6 @@ Step4 On the right side under the “Manage all history” section, click on “
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
 
@@ -141,6 +134,13 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -178,19 +178,22 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-2023s-leading-facebook-film-extractors-top-picks/"><u>[New] 2024 Approved 2023'S Leading Facebook Film Extractors - Top Picks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-proven-strategies-building-time-lapses-using-samsung-cameras/"><u>[New] Proven Strategies Building Time-Lapses Using Samsung Cameras</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-illustration-revolution-adding-depth-to-text-with-3d/"><u>[Updated] 2024 Approved Illustration Revolution Adding Depth to Text with 3D</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bright-future-in-hd-a-fit-or-overstepping-for-hdr/"><u>2024 Approved Bright Future in HD A Fit or Overstepping for HDR?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-momentum-meets-mass-audience/"><u>2024 Approved Momentum Meets Mass Audience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-picture-in-picture-video-integration-for-mac-os-x/"><u>2024 Approved Navigating Picture in Picture Video Integration for Mac OS X</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-animals-in-play-essential-android-titles-reviewed/"><u>2024 Approved Top Animals in Play Essential Android Titles Reviewed</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100i-power-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-se-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone SE - 4 Easy Ways</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canoscan-lide-123-image-scanner-free-software-and-latest-updates/"><u>CanoScan LiDE 123 Image Scanner - Free Software and Latest Updates</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneers-of-virtual-reality-top-vr-headsets-on-pc/"><u>In 2024, Pioneers of Virtual Reality Top VR Headsets on PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-mobile-vr-transform-your-phone-into-a-vr-headset-for-2024/"><u>Mastering Mobile VR Transform Your Phone Into a VR Headset for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-through-modern-cameras-complex-shooting-modes-for-2024/"><u>Navigating Through Modern Camera's Complex Shooting Modes for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-rainbow-six-siege-pc-issues-overcoming-the-persistent-black-screen-problem/"><u>Troubleshooting Rainbow Six Siege PC Issues - Overcoming the Persistent Black Screen Problem</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-unknown-to-iconic-the-journey-of-viral-instagram-films/"><u>[New] In 2024, From Unknown to Iconic The Journey of Viral Instagram Films</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shoot-straight-best-tripods-for-smartphones-today/"><u>[New] Shoot Straight Best Tripods for Smartphones Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-control-video-pace-in-instagram/"><u>[New] Step-by-Step Guide to Control Video Pace in Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-instagram-sequence-steps-to-reach-1k-monthly-followers-for-2024/"><u>[New] The Instagram Sequence Steps to Reach 1K Monthly Followers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-picture-warping-techniques-with-various-apps/"><u>[Updated] Mastering Picture Warping Techniques with Various Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-asserting-ownership-on-social-platforms-instagrams-watermarking-secrets/"><u>2024 Approved Asserting Ownership on Social Platforms Instagram's Watermarking Secrets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-secure-sharpening-hiding-unwanted-details/"><u>2024 Approved Secure Sharpening Hiding Unwanted Details</u></a></li>
+<li><a href="https://media-tips.techidaily.com/cant-find-song-lyrics-on-spotify-check-out-these-reliable-alternatives/"><u>Can't Find Song Lyrics on Spotify? Check Out These Reliable Alternatives!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/grand-escapades-in-yokus-island-express-an-in-depth-game-experience-review/"><u>Grand Escapades in Yoku's Island Express: An In-Depth Game Experience Review</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-frozen-intellij-unison-app-on-your-win11-pc/"><u>How to Fix a Frozen IntelliJ Unison App on Your Win11 PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mobile-magic-booster-free-high-quality-photo-amplification/"><u>In 2024, Mobile Magic Booster Free, High-Quality Photo Amplification</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-nows-vr-tech-landscape/"><u>In 2024, Now’s VR Tech Landscape</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-13-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 13</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secrets-of-selective-zoom-sharpening-in-google-meet-for-2024/"><u>Secrets of Selective Zoom Sharpening in Google Meet for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stable-vr-experience-8-ways-to-prevent-nausea-for-2024/"><u>Stable VR Experience 8 Ways to Prevent Nausea for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-copy-and-paste-glitches-on-your-latest-windows-operating-system/"><u>Troubleshooting Copy & Paste Glitches on Your Latest Windows Operating System</u></a></li>
 </ul></div>
 

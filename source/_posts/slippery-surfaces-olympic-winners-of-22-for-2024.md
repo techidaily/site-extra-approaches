@@ -1,7 +1,7 @@
 ---
 title: "\"Slippery Surfaces  Olympic Winners of '22 for 2024\""
-date: 2024-10-27T16:14:44.767Z
-updated: 2024-10-31T16:25:18.142Z
+date: 2024-11-04T19:56:59.172Z
+updated: 2024-11-06T08:02:29.115Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,13 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -31,13 +38,6 @@ Here are the main highlights of 1500 meter short track speed skating held at the
 Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Canada’s Steven Dubois wins the silver medal.
 
@@ -52,40 +52,47 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -120,13 +127,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -150,14 +150,18 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-mobile-image-mastery-with-top-10-stickers-for-appleandroid-users/"><u>[Updated] Mobile Image Mastery with Top 10 Stickers for Apple/Android Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfectly-preserve-and-profitably-play-your-phones-gifs/"><u>[Updated] Perfectly Preserve and Profitably Play Your Phone's GIFs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-unraveling-vloggers-terrors-and-techniques-to-triumph-for-2024/"><u>[Updated] Unraveling Vloggers' Terrors and Techniques to Triumph for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-ranking-the-leading-10-pixels-for-free-access/"><u>In 2024, Ranking the Leading 10 Pixels for Free Access</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/juxtaposing-flight-with-flair-a-bebop-parrot-analysis-for-2024/"><u>Juxtaposing Flight with Flair – A Bebop Parrot Analysis for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-places-to-download-high-quality-free-digital-images-for-2024/"><u>Leading Places to Download High-Quality, Free Digital Images for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-valheims-launch-problem-for-seamless-gameplay/"><u>Resolving Valheim's Launch Problem for Seamless Gameplay</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-resolved-windows-no-longer-able-to-find-updates/"><u>Successfully Resolved: Windows No Longer Able To Find Updates?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-every-gamer-should-know-5-important-questions-to-ask-before-buying-your-next-console/"><u>What Every Gamer Should Know: 5 Important Questions to Ask Before Buying Your Next Console</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-insiders-guide-to-instagram-stories-magic/"><u>[New] In 2024, The Ultimate Insider's Guide to Instagram Stories Magic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-potion-powered-pronunciation-can-voice-changer-apps-be-real-magic-search-for-other-ways/"><u>[New] Potion-Powered Pronunciation Can Voice Changer Apps Be Real Magic? Search for Other Ways</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-breakdown-of-payment-percentages-in-short-video-royalties/"><u>[New] The Breakdown of Payment Percentages in Short Video Royalties</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unlocking-the-secrets-of-srt-editing-on-a-mac/"><u>[New] Unlocking the Secrets of SRT Editing on a Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-smart-recorder-solutions-for-lecturers/"><u>[Updated] 2024 Approved Smart Recorder Solutions for Lecturers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>[Updated] Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-never-compromise-on-security-try-our-list-of-top-10-secure-free-video-calling-apps/"><u>2024 Approved Never Compromise on Security – Try Our List of Top 10 Secure, Free Video Calling Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-accessories-for-immersive-gaming-worlds-for-2024/"><u>Advanced Accessories for Immersive Gaming Worlds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-overcoming-firs-display-issues-in-face-to-face-conferencing/"><u>In 2024, Overcoming Fir's Display Issues in Face-to-Face Conferencing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photography-at-the-tip-of-your-fingers-top-10-apps/"><u>In 2024, Photography at the Tip of Your Fingers – Top 10 Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-the-best-audio-recording-options-for-apple-products/"><u>In 2024, Unveiling the Best Audio Recording Options for Apple Products</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-citizen-windows-compatibility-improved-crashes-now-fixed/"><u>Star Citizen Windows Compatibility Improved, Crashes Now Fixed</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-150-2023-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from 150 (2023).</u></a></li>
 </ul></div>
 

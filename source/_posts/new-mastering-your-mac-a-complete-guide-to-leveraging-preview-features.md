@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-10-27T16:21:03.561Z
-updated: 2024-10-31T16:01:03.223Z
+date: 2024-11-01T09:39:35.198Z
+updated: 2024-11-06T09:41:18.469Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -50,13 +57,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -70,13 +70,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -107,10 +100,10 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -129,13 +122,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -151,6 +137,13 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -179,6 +172,13 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -229,17 +229,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-iphone-photo-wizards-perfecting-silhouette-art/"><u>[New] IPhone Photo Wizards Perfecting Silhouette Art</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>[New] Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-essential-tips-for-free-youtube-video-transcriptions/"><u>2024 Approved Essential Tips for FREE YouTube Video Transcriptions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-peaceful-playback-practices-for-pcos-users/"><u>2024 Approved Peaceful Playback Practices for PC/OS Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-mkv-reader-laptoptablet-edition/"><u>2024 Approved Superior MKV Reader (Laptop/Tablet Edition)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/art-of-healthful-eating-simplified-with-chatai/"><u>Art of Healthful Eating Simplified with ChatAI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-important-is-it-to-be-cordial-when-engaging-with-ai-services-like-microsofts-chatgpt-alexa-or-apples-siri/"><u>How Important Is It to Be Cordial When Engaging with AI Services Like Microsoft's ChatGPT, Alexa, or Apple’s Siri?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-14-pro-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 14 Pro Stuck On Activation Lock?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-principles-of-crafting-alluring-video-scripts/"><u>In 2024, Principles of Crafting Alluring Video Scripts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-subtitle-extraction-from-youtube-unveiling-three-steps-for-2024/"><u>Mastering Subtitle Extraction From YouTube Unveiling Three Steps for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transforma-tus-archivos-vob-en-audio-flac-de-calidad-premium-gratuito-online-con-movavi/"><u>Transforma Tus Archivos VOB en Audio Flac De Calidad Premium Gratuito Online Con Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-practical-photoshop-fixes-for-facial-pixelation-purposes/"><u>[New] Practical Photoshop Fixes for Facial Pixelation Purposes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamlessly-stitch-words-onto-pictures-photo-editor-pros/"><u>[New] Seamlessly Stitch Words Onto Pictures Photo Editor Pros</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stack-videos-in-your-youtube-queue/"><u>[New] Stack Videos in Your YouTube Queue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-conquering-the-world-of-instagram-reels-tips-inside/"><u>[Updated] Conquering the World of Instagram Reels – Tips Inside</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-guide-to-leveraging-obs-in-android/"><u>[Updated] Expert Guide to Leveraging OBS in Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lifetime-of-memories-elevated-in-the-cloud-free-and-paid-storage-compared/"><u>[Updated] Lifetime of Memories, Elevated in the Cloud Free & Paid Storage Compared</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-inventory-list-a-range-of-video-recording-devices/"><u>2024 Approved Inventory List A Range of Video Recording Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>2024 Approved Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tod-mpgmov/"><u>無料TOD MPGからMOVへ容易に移行するオンラインツール - ビデオエクスプローラー</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dominant-heavy-lift-drones-for-industrial-tasks-for-2024/"><u>Dominant Heavy-Lift Drones for Industrial Tasks for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-close-up-mode-in-roblox-playground-for-2024/"><u>Mastering Close-Up Mode in Roblox Playground for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-itel-s23plus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Itel S23+</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-10t-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Realme 10T 5G</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-7-low-cost-video-compacting-tools-for-android-devices-for-2024/"><u>Top 7 Low-Cost Video Compacting Tools for Android Devices for 2024</u></a></li>
 </ul></div>
 

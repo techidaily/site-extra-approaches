@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Panasonic HX-A1 Wearable Camera Explored\""
-date: 2024-10-28T16:02:39.408Z
-updated: 2024-10-31T16:25:09.846Z
+date: 2024-11-03T17:42:35.946Z
+updated: 2024-11-06T00:06:18.865Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specification
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Accessories in the box
@@ -114,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Features
 
 #### **1. Video and photo quality**
@@ -150,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -163,6 +156,13 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -179,14 +179,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-revolutionize-your-video-content-with-free-intro-designers/"><u>[New] 2024 Approved Revolutionize Your Video Content with Free Intro Designers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-audio-bridge-for-podcasters/"><u>[New] Optimal Audio Bridge for Podcasters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-edge-innovations-for-your-daily-life/"><u>2024 Approved Leading Edge Innovations for Your Daily Life</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/comparing-smartphones-android-iphone-and-symbian/"><u>Comparing Smartphones: Android, iPhone, and Symbian</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-moto-g23-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Moto G23</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-precision-the-best-39-video-trimming-tools-from-google-play/"><u>In 2024, Perfect Precision The Best 39 Video-Trimming Tools From Google Play</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inside-virtuality-metaverse-vs-omniverse-in-focus-for-2024/"><u>Inside Virtuality Metaverse Vs. Omniverse in Focus for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-digital-lifeguard-a-quick-guide-for-saving-vids-from-fbs-waves/"><u>[New] In 2024, Digital Lifeguard A Quick Guide for Saving Vids From FB's Waves</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-motion-perception-systems/"><u>[New] Navigating Through Motion Perception Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sharpening-zoom-visuals-immediate-upgrades/"><u>[New] Sharpening Zoom Visuals Immediate Upgrades</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-basic-understanding-of-digital-lore-making/"><u>[Updated] 2024 Approved Basic Understanding of Digital Lore Making</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-slow-motion-photography-in-phantom-cameras/"><u>2024 Approved Mastering Slow-Motion Photography in Phantom Cameras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-maze-of-multi-service-playlist-transfer/"><u>2024 Approved Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sony-bdp-s3700-review-latest-update-summary/"><u>2024 Approved Sony BDP-S3700 Review Latest Update Summary</u></a></li>
+<li><a href="https://facebook.techidaily.com/embracing-the-virtual-shift-6-motivating-facts-about-facebooks-metaverse/"><u>Embracing the Virtual Shift: 6 Motivating Facts About Facebook's Metaverse</u></a></li>
+<li><a href="https://article-tips.techidaily.com/enhance-image-quality-with-iphone-lights-control-for-2024/"><u>Enhance Image Quality with iPhone Lights Control for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-scrolling-through-engaging-youtube-remarks/"><u>The Ultimate Guide to Scrolling Through Engaging YouTube Remarks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-using-freestyle2-blue-on-macos-why-apple-lovers-should-switch-now/"><u>The Ultimate Guide to Using Freestyle2 Blue on macOS - Why Apple Lovers Should Switch Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-homekit-connectivity-how-to-restore-response-in-your-smart-devices/"><u>Troubleshooting HomeKit Connectivity: How to Restore Response in Your Smart Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-stubborn-dns-server-top-4-solutions-revealed/"><u>Troubleshooting Your Stubborn DNS Server: Top 4 Solutions Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Green Screen Shooting Made Simple"
-date: 2024-07-27T23:15:50.034Z
-updated: 2024-07-28T23:15:50.034Z
+date: 2024-10-31T06:02:43.015Z
+updated: 2024-11-06T06:39:07.381Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 
 # How to Shoot a Green Screen Video
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -42,9 +38,6 @@ If you are wondering how to compositing the shot green screen video with your ma
 
 **Related:**[Resources for green screen effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Tips for shooting better green screen video
 
 We’ve figured out some useful green screen tricks, have fun and hope you’ll be more creative with the help of Filmora green screen video compositing software.
@@ -59,18 +52,12 @@ To shoot a nice green screen video, it's better to be able to light the backgrou
 
 Don’t throw too much light onto the green background. That will create hotspots and “green spill” on the subject and make the key less effective. The key to lighting a green screen is consistency – create a single, consistent shade of color across the entire screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Lighting tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-lighting-tips.png)
 
 Check out our picks of [the best lighting equipment for shooting videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 2Camera tips in shooting a Green Screen Video
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
 
 When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
@@ -83,9 +70,6 @@ Looking for some best cameras for shooting green screen video? Check our picks o
 
 #### 3Clothing tips in shooting a Green Screen Video
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Clothing tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-1.jpg)
 
 There are some mistakes that you can avoid to help your green screen video look more professional and more realistic. Perhaps one of the simplest mistakes that many people make with green screen video shooting is actually wearing green clothing. If you are wearing clothing or clothing that has buttons or accents that are a similar color green as your selected background green, the image that you project onto the green screen in post-editing will also get picked up by these accents on your clothing or by the clothing itself. This is great if you want to cut off part of an actor's body, but not so professional if you are trying to make an actor appear in a realistic scene.
@@ -108,10 +92,6 @@ Till now, I believe we have basic skills on how to shoot a green screen videos, 
 
 Besides compositing chroma keying videos in Filmora, you can also [stabilize your shaky videos](https://tools.techidaily.com/wondershare/filmora/download/), [put videos side by side](https://tools.techidaily.com/wondershare/filmora/download/), [blur the face in the video](https://tools.techidaily.com/wondershare/filmora/download/) and even more. Let's watch the video below and find out how people shoot and edit green screen videos. Remember to download Filmora to have a try by yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -122,12 +102,37 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-revolutionize-mobile-broadcasting-integrating-obs-studio-into-android/"><u>[New] 2024 Approved Revolutionize Mobile Broadcasting Integrating OBS Studio Into Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exclusive-review-of-showmore-authoritative-screen-capture-software/"><u>[New] In 2024, Exclusive Review of ShowMore’ Authoritative Screen Capture Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-minisculerecordings-snapshot-scrutiny-for-2024/"><u>[New] MinisculeRecordings Snapshot Scrutiny for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-legally-accessing-government-election-coverage-on-demand/"><u>2024 Approved Legally Accessing Government Election Coverage on Demand</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-technique-integrating-gopro-videos-into-compreited-cinematic-universe/"><u>2024 Approved Optimal Technique Integrating GoPro Videos Into Compreited Cinematic Universe</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-shutter-sense-the-prime-6-4k-dslr-selections/"><u>2024 Approved Professional Shutter Sense The Prime 6 4K DSLR Selections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-access-essential-windows-10-tips/"><u>2024 Approved Quick Access Essential Windows 10 Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quintessential-ae-text-styles-for-emphasis/"><u>2024 Approved Quintessential AE Text Styles for Emphasis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cambia-i-tuoi-file-m4v-a-mp4-gratuitamente-online-con-convertitore-rapido-di-movie-converter/"><u>Cambia I Tuoi File .M4v a .mp4 Gratuitamente Online Con Convertitore Rapido Di Movie Converter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-6-giant-language-models-revolutionizing-ai/"><u>Discover the Leading 6 Giant Language Models Revolutionizing AI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dyson-unveils-ontrac-wireless-a-potential-challenger-to-apples-airpods-pro-explore-the-innovation/"><u>Dyson Unveils OnTrac Wireless: A Potential Challenger to Apple's AirPods Pro? - Explore the Innovation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harness-the-potential-of-gratuitous-timer-tools-for-2024/"><u>Harness the Potential of Gratuitous Timer Tools for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-seas-of-sponsorships-a-youtubers-playbook-for-2024/"><u>Navigating the Seas of Sponsorships A Youtuber's Playbook for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionizing-healthcare-cyber-therapies-for-2024/"><u>Revolutionizing Healthcare Cyber-Therapies for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/uncovering-hidden-files-on-your-iphone-a-complete-tutorial-with-stellar-software/"><u>Uncovering Hidden Files on Your iPhone: A Complete Tutorial with Stellar Software</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

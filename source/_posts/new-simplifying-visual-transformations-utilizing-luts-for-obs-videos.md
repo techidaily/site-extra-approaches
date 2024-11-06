@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplifying Visual Transformations  Utilizing LUTs for OBS Videos\""
-date: 2024-10-29T16:07:33.411Z
-updated: 2024-10-31T16:10:10.190Z
+date: 2024-11-03T04:49:23.023Z
+updated: 2024-11-05T17:26:19.865Z
 tags: 
   - screen-recording
   - ai video
@@ -23,6 +23,13 @@ We've all seen filters on social media that change the appearance or feel of you
 ## Why do we need to use LUTs in OBS Studio?
 
 Color grading presets called to look up tables can be used in video editing applications and OBS. They can be utilized to alter the tone of your photo or just add to its vibrancy. LUTs allow you to apply filters to your image in order to increase its quality or produce a dramatic effect. It may even save you money on a more expensive camera. Here are some reasons why you should use LUTs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. It brings perfection with time management
 
@@ -78,31 +85,24 @@ To create your LUT, follow the instructions below.
 
 ![obs Lut](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 How to use LUTs in Lumafuison
 
 1. Go to Effect Filters. Then click "+" located on the bottom left, click apply LUT, then give your LUT a name in the Filters panel.
 
 ![how to use obs Lut](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Add Luts to OBS
 
 1. Select the LUT you wish to add to your webcam using the browse button.
 2. You can then modify the quantity slider to choose how powerful you want your LUT to be.
 3. You've just finished installing a LUT on your webcam. If you use the right LUT, you can radically transform the tone of your stream.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Free LUTs resource for OBS studio
 
@@ -114,6 +114,13 @@ Gaming Careers has created a LUT package that includes 30 free webcam filters th
 
 ![free obs luts - Gaming careers ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Gaming careers
 
 ### 2\. [OBS forums free LUTs](https://obsproject.com/forum/resources/free-lut-filter-pack.594/)
@@ -121,13 +128,6 @@ Gaming careers
 This package contains 76 ready-to-use LUT filter files for OBS. Use these filters to create a film-like effect for your webcam stream or video clip. Blender's film color processing was used to generate the filters. Using Blender's picture compositor, the webcam presets were made by hand. These files can be used with OBS's LUT video filter.
 
 ![free obs luts - OBS Forums ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 OBS forums
 
@@ -137,14 +137,14 @@ You'll get 18 cinematic LUTs with this Video Mark package. This filter set focus
 
 ![free obs luts - Video Mark](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-5.png)
 
-Video Mark
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Video Mark
 
 ### 4\. [Rocket stock free LUTs](https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/)
 
@@ -178,6 +178,26 @@ As a result, adding professionalism to your talents is now even easier and more 
 
 ![filmora 3d lut](https://images.wondershare.com/filmora/features/3d-lut-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use LUTs in OBS Studio
 
 To create your LUT, follow the instructions below.
@@ -193,13 +213,6 @@ How to use LUTs in Lumafuison
 1. Go to Effect Filters. Then click "+" located on the bottom left, click apply LUT, then give your LUT a name in the Filters panel.
 
 ![how to use obs Lut](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Add Luts to OBS
 
@@ -217,13 +230,6 @@ Gaming Careers has created a LUT package that includes 30 free webcam filters th
 
 ![free obs luts - Gaming careers ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Gaming careers
 
 ### 2\. [OBS forums free LUTs](https://obsproject.com/forum/resources/free-lut-filter-pack.594/)
@@ -240,13 +246,20 @@ You'll get 18 cinematic LUTs with this Video Mark package. This filter set focus
 
 ![free obs luts - Video Mark](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Video Mark
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. [Rocket stock free LUTs](https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/)
@@ -262,13 +275,6 @@ Rocket stock
 Then there's Christian Mate Grab's LUT. It's only a single LUT filter with an orange and teal grade to give it a more cinematic appearance. This one likewise requires you to join their email list. You may color grade your films in real-time using straight in OBS.
 
 ![free obs luts - Christian Mate Grab](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Christian Mate Grab
 
@@ -302,18 +308,20 @@ As a result, adding professionalism to your talents is now even easier and more 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-soundscape-auditions-for-videos/"><u>[New] Prime Soundscape Auditions for Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-easy-tweaks-changing-fishy-vocal-patterns-on-windows/"><u>[Updated] 2024 Approved Easy Tweaks Changing Fishy Vocal Patterns on Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instantaneous-fb-video-updates-leading-extensions-and-app-analysis/"><u>[Updated] Instantaneous FB Video Updates - Leading Extensions & App Analysis</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-skys-the-limit-crafting-professional-drone-videos/"><u>2024 Approved Sky's the Limit Crafting Professional Drone Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-itel-p40-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Itel P40 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-is-earnings-linked-to-product-reviews-in-media/"><u>In 2024, Is Earnings Linked to Product Reviews in Media?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-snapit-share-it-in-order-on-ig/"><u>In 2024, SnapIt, Share It in Order on IG</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-motorola-moto-g13-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Motorola Moto G13 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/making-the-most-of-virtual-reality-space/"><u>Making the Most of Virtual Reality Space</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/no-cost-solution-the-leading-converters-for-jpeg-to-gifs-for-2024/"><u>No-Cost Solution The Leading Converters for JPEG to GIFs for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-remote-work-how-chatgpt-opens-doors-to-innovation/"><u>The Future of Remote Work: How ChatGPT Opens Doors to Innovation</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-6s-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 6s</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-photomod-editor-skills-review/"><u>[New] PhotoMod Editor Skills Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-integration-of-dvd-playback-on-your-system/"><u>[New] Seamless Integration of DVD Playback on Your System</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secure-your-privacy-with-easy-to-follow-picscanner-methods/"><u>[New] Secure Your Privacy with Easy-to-Follow PicScanner Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-zoom-incorporating-video-effects-step-by-step/"><u>[Updated] Mastering Zoom Incorporating Video Effects Step by Step</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-scaling-photography-with-no-detail-degradation/"><u>[Updated] Scaling Photography with No Detail Degradation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-switch-off-guide-instagrams-igtv/"><u>[Updated] Switch-Off Guide Instagram's IGTV</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-6-simple-minecraft-house-ideas-for-2024/"><u>[Updated] Top 6 Simple Minecraft House Ideas for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-watchlist-restoring-suggested-videos/"><u>2024 Approved Enhancing Watchlist Restoring Suggested Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skilled-uav-operation-tips-for-filmmakers/"><u>2024 Approved Skilled UAV Operation Tips for Filmmakers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-phantom-gag-craftsman/"><u>In 2024, Phantom Gag Craftsman</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soundscapes-for-phones-how-to-curate-tamil-ringtone-tracks/"><u>In 2024, Soundscapes for Phones How to Curate Tamil Ringtone Tracks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unlocking-potential-with-nikon-written-by-emily-roberts-on-june-4-2023/"><u>In 2024, Unlocking Potential with Nikon' Written by Emily Roberts on June 4, 2023</u></a></li>
+<li><a href="https://video-capture.techidaily.com/kazam-screen-recorder-features-guide-review-for-2024/"><u>Kazam Screen Recorder Features| Guide| Review for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/merriment-joining-and-leaving-rituals/"><u>Merriment Joining & Leaving Rituals</u></a></li>
 </ul></div>
 
