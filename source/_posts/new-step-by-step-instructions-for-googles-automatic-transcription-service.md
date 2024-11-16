@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Instructions for Google's Automatic Transcription Service\""
-date: 2024-07-27T23:04:23.587Z
-updated: 2024-07-28T23:04:23.587Z
+date: 2024-11-09T16:10:35.654Z
+updated: 2024-11-16T16:10:16.751Z
 tags: 
   - screen-recording
   - ai video
@@ -45,25 +45,19 @@ Below is a full guide to Google Docs speech to text service. As you keep reading
 
 [Try STT Now](https://tools.techidaily.com/wondershare/filmora/download/) [Try STT Now](https://tools.techidaily.com/wondershare/filmora/download/) [Explore STT](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Part 1: What do you need to use google docs speech to text service?
 
 Like all other programs, speech to text google docs service requires you to meet specific requirements. In addition, these requirements apply to both desktop and mobile devices. Below is what you need to use the service.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Google accounts
 
 Voice to text google docs is only available to google account holders. Therefore, to access the Google service on your device, proceed to the google homepage and use the **Create an Account** Form to get one. Fill in the details as requested to finalize the process. Remember, Google accounts are available to individuals and businesses alike.
@@ -93,9 +87,6 @@ Below is how to use voice to text google docs with your microphone:
 1. Ensure your microphone is active before enabling the service. You can check this by accessing your device's **microphone settings**. These are under System Preferences for Mac users and in the Control Panel program for Windows PC users. Other device users should refer to the manual to identify the option's location.
 2. Launch your Chrome browser and access **Docs** from the **Apps**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch your chrome browser](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-1.jpg)
 
 You will find it on the top left corner of your browser, below the back and forward buttons.
@@ -110,15 +101,25 @@ You will find it on the top left corner of your browser, below the back and forw
 
 1. The voice to text google docs service will appear as a pop-up on your document's workspace.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![a pop up on workspace](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-4.jpg)
 
 You can identify this by the big microphone symbol.
 
 1. Select your language from the dropdown menu and then tap the microphone to begin voice typing. Ensure your voice is clear and that you are speaking normally.
 2. Tap the microphone again once you finish your dictation.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Input with an audio file
 
@@ -172,25 +173,23 @@ Click [here](https://tools.techidaily.com/wondershare/filmora/download/) too che
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) speech to text is available on Windows and macOS as a subscription service. Depending on your subscription, you can transcribe up to 10 hours of audio per month. Check the Filmora speech to text website for more information on the plugin's features.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Q1: Can you use Google Docs on speech to text mobile?
 
 Yes, you can. Download Gboard on your android device to avail the feature. Once done, launch the Google Docs app. Then, touch and hold the microphone on your keyboard. You can start transcribing after the words Speak Now appear on your screen. However, not all android versions offer the service. Therefore, check your device's compatibility by accessing Google PlayStore.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Q2: Can you use Google Docs speech to text offline?
 
 Unfortunately, no. The speech to text google docs is only available online since it operates on the Google Cloud Services platform. In addition, you need to have the chrome web browser on your device to use the service, which requires an online connection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Q3 Is Chromebook necessary to use Google Docs?
 
 No. You can access Google Docs from any device, provided you have the chrome browser installed. In addition, you will need an active google account to access any Google services.
@@ -216,28 +215,23 @@ No. You can access Google Docs from any device, provided you have the chrome bro
 
 [Try STT Now](https://tools.techidaily.com/wondershare/filmora/download/) [Try STT Now](https://tools.techidaily.com/wondershare/filmora/download/) [Explore STT](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: What do you need to use google docs speech to text service?
 
 Like all other programs, speech to text google docs service requires you to meet specific requirements. In addition, these requirements apply to both desktop and mobile devices. Below is what you need to use the service.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Google accounts
 
 Voice to text google docs is only available to google account holders. Therefore, to access the Google service on your device, proceed to the google homepage and use the **Create an Account** Form to get one. Fill in the details as requested to finalize the process. Remember, Google accounts are available to individuals and businesses alike.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Microphone
 
 You also need a microphone to use speech to text google service. Laptop and notebook users can use their device's inbuilt microphone. However, desktop users require to connect an external microphone to their device's microphone in port. Ensure you get a high-quality microphone because the text accuracy depends on your voice clarity.
@@ -257,8 +251,12 @@ No, Google Docs work fine on Firefox and Safari.
 Once you fulfill the requirements above, you can begin transcribing your documents. Google Docs speech to text service has two input methods. Here is an extensive guide to each.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Input with a microphone
 
 Below is how to use voice to text google docs with your microphone:
@@ -267,6 +265,13 @@ Below is how to use voice to text google docs with your microphone:
 2. Launch your Chrome browser and access **Docs** from the **Apps**
 
 ![launch your chrome browser](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You will find it on the top left corner of your browser, below the back and forward buttons.
 
@@ -280,9 +285,6 @@ You will find it on the top left corner of your browser, below the back and forw
 
 1. The voice to text google docs service will appear as a pop-up on your document's workspace.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![a pop up on workspace](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-4.jpg)
 
 You can identify this by the big microphone symbol.
@@ -290,9 +292,6 @@ You can identify this by the big microphone symbol.
 1. Select your language from the dropdown menu and then tap the microphone to begin voice typing. Ensure your voice is clear and that you are speaking normally.
 2. Tap the microphone again once you finish your dictation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Input with an audio file
 
 Alternatively, you can transcribe in speech to text google docs using an audio file. Follow these steps for audio file input.
@@ -310,9 +309,6 @@ If you are not a Google Docs user, here are suitable alternatives to voice to te
 
 ### 1\. Windows 10 built-in speech to text service
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![in speech to text service](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-5.jpg)
 
 Voice typing is available for Windows 10 users as a default feature. As such, you do not need to download anything additional to use the service. In addition, it allows you to transcribe your audio across all the operating system's apps and programs. For example, you can use the service for searching for items on your computer and also use it with MS Office applications. In addition, the service is free and available offline.
@@ -350,29 +346,28 @@ Click [here](https://tools.techidaily.com/wondershare/filmora/download/) too che
 
 ## Part 4: FAQs
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q1: Can you use Google Docs on speech to text mobile?
 
 Yes, you can. Download Gboard on your android device to avail the feature. Once done, launch the Google Docs app. Then, touch and hold the microphone on your keyboard. You can start transcribing after the words Speak Now appear on your screen. However, not all android versions offer the service. Therefore, check your device's compatibility by accessing Google PlayStore.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q2: Can you use Google Docs speech to text offline?
 
 Unfortunately, no. The speech to text google docs is only available online since it operates on the Google Cloud Services platform. In addition, you need to have the chrome web browser on your device to use the service, which requires an online connection.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Q3 Is Chromebook necessary to use Google Docs?
 
 No. You can access Google Docs from any device, provided you have the chrome browser installed. In addition, you will need an active google account to access any Google services.
@@ -403,5 +398,24 @@ No. You can access Google Docs from any device, provided you have the chrome bro
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-fbx-guide-to-professional-gamers-footage/"><u>[Updated] 2024 Approved FBX Guide to Professional Gamers' Footage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-sharing-videos-on-tweet-no-retweets-just-phones/"><u>[Updated] Sharing Videos on Tweet No Retweets, Just Phones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-insight-into-quadcopters-functionality-uncovered/"><u>2024 Approved Insight Into Quadcopters Functionality Uncovered</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-secondary-shots-tips-and-tricks/"><u>2024 Approved Integrating Secondary Shots Tips and Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-zip-to-srt-transform-subtitled-content-swiftly/"><u>2024 Approved Mastering Zip-to-Srt Transform Subtitled Content Swiftly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-slideshow-software-for-iphone-fi-and-pro-max/"><u>2024 Approved Perfect Slideshow Software For iPhone Fi & Pro Max</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photography-and-captioning-a-guide-to-dynamic-text/"><u>2024 Approved Photography & Captioning A Guide to Dynamic Text</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-with-intova-x-action-tech/"><u>2024 Approved Pushing Boundaries with Intova X Action Tech</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-now-ultimate-guide-to-using-your-targus-dock-with-simple-driver-installation/"><u>Download Now! Ultimate Guide to Using Your Targus Dock with Simple Driver Installation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/from-simple-scenes-advanced-techniques-for-snapchat-edits-for-2024/"><u>From Simple Scenes Advanced Techniques for Snapchat Edits for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-12-mini-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 12 mini?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>In 2024, Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-merging-youtube-melodies-in-cinematic-pieces/"><u>In 2024, Merging YouTube Melodies in Cinematic Pieces</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-night-avenger-black-vs-day-defender-silver/"><u>In 2024, Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-newly-released-lenovo-yoga-pro-9i-slim-profile-and-high-quality-keys/"><u>In-Depth Analysis of the Newly Released Lenovo Yoga Pro 9I - Slim Profile & High-Quality Keys</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/premier-fb-viewing-sites-ranked-1-10-for-2024/"><u>Premier FB Viewing Sites Ranked #1-10 for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-experience-how-a-vpn-is-crucial-for-enhanced-privacy-in-using-the-vision-pro-and-other-mixed-reality-devices-zdnet-exclusive/"><u>Secure Your Experience: How a VPN Is Crucial for Enhanced Privacy in Using the Vision Pro and Other Mixed Reality Devices | ZDNET Exclusive</u></a></li>
+</ul></div>
 

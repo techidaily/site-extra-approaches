@@ -1,7 +1,7 @@
 ---
 title: "\"Slippery Surfaces  Olympic Winners of '22 for 2024\""
-date: 2024-11-04T19:56:59.172Z
-updated: 2024-11-06T08:02:29.115Z
+date: 2024-11-12T16:34:49.048Z
+updated: 2024-11-16T16:10:44.009Z
 tags: 
   - screen-recording
   - ai video
@@ -24,13 +24,6 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -39,9 +32,23 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
@@ -51,22 +58,15 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
@@ -74,10 +74,10 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
@@ -87,13 +87,6 @@ The last leg of competition among skaters before reaching the finishing line at 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -127,6 +120,13 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -150,18 +150,19 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-insiders-guide-to-instagram-stories-magic/"><u>[New] In 2024, The Ultimate Insider's Guide to Instagram Stories Magic</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-potion-powered-pronunciation-can-voice-changer-apps-be-real-magic-search-for-other-ways/"><u>[New] Potion-Powered Pronunciation Can Voice Changer Apps Be Real Magic? Search for Other Ways</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-breakdown-of-payment-percentages-in-short-video-royalties/"><u>[New] The Breakdown of Payment Percentages in Short Video Royalties</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unlocking-the-secrets-of-srt-editing-on-a-mac/"><u>[New] Unlocking the Secrets of SRT Editing on a Mac</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-smart-recorder-solutions-for-lecturers/"><u>[Updated] 2024 Approved Smart Recorder Solutions for Lecturers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>[Updated] Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-never-compromise-on-security-try-our-list-of-top-10-secure-free-video-calling-apps/"><u>2024 Approved Never Compromise on Security – Try Our List of Top 10 Secure, Free Video Calling Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advanced-accessories-for-immersive-gaming-worlds-for-2024/"><u>Advanced Accessories for Immersive Gaming Worlds for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-overcoming-firs-display-issues-in-face-to-face-conferencing/"><u>In 2024, Overcoming Fir's Display Issues in Face-to-Face Conferencing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photography-at-the-tip-of-your-fingers-top-10-apps/"><u>In 2024, Photography at the Tip of Your Fingers – Top 10 Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-the-best-audio-recording-options-for-apple-products/"><u>In 2024, Unveiling the Best Audio Recording Options for Apple Products</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-citizen-windows-compatibility-improved-crashes-now-fixed/"><u>Star Citizen Windows Compatibility Improved, Crashes Now Fixed</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-150-2023-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from 150 (2023).</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unleash-the-potential-of-video-marketing-on-facebook/"><u>[New] In 2024, Unleash the Potential of Video Marketing on Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-on-stopping-youtubes-automatic-previews/"><u>[New] Step-By-Step Guide on Stopping YouTube's Automatic Previews</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-pexels-tips-for-discovering-striking-images/"><u>[Updated] Navigating Pexels Tips for Discovering Striking Images</u></a></li>
+<li><a href="https://blog-min.techidaily.com/diy/"><u>「映える！DIYで高品質のブルーレイ映像をスムーズにキャプチャー」</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-steadicams-to-elevate-uav-video-production-quality/"><u>2024 Approved Prime Steadicams to Elevate UAV Video Production Quality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-roundabout-viewpoint-versus-threefold-imaging/"><u>2024 Approved Roundabout Viewpoint Versus Threefold Imaging</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210847671-9781801520744-concentration/"><u>Concentration | Free Book</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-edge-40-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-y36i-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo Y36i Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-misting-mistake-gopro-clarity-tips/"><u>In 2024, Misting Mistake? GoPro Clarity Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picture-perfect-presentations-posting-on-youtube/"><u>In 2024, Picture-Perfect Presentations Posting on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quiet-cinematic-dialogue-draft/"><u>In 2024, Quiet Cinematic Dialogue Draft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-d3dx933dll-file-missing-issue-a-comprehensive-guide/"><u>Solving the d3dx9_33.dll File Missing Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-updating-step-by-step-your-epson-xp-410-printers-windows-driver-downloads/"><u>Troubleshooting & Updating: Step by Step, Your Epson XP-410 Printer's Windows Driver Downloads</u></a></li>
 </ul></div>
 

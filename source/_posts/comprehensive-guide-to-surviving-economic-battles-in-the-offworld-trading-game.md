@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
-date: 2024-11-02T04:39:00.177Z
-updated: 2024-11-05T18:05:20.461Z
+date: 2024-11-10T16:32:47.956Z
+updated: 2024-11-16T16:25:40.232Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
@@ -36,16 +36,16 @@ Lifewire / Kelsey Simon
 
 2.7
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -70,13 +70,6 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -107,10 +100,16 @@ Lifewire / Kelsey Simon
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Graphics: Outdated and simplistic**
@@ -121,13 +120,20 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -173,24 +179,18 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-insightful-guide-on-the-best-gopro-headsets-6-and-beyond/"><u>[New] Insightful Guide on The Best GoPro Headsets #6 & Beyond</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-masterpieces-of-radio-scripting-artistry/"><u>[New] Masterpieces of Radio Scripting Artistry</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-creating-impactful-outros-top-6-free-tools/"><u>[Updated] 2024 Approved Creating Impactful Outros Top 6 FREE Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-strategic-approaches-to-share-ppt-powerfully-in-google-meet/"><u>[Updated] 2024 Approved Strategic Approaches to Share PPT Powerfully in Google Meet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-guide-to-years-top-makeup-vloggers/"><u>[Updated] 2024 Approved The Ultimate Guide to Year's Top Makeup Vloggers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-social-networking-site-policies-what-about-posting-videos/"><u>[Updated] In 2024, Social Networking Site Policies What About Posting Videos?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-recording-live-videos-on-periscope-with-maximum-quality/"><u>[Updated] Recording Live Videos on Periscope with Maximum Quality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionary-entry-points-for-zooids/"><u>2024 Approved Revolutionary Entry Points for Zooids</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secrets-of-the-trade-perfecting-sticker-removal-in-tiktoks/"><u>2024 Approved Secrets of the Trade Perfecting Sticker Removal in TikToks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-methods-correcting-persistent-onscreen-discoloration-and-preventative-care/"><u>DIY Methods: Correcting Persistent Onscreen Discoloration & Preventative Care</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-radeon-hd-7850-drivers-for-optimal-performance-in-windows-10/"><u>Download and Update Radeon HD 7850 Drivers for Optimal Performance in Windows 10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/enhancing-video-performance-on-the-social-platform/"><u>Enhancing Video Performance on the Social Platform</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-11-proplus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 11 Pro+ To Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-omni-vmix-universal-controller/"><u>In 2024, Omni-VMix Universal Controller</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>In 2024, Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-radiance-in-android-video-editing/"><u>In 2024, Radiance in Android Video Editing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-document-printing-speed-in-windows-10/"><u>Optimize Document Printing Speed in Windows 10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/orchestrating-whatsapp-updates-with-music/"><u>Orchestrating WhatsApp Updates with Music</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-adding-subtitles-in-wmp-for-2024/"><u>Step-by-Step Guide to Adding Subtitles in WMP for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-taking-screenshots-of-pc-games-6-ways/"><u>[New] 2024 Approved Taking Screenshots of PC Games [6 Ways]</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-reversal-blueprint-swiftly-backward-apple-vids/"><u>[New] Reversal Blueprint Swiftly Backward Apple Vids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-monetization-techno-gamerz-youtube-income-2024/"><u>[New] YouTube Monetization Techno Gamerz YouTube Income 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-easy-to-navigate-top-10-youtube-downloader-tools/"><u>[Updated] Easy-to-Navigate Top 10 YouTube Downloader Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionize-vision-the-best-10-techniques-for-text-effects/"><u>[Updated] Revolutionize Vision - The Best 10 Techniques for Text Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-the-new-and-improved-2024-video-show/"><u>[Updated] Step-by-Step Guide The New & Improved 2024 Video Show</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-zte-blade-a73-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your ZTE Blade A73 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/cutting-edge-pc-customization-including-a-high-quality-coffee-machine-with-built-in-bean-processing-functions-inside-the-case/"><u>Cutting-Edge PC Customization Including a High-Quality Coffee Machine with Built-In Bean Processing Functions Inside the Case</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-11ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 11/iPad/iPod</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-infinix-gt-10-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Infinix GT 10 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-the-world-of-text-animation-14-must-see-examples-for-2024/"><u>Step Into the World of Text Animation 14 Must-See Examples for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-list-of-adobe-premiere-elements-alternatives-2023-edition/"><u>Updated In 2024, The Ultimate List of Adobe Premiere Elements Alternatives 2023 Edition</u></a></li>
 </ul></div>
 

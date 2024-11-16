@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering AE Title Design  Standout Effects Guide\""
-date: 2024-11-04T08:43:46.781Z
-updated: 2024-11-06T01:15:16.891Z
+date: 2024-11-11T16:34:01.161Z
+updated: 2024-11-16T16:31:42.213Z
 tags: 
   - screen-recording
   - ai video
@@ -79,13 +79,6 @@ Keyframe is like stretching two points into multiple points and for every point,
 
 Therefore, keyframes are the building blocks for text animations and you have to use keyframes to create all the different online text effects. You can put the keyframes far apart or close and speed up or slow down the animation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. How to Edit Text Effects in Videos with AE
 
 Now that you know the different animation parameters and text effect types, it is time to combine the parameters and animate the text. First of all, you should create a text layer with the desired source text After Effects. Then you can select a text effect preset and apply it to the text layer. Thereafter, you can animate the text by editing the different parameters and properties we have mentioned along with keyframes. Here are the steps to add and edit text effects in videos with AE.
@@ -103,26 +96,13 @@ Step3 Go to Timeline and click on the text layer to expand it. Click on Animate 
 ![add keyframes in after effects](https://images.wondershare.com/filmora/article-images/2022/09/add-keyframes-in-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apart from the animate option and its parameters, there are several parameters such as transform that you can adjust to edit the text effect as per your preference.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. AE Alternative to Edit Text Effects in Video
 
@@ -136,22 +116,16 @@ Step1 Install Wondershare Filmora on your computer and launch the application. C
 
 ![install wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Drag and drop the video clip onto timeline. Go to Titles option and you will see different categories of text effects on the left panel. Select any one of text effect templates and drop onto the timeline above the background video.
 
 ![select background for text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-background-for-text-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Double-click on the text layer on the timeline to edit the text preset. You can select any available text style as well as adjust parameters from font and settings sections.
 
@@ -162,10 +136,10 @@ Step4 Go to Animation section and click on Advanced button. Change different par
 ![add animation text in filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animation-text-in-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4\. Related FAQs of Title Effects in After Effects
@@ -197,10 +171,10 @@ After Effects has “Enable per-character 3D” property to all Z axis to applic
 Rotation is one of the most commonly used parameters in text animations. There are unlimited variations of text animations and effects that you can create using rotation parameter in After Effects. The rotation takes place in proportion to the anchor points of the text. When you change the value of Rotation parameter, the actual rotation takes place around the anchor points.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Scale and Position
@@ -209,15 +183,28 @@ If you want to zoom in and zoom out animation for your text or title, you can us
 
 There are different variations of zoom in and out effect that you can try on your text and title to make animation creative and visually appealing. On the other hand, position refers to the location of the text on the video frame depending on X, Y, and Z axis values.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Blur and Opacity
 
 You must have seen the text animation where the blurry text comes into focus and this can be achieved using Blur parameter. Many people confused Blur with Opacity but blur refers to out of focus while opacity can be understood by fade in and fade out effect. You can adjust the horizontal and vertical blur amount separately and you can come up with stunning text animations by changing Blur value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Fill and Stroke
@@ -225,6 +212,13 @@ You must have seen the text animation where the blurry text comes into focus and
 When it comes to text formatting in animation, fill color and stroke color play a major role. You can change the fill of the text so that the text animation is about changing color randomly. There are different options available for fill color such as RGB, Hue, Saturation, and likewise.
 
 Similarly, the stroke color can be changed and you can create an animation with changing outline color. At the same time, you can adjust the stroke width to make the text look thick or thin as per your animation requirements.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Skew
 
@@ -278,16 +272,16 @@ Step3 Double-click on the text layer on the timeline to edit the text preset. Yo
 
 ![text preset settings filmora](https://images.wondershare.com/filmora/article-images/2022/09/text-preset-settings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Go to Animation section and click on Advanced button. Change different parameters under Customize section such as Blue, Opacity, Shadow, and much more. You can create keyframes on the timeline like AE and edit parameters as per your preference.
 
 ![add animation text in filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animation-text-in-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4\. Related FAQs of Title Effects in After Effects
 
@@ -327,24 +321,22 @@ Motion title is a dynamic text effect template available in After Effects throug
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-7-best-vocal-modification-software-on-the-market-for-2024/"><u>[New] 7 Best Vocal Modification Software on the Market for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-speech-recording-top-apps-for-your-ipad/"><u>[New] Mastering Speech Recording Top Apps for Your iPad</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-zooming-techniques-for-google-meet/"><u>[New] Perfect Zooming Techniques for Google Meet</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-streaming-success-optimizing-your-logitech-cam/"><u>[New] Streaming Success Optimizing Your Logitech Cam</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-a-review-of-youtubes-integration-with-iphone-and-android-devices-for-2024/"><u>[Updated] A Review of YouTube's Integration with iPhone & Android Devices for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-video-crafting-for-the-modern-youtube-creator/"><u>[Updated] In 2024, Video Crafting for the Modern YouTube Creator</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reinstate-precise-sound-in-zoom-chats/"><u>[Updated] Reinstate Precise Sound in Zoom Chats</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-seamless-cuts-with-m1-the-future-of-video-editing-unveiled/"><u>[Updated] Seamless Cuts with M1 The Future of Video Editing Unveiled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>2024 Approved 3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>2024 Approved Sound Engineering Simplified Gradual Diminishment in Lumafusion</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nokia-g42-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Nokia G42 5G Device SIM</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elite-digital-art-pads-ranked-your-ultimate-selection-guide/"><u>Elite Digital Art Pads Ranked - Your Ultimate Selection Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-selection-top-15-accessories-for-gopro-enthusiasts/"><u>In 2024, Masterful Selection Top 15 Accessories for GoPro Enthusiasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-moments-how-to-utilize-inshots-segmentation-power/"><u>In 2024, Mastering Moments How to Utilize Inshot's Segmentation Power</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigate-to-the-best-10-sites-for-vector-image-download/"><u>In 2024, Navigate to the Best 10 Sites for Vector Image Download</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/nights-tale-videos-critical-take-for-2024/"><u>Night's Tale Videos Critical Take for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-how-to-resolve-issues-with-a-non-functional-thaumaturge-app-on-windows/"><u>Troubleshooting Steps: How to Resolve Issues with a Non-Functional Thaumaturge App on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-the-secrets-of-internet-humor-with-a-guide-on-9gag/"><u>Unlock the Secrets of Internet Humor with a Guide on 9GAG</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unplugged-reset-to-bring-canon-printer-back-online/"><u>Unplugged? Reset to Bring Canon Printer Back Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-techniques-to-overcome-blackout-during-obs-fullscreen/"><u>[New] 2024 Approved Techniques to Overcome Blackout During OBS Fullscreen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-obs-high-encoding-how-to-fix/"><u>[New] OBS High Encoding - How to Fix</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-platforms-crafting-3d-animation-art/"><u>[New] Prime Platforms Crafting 3D Animation Art</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-smartphone-streaming-success-without-a-massive-subscriber-base/"><u>[New] Smartphone Streaming Success Without a Massive Subscriber Base</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-step-by-step-guide-to-control-video-pace-in-instagram-for-2024/"><u>[New] Step-by-Step Guide to Control Video Pace in Instagram for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-oculus-gaming-guide-best-selling-choices/"><u>[New] Ultimate Oculus Gaming Guide Best-Selling Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-editing-in-photopea-sculpting-cleaner-visual-space/"><u>[Updated] Precision Editing in Photopea Sculpting Cleaner Visual Space</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ringtone-recorder-the-2024iphone-solution/"><u>[Updated] Ringtone Recorder - The 2024iPhone Solution</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixelate-photo-visages-a-selection-of-powerful-utilities/"><u>2024 Approved Pixelate Photo Visages A Selection of Powerful Utilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tale-weavers-hub-hall-of-fame-picks/"><u>2024 Approved Tale Weavers Hub - Hall of Fame Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypass-ais-windows-11-keys-at-your-own-risk/"><u>Bypass AI's Windows 11 Keys at Your Own Risk</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-puzzling-black-screen-issue-in-resident-evil-village-pc/"><u>Fixing the Puzzling Black Screen Issue in Resident Evil Village (PC)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-google-photos-full-potential/"><u>In 2024, Leveraging Google Photos' Full Potential</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reel-of-triumph-celebrating-fig-skaters-in-22/"><u>In 2024, Reel of Triumph - Celebrating Fig Skaters in '22</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/music-enhanced-whatsapp-expressions-for-2024/"><u>Music-Enhanced WhatsApp Expressions for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quelling-camera-chaos-in-cinema-for-2024/"><u>Quelling Camera Chaos in Cinema for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-asus-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Asus without backup.</u></a></li>
 </ul></div>
 

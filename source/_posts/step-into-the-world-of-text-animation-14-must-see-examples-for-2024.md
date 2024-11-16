@@ -1,7 +1,7 @@
 ---
 title: "\"Step Into the World of Text Animation  14 Must-See Examples for 2024\""
-date: 2024-10-29T18:26:25.415Z
-updated: 2024-11-05T17:16:48.585Z
+date: 2024-11-15T16:02:16.273Z
+updated: 2024-11-16T16:42:20.454Z
 tags: 
   - screen-recording
   - ai video
@@ -66,6 +66,13 @@ There are different variations of text breaks away animation but it is one of th
 
 Referred to as typewriter text animation as well, the characters in a word or sentence appear on the screen one by one as if someone is typing it in real-time. There is always a cursor blinking at the end of the character and it shifts with the appearance of the words and sentences. Instead of showing words or sentences all at once, showing text as if someone is typing it on the screen is more visually pleasing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Horizontal and vertical scrolling text
 
 Last but not least, the vertical scrolling text effect is extremely common for opening and closing credits in movies. This is even used in modern short videos to show credits as well as information as per requirements. Along with vertical scrolling, horizontal scrolling text is quite common these days to show a few lines of text instead of showing them together in a paragraph.
@@ -93,10 +100,10 @@ The stomp effect is quite eye-catching due to its dynamic nature. In this animat
 ![the stomp animation](https://images.wondershare.com/filmora/article-images/2022/09/the-stomp-animation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. The Curtain Animation
@@ -141,16 +148,16 @@ Step1 Download and install Wondershare Filmora on your computer. Click on New Pr
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 if you do not have any background video, you can select from stock background by going to Stock Media> Pixabay> Video and drag and drop by animated background onto the timeline.
 
 ![drop animation background timeline filmora](https://images.wondershare.com/filmora/article-images/2022/09/drop-animation-background-timeline-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Go to Titles and you will get to see all the different categories of text animation templates from the left panel. Search for “animation” and you will get all the stunning text animation templates. Drag and drop any of them onto the timeline above the background layer.
 
@@ -159,13 +166,6 @@ Step3 Go to Titles and you will get to see all the different categories of text 
 Step4 Reposition the text layer as per your preference and you can also reposition the text objects from Viewer. Double-click on the text layer to type in your desired text.
 
 ![edit preset animation filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-preset-animation-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -181,13 +181,6 @@ We have discussed all the common type of text animations that are used to create
 * [In and Out of Focus Text Effect](#part2-8)
 * [How to Make a Text Animation Video](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. Common Types of Text Animation
 
 Here is the list of the common types of text animations that you usually see on social media videos as well as video streaming platforms. Using these common text animation types, various interesting and innovative text animations are created.
@@ -195,13 +188,6 @@ Here is the list of the common types of text animations that you usually see on 
 ### 1\. Parallax scrolling
 
 Parallax scrolling is a popular visual effect whereby the background stays the same while the foreground shifts horizontally. In a text animation, the parallax scrolling effect is where the background box moves from bottom to top and vice versa but the text stays the same all the time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Fade in and fade out
 
@@ -240,10 +226,17 @@ Generally, in a slide out text animation, the text comes out of a border and the
 ![combined slide out animation](https://images.wondershare.com/filmora/article-images/2022/09/combined-slide-out-animation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. The Stomp Animation
@@ -257,6 +250,13 @@ The stomp effect is quite eye-catching due to its dynamic nature. In this animat
 In this animation, the moving boxes will slide in and slide out and in the process, they will reveal the text hidden behind them. It looks similar to parting the curtain and getting a view. Thereafter, the boxes will slide back in and cover up the text. The sequence will continue to reveal new texts as required.
 
 ![the curtain animation](https://images.wondershare.com/filmora/article-images/2022/09/the-curtain-animation.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Animated Text Outline Effect
 
@@ -282,13 +282,6 @@ Instead of bringing the entire sentence into focus, you can use a square box to 
 
 ![in and out focus text effect](https://images.wondershare.com/filmora/article-images/2022/09/in-and-out-focus-text-effect.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. How to Make a Text Animation Video
 
 If you want to make all these interesting and amazing text animations in simple steps, you will need a super intuitive professional video editor. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where there are literally unlimited text effects and animations available that you can use on your video instantly. You will get all the popular and latest text animations from its wide collection of text assets. Here are the steps to create a text animation video using Filmora.
@@ -305,20 +298,27 @@ Step2 if you do not have any background video, you can select from stock backgro
 
 ![drop animation background timeline filmora](https://images.wondershare.com/filmora/article-images/2022/09/drop-animation-background-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Go to Titles and you will get to see all the different categories of text animation templates from the left panel. Search for “animation” and you will get all the stunning text animation templates. Drag and drop any of them onto the timeline above the background layer.
 
 ![search animation title filmora](https://images.wondershare.com/filmora/article-images/2022/09/search-animation-title-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Reposition the text layer as per your preference and you can also reposition the text objects from Viewer. Double-click on the text layer to type in your desired text.
 
 ![edit preset animation filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-preset-animation-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -348,22 +348,18 @@ We have discussed all the common type of text animations that are used to create
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-explore-our-1-ranked-facebook-video-downloading-apps-for-ios/"><u>[New] Explore Our #1 Ranked Facebook Video Downloading Apps for iOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rom-raw-feedback-a-critical-review-of-top-video-editors-for-youtube-for-2024/"><u>[New] From Raw Feedback A Critical Review of Top Video Editors for YouTube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-professional-pathway-setting-up-wm6/"><u>[Updated] 2024 Approved Professional Pathway Setting Up WM6</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-ios-slide-show-tools-tailored-for-high-end-models/"><u>[Updated] IOS Slide Show Tools Tailored for High-End Models</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-windows-11-a-treasure-trove-of-undisclosed-features/"><u>[Updated] Master Windows 11 A Treasure Trove of Undisclosed Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-skyvault-budget-edition-unlimited-mass-files-save/"><u>[Updated] SkyVault Budget Edition Unlimited Mass Files Save</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-spectral-film-reset-guide/"><u>[Updated] Spectral Film Reset Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-pip-functions-on-apple-devices/"><u>2024 Approved Mastering PIP Functions on Apple Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-cinematography-anywhere-with-luts-simply/"><u>2024 Approved Optimize Cinematography Anywhere with LUTs, Simply</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cultivating-daily-zen-with-ai-your-guide-to-using-chatgpt-for-meditation-practices/"><u>Cultivating Daily Zen with AI: Your Guide to Using ChatGPT for Meditation Practices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-language-models-bert-and-gpt-unveiled/"><u>Exploring Language Models: BERT & GPT Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-f34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy F34 5G?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-s17-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo S17 Pro Phone? Unlock It Now</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-gaming-install-funimate-via-apk-method/"><u>In 2024, Revolutionize Gaming - Install Funimate via APK Method</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/navigating-through-hardware-virtualization-in-vmware-vsphere-environments/"><u>Navigating Through Hardware Virtualization in VMware vSphere Environments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-and-simple-techniques-transform-your-avi-videos-into-mpeg-with-these-5-steps/"><u>Quick & Simple Techniques: Transform Your AVI Videos Into MPEG with These 5 Steps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/storytelling-methodologies-for-the-documentarian-for-2024/"><u>Storytelling Methodologies for the Documentarian for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expert-strategies-for-logging-roblox-games-on-a-macbook/"><u>[New] Expert Strategies for Logging Roblox Games on a MacBook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-pro-tips-effortlessly-assemble-photo-collagues/"><u>[New] IPhone Pro Tips Effortlessly Assemble Photo Collagues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-live-streaming-made-simple-mastering-ps4-captures-using-obs/"><u>[New] Live Streaming Made Simple Mastering PS4 Captures Using OBS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-plot-pointers-institute-quintessential-quotient/"><u>[New] Plot Pointers Institute - Quintessential Quotient</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speech-recognition-and-use-it-free/"><u>[New] Speech Recognition and Use It Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-beginners-guide-to-advanced-techniques-in-gopro-studio/"><u>[Updated] A Beginner's Guide to Advanced Techniques in GoPro Studio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-spectacular-8-cameras-for-professional-live-viewers/"><u>[Updated] Spectacular 8 Cameras for Professional Live Viewers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-6-easy-free-youtube-closers-for-your-videos-top-picks/"><u>2024 Approved 6 Easy, Free YouTube Closers for Your Videos (Top Picks)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-list-best-video-making-for-ios-android-users/"><u>2024 Approved The Ultimate List Best Video-Making For iOS, Android Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-instagram-tips-sharing-your-podcast-content/"><u>In 2024, Instagram Tips Sharing Your Podcast Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-canva-imagery-top-10-pro-level-techniques-for-2024/"><u>Mastering Canva Imagery Top 10 Pro-Level Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-7-update-issues-why-updates-arent-installing-and-how-to-fix-them/"><u>Mastering Windows 7 Update Issues: Why Updates Aren't Installing and How to Fix Them</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-a14-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy A14 4G</u></a></li>
 </ul></div>
 

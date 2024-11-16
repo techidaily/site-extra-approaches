@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Video Illumination  Top Strategies for Immaculate Cinematography\""
-date: 2024-07-27T23:05:24.699Z
-updated: 2024-07-28T23:05:24.699Z
+date: 2024-11-10T16:00:25.067Z
+updated: 2024-11-16T16:27:52.504Z
 tags: 
   - screen-recording
   - ai video
@@ -52,19 +52,12 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -77,16 +70,10 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -97,19 +84,20 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -143,5 +131,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-chromes-best-5-sites-to-download-fb-videos/"><u>[New] Chrome's Best 5 Sites to Download FB Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-infuse-style-in-vids-3-proven-methods-for-instagram-borders-for-2024/"><u>[Updated] Infuse Style in Vids 3 Proven Methods for Instagram Borders for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximize-video-quality-top-8-youtube-to-avi-converters/"><u>[Updated] Maximize Video Quality Top 8 YouTube to AVI Converters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-recharge-your-space-top-cloud-service-picks-offering-plentiful-free-storage/"><u>2024 Approved Recharge Your Space Top Cloud Service Picks Offering Plentiful, FREE Storage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-recording-internet-radios-simplified-tips-and-tricks/"><u>2024 Approved Recording Internet Radios Simplified Tips and Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpen-your-skills-with-these-essential-pixlr-tips/"><u>2024 Approved Sharpen Your Skills with These Essential Pixlr Tips</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/6-youtuber-quizzes-to-know-what-type-of-youtuber-you-are-for-2024/"><u>6 YouTuber Quizzes to Know What Type of YouTuber You Are for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-magic-6-lite-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor Magic 6 Lite?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-magixs-acid-pro-reviewed-comparing-similar-software/"><u>In 2024, Magix's ACID Pro Reviewed Comparing Similar Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-the-future-of-drones-today-and-tomorrow/"><u>In 2024, Pioneering the Future of Drones Today & Tomorrow</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-flight-tech-ready-to-buy/"><u>In 2024, Prime Flight Tech Ready to Buy</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-rallying-towards-partnership-reach-the-critical-10k-view-target-quickly/"><u>In 2024, Rallying Towards Partnership Reach the Critical 10K View Target Quickly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rapid-releases-review-best-quick-gaming-selections/"><u>In 2024, Rapid Releases Review Best Quick Gaming Selections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rgb-to-srgb-transition-what-it-means-for-visual-media/"><u>In 2024, Rgb to Srgb Transition What It Means for Visual Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveil-the-8-greatest-places-to-download-3d-text-psd-files/"><u>In 2024, Unveil the 8 Greatest Places to Download 3D Text PSD Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722886190628-navigating-the-digital-age-laptops-smartphones-and-e-books-galore/"><u>Navigating the Digital Age: Laptops, Smartphones & E-Books Galore</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-13-difficulties-the-ultimate-fix-guide/"><u>Overcoming iPhone 13 Difficulties: The Ultimate Fix Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-11-01T09:39:35.198Z
-updated: 2024-11-06T09:41:18.469Z
+date: 2024-11-12T16:20:26.338Z
+updated: 2024-11-16T16:29:24.277Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -56,6 +56,13 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -87,6 +94,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -98,13 +112,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -139,10 +146,16 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -172,13 +185,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -229,20 +235,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-practical-photoshop-fixes-for-facial-pixelation-purposes/"><u>[New] Practical Photoshop Fixes for Facial Pixelation Purposes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seamlessly-stitch-words-onto-pictures-photo-editor-pros/"><u>[New] Seamlessly Stitch Words Onto Pictures Photo Editor Pros</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-stack-videos-in-your-youtube-queue/"><u>[New] Stack Videos in Your YouTube Queue</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-conquering-the-world-of-instagram-reels-tips-inside/"><u>[Updated] Conquering the World of Instagram Reels – Tips Inside</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-guide-to-leveraging-obs-in-android/"><u>[Updated] Expert Guide to Leveraging OBS in Android</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-lifetime-of-memories-elevated-in-the-cloud-free-and-paid-storage-compared/"><u>[Updated] Lifetime of Memories, Elevated in the Cloud Free & Paid Storage Compared</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-inventory-list-a-range-of-video-recording-devices/"><u>2024 Approved Inventory List A Range of Video Recording Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>2024 Approved Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tod-mpgmov/"><u>無料TOD MPGからMOVへ容易に移行するオンラインツール - ビデオエクスプローラー</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/dominant-heavy-lift-drones-for-industrial-tasks-for-2024/"><u>Dominant Heavy-Lift Drones for Industrial Tasks for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-close-up-mode-in-roblox-playground-for-2024/"><u>Mastering Close-Up Mode in Roblox Playground for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-itel-s23plus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Itel S23+</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-10t-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Realme 10T 5G</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/top-7-low-cost-video-compacting-tools-for-android-devices-for-2024/"><u>Top 7 Low-Cost Video Compacting Tools for Android Devices for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-polaroid-xs-review-capturing-life-in-full-hd/"><u>[New] Polaroid XS Review Capturing Life in Full HD</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-free-excellence-analyzing-and-sharing-best-free-luts/"><u>[New] Premium-Free Excellence Analyzing and Sharing Best Free LUTs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-text-motion-manuals/"><u>[Updated] 2024 Approved Premier Text Motion Manuals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-intelligent-volume-modulation-strategies/"><u>[Updated] Intelligent Volume Modulation Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-ranking-the-very-best-10-free-online-artists-on-youtube-for-2024/"><u>[Updated] Ranking the Very Best 10 Free Online Artists on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionizing-gaming-with-funimate/"><u>[Updated] Revolutionizing Gaming with Funimate</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-snap-it-up-iphone-and-androids-best-10-photo-enhancers/"><u>[Updated] Snap It Up! IPhone and Android's Best 10 Photo Enhancers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoid-high-costs-buying-budget-friendly-gopros/"><u>Avoid High Costs Buying Budget-Friendly GoPros</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-token-thresholds-is-it-possible-to-go-over-limit/"><u>Exploring ChatGPT Token Thresholds: Is It Possible to Go Over Limit?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10/"><u>In 2024, Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-common-office-crash-on-windows-xpvista/"><u>Remedying Common Office Crash on Windows XP/Vista</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y27 5G? | Dr.fone</u></a></li>
 </ul></div>
 

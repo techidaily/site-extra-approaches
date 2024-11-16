@@ -1,7 +1,7 @@
 ---
 title: "[New] Maximize Space with iPhone Images Scaling"
-date: 2024-07-27T23:09:14.249Z
-updated: 2024-07-28T23:09:14.249Z
+date: 2024-11-11T16:25:00.448Z
+updated: 2024-11-16T16:09:33.625Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
 ![](https://images.wondershare.com/filmora/article-images/resize-iphone-photo-via-email.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: OS X Daily
 
  Despite being relatively easy, this method of resizing images doesn't allow you to enter the new size of a photo manually which may limit your options.
@@ -55,23 +62,31 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
 ![](https://images.wondershare.com/filmora/article-images/image-size-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  iPhone photographers can resize their photos in three simple steps with this app. The Image Size app is free to download but if you want to get rid of the adds you must pay $3,99\. However, all you need to do to change the size of an image with this app is to open the photo you want to resize and select the output size. Removing the parts of the image is made possible by the Cropping tool so you can even decide which parts of the photo you want to remove. Once you've completed the process of resizing the picture you can choose whether you want to Save, Send or Share your photo.
 
 #### 2\. [PhotoShrinker](https://itunes.apple.com/us/app/photoshrinker/id928350374?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/photo-shrink-app.jpg)
 
  There aren't many better options for resizing images with an iPhone because this powerful tool allows you to change the size of an image within seconds. PhotoShrinker automatically compresses the photo to one-tenth of its original size, which means that you can free up a lot of space if you choose to invest $3,99 in this app. The latest version of the app also enables you to delete photos you don't like, but its users shouldn't count on it for any other kind of photo editing activity.
 
 #### 3\. [Reduce](https://itunes.apple.com/us/app/reduce-batch-resize-images-and-photos-for-iphone-ipad/id580474806?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/reduce-image-size-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Reduce app is a powerful image resize tool that allows you to change the size of several pictures at the same time. Besides the batch resizing feature the app also allows its users to resize the picture to specific dimensions or sharpen the image that has been slightly blurred by the resizing process. Reduce is equipped with an auto-detection option which recognizes the jpeg quality for the file size in question. Furthermore, the app lets you add a border to your photos in order to separate it from the background.
 
@@ -81,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
  Let us know in the comments which method of changing the size of a photo you like the most and feel free to hit share and let your friends know about these remarkably simple methods of resizing pictures on an iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -100,9 +112,156 @@ Follow @Ollie Mattison
 
  In this article, we will take you through several methods of resizing photos on an iPhone that will help you store more photos on your iOS device.
 
+## How to Reduce the Size of A Photo on iPhone
+
+* [Method 1: Resizing photos via Email](#part1)
+* [Method 2: Using apps to resize your photos](#part2)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### Method 1: Resizing photos via Email
+
+ This process may not be the fastest way imaginable to change the size of your images, but it still effective.
+
+ Simply select the pictures you want to resize in the Photos app and click share, or if you have an iPhone 7 click on the Action icon. The Mail app will allow you to choose one of the Small, Medium, Large and Actual Size presets, and after you selected the option that best fits your needs, tap the Send button to send the resized images to your email.
+
+![](https://images.wondershare.com/filmora/article-images/resize-iphone-photo-via-email.jpg)
+
+ Image source: OS X Daily
+
+ Despite being relatively easy, this method of resizing images doesn't allow you to enter the new size of a photo manually which may limit your options.
+
+### Method 2: Using apps to resize your photos
+
+ Even though apps for iPhones that allow you to resize your photos require you to spend some money, this method is still much more effective than resizing images via email.
+
+#### 1\. [Image Size](https://itunes.apple.com/us/app/image-size/id670766542?mt=8)
+
+![](https://images.wondershare.com/filmora/article-images/image-size-app.jpg)
+
+ iPhone photographers can resize their photos in three simple steps with this app. The Image Size app is free to download but if you want to get rid of the adds you must pay $3,99\. However, all you need to do to change the size of an image with this app is to open the photo you want to resize and select the output size. Removing the parts of the image is made possible by the Cropping tool so you can even decide which parts of the photo you want to remove. Once you've completed the process of resizing the picture you can choose whether you want to Save, Send or Share your photo.
+
+#### 2\. [PhotoShrinker](https://itunes.apple.com/us/app/photoshrinker/id928350374?mt=8)
+
+![](https://images.wondershare.com/filmora/article-images/photo-shrink-app.jpg)
+
+ There aren't many better options for resizing images with an iPhone because this powerful tool allows you to change the size of an image within seconds. PhotoShrinker automatically compresses the photo to one-tenth of its original size, which means that you can free up a lot of space if you choose to invest $3,99 in this app. The latest version of the app also enables you to delete photos you don't like, but its users shouldn't count on it for any other kind of photo editing activity.
+
+#### 3\. [Reduce](https://itunes.apple.com/us/app/reduce-batch-resize-images-and-photos-for-iphone-ipad/id580474806?mt=8)
+
+![](https://images.wondershare.com/filmora/article-images/reduce-image-size-app.jpg)
+
+ Reduce app is a powerful image resize tool that allows you to change the size of several pictures at the same time. Besides the batch resizing feature the app also allows its users to resize the picture to specific dimensions or sharpen the image that has been slightly blurred by the resizing process. Reduce is equipped with an auto-detection option which recognizes the jpeg quality for the file size in question. Furthermore, the app lets you add a border to your photos in order to separate it from the background.
+
+### Conclusion
+
+ Preserving the quality of your photos is important and for that reason, you should only use methods of resizing photos on your iPhone that allow you to produce good images, regardless of their size. Using apps to resize photos may cost you some money, but it will provide you with powerful tools that will allow you to have control over the photo resizing process.
+
+ Let us know in the comments which method of changing the size of a photo you like the most and feel free to hit share and let your friends know about these remarkably simple methods of resizing pictures on an iPhone.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ The size of an image is directly related to its quality, and most iPhones produce large photo files that occupy a lot of space. If you have no intention of printing your pictures, resizing pictures you store on your iPhone can help you save a lot of space on your SD card.
+
+ In this article, we will take you through several methods of resizing photos on an iPhone that will help you store more photos on your iOS device.
+
+## How to Reduce the Size of A Photo on iPhone
+
+* [Method 1: Resizing photos via Email](#part1)
+* [Method 2: Using apps to resize your photos](#part2)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Method 1: Resizing photos via Email
+
+ This process may not be the fastest way imaginable to change the size of your images, but it still effective.
+
+ Simply select the pictures you want to resize in the Photos app and click share, or if you have an iPhone 7 click on the Action icon. The Mail app will allow you to choose one of the Small, Medium, Large and Actual Size presets, and after you selected the option that best fits your needs, tap the Send button to send the resized images to your email.
+
+![](https://images.wondershare.com/filmora/article-images/resize-iphone-photo-via-email.jpg)
+
+ Image source: OS X Daily
+
+ Despite being relatively easy, this method of resizing images doesn't allow you to enter the new size of a photo manually which may limit your options.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Method 2: Using apps to resize your photos
+
+ Even though apps for iPhones that allow you to resize your photos require you to spend some money, this method is still much more effective than resizing images via email.
+
+#### 1\. [Image Size](https://itunes.apple.com/us/app/image-size/id670766542?mt=8)
+
+![](https://images.wondershare.com/filmora/article-images/image-size-app.jpg)
+
+ iPhone photographers can resize their photos in three simple steps with this app. The Image Size app is free to download but if you want to get rid of the adds you must pay $3,99\. However, all you need to do to change the size of an image with this app is to open the photo you want to resize and select the output size. Removing the parts of the image is made possible by the Cropping tool so you can even decide which parts of the photo you want to remove. Once you've completed the process of resizing the picture you can choose whether you want to Save, Send or Share your photo.
+
+#### 2\. [PhotoShrinker](https://itunes.apple.com/us/app/photoshrinker/id928350374?mt=8)
+
+![](https://images.wondershare.com/filmora/article-images/photo-shrink-app.jpg)
+
+ There aren't many better options for resizing images with an iPhone because this powerful tool allows you to change the size of an image within seconds. PhotoShrinker automatically compresses the photo to one-tenth of its original size, which means that you can free up a lot of space if you choose to invest $3,99 in this app. The latest version of the app also enables you to delete photos you don't like, but its users shouldn't count on it for any other kind of photo editing activity.
+
+#### 3\. [Reduce](https://itunes.apple.com/us/app/reduce-batch-resize-images-and-photos-for-iphone-ipad/id580474806?mt=8)
+
+![](https://images.wondershare.com/filmora/article-images/reduce-image-size-app.jpg)
+
+ Reduce app is a powerful image resize tool that allows you to change the size of several pictures at the same time. Besides the batch resizing feature the app also allows its users to resize the picture to specific dimensions or sharpen the image that has been slightly blurred by the resizing process. Reduce is equipped with an auto-detection option which recognizes the jpeg quality for the file size in question. Furthermore, the app lets you add a border to your photos in order to separate it from the background.
+
+### Conclusion
+
+ Preserving the quality of your photos is important and for that reason, you should only use methods of resizing photos on your iPhone that allow you to produce good images, regardless of their size. Using apps to resize photos may cost you some money, but it will provide you with powerful tools that will allow you to have control over the photo resizing process.
+
+ Let us know in the comments which method of changing the size of a photo you like the most and feel free to hit share and let your friends know about these remarkably simple methods of resizing pictures on an iPhone.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ The size of an image is directly related to its quality, and most iPhones produce large photo files that occupy a lot of space. If you have no intention of printing your pictures, resizing pictures you store on your iPhone can help you save a lot of space on your SD card.
+
+ In this article, we will take you through several methods of resizing photos on an iPhone that will help you store more photos on your iOS device.
+
 ## How to Reduce the Size of A Photo on iPhone
 
 * [Method 1: Resizing photos via Email](#part1)
@@ -142,14 +301,6 @@ Follow @Ollie Mattison
 
  Reduce app is a powerful image resize tool that allows you to change the size of several pictures at the same time. Besides the batch resizing feature the app also allows its users to resize the picture to specific dimensions or sharpen the image that has been slightly blurred by the resizing process. Reduce is equipped with an auto-detection option which recognizes the jpeg quality for the file size in question. Furthermore, the app lets you add a border to your photos in order to separate it from the background.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
  Preserving the quality of your photos is important and for that reason, you should only use methods of resizing photos on your iPhone that allow you to produce good images, regardless of their size. Using apps to resize photos may cost you some money, but it will provide you with powerful tools that will allow you to have control over the photo resizing process.
@@ -158,163 +309,12 @@ Follow @Ollie Mattison
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- The size of an image is directly related to its quality, and most iPhones produce large photo files that occupy a lot of space. If you have no intention of printing your pictures, resizing pictures you store on your iPhone can help you save a lot of space on your SD card.
-
- In this article, we will take you through several methods of resizing photos on an iPhone that will help you store more photos on your iOS device.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## How to Reduce the Size of A Photo on iPhone
-
-* [Method 1: Resizing photos via Email](#part1)
-* [Method 2: Using apps to resize your photos](#part2)
-
-### Method 1: Resizing photos via Email
-
- This process may not be the fastest way imaginable to change the size of your images, but it still effective.
-
- Simply select the pictures you want to resize in the Photos app and click share, or if you have an iPhone 7 click on the Action icon. The Mail app will allow you to choose one of the Small, Medium, Large and Actual Size presets, and after you selected the option that best fits your needs, tap the Send button to send the resized images to your email.
-
-![](https://images.wondershare.com/filmora/article-images/resize-iphone-photo-via-email.jpg)
-
- Image source: OS X Daily
-
- Despite being relatively easy, this method of resizing images doesn't allow you to enter the new size of a photo manually which may limit your options.
-
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
-### Method 2: Using apps to resize your photos
-
- Even though apps for iPhones that allow you to resize your photos require you to spend some money, this method is still much more effective than resizing images via email.
-
-#### 1\. [Image Size](https://itunes.apple.com/us/app/image-size/id670766542?mt=8)
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/image-size-app.jpg)
-
- iPhone photographers can resize their photos in three simple steps with this app. The Image Size app is free to download but if you want to get rid of the adds you must pay $3,99\. However, all you need to do to change the size of an image with this app is to open the photo you want to resize and select the output size. Removing the parts of the image is made possible by the Cropping tool so you can even decide which parts of the photo you want to remove. Once you've completed the process of resizing the picture you can choose whether you want to Save, Send or Share your photo.
-
-#### 2\. [PhotoShrinker](https://itunes.apple.com/us/app/photoshrinker/id928350374?mt=8)
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/photo-shrink-app.jpg)
-
- There aren't many better options for resizing images with an iPhone because this powerful tool allows you to change the size of an image within seconds. PhotoShrinker automatically compresses the photo to one-tenth of its original size, which means that you can free up a lot of space if you choose to invest $3,99 in this app. The latest version of the app also enables you to delete photos you don't like, but its users shouldn't count on it for any other kind of photo editing activity.
-
-#### 3\. [Reduce](https://itunes.apple.com/us/app/reduce-batch-resize-images-and-photos-for-iphone-ipad/id580474806?mt=8)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/reduce-image-size-app.jpg)
-
- Reduce app is a powerful image resize tool that allows you to change the size of several pictures at the same time. Besides the batch resizing feature the app also allows its users to resize the picture to specific dimensions or sharpen the image that has been slightly blurred by the resizing process. Reduce is equipped with an auto-detection option which recognizes the jpeg quality for the file size in question. Furthermore, the app lets you add a border to your photos in order to separate it from the background.
-
-### Conclusion
-
- Preserving the quality of your photos is important and for that reason, you should only use methods of resizing photos on your iPhone that allow you to produce good images, regardless of their size. Using apps to resize photos may cost you some money, but it will provide you with powerful tools that will allow you to have control over the photo resizing process.
-
- Let us know in the comments which method of changing the size of a photo you like the most and feel free to hit share and let your friends know about these remarkably simple methods of resizing pictures on an iPhone.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- The size of an image is directly related to its quality, and most iPhones produce large photo files that occupy a lot of space. If you have no intention of printing your pictures, resizing pictures you store on your iPhone can help you save a lot of space on your SD card.
-
- In this article, we will take you through several methods of resizing photos on an iPhone that will help you store more photos on your iOS device.
-
-## How to Reduce the Size of A Photo on iPhone
-
-* [Method 1: Resizing photos via Email](#part1)
-* [Method 2: Using apps to resize your photos](#part2)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-### Method 1: Resizing photos via Email
-
- This process may not be the fastest way imaginable to change the size of your images, but it still effective.
-
- Simply select the pictures you want to resize in the Photos app and click share, or if you have an iPhone 7 click on the Action icon. The Mail app will allow you to choose one of the Small, Medium, Large and Actual Size presets, and after you selected the option that best fits your needs, tap the Send button to send the resized images to your email.
-
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/resize-iphone-photo-via-email.jpg)
-
- Image source: OS X Daily
-
- Despite being relatively easy, this method of resizing images doesn't allow you to enter the new size of a photo manually which may limit your options.
-
-### Method 2: Using apps to resize your photos
-
- Even though apps for iPhones that allow you to resize your photos require you to spend some money, this method is still much more effective than resizing images via email.
-
-#### 1\. [Image Size](https://itunes.apple.com/us/app/image-size/id670766542?mt=8)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/image-size-app.jpg)
-
- iPhone photographers can resize their photos in three simple steps with this app. The Image Size app is free to download but if you want to get rid of the adds you must pay $3,99\. However, all you need to do to change the size of an image with this app is to open the photo you want to resize and select the output size. Removing the parts of the image is made possible by the Cropping tool so you can even decide which parts of the photo you want to remove. Once you've completed the process of resizing the picture you can choose whether you want to Save, Send or Share your photo.
-
-#### 2\. [PhotoShrinker](https://itunes.apple.com/us/app/photoshrinker/id928350374?mt=8)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/photo-shrink-app.jpg)
-
- There aren't many better options for resizing images with an iPhone because this powerful tool allows you to change the size of an image within seconds. PhotoShrinker automatically compresses the photo to one-tenth of its original size, which means that you can free up a lot of space if you choose to invest $3,99 in this app. The latest version of the app also enables you to delete photos you don't like, but its users shouldn't count on it for any other kind of photo editing activity.
-
-#### 3\. [Reduce](https://itunes.apple.com/us/app/reduce-batch-resize-images-and-photos-for-iphone-ipad/id580474806?mt=8)
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/reduce-image-size-app.jpg)
-
- Reduce app is a powerful image resize tool that allows you to change the size of several pictures at the same time. Besides the batch resizing feature the app also allows its users to resize the picture to specific dimensions or sharpen the image that has been slightly blurred by the resizing process. Reduce is equipped with an auto-detection option which recognizes the jpeg quality for the file size in question. Furthermore, the app lets you add a border to your photos in order to separate it from the background.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Conclusion
-
- Preserving the quality of your photos is important and for that reason, you should only use methods of resizing photos on your iPhone that allow you to produce good images, regardless of their size. Using apps to resize photos may cost you some money, but it will provide you with powerful tools that will allow you to have control over the photo resizing process.
-
- Let us know in the comments which method of changing the size of a photo you like the most and feel free to hit share and let your friends know about these remarkably simple methods of resizing pictures on an iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -344,5 +344,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-android-for-immersive-vr-experiences/"><u>[New] Navigating Android for Immersive VR Experiences</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-affordable-accessible-top-10-budget-friendly-mobile-viewing-apps/"><u>[Updated] Affordable, Accessible Top 10 Budget-Friendly Mobile Viewing Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-essential-knowledge-for-recording-movies-anywhere/"><u>[Updated] In 2024, Essential Knowledge for Recording Movies Anywhere</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-digital-adjustments-optimal-photo-framing-software-2023/"><u>[Updated] Leading Digital Adjustments Optimal Photo Framing Software, 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-broadcast-capture-made-easy-your-comprehensive-guide/"><u>2024 Approved Broadcast Capture Made Easy Your Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-makeup-trends-to-try-now/"><u>2024 Approved Makeup Trends to Try Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-hdr-photography-capabilities-on-iphone/"><u>2024 Approved Maximizing HDR Photography Capabilities on iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mysterious-video-issue-with-sony-a6400/"><u>2024 Approved Mysterious Video Issue with Sony A6400</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pin-to-play-the-ultimate-free-pinterest-video-download-guide/"><u>2024 Approved Pin-to-Play The Ultimate Free Pinterest Video Download Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-securing-youtube-srt-files-a-threefold-procedure/"><u>2024 Approved Securing YouTube SRT Files A Threefold Procedure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-ubisoft-connect-problems-expert-advice-for-players/"><u>Bypassing Ubisoft Connect Problems: Expert Advice for Players</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unrecognizable-hardware-in-windows-1011/"><u>Overcoming Unrecognizable Hardware in Windows 10/11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/skating-stories-from-sochi-2022-for-2024/"><u>Skating Stories From Sochi 2022 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-3-libradores-de-dvd-sin-costo-para-windows-11-convertir-archivos-dvd-directamente-a-mp4-avi-o-wmv-en-2020/"><u>Top 3 Libradores De DVD Sin Costo Para Windows 11: Convertir Archivos DVD Directamente a MP4, AVI O WMV en 2020</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-travel-credit-cards-offering-exclusive-airport-lounges-unlock-elite-benefits/"><u>Top 5 Travel Credit Cards Offering Exclusive Airport Lounges - Unlock Elite Benefits!</u></a></li>
+</ul></div>
 

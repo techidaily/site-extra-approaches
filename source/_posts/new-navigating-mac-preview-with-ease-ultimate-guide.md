@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Mac Preview with Ease  Ultimate Guide\""
-date: 2024-10-31T18:03:05.781Z
-updated: 2024-11-06T03:51:00.898Z
+date: 2024-11-13T16:33:41.572Z
+updated: 2024-11-16T16:27:58.376Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -64,6 +71,13 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -79,13 +93,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 **Step 3: Crop the Photo**
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
 
@@ -148,10 +155,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -167,10 +174,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -207,13 +214,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -229,17 +229,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-achieving-video-clarity-with-obs-in-zoom-environments/"><u>[New] 2024 Approved Achieving Video Clarity with OBS in Zoom Environments</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-from-script-to-screen-youtube-video-creation-made-simple/"><u>[New] 2024 Approved From Script to Screen YouTube Video Creation Made Simple</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-iphones-and-the-art-of-complete-circle-videos/"><u>[New] IPhones and the Art of Complete Circle Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-galaxy-a-thousand-stars-in-gaming/"><u>[Updated] 2024 Approved Gamers' Galaxy A Thousand Stars in Gaming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-tempo-adjustment-application-selection/"><u>2024 Approved Quick Tempo Adjustment Application Selection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-steps-to-acquire-free-picture-frame-videos/"><u>2024 Approved Steps to Acquire Free Picture Frame Videos</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/discreet-recording-of-webex-sessions-across-various-platforms-tips-and-methods/"><u>Discreet Recording of Webex Sessions Across Various Platforms - Tips & Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/music-service-migration-keeping-playlists-intact-for-2024/"><u>Music Service Migration Keeping Playlists Intact for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revamped-look-at-sonys-s6500-bdp-for-2024/"><u>Revamped Look at Sony's S6500 BDP for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-memes-with-these-7-top-gif-creation-techniques-for-2024/"><u>Revolutionize Your Memes with These 7 Top GIF Creation Techniques for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/seagate-discwizard-for-windows-11/"><u>Seagate DiscWizard for Windows 11：使用方法と代替選択肢の紹介</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-making-your-logitech-audio-devices-function-properly-again-on-pc/"><u>Troubleshooting Guide: Making Your Logitech Audio Devices Function Properly Again on PC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-capture-the-perfect-pace-a-beginners-approach-to-slow-mo-videos-on-tiktok/"><u>[New] In 2024, Capture the Perfect Pace A Beginner's Approach to Slow Mo Videos on TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-steps-to-shut-down-your-linkdnug-account/"><u>[New] Mastering the Steps to Shut Down Your LinkDnug Account</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peak-hours-for-releasing-podcasts/"><u>[New] Peak Hours for Releasing Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-action-cameras-for-mountain-thrills/"><u>[New] Perfect Action Cameras for Mountain Thrills</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-new-photography-these-are-your-cams-in-24/"><u>[Updated] New Photography? These Are Your Cams in '24</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-no-more-youtube-the-best-5-alternative-editors-await/"><u>[Updated] No More Youtube? The Best 5 Alternative Editors Await</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-how-to-make-picture-in-picture-video-on-macos-sierra/"><u>In 2024, How to Make Picture in Picture Video on macOS Sierra</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/overcoming-updating-glitches-in-the-original-minecraft-game-launcher/"><u>Overcoming Updating Glitches in the Original Minecraft Game Launcher</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-sound-pivot-for-podcast-masters-for-2024/"><u>Premier Sound Pivot for Podcast Masters for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-locations-for-youtube-content-exposure-for-2024/"><u>Prime Locations for YouTube Content Exposure for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smoothly-blend-images-and-movies-a-guide-to-windows-photos-and-storyremix-for-2024/"><u>Smoothly Blend Images & Movies A Guide to Windows Photos and StoryRemix for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/synthesize-film-selections-on-platform-playlist-for-2024/"><u>Synthesize Film Selections on Platform Playlist for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-powerful-iphone-shortcuts-app-techniques-for-a-faster-lifestyle/"><u>Ultimate Guide to Powerful iPhone Shortcuts App Techniques for a Faster Lifestyle</u></a></li>
 </ul></div>
 

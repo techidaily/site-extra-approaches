@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Photo Perfection  Implement These 10 Composition Tenets\""
-date: 2024-10-29T16:39:56.261Z
-updated: 2024-11-05T20:00:57.246Z
+date: 2024-11-13T16:00:35.697Z
+updated: 2024-11-16T16:24:41.631Z
 tags: 
   - screen-recording
   - ai video
@@ -34,18 +34,18 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Leading Lines
 
  Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
 
 ![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Symmetry
 
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Framing
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Diagonals
@@ -79,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Shape
 
  Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
@@ -86,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Leave Empty Space
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Direction of Subject
 
  Like all the photography composition rules, it is important to take note of the direction of the subject in a photograph. This is known as the ‘Rule of Space’ and it leads the viewer towards the subject’s direction of motion. For example, if there is a person walking on the road, then there should be space ahead of him. If there is a person sitting in a bench or rock, he should be clicked facing into the frame, and there should be space in front of him. It will help the viewer’s eyes to go along with the direction he is facing and take notice of the other subjects such as, other people walking in front him, or any pet moving around etc.
@@ -112,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fill Your Frame
@@ -130,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclsion
 
  Next time you are out to shoot something with your iPhone, try these photo composition rules and click mind blowing pictures. Though, these rules help you to get amazing iPhone pictures, learning to find the right subject and clicking with the right photo composition helps you more. With or without the rules, you have to keep a steady hand and a sharp eye for detail with patience if you want to click beautiful photographs with your iPhone.
@@ -137,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
  Images come from the Internet
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -160,20 +160,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/-quick-guide-to-chroma-key-background/"><u>[New] A Quick Guide to Chroma Key Background</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-from-pilot-to-producer-editing-mastery-in-drone-filmmaking-for-2024/"><u>[New] From Pilot to Producer Editing Mastery in Drone Filmmaking for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-select-websites-propelling-youtube-media/"><u>[New] Select Websites Propelling YouTube Media</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtubes-creative-commons-license-explained-simply/"><u>[Updated] 2024 Approved YouTube's Creative Commons License Explained Simply</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-compactscreengrab-critique-report/"><u>[Updated] In 2024, CompactScreenGrab Critique Report</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pivotal-elements-of-crafting-persuasive-customer-success-stories/"><u>[Updated] Pivotal Elements of Crafting Persuasive Customer Success Stories</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-macs-best-picks-elite-4k-monitor-showdown/"><u>2024 Approved Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-aspect-ratios-for-video-content-creation/"><u>2024 Approved Optimal Aspect Ratios for Video Content Creation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-motorola-g54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Motorola G54 5G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-instant-luxury-iphones-extended-shutter-mastery/"><u>In 2024, Instant Luxury IPhone's Extended Shutter Mastery</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-the-essence-of-crossfading-soundtracks/"><u>In 2024, The Essence of Crossfading Soundtracks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-timing-on-mobile-top-10-apps-for-couples-special-day-for-2024/"><u>Mastering Timing on Mobile Top 10 Apps for Couple's Special Day for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/original-movie-recording-dissection-and-substitute-series/"><u>Original Movie Recording Dissection & Substitute Series</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pioneering-photography-with-advanced-software-for-2024/"><u>Pioneering Photography with Advanced Software for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/voices-on-the-page-techniques-for-effective-scriptwriting/"><u>Voices on the Page Techniques for Effective Scriptwriting</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-make-better-facebook-video-ads/"><u>[New] How to Make Better Facebook Video Ads</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-automate-the-savvy-storage-of-your-social-media-images/"><u>[New] In 2024, Automate the Savvy Storage of Your Social Media Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-s2t-integration-with-powerpoint/"><u>[New] In 2024, Mastering S2T Integration with PowerPoint</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-jokeframe-creations-punpicture-studio/"><u>[New] JokeFrame Creations PunPicture Studio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-telegram-web-a-step-by-step-pathway/"><u>[New] Mastering Telegram Web A Step-by-Step Pathway</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximize-your-visuals-on-zoom-the-definitive-guide/"><u>[New] Maximize Your Visuals on Zoom – The Definitive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peak-laughter-edit-suite/"><u>[New] Peak Laughter Edit Suite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-introducing-high-quality-capture-with-yi/"><u>[Updated] Introducing High-Quality Capture with YI</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-sound-loads-in-inshot-editing-software/"><u>[Updated] Mastering Sound Loads in InShot Editing Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-music-lovers-unite-how-to-add-sounds-in-inshot/"><u>[Updated] Music Lovers Unite How to Add Sounds in InShot</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-of-earning-big-reddits-13-money-makers/"><u>[Updated] Secrets of Earning Big Reddit's 13 Money Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-steam-download-rates-overcoming-sluggish-pace/"><u>Accelerate Steam Download Rates: Overcoming Sluggish Pace</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/convert-mlb-live-streams-and-on-demand-matches-into-mp4avimov-files-for-download/"><u>Convert MLB Live Streams & On-Demand Matches Into MP4/AVI/MOV Files for Download</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-13c-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi 13C Quickly | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/qualcomm-unleashes-budget-friendly-power-get-your-hands-on-the-newest-snapdragon-x-elite-mini-pc-preorder-now/"><u>Qualcomm Unleashes Budget-Friendly Power: Get Your Hands on the Newest Snapdragon X Elite Mini PC – Preorder Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-how-to-resolve-division-2-game-crashes-instantly/"><u>Quick Fix: How to Resolve Division 2 Game Crashes Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207621444-step-by-step-guide-to-restore-bluetooth-on-your-windows-11-pc-fast-fixes/"><u>Step-by-Step Guide to Restore Bluetooth on Your Windows 11 PC - Fast Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-tecno-spark-20-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Spark 20 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

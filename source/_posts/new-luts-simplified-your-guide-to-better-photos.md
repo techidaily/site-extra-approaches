@@ -1,7 +1,7 @@
 ---
 title: "\"[New] LUTs Simplified  Your Guide to Better Photos\""
-date: 2024-11-02T17:59:10.048Z
-updated: 2024-11-06T05:13:40.642Z
+date: 2024-11-14T16:13:06.283Z
+updated: 2024-11-16T16:28:52.540Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -65,6 +65,13 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -72,19 +79,6 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -100,6 +94,13 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -118,10 +119,10 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -133,13 +134,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -171,18 +165,21 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-become-a-pro-at-setting-up-vrecorder-fast/"><u>[New] In 2024, Become a Pro at Setting Up VRecorder Fast</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-periscope-a-comprehensive-tutorial/"><u>[New] Mastering Periscope A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-evolving-videography-redefining-social-sharing-with-periscope-alternatives/"><u>[Updated] 2024 Approved Evolving Videography Redefining Social Sharing with Periscope Alternatives</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlocking-engagement-strategies-for-instagram-puzzle-creation/"><u>[Updated] 2024 Approved Unlocking Engagement Strategies for Instagram Puzzle Creation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-drone-buying-roadmap-pre-purchase-essentials-for-2024/"><u>[Updated] The Ultimate Drone Buying Roadmap Pre-Purchase Essentials for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-virtual-artisans-haven-retreat-for-2024/"><u>[Updated] Virtual Artisans' Haven Retreat for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-enrolling-in-the-apple-podcast-network/"><u>2024 Approved Enrolling in the Apple Podcast Network</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-album-arrangement-masterclass-achieving-systematic-order-and-cloud-sync/"><u>2024 Approved IPhone Album Arrangement Masterclass Achieving Systematic Order & Cloud Sync</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximum-frame-rate-for-languid-motion-videos/"><u>2024 Approved Maximum Frame Rate for Languid Motion Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-android-experience-with-3d-videos/"><u>In 2024, Premium Android Experience with 3D Videos</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-collection-of-chrome-add-ons-for-enhanced-digital-marketing-powered-by-massmail-solutions/"><u>Ultimate Collection of Chrome Add-Ons for Enhanced Digital Marketing - Powered by MassMail Solutions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/r-recognition-the-play-button-reward-ribbon-for-2024/"><u>Viewer Recognition The Play Button Reward Ribbon for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-prime-selection-best-10-free-online-subtitle-editors/"><u>[New] Prime Selection Best 10 Free Online Subtitle Editors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-360-streaming-tech-reviews/"><u>[New] Professional 360° Streaming Tech Reviews</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-olympic-ice-racers-moments-from-the-short-track-games/"><u>[Updated] Olympic Ice Racers Moments From the Short Track Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-one-voice-many-listeners-a-solo-podcast-blueprint/"><u>[Updated] One Voice, Many Listeners A Solo Podcast Blueprint</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-alert-tones-selective-websites-guide/"><u>2024 Approved Prime Alert Tones Selective Websites Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-restore-clean-communication-in-virtual-meetings/"><u>2024 Approved Restore Clean Communication in Virtual Meetings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-camon-20-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Camon 20 Fingerprint Lock</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/exploring-youtubes-latest-revenue-guidelines/"><u>Exploring YouTube's Latest Revenue Guidelines</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-podcast-logo-basics-key-principles-for-striking-art/"><u>In 2024, Podcast Logo Basics Key Principles for Striking Art</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-slow-fade-to-action/"><u>In 2024, Slow Fade to Action</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-iphones-ringtone-personalization/"><u>Mastering iPhone's Ringtone Personalization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/opus-to-mp3-conversion-guide-easy-online-and-offline-methods/"><u>Opus to MP3 Conversion Guide - Easy Online and Offline Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-funny-photo-tool-for-2024/"><u>Premier Funny Photo Tool for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-k11-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo K11 5G with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
 

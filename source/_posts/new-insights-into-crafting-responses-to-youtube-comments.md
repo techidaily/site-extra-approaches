@@ -1,7 +1,7 @@
 ---
 title: "[New] Insights Into Crafting Responses to YouTube Comments"
-date: 2024-11-01T01:03:08.988Z
-updated: 2024-11-06T00:38:32.220Z
+date: 2024-11-11T16:01:21.666Z
+updated: 2024-11-16T16:33:56.533Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,10 @@ Not only does it show your fans followers that you care about what they have to 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Advantage of YouTube comments
@@ -50,13 +50,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments can help you gauge customer sentiment: How do your viewers respond to your content? Positively? Negatively? Not at all? Monitoring your comments can help you understand how viewers feel about your brand.
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Comment on a YouTube Video
 
@@ -92,18 +85,18 @@ Step2 On the YouTube homepage, click on the three horizontal parallel lines in t
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
@@ -116,6 +109,13 @@ Among the comments you see on a video, you might notice some that YouTube has la
 For example, you might click on a notification, and YouTube takes you to a particular video. Then, when somebody else views and leaves a comment on that video, YouTube will often add the “Highlighted Comment” label on the comment to make it easy for you to spot it when you next go back to that video.
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
 
@@ -136,10 +136,10 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -178,22 +178,21 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-unknown-to-iconic-the-journey-of-viral-instagram-films/"><u>[New] In 2024, From Unknown to Iconic The Journey of Viral Instagram Films</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-shoot-straight-best-tripods-for-smartphones-today/"><u>[New] Shoot Straight Best Tripods for Smartphones Today</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-control-video-pace-in-instagram/"><u>[New] Step-by-Step Guide to Control Video Pace in Instagram</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-instagram-sequence-steps-to-reach-1k-monthly-followers-for-2024/"><u>[New] The Instagram Sequence Steps to Reach 1K Monthly Followers for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-picture-warping-techniques-with-various-apps/"><u>[Updated] Mastering Picture Warping Techniques with Various Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-asserting-ownership-on-social-platforms-instagrams-watermarking-secrets/"><u>2024 Approved Asserting Ownership on Social Platforms Instagram's Watermarking Secrets</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secure-sharpening-hiding-unwanted-details/"><u>2024 Approved Secure Sharpening Hiding Unwanted Details</u></a></li>
-<li><a href="https://media-tips.techidaily.com/cant-find-song-lyrics-on-spotify-check-out-these-reliable-alternatives/"><u>Can't Find Song Lyrics on Spotify? Check Out These Reliable Alternatives!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/grand-escapades-in-yokus-island-express-an-in-depth-game-experience-review/"><u>Grand Escapades in Yoku's Island Express: An In-Depth Game Experience Review</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-a-frozen-intellij-unison-app-on-your-win11-pc/"><u>How to Fix a Frozen IntelliJ Unison App on Your Win11 PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mobile-magic-booster-free-high-quality-photo-amplification/"><u>In 2024, Mobile Magic Booster Free, High-Quality Photo Amplification</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-nows-vr-tech-landscape/"><u>In 2024, Now’s VR Tech Landscape</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-13-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 13</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/secrets-of-selective-zoom-sharpening-in-google-meet-for-2024/"><u>Secrets of Selective Zoom Sharpening in Google Meet for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/stable-vr-experience-8-ways-to-prevent-nausea-for-2024/"><u>Stable VR Experience 8 Ways to Prevent Nausea for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-copy-and-paste-glitches-on-your-latest-windows-operating-system/"><u>Troubleshooting Copy & Paste Glitches on Your Latest Windows Operating System</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-starting-an-engaging-instagram-live-session/"><u>[New] 2024 Approved Starting an Engaging Instagram Live Session</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-techniques-for-uploading-original-posts-again/"><u>[New] 2024 Approved Techniques for Uploading Original Posts Again</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-standard-definition-to-high-dynamic-range-mastery/"><u>[New] From Standard Definition to High Dynamic Range Mastery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-transforming-film-with-vr-experience/"><u>[New] Transforming Film with VR Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-superior-selection-winning-16-free-video-tools/"><u>[Updated] In 2024, Superior Selection Winning 16 Free Video Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-your-syma-x8c-flight-patterns/"><u>[Updated] Mastering Your Syma X8C Flight Patterns</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-soft-transitions-in-garageband-audio/"><u>2024 Approved Mastering Soft Transitions in Garageband Audio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-instructions-for-downloading-and-fun-with-ifunny-memes/"><u>2024 Approved Quick Instructions for Downloading and Fun with iFunny Memes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simple-trick-on-how-to-instagram-collage/"><u>2024 Approved Simple Trick on How to Instagram Collage</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/greatest-competitors-to-vimeos-cameo-editor-platform-for-2024/"><u>Greatest Competitors to Vimeo's Cameo Editor Platform for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-xswindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone XS/Windows/Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-blur-techniques-in-visual-editing/"><u>Master Blur Techniques in Visual Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-with-speed-using-the-taskbars-search-in-windows-11/"><u>Navigate with Speed: Using the Taskbar's Search in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/obs-vs-wirecast-ultimate-broadcast-showdown-for-2024/"><u>OBS vs Wirecast Ultimate Broadcast Showdown for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/periscope-demystified-features-pricing-and-account-creation-tips-for-2024/"><u>Periscope Demystified Features, Pricing & Account Creation Tips for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revealing-graphic-excellence-our-top-10-design-tool-list-for-2024/"><u>Revealing Graphic Excellence Our Top 10 Design Tool List for 2024</u></a></li>
 </ul></div>
 
