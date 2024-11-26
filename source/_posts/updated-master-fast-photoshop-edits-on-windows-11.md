@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Fast Photoshop Edits on Windows 11"
-date: 2024-11-14T16:05:54.807Z
-updated: 2024-11-16T16:02:08.009Z
+date: 2024-11-24T02:02:50.812Z
+updated: 2024-11-25T17:52:32.208Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 * [**Part1: How to Draw On Photos App in Windows 10**](#part1)
 * [**Part2: How to Draw on Photos Online**](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -40,10 +44,18 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
 * Select the size and color of the fonts you wish to use from a range of palette
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/start-drawing-on-photos-in-windows-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Draw on the images and videos effortlessly
 * You can also find an eraser tool with various sizes of erasers that allows you to erase your entire drawing or a part of it as per your choice when required
@@ -61,13 +73,6 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Select the color from the range of palette available
 * Select the pen size using the given number scroll option
 * Click on apply if you are all set to draw or click on clear if you wish to make changes
@@ -75,19 +80,13 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -95,13 +94,6 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -120,24 +112,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premium-recommendations-for-ultra-hd-monitoring-tools/"><u>[New] 2024 Approved Premium Recommendations for Ultra-HD Monitoring Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-ultimate-selection-top-hdr-camera-picks/"><u>[New] 2024 Approved Ultimate Selection Top HDR Camera Picks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-invigorate-snaps-implement-inner-blur-spread-in-cs/"><u>[New] Invigorate Snaps Implement Inner Blur Spread in CS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-is-inshot-leading-video-editing-an-examination-review/"><u>[New] Is InShot Leading Video Editing? An Examination Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pioneering-immersive-tech-firms/"><u>[New] Pioneering Immersive Tech Firms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-photo-tips-for-exquisite-iphone-close-ups-and-macros/"><u>[Updated] Innovative Photo Tips for Exquisite iPhone Close-Ups & Macros</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photo-perfection-for-newbies-the-lunapic-way/"><u>[Updated] Photo Perfection for Newbies The LunaPic Way</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-resources-for-text-style-adjustment-files/"><u>[Updated] Prime Resources for Text Style Adjustment Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-click-quests-top-10-agile-gaming-platforms/"><u>[Updated] Quick Click Quests Top 10 Agile Gaming Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-smart-setup-for-your-windows-11-journey/"><u>[Updated] Smart Setup for Your Windows 11 Journey</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-crafting-captivating-haul-videos/"><u>[Updated] Step-by-Step Crafting Captivating Haul Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/criacrs-portable-fm-transmitter-cp24-an-evaluation-of-features-and-performance-for-google-play-store/"><u>Criacr's Portable FM Transmitter (CP24) - An Evaluation of Features and Performance for Google Play Store</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhance-your-iphones-visual-appeal-overcome-ios-16s-depth-effect-glitch-with-7-proven-tips/"><u>Enhance Your iPhone's Visual Appeal – Overcome iOS 16'S Depth Effect Glitch with 7 Proven Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/fine-tuning-gameplay-roblox-closer-scan-guide/"><u>Fine-Tuning Gameplay Roblox Closer Scan Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 13 Pro 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-computer-parts-with-precision-at-toms-tech-hub/"><u>Navigating Computer Parts with Precision at Tom's Tech Hub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-audio-editing-software-free-download/"><u>Top Audio Editing Software - Free Download</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/zippyzoom-echoframe-capture/"><u>ZippyZoom EchoFrame Capture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-best-video-maker-with-music-and-pictures/"><u>[New] 2024 Approved Best Video Maker with Music and Pictures</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-zoom-strategies-for-chromeos/"><u>[New] 2024 Approved Essential Zoom Strategies for ChromeOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-photographic-archives/"><u>[New] Premium Photographic Archives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-screenmasterrevolution-next-gen-recording-software/"><u>[Updated] 2024 Approved ScreenMasterRevolution Next-Gen Recording Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-quickfix-for-podcast-broadcasts/"><u>[Updated] Master Quickfix for Podcast Broadcasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-hashtags-for-six-figure-youtube-growth/"><u>[Updated] Mastering Hashtags for Six-Figure YouTube Growth</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-oculus-illness-prevention-guide/"><u>[Updated] Oculus Illness Prevention Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/elevate-your-storytelling-with-strategic-video-callouts/"><u>Elevate Your Storytelling with Strategic Video Callouts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratuitamente-converti-i-file-flac-online-con-movavi-come-farlo-semplice-e-veloce/"><u>Gratuitamente Converti I File FLAC Online Con Movavi - Come Farlo Semplice E Veloce</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-launching-on-big-sur-key-system-specs-needed/"><u>In 2024, Launching on Big Sur Key System Specs Needed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-lightrooms-artistic-control-creating-and-merging-hdr-images/"><u>In 2024, Master Lightroom's Artistic Control Creating & Merging HDR Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-selective-edits-blurring-images-in-ps/"><u>In 2024, Mastering Selective Edits Blurring Images in PS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/livestreaming-leaderboards-which-software-tops-the-chartvmixwirecast-in-2024/"><u>Livestreaming Leaderboards Which Software Tops the Chart—VMix/Wirecast, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/podcast-perfection-for-the-modern-iphone-user-for-2024/"><u>Podcast Perfection for the Modern iPhone User for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-10-best-animated-text-generator-to-use-100-useful/"><u>Updated In 2024, 10 Best Animated Text Generator to Use (100 Useful)</u></a></li>
 </ul></div>
 

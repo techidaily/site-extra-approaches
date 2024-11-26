@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-11-12T16:20:26.338Z
-updated: 2024-11-16T16:29:24.277Z
+date: 2024-11-19T02:30:06.050Z
+updated: 2024-11-25T20:21:33.689Z
 tags: 
   - screen-recording
   - ai video
@@ -36,13 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -58,10 +51,7 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
@@ -78,6 +68,10 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -93,13 +87,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 **Step 3: Crop the Photo**
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
 
@@ -129,6 +116,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -145,19 +136,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -173,6 +151,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -220,6 +202,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -235,18 +221,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-polaroid-xs-review-capturing-life-in-full-hd/"><u>[New] Polaroid XS Review Capturing Life in Full HD</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-free-excellence-analyzing-and-sharing-best-free-luts/"><u>[New] Premium-Free Excellence Analyzing and Sharing Best Free LUTs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-text-motion-manuals/"><u>[Updated] 2024 Approved Premier Text Motion Manuals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-intelligent-volume-modulation-strategies/"><u>[Updated] Intelligent Volume Modulation Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-ranking-the-very-best-10-free-online-artists-on-youtube-for-2024/"><u>[Updated] Ranking the Very Best 10 Free Online Artists on YouTube for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-revolutionizing-gaming-with-funimate/"><u>[Updated] Revolutionizing Gaming with Funimate</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-snap-it-up-iphone-and-androids-best-10-photo-enhancers/"><u>[Updated] Snap It Up! IPhone and Android's Best 10 Photo Enhancers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/avoid-high-costs-buying-budget-friendly-gopros/"><u>Avoid High Costs Buying Budget-Friendly GoPros</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-token-thresholds-is-it-possible-to-go-over-limit/"><u>Exploring ChatGPT Token Thresholds: Is It Possible to Go Over Limit?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10/"><u>In 2024, Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-common-office-crash-on-windows-xpvista/"><u>Remedying Common Office Crash on Windows XP/Vista</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds-for-2024/"><u>[New] Audio-Visual Elites Selecting 5 Exceptional Creators Who Mix Sounds for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleash-creativity-a-comprehensive-guide-to-instagrams-gif-features/"><u>[Updated] In 2024, Unleash Creativity A Comprehensive Guide to Instagram's GIF Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-making-memories-sing-picture-plus-music-videography/"><u>[Updated] Making Memories Sing Picture + Music Videography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-streaming-top-6-webcams-for-zoom-users/"><u>[Updated] Professional Streaming Top 6 Webcams for Zoom Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-jokegenius-get-the-best-meme-app/"><u>2024 Approved JokeGenius - Get the Best Meme App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-preservation-101-digitalization-of-ancestral-prints/"><u>2024 Approved Photo Preservation 101 Digitalization of Ancestral Prints</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-metas-approach-to-advanced-ai-solutions/"><u>Discovering Meta’s Approach to Advanced AI Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamlessly-saving-and-showcasing-gifs-on-your-iphone-device-for-2024/"><u>Seamlessly Saving and Showcasing GIFs on Your iPhone Device for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/xbox-expansion-top-5-external-hard-drives-ranked-for-2024/"><u>Xbox Expansion Top 5 External Hard Drives Ranked for 2024</u></a></li>
 </ul></div>
 

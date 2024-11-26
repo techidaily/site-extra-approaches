@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Video Cuts  The Essential Guide for Windows 11 Users\""
-date: 2024-11-12T16:16:58.505Z
-updated: 2024-11-16T16:10:28.949Z
+date: 2024-11-22T00:55:19.939Z
+updated: 2024-11-25T18:17:13.716Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 * [**Part1: How to trim video in Windows 10 Photos**](#part1)
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to trim video in Windows 10 Photos
 
 When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
@@ -49,13 +53,14 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
@@ -70,18 +75,15 @@ Here comes the step by step guide to trim video in VLC –
 
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
 3. Now, tap the 'Record' button again where you want to stop the recording. This clip automatically gets saved as an MP4 media file. You can find it within the 'Libraries/Videos' folder if it's a Windows 7 PC.
 
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -90,20 +92,10 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -120,24 +112,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-kinemaster-edge-mastering-video-segmentation-and-transitioning/"><u>[New] 2024 Approved The Kinemaster Edge Mastering Video Segmentation and Transitioning</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigate-the-maze-of-gopro-4k-an-editors-manual/"><u>[New] Navigate the Maze of GoPro 4K An Editor's Manual</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-newbie-friendly-guide-to-winning-with-telegram-promotion/"><u>[New] Newbie-Friendly Guide to Winning with Telegram Promotion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-professionals-picks-windows-11-video-creation-apps/"><u>[New] Professionals' Picks Windows 11 Video Creation Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>[Updated] Masterclass in Image Detail Removing Obscuring Elements with Photopea</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mellow-melodies-gradual-audio-decline-in-garageband/"><u>[Updated] Mellow Melodies Gradual Audio Decline in Garageband</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-fix-tweeter-conversion-for-social-sharing/"><u>[Updated] Quick-Fix Tweeter Conversion for Social Sharing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-art-of-zoom-etiquette-secrets-to-polite-and-productive-online-chats-for-2024/"><u>[Updated] The Art of Zoom Etiquette Secrets to Polite and Productive Online Chats for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-audiophiles-dilemma-podcast-or-youtube-dominance/"><u>2024 Approved Audiophile's Dilemma Podcast or YouTube Dominance</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-avs-audio-editor-product-details-key-features-reviews-and-alternatives/"><u>2024 Approved AVS Audio Editor Product Details, Key Features, Reviews & Alternatives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-is-consumer-feedback-compensated-in-vlogs/"><u>2024 Approved Is Consumer Feedback Compensated in Vlogs?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elgoog-explained-exploring-the-features-of-the-foremost-web-reflector-platform/"><u>ElgooG Explained: Exploring the Features of the Foremost Web Reflector Platform</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-extollo-lansocket-1500-exceptional-performance-with-lightning-fast-speeds-and-minimal-delays/"><u>Exploring the Extollo LANSocket 1500 - Exceptional Performance with Lightning-Fast Speeds & Minimal Delays</u></a></li>
-<li><a href="https://review-topics.techidaily.com/htc-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>HTC support - Forgotten screen lock.</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pivotal-moments-in-figure-skating-22-highlights/"><u>In 2024, Pivotal Moments in Figure Skating '22 Highlights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-peak-performance-lipo-cells-for-drones/"><u>In 2024, Selecting Peak Performance LiPo Cells for Drones</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-c02-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia C02 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-xp-pen-driver-software/"><u>Step-by-Step Guide: Updating Your XP-Pen Driver Software</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-a15-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy A15 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-macs-best-mkv-player-vendors/"><u>[New] 2024 Approved Mac's Best MKV Player Vendors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-title-and-description-tweaks-for-maximum-engagement-on-igtv/"><u>[New] 2024 Approved Title and Description Tweaks for Maximum Engagement on IGTV</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-aspect-ratios-for-professional-videos/"><u>[New] Mastering Aspect Ratios for Professional Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-revealing-reasons-why-no-videos-pop-up-on-fb-feed-in-2024/"><u>[New] Revealing Reasons Why No Videos Pop Up on FB Feed, In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-melodies-turn-any-tiktok-sound-into-phone-alerts/"><u>[Updated] Crafting Melodies Turn Any TikTok Sound Into Phone Alerts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-solo-sound-setback-fix-it-now/"><u>[Updated] Solo Sound Setback Fix It Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-underwater-cinematography-made-simple-top-7-tips/"><u>[Updated] Underwater Cinematography Made Simple Top 7 Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-principles-of-impactful-narrative-writing-for-films/"><u>2024 Approved Principles of Impactful Narrative Writing for Films</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-c67-4g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme C67 4G Lock Screen Password</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-making-the-most-out-of-video-calls-combining-skype-and-zoom/"><u>In 2024, Making the Most Out of Video Calls Combining Skype & Zoom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-modern-moods-best-rated-desktop-imagery/"><u>In 2024, Modern Moods Best-Rated Desktop Imagery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/most-reliable-iphones-podcast-services-for-2024/"><u>Most Reliable iPhones Podcast Services for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-comprehensive-users-manual-on-using-ez-grabber/"><u>The Comprehensive User's Manual on Using EZ Grabber</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/transform-your-tunes-with-our-newly-launched-open-source-tulip-creative-pc-running-micropython-all-for-only-59-dollars/"><u>Transform Your Tunes with Our Newly Launched Open-Source Tulip Creative PC Running MicroPython, All for Only 59 Dollars</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-reno-11-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Reno 11 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

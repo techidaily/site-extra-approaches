@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone Photography 101  Simple Strategies\""
-date: 2024-11-15T16:35:33.359Z
-updated: 2024-11-16T16:21:25.496Z
+date: 2024-11-22T17:13:26.771Z
+updated: 2024-11-25T22:34:45.626Z
 tags: 
   - screen-recording
   - ai video
@@ -48,11 +48,19 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
 ![get-silhoutte-photo](https://images.wondershare.com/filmora/article-images/get-silhoutte-photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: YouTube
 
 **How to Take Advantage of Natural Light:** The best periods during the day for photography are the sunrise and the sunset because the light provided by the sun is the softest. Portrait and numerous other genres of photography benefit from soft, diffused light. The colors in your pictures will appear much warmer and the results you'll be able to get will be much more visually pleasing than on photos on which you used direct lightning.
 
 ![golden-hour-photo](https://images.wondershare.com/filmora/article-images/golden-hour-photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: Contrastly
 
@@ -64,17 +72,29 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
 ![grid-mode-iphone](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Macworld
 
 **How to Use the Diagonal Method of Image Composition:** Using the diagonal method of photo composition is also a fairly simple task, since you just need to follow a diagonal of the frame, and you can use this method on horizontally and vertically oriented images.
 
 ![diagonal-photography](https://images.wondershare.com/filmora/article-images/diagonal-photography.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: PictureCorrect
 
 **How to Use Symetry on a Photo:** Symmetry is often used for the depiction of reflections because this method of photo composition enables you to show the real object or a scene and its reflections in equal measure. Symmetric photos are more pleasing to the human eye than asymmetric images, which is the reason why pictures that use symmetry as the guiding compositional principal have a better chance of being recognized as good or beautiful.
 
 ![symetry-photography](https://images.wondershare.com/filmora/article-images/symetry-photography.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: PictureCorrect
 
@@ -117,29 +137,15 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-build-your-mark-affordable-logo-creation-with-tailored-templates/"><u>[New] 2024 Approved Build Your Mark Affordable Logo Creation with Tailored Templates</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-endless-entertainment-the-science-behind-youtube-loops-for-2024/"><u>[New] Endless Entertainment The Science Behind YouTube Loops for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-regaining-access-to-windows-photo-viewer-two-steps-for-windows-10/"><u>[New] Regaining Access to Windows Photo Viewer Two Steps for Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-iphonepcs-best-video-conversion-software-8/"><u>[New] Unveiling iPhone/PC's Best Video Conversion Software #8</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-inspiration-enhanced-by-ar-and-vr/"><u>[Updated] Metaverse Inspiration Enhanced by AR & VR</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-rapid-restoration-of-reddit-archives-removed/"><u>[Updated] Rapid Restoration of Reddit Archives Removed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-steps-for-writing-engaging-video-blogging-content/"><u>[Updated] Steps for Writing Engaging Video Blogging Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-visual-enhancements-with-polarrs-platform/"><u>2024 Approved Mastering Visual Enhancements with Polarr's Platform</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhance-zoom-experience-combat-fuzzy-sound/"><u>Enhance Zoom Experience Combat Fuzzy Sound</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-a25-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy A25 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-intimate-filmmaking-approaches/"><u>In 2024, Expert Tips for Intimate Filmmaking Approaches</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionary-video-editor-top-tier-clarity/"><u>In 2024, Revolutionary Video Editor Top-Tier Clarity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-to-phantoms-slow-mo-magic/"><u>In 2024, Step by Step Guide to Phantom's Slow Mo Magic</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/insta-wonders-top-9-habits-of-influencers-and-stars-for-2024/"><u>Insta Wonders Top 9 Habits of Influencers and Stars for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-tips-for-boosting-household-efficiency-with-chatgpt/"><u>Top 6 Tips for Boosting Household Efficiency with ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-you-need-to-know-when-encountering-issues-with-non-downloading-torrents/"><u>What You Need To Know When Encountering Issues With Non-Downloading Torrents</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-proven-methods-for-sensational-instagram-puzzle-creation/"><u>[New] Proven Methods for Sensational Instagram Puzzle Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplified-path-to-perfect-video-clarity/"><u>[New] Simplified Path to Perfect Video Clarity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-up-your-slide-shows-with-these-top-10-free-resources/"><u>[New] Step Up Your Slide Shows with These Top 10 Free Resources</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-audiovisual-alchemy-transforming-powerpoint-into-engagement/"><u>[Updated] In 2024, Audiovisual Alchemy Transforming PowerPoint Into Engagement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-moneysmart-cumulus-storage-scaling-files-economically/"><u>[Updated] MoneySmart Cumulus Storage - Scaling Files Economically</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-cheapest-cloud-storage-service-for-mass-file/"><u>[Updated] The Cheapest Cloud Storage Service for Mass File</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-azures-transcription-service/"><u>In 2024, Mastering Azure's Transcription Service</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-windows-11-wallpaper-transitions/"><u>In 2024, Perfect Windows 11 Wallpaper Transitions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos/"><u>In 2024, Pioneering Free Convertors Top 5 Online Apps for GIFs to Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-scriptwriting-for-videos-the-chatgpt-way/"><u>Streamline Scriptwriting for Videos - The ChatGPT Way</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

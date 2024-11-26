@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Slippery Surfaces  Olympic Winners of '22\""
-date: 2024-11-11T16:27:28.348Z
-updated: 2024-11-16T16:35:56.393Z
+date: 2024-11-21T16:04:51.977Z
+updated: 2024-11-25T17:16:32.541Z
 tags: 
   - screen-recording
   - ai video
@@ -22,7 +22,15 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
@@ -32,38 +40,21 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -73,13 +64,6 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
@@ -87,6 +71,10 @@ The last leg of competition among skaters before reaching the finishing line at 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -121,10 +109,7 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -150,18 +135,21 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-motion-capture-top-gear-recommendations/"><u>[New] Mastering Motion Capture - Top Gear Recommendations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-minimal-effort-maximum-recovery-for-deleted-posts/"><u>[New] Minimal Effort, Maximum Recovery for Deleted Posts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mobile-mastery-high-shots-with-your-smartphone/"><u>[New] Mobile Mastery High Shots with Your Smartphone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-step-by-step-guide-for-meet-custom-filters-and-effects/"><u>[Updated] 2024 Approved A Step-by-Step Guide for Meet Custom Filters & Effects</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-public-assessment-of-vllo-functionality/"><u>[Updated] Public Assessment of VLLO Functionality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-srgb-standardized-vs-traditional-rgb-spectrum/"><u>[Updated] Srgb Standardized Vs Traditional Rgb Spectrum</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-microsofts-may-2020-build-windows-10-v2004-with-updated-conexant-hardware-drivers/"><u>Easy Installation of Microsoft's May 2020 Build (Windows 10 v2004) with Updated Conexant Hardware Drivers</u></a></li>
-<li><a href="https://win-best.techidaily.com/guide-setting-up-a-nas-mirrored-copy-for-file-synchronization-between-two-network-storage-units/"><u>Guide: Setting Up a NAS Mirrored Copy for File Synchronization Between Two Network Storage Units</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-pop-8-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Tecno Pop 8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-audio-interface-drivers-for-pc-direct-download-links/"><u>Latest Audio Interface Drivers for PC: Direct Download Links</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-c67-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme C67 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/proven-steps-for-choosing-an-effective-4k-camera-lens-for-2024/"><u>Proven Steps for Choosing an Effective 4K Camera Lens for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-linux-screenshot-solutions-the-ultimate-guide/"><u>[New] 2024 Approved Linux Screenshot Solutions The Ultimate Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-imovie-techniques-to-upgrade-your-youtube-content/"><u>[New] Essential iMovie Techniques to Upgrade Your YouTube Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-photo-editing-seamless-integration-of-timestamps/"><u>[New] Master Photo Editing Seamless Integration of Timestamps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-toward-unauthorized-access-a-c-span-journey/"><u>[New] Navigating Toward Unauthorized Access A C-Span Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-incremental-volume-decrease-with-lumafusion/"><u>[Updated] Mastering the Art of Incremental Volume Decrease with Lumafusion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-max-power-reimagined-selecting-mac-and-wins-best-srt-converters/"><u>[Updated] Max Power Reimagined Selecting Mac & Win's Best SRT Converters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smart-strategies-showcase-ranking-best-trivia-video-streams/"><u>[Updated] Smart Strategies Showcase Ranking Best Trivia Video Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-professionals-choice-top-10-camera-gimbals-compared-iphone-android-dslr/"><u>2024 Approved Professional's Choice Top 10 Camera Gimbals Compared - iPhone, Android, DSLR</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-un-fichier-rw2-en-jpeg-gratuitement-sur-linternet-groupe-mouvavi/"><u>Convertissez Un Fichier RW2 en JPEG Gratuitement Sur L'Internet - Groupe Mouvavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/direct-links-to-download-compatible-thunderbolt-drivers-for-windows-machines/"><u>Direct Links to Download Compatible Thunderbolt Drivers for Windows Machines</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/fixing-linuxacademy-downloads-on-mac-and-windows-step-by-step-troubleshooting-guide/"><u>Fixing Linuxacademy Downloads on Mac & Windows: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-atikmpagsys-related-video-playback-issues-in-windows-10-solutions-included/"><u>How to Fix Atikmpag.sys-Related Video Playback Issues in Windows 10 - Solutions Included</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s Plus To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-lengthy-iphone-photo-captures/"><u>In 2024, Mastering Lengthy iPhone Photo Captures</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-repairing-package-failures-in-windo/"><u>Mastering the Art of Repairing Package Failures in Windo</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-chromebook-zoom-usage-techniques-for-2024/"><u>Pro Chromebook Zoom Usage Techniques for 2024</u></a></li>
 </ul></div>
 

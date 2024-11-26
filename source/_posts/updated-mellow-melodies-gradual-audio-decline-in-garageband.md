@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mellow Melodies  Gradual Audio Decline in Garageband\""
-date: 2024-11-09T16:14:06.463Z
-updated: 2024-11-16T16:25:39.161Z
+date: 2024-11-20T02:28:50.583Z
+updated: 2024-11-25T20:30:24.998Z
 tags: 
   - screen-recording
   - ai video
@@ -42,14 +42,11 @@ Step4 Press the volume button from the menu in the track header, and use the vol
 
 ![start fade out length garageband](https://images.wondershare.com/filmora/article-images/2022/07/start-fade-out-length-garageband.jpg)
 
-Using the GarageBand application on your iPad, you can opt for the automatic fade-out option. You need to open the song set and activate the active fade-out option.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Using the GarageBand application on your iPad, you can opt for the automatic fade-out option. You need to open the song set and activate the active fade-out option.
 
 ## Part 2\. How to Fade Audio with Garageband on iPhone?
 
@@ -66,22 +63,12 @@ Step3 Scroll down to the fade-out option and turn it.
 ![fade audio garageband iphone](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-garageband-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Hit the done icon.
 
 The fade-out option doesn't offer you much set of control. It usually works as a master track and includes the fade-out effect over all the track channels. You won't be able to edit the fade-out; in simple words, it will automatically select a point where the feature will start working, and it will also control the speed and intensity of the volume drop. It is one of the best features for fading short tracks as it won't lose much audio.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Garageband Alternative to Fade Audio on Mac
 
@@ -111,18 +98,15 @@ After the drag and drop procedure, double click on the file and direct yourself 
 
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Save the video
 
 Choose the create option to save the new file if you are done with the adjusting part. You can save your file in several formats such as MP3, MKV, WMV, AVI, etc. you can play the track on various devices like iPad, iPod, iPhone, Zune, etc.
 
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -148,11 +132,19 @@ After the drag and drop procedure, double click on the file and direct yourself 
 
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Save the video
 
 Choose the create option to save the new file if you are done with the adjusting part. You can save your file in several formats such as MP3, MKV, WMV, AVI, etc. you can play the track on various devices like iPad, iPod, iPhone, Zune, etc.
 
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -182,24 +174,24 @@ According to the survey, one of the most searched topics is **how to fade music 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-transform-your-channels-look-for-free/"><u>[New] 2024 Approved Transform Your Channel's Look for Free</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-prestige-pcs-and-laptops-technologys-elite/"><u>[Updated] In 2024, Prestige PCs & Laptops - Technology's Elite</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-preventing-social-media-platforms-intrusive-ads-for-2024/"><u>[Updated] Preventing Social Media Platform's Intrusive Ads for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-top-15-cost-saving-web-editors-rated-best-for-2024/"><u>[Updated] Unveiling Top 15 Cost-Saving Web Editors - Rated Best for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-targets-leading-web-browser-with-unsettling-marketing-campaign-watch-live-reaction/"><u>Apple Targets Leading Web Browser with Unsettling Marketing Campaign – Watch Live Reaction</u></a></li>
-<li><a href="https://win-tips.techidaily.com/best-free-software-fur-externe-festplattenkopien-schwieriger-datentrager-kostenlos-herunterladen/"><u>Best FREE Software Für Externe Festplattenkopien Schwieriger Datenträger - Kostenlos Herunterladen</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-refine-your-images-quickly-freepaid-lut-options-for-canon/"><u>In 2024, Refine Your Images Quickly - Free/Paid LUT Options for Canon</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-spectacular-stop-motion-animations-15-list/"><u>In 2024, Spectacular Stop-Motion Animations #15 List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-into-fantasy-with-these-samsung-gear-vr-titles/"><u>In 2024, Step Into Fantasy with These Samsung Gear VR Titles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-to-add-personalized-soundfilters-on-windows-photos/"><u>In 2024, Step-by-Step Guide to Add Personalized Sound/Filters on Windows Photos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-to-stunning-android-shots/"><u>In 2024, Step-by-Step Guide to Stunning Android Shots</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-including-in-apples-premium-catalog/"><u>In 2024, Step-by-Step Including in Apple's Premium Catalog</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-storage-space-used-for-daily-extended-videography/"><u>In 2024, Storage Space Used for Daily Extended Videography</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-infinix-note-30i-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Infinix Note 30i FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-top-7-must-have-metaverse-devices-you-need-to-prepare/"><u>In 2024, Top 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/integrating-advanced-zoom-features-on-tiktok-for-2024/"><u>Integrating Advanced Zoom Features on TikTok for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/key-sites-for-enhancing-youtube-video-popularity-for-2024/"><u>Key Sites for Enhancing YouTube Video Popularity for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/strategie-innovative-come-individuare-e-risolvere-lirraggiungibile-bersaglio-dei-tuoi-file/"><u>Strategie Innovative: Come Individuare E Risolvere L'Irraggiungibile Bersaglio Dei Tuoi File</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-stability-systems-for-youtube-filmmakers/"><u>[New] Professional Stability Systems for YouTube Filmmakers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-9-camera-extras-for-professional-level-vlogging-on-smartphones/"><u>[New] Top 9 Camera Extras for Professional-Level Vlogging on Smartphones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-kinemaster-focus-mastery-a-filmmakers-guide-to-sharper-images/"><u>[Updated] Kinemaster Focus Mastery A Filmmaker's Guide to Sharper Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplify-passport-photography-with-these-top-10-low-cost-solutions/"><u>[Updated] Simplify Passport Photography with These Top 10 Low-Cost Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1080p-vs-4k-a-comprehensive-guide-on-their-distinctions-and-transforming-4k-footage-into-1080p-resolution/"><u>1080P Vs. 4K: A Comprehensive Guide on Their Distinctions and Transforming 4K Footage Into 1080P Resolution</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-inventory-of-videography-items-for-exploration/"><u>2024 Approved Inventory of Videography Items for Exploration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-closer-video-in-google-meet-sessions/"><u>2024 Approved Mastering Closer Video in Google Meet Sessions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-must-do-tasks-for-enhanced-podcast-experience/"><u>2024 Approved Must-Do Tasks for Enhanced Podcast Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/accessing-no-cost-nursery-rhymes-lesson-videos-on-social-media-platforms-like-youtube-twitter/"><u>Accessing No-Cost Nursery Rhymes Lesson Videos on Social Media Platforms Like YouTube, Twitter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-display-expansion-setting-up-your-laptop-for-second-screen-functionality/"><u>DIY Display Expansion: Setting Up Your Laptop for Second-Screen Functionality</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/experiencing-uncommon-fun-with-ddpais-innovative-mini-3-dashcam-a-review/"><u>Experiencing Uncommon Fun With DDpai's Innovative Mini 3 Dashcam - A Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-photo-management-guide-for-albums-and-cloud-storage/"><u>In 2024, IPhone Photo Management Guide for Albums & Cloud Storage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-biz-vault-services-for-data/"><u>In 2024, Prime Biz Vault Services for Data</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-art-into-nfts-top-7-tools-explored/"><u>In 2024, Revolutionizing Art Into NFTs - Top 7 Tools Explored</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-windows-drawing-powerhouses-exploring-free-and-fees/"><u>In 2024, Windows Drawing Powerhouses Exploring FREE & Fees</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-baldurs-gate-iii/"><u>PC에서 Baldur's Gate III가 문제 없이 작동하도록 해결하는 복습 조치</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-correcting-failed-driver-on-windows-oses/"><u>Quick Guide: Correcting “Failed Driver” On Windows OSes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/thrifty-pc-frame-buffer-tools-for-2024/"><u>Thrifty PC Frame Buffer Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/weighing-ais-impact-on-artistic-expression/"><u>Weighing AI's Impact on Artistic Expression</u></a></li>
 </ul></div>
 
