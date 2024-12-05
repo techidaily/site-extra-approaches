@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Art of Audio Blending in Audacity"
-date: 2024-11-12T16:10:11.412Z
-updated: 2024-11-16T16:32:44.810Z
+date: 2024-12-01T20:20:27.277Z
+updated: 2024-12-05T19:03:31.528Z
 tags: 
   - screen-recording
   - ai video
@@ -42,29 +42,23 @@ Step2 Select File, followed by Recent files. The first of the 12 most recent sav
 
 ![select import recent files](https://images.wondershare.com/filmora/article-images/2022/07/select-import-recent-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Use your Selection tool to align the clips so that a crossfade will be applied between two clips on different tracks. Go to Effect > Crossfade Songs, place the cursor where you want the fade to begin, then drag it across the tracks you wish to blend.
 
 ![crossfade songs audacity](https://images.wondershare.com/filmora/article-images/2022/07/crossfade-songs-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Using the Time Shift Tool, place your two clips adjacent to one another in order to apply a crossfade across them on the same track. Select the area to be crossfaded using the Selection tool, and then click Effect > Crossfade Clips to combine the sounds you've chosen.
 
 ![combine sound clips audacity](https://images.wondershare.com/filmora/article-images/2022/07/combine-sound-clips-audacity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 This project should be exported as an MP3\. Once you've finished editing, choose File > Export > Export as MP3 from the menu. From this point on, a pop-up window with a number of fields will appear, allowing you to choose how the file is saved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Alternative Way to Fade Audio
 
@@ -86,18 +80,15 @@ Afterwards, you need to import your files and with the Filmora it’s handy as w
 
 ![install filmora and import audio](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Open Filmora's Audio Editor
 
 Following the import of your media files into Filmora, you must drag the files onto the program's timeline. Your media files may be edited using all available methods in the timeline. Simply right-click on the particular audio file and choose "Edit Audio" from the list to use Filmora's audio editor:
 
 ![open filmora audio editor](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3 Use the Audio Fade-in/Fade-out
 
@@ -113,15 +104,16 @@ Filmora features a built-in video editing toolbox in addition to an audio editor
 
 ![polish the audio further](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step5 Export Your Sound and Video
 
 On that note, if you are happy with how your voice has changed, right now could be the greatest moment to preserve it or perhaps record it. All popular video and audio formats, including MP3, are supported. To do this, click "Export" and select the file format from the Local menu as shown below. You can also customize the final destination of the edited audio file using the settings as shown below:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4\. Related FAQs
@@ -134,16 +126,13 @@ Crossfade occurs when one piece of audio fades out just as another piece of audi
 
 You may utilize crossfade between your combined tracks and convert your audio file to the proper format with the Online Audio Combiner. You will need a free internet program that combines audio files. If you want a seamless change from one file to another, use the crossfade option. When combining sounds, it will fade in and out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. How do I smooth audio in Audacity?
 
 Use the Normalize effect to equalize the left and right channels of stereo recordings, set the peak amplitude of a single track, and make several tracks have the same peak amplitude. By doing this, you can be confident that your podcast or audio recording will sound great via headphones.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -186,19 +175,13 @@ Filmora features a built-in video editing toolbox in addition to an audio editor
 On that note, if you are happy with how your voice has changed, right now could be the greatest moment to preserve it or perhaps record it. All popular video and audio formats, including MP3, are supported. To do this, click "Export" and select the file format from the Local menu as shown below. You can also customize the final destination of the edited audio file using the settings as shown below:
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4\. Related FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. What is crossfade between tracks?
@@ -214,10 +197,7 @@ You may utilize crossfade between your combined tracks and convert your audio fi
 Use the Normalize effect to equalize the left and right channels of stereo recordings, set the peak amplitude of a single track, and make several tracks have the same peak amplitude. By doing this, you can be confident that your podcast or audio recording will sound great via headphones.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -248,22 +228,18 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-audiences-favorites-top-10-mobility-friendly-players/"><u>[Updated] In 2024, Audience's Favorites Top 10 Mobility-Friendly Players</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-playbook-cutting-edge-methods-for-remarkable-mobizen-recordings/"><u>[Updated] In 2024, Ultimate Playbook Cutting-Edge Methods for Remarkable Mobizen Recordings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-podcast-discoverability-through-effective-seo/"><u>[Updated] Maximizing Podcast Discoverability Through Effective SEO</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-sound-selection-optimal-websites-list/"><u>[Updated] Premium Sound Selection Optimal Websites List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-one-source-livestream-perfection-a-streamers-blueprint/"><u>2024 Approved One-Source Livestream Perfection A Streamer's Blueprint</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revealing-historys-best-anime-openers/"><u>2024 Approved Revealing History's Best Anime Openers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-cutting-edge-without-costs-navigating-through-these-8-tools/"><u>2024 Approved The Cutting Edge Without Costs - Navigating Through These 8 Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-macbook-gadgets-expertly-evaluated-and-rated-professional-insights/"><u>Essential MacBook Gadgets : Expertly Evaluated and Rated | Professional Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-zte-blade-a73-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of ZTE Blade A73 5G Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-intro-to-photo-editing-mastering-lunapic-basics/"><u>In 2024, Intro to Photo Editing Mastering LunaPic Basics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-new-horizons-in-video-codecs-comparing-av1-and-vp9/"><u>In 2024, New Horizons in Video Codecs Comparing Av1 and VP9</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-boundaries-with-lightrooms-hdr-merging-capability/"><u>In 2024, Pushing Boundaries with Lightroom’s HDR Merging Capability</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-speedy-upgrade-leading-android-video-tuners/"><u>In 2024, Speedy Upgrade Leading Android Video Tuners</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-15s-resistance-how-well-does-it-handle-moisture/"><u>IPhone 15'S Resistance: How Well Does It Handle Moisture?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976569335-secure-and-speedy-download-of-official-acer-bluetooth-drivers-get-started/"><u>Secure & Speedy Download of Official Acer Bluetooth Drivers - Get Started</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210330840-9781736737019-the-4-c-heart-curls-kinks-knots-of-my-dry-thirsty-single-soul-words-for-seasons/"><u>The 4 C Heart: Curls, Kinks, & Knots of My Dry, Thirsty Single Soul: Words for Seasons | Free Book</u></a></li>
-<li><a href="https://network-issues.techidaily.com/uninterrupted-anthem-playtime/"><u>Uninterrupted Anthem Playtime</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-av-creators-digital-edition-list/"><u>[New] Leading AV Creators Digital Edition List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-fixing-dark-mode-issues-during-recording-for-2024/"><u>[Updated] Fixing Dark Mode Issues During Recording for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unleash-your-potential-top-8-tablets-for-stellar-photo-editing/"><u>[Updated] Unleash Your Potential Top 8 Tablets For Stellar Photo Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-peerless-dialogue-creator-zone/"><u>2024 Approved Peerless Dialogue Creator Zone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-hot-30i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Hot 30i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/astounding-vlogs-start-here-easy-to-create-projects-for-2024/"><u>Astounding Vlogs Start Here Easy-to-Create Projects for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/football-film-study-premier-insights-infographic/"><u>Football Film Study Premier Insights Infographic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ios-must-evolve-in-version-18-to-compete-with-androids-advanced-features-according-to-experts-gadgetflow/"><u>How iOS Must Evolve in Version 18 to Compete with Android’s Advanced Features, According to Experts | GadgetFlow</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-memetic-masterpieces-behind-the-photo/"><u>In 2024, Memetic Masterpieces Behind the Photo</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snap-up-on-details-with-videoleaps-advanced-zooming/"><u>In 2024, Snap Up on Details with VideoLeap's Advanced Zooming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/play-the-hottest-imessage-games-of-2024-our-favorite-picks-unveiled/"><u>Play the Hottest iMessage Games of 2024: Our Favorite Picks Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-poco-f5-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Poco F5 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-apples-latest-innovation-an-ai-powered-assistant-that-revolutionizes-siri-with-smart-home-interaction/"><u>Unveiling Apple's Latest Innovation: An AI-Powered Assistant That Revolutionizes Siri with Smart Home Interaction</u></a></li>
 </ul></div>
 

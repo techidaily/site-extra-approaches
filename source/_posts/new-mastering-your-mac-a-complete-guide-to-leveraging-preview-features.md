@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-11-19T02:30:06.050Z
-updated: 2024-11-25T20:21:33.689Z
+date: 2024-12-02T16:03:46.929Z
+updated: 2024-12-05T20:07:23.255Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -51,7 +55,7 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
@@ -67,10 +71,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -100,6 +100,10 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -115,10 +119,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -136,6 +136,10 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -152,10 +156,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -167,6 +167,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -202,10 +206,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -221,14 +221,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds-for-2024/"><u>[New] Audio-Visual Elites Selecting 5 Exceptional Creators Who Mix Sounds for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleash-creativity-a-comprehensive-guide-to-instagrams-gif-features/"><u>[Updated] In 2024, Unleash Creativity A Comprehensive Guide to Instagram's GIF Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-making-memories-sing-picture-plus-music-videography/"><u>[Updated] Making Memories Sing Picture + Music Videography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-professional-streaming-top-6-webcams-for-zoom-users/"><u>[Updated] Professional Streaming Top 6 Webcams for Zoom Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-jokegenius-get-the-best-meme-app/"><u>2024 Approved JokeGenius - Get the Best Meme App</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-preservation-101-digitalization-of-ancestral-prints/"><u>2024 Approved Photo Preservation 101 Digitalization of Ancestral Prints</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-metas-approach-to-advanced-ai-solutions/"><u>Discovering Meta’s Approach to Advanced AI Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamlessly-saving-and-showcasing-gifs-on-your-iphone-device-for-2024/"><u>Seamlessly Saving and Showcasing GIFs on Your iPhone Device for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/xbox-expansion-top-5-external-hard-drives-ranked-for-2024/"><u>Xbox Expansion Top 5 External Hard Drives Ranked for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-how-to-see-deleted-reddit-posts-in-10-seconds-5-simple-ways/"><u>[New] How to See Deleted Reddit Posts in 10 Seconds - 5 Simple Ways</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-incredible-virtual-films-to-explore/"><u>[New] In 2024, Incredible Virtual Films to Explore</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-content-battle-who-wins-with-vimeo-youtube-or-dailymotion/"><u>[New] Video Content Battle Who Wins with Vimeo, YouTube, or DailyMotion?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optical-stabilization-advantage-in-mobile-cinematography/"><u>2024 Approved Optical Stabilization Advantage in Mobile Cinematography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-for-customizing-and-downloading-spiritual-audio/"><u>2024 Approved Step by Step for Customizing and Downloading Spiritual Audio</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-viral-journey-top-tags-to-accelerate-views-in-short-form-videos/"><u>2024 Approved Viral Journey Top Tags to Accelerate Views in Short Form Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-forcing-your-windows-machine-into-safe-mode-from-scratch/"><u>Comprehensive Guide: Forcing Your Windows Machine Into Safe Mode From Scratch</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-moneysmart-cumulus-storage-scaling-files-economically/"><u>In 2024, MoneySmart Cumulus Storage - Scaling Files Economically</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-shutter-snappiness-harnessing-edits-for-great-photos/"><u>In 2024, Shutter Snappiness Harnessing Edits for Great Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/m1-pro-to-m1-max-understanding-the-differences-in-apple-computing-for-2024/"><u>M1 Pro to M1 Max Understanding the Differences in Apple Computing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/personalize-sua-estrategia-de-links-fundo-com-a-experiencia-do-movavi-affiliate-program/"><u>Personalize Sua Estratégia De Links Fundo Com a Experiência Do Movavi Affiliate Program</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-text-message-delivery-problems-when-communicating-with-iphone-users/"><u>Resolving Text Message Delivery Problems When Communicating with iPhone Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/streamlining-media-consumption-accessing-facebook-content-via-appletv/"><u>Streamlining Media Consumption Accessing Facebook Content via AppleTV</u></a></li>
 </ul></div>
 

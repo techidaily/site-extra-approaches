@@ -1,7 +1,7 @@
 ---
 title: "[New] Insights Into Crafting Responses to YouTube Comments"
-date: 2024-11-11T16:01:21.666Z
-updated: 2024-11-16T16:33:56.533Z
+date: 2024-11-30T16:49:11.205Z
+updated: 2024-12-05T20:11:00.183Z
 tags: 
   - screen-recording
   - ai video
@@ -36,13 +36,6 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -63,6 +56,10 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -81,6 +78,10 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
@@ -92,15 +93,16 @@ Step4 On the right side under the “Manage all history” section, click on “
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
 
@@ -109,13 +111,6 @@ Among the comments you see on a video, you might notice some that YouTube has la
 For example, you might click on a notification, and YouTube takes you to a particular video. Then, when somebody else views and leaves a comment on that video, YouTube will often add the “Highlighted Comment” label on the comment to make it easy for you to spot it when you next go back to that video.
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
 
@@ -136,10 +131,7 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -178,21 +170,14 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-starting-an-engaging-instagram-live-session/"><u>[New] 2024 Approved Starting an Engaging Instagram Live Session</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-techniques-for-uploading-original-posts-again/"><u>[New] 2024 Approved Techniques for Uploading Original Posts Again</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-standard-definition-to-high-dynamic-range-mastery/"><u>[New] From Standard Definition to High Dynamic Range Mastery</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-transforming-film-with-vr-experience/"><u>[New] Transforming Film with VR Experience</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-superior-selection-winning-16-free-video-tools/"><u>[Updated] In 2024, Superior Selection Winning 16 Free Video Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-your-syma-x8c-flight-patterns/"><u>[Updated] Mastering Your Syma X8C Flight Patterns</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-soft-transitions-in-garageband-audio/"><u>2024 Approved Mastering Soft Transitions in Garageband Audio</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-instructions-for-downloading-and-fun-with-ifunny-memes/"><u>2024 Approved Quick Instructions for Downloading and Fun with iFunny Memes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-simple-trick-on-how-to-instagram-collage/"><u>2024 Approved Simple Trick on How to Instagram Collage</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/greatest-competitors-to-vimeos-cameo-editor-platform-for-2024/"><u>Greatest Competitors to Vimeo's Cameo Editor Platform for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-xswindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone XS/Windows/Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-blur-techniques-in-visual-editing/"><u>Master Blur Techniques in Visual Editing</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-with-speed-using-the-taskbars-search-in-windows-11/"><u>Navigate with Speed: Using the Taskbar's Search in Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/obs-vs-wirecast-ultimate-broadcast-showdown-for-2024/"><u>OBS vs Wirecast Ultimate Broadcast Showdown for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/periscope-demystified-features-pricing-and-account-creation-tips-for-2024/"><u>Periscope Demystified Features, Pricing & Account Creation Tips for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revealing-graphic-excellence-our-top-10-design-tool-list-for-2024/"><u>Revealing Graphic Excellence Our Top 10 Design Tool List for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instabeats-intellectual-property-overview/"><u>[New] InstaBeats Intellectual Property Overview</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-sports-viewership-in-the-digital-age/"><u>[New] Mastering Sports Viewership in the Digital Age</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-capture-and-store-videos-effortlessly-with-our-top-list-for-2024/"><u>[Updated] Capture & Store Videos Effortlessly with Our Top List for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-clearing-up-the-darkness-tips-for-non-black-screens-with-obs/"><u>[Updated] In 2024, Clearing Up the Darkness Tips for Non-Black Screens with OBS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-tomorrow-visionary-developments-in-vr/"><u>2024 Approved Pioneering Tomorrow Visionary Developments in VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-screencasting-app-performance-examination/"><u>2024 Approved ScreenCasting App Performance Examination</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-15-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 15 Pro? Find the Best Solution Here</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-seamless-multi-screen-browsing-in-chrome-using-pip/"><u>In 2024, Seamless Multi-Screen Browsing in Chrome Using PIP</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ps5-vs-ps5-slim-which-one-should-you-choose/"><u>PS5 Vs. PS5 Slim - Which One Should You Choose?</u></a></li>
 </ul></div>
 

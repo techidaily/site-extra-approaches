@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfect Upside-Down & Sideways iPhone Images\""
-date: 2024-07-27T22:50:14.049Z
-updated: 2024-07-28T22:50:14.049Z
+date: 2024-11-30T20:19:38.767Z
+updated: 2024-12-05T19:01:52.624Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,11 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
 #### 4\. Tap the 'crop' button
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: imore.com
 
@@ -65,10 +66,11 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
  One tap will rotate your image 90 degrees. One more will rotate it 180, and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: imore.com
 
@@ -122,9 +124,6 @@ Follow @Ollie Mattison
 
  Check [How to Fix Upside Down Videos? >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to rotate photos on iPhone
 
  There are a couple of options available which will successfully reorient your image. You don't even need an additional app, as all the functionality is already built in to your clever little handset. Here's the method step by step:
@@ -159,6 +158,10 @@ Follow @Ollie Mattison
 
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: imore.com
 
 #### 7\. And you're done
@@ -167,9 +170,6 @@ Follow @Ollie Mattison
 
  It really is as simple as that. Unfortunately, Apple saw fit to hide the rotation function within the button used for cropping pictures, so many users overlook this functionality. But now, you don't have to, as you know how to rotate photos on iPhone so that every image is perfect!
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stop taking upside down photos
 
  When iOS 5 brought us the ability to take photos on iPhones with the volume buttons, iPhone users rejoiced. At last, there was an easier way to snap images quickly, and without needing a spare finger to tap the screen. However, with this intervention also came a new problem; upside down photos.
@@ -184,10 +184,11 @@ Follow @Ollie Mattison
 
 #### 2\. Practice holding it the right way up
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: imore.com
 
@@ -201,15 +202,6 @@ Follow @Ollie Mattison
 
  iPhones are wonderful devices for budding photographers of all shapes and sizes. No other smartphone can come close to the capabilities of Apple's iPhone in terms of picture quality, functionality and scope. By getting to know some of the hidden tricks and tools to improve your images, you'll be the envy of every Instagrammer on the planet!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -258,10 +250,6 @@ Follow @Ollie Mattison
 
  One tap will rotate your image 90 degrees. One more will rotate it 180, and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-2.jpg)
 
  Image resource: imore.com
@@ -272,9 +260,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  It really is as simple as that. Unfortunately, Apple saw fit to hide the rotation function within the button used for cropping pictures, so many users overlook this functionality. But now, you don't have to, as you know how to rotate photos on iPhone so that every image is perfect!
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stop taking upside down photos
 
  When iOS 5 brought us the ability to take photos on iPhones with the volume buttons, iPhone users rejoiced. At last, there was an easier way to snap images quickly, and without needing a spare finger to tap the screen. However, with this intervention also came a new problem; upside down photos.
@@ -289,9 +274,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 #### 2\. Practice holding it the right way up
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-3.jpg)
 
  Image resource: imore.com
@@ -306,10 +288,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  iPhones are wonderful devices for budding photographers of all shapes and sizes. No other smartphone can come close to the capabilities of Apple's iPhone in terms of picture quality, functionality and scope. By getting to know some of the hidden tricks and tools to improve your images, you'll be the envy of every Instagrammer on the planet!
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -324,6 +307,10 @@ Follow @Ollie Mattison
  There's nothing more annoying than when your iPhone accelerometer decides a photo should be taken the other way around. You've snapped a fabulous picture of your cat/dog/child, but on your screen, it's sideways and impossible to look at. Turning the phone is no use either, as it just keeps spinning the photo to the wrong orientation. If you're wondering how to rotate photos on iPhone, it's simple; here's how.
 
  Check [How to Fix Upside Down Videos? >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to rotate photos on iPhone
 
@@ -345,6 +332,10 @@ Follow @Ollie Mattison
 
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: imore.com
 
  This button looks like a rectangle with arrows circling it and is found next to 'cancel'.
@@ -357,9 +348,6 @@ Follow @Ollie Mattison
 
  One tap will rotate your image 90 degrees. One more will rotate it 180, and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-2.jpg)
 
  Image resource: imore.com
@@ -369,6 +357,10 @@ Follow @Ollie Mattison
  Once you're completely happy with the rotation of the picture, tap the yellow 'done' button to save your changes.
 
  It really is as simple as that. Unfortunately, Apple saw fit to hide the rotation function within the button used for cropping pictures, so many users overlook this functionality. But now, you don't have to, as you know how to rotate photos on iPhone so that every image is perfect!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop taking upside down photos
 
@@ -398,9 +390,6 @@ Follow @Ollie Mattison
 
  iPhones are wonderful devices for budding photographers of all shapes and sizes. No other smartphone can come close to the capabilities of Apple's iPhone in terms of picture quality, functionality and scope. By getting to know some of the hidden tricks and tools to improve your images, you'll be the envy of every Instagrammer on the planet!
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -431,5 +420,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-complete-guide-navigating-google-podcast-app/"><u>[New] Complete Guide Navigating Google Podcast App</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-echo-chamber-best-online-spots-for-free-skype-music/"><u>[New] Echo Chamber Best Online Spots for Free Skype Music</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-resolving-iphone-xs-facial-recognition-hurdles/"><u>[New] Resolving iPhone X's Facial Recognition Hurdles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-key-methods-to-customize-song-speed-on-spotify/"><u>[Updated] Key Methods to Customize Song Speed on Spotify</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-tactic-combining-gopro-footage-in-seamless-virtual-reality-experience/"><u>[Updated] Proven Tactic Combining GoPro Footage in Seamless Virtual Reality Experience</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-turning-twitter-media-into-interactive-expressive-animated-gifs-for-2024/"><u>[Updated] Turning Twitter Media Into Interactive, Expressive Animated GIFs for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/discover-the-latest-ai-powered-surface-pro-10-and-laptop-6-from-microsoft-tech-news/"><u>Discover the Latest: AI-Powered Surface Pro 10 and Laptop 6 From Microsoft | Tech News</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2000-files-on-mac-complete-guide-by-stellar-guide/"><u>How to Recover Deleted Excel 2000 Files on Mac Complete Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-lenovo-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Lenovo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-x50-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor X50 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/ps-tips-for-perfecting-photo-shades-and-saturation-for-2024/"><u>PS Tips for Perfecting Photo Shades and Saturation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/remove-automatically-suggested-podcasts-from-your-spotify-playlist-for-2024/"><u>Remove Automatically Suggested Podcasts From Your Spotify Playlist for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/walking-deadlines-the-ultimate-selection-of-excellent-zombie-games-for-2024/"><u>Walking Deadlines The Ultimate Selection of Excellent Zombie Games for 2024</u></a></li>
+</ul></div>
 

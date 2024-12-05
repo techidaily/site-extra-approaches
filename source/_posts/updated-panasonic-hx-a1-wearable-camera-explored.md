@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Panasonic HX-A1 Wearable Camera Explored\""
-date: 2024-11-23T22:05:38.853Z
-updated: 2024-11-25T17:43:36.339Z
+date: 2024-12-01T20:15:24.517Z
+updated: 2024-12-05T20:19:13.247Z
 tags: 
   - screen-recording
   - ai video
@@ -32,19 +32,19 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
  With an unconventional cylindrical design, this digital camcorder is ready to make you fall for it. Panasonic has always tried to add versatility to their product and this focus has helped to win the hearts of its fans! HX-A1 Wearable Action Camera, as its name suggests, helps to mount it to any ideal spot. Its elongated torch-like shape helps in mounting it to your helmet, board or any other piece of mountain gear. You can attach it to your bag, hat or backpack or just put it like a headband! The twin mount helps in clicking in dark situations especially where you need an IR flashlight. Its 0 lux night vision mode allows IR flashlight to be mounted in addition to A1\. The camera allows to film in 1080p at 30fps, 720p at 60fps and 480p at 240fps. Available at a very affordable price of $101.95, A1 is certainly compatible to exceed your expectations. Let us unfold aspects of this A1 camera in this post.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design and Usability
 
 ![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specification
 
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 | Waterproof, dustproof, shockproof and freeze proof. No additional housing or case needed to take it underwater as a replacement glass cover for lens is also included. | Not compatible for 4K shooting                                                                         |
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Accessories in the box
 
@@ -109,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features
@@ -141,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -151,10 +155,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -171,24 +171,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-craft-channels-with-flair-unveiling-10-innovative-design-platforms-for-2024/"><u>[New] Craft Channels with Flair Unveiling 10 Innovative Design Platforms for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-free-audio-for-youtube-visionaries/"><u>[New] In 2024, Cutting-Edge Free Audio for YouTube Visionaries</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-quality-edits-the-ultimate-guide-to-pixlr/"><u>[New] Quick, Quality Edits The Ultimate Guide to Pixlr</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-displays-the-finest-screen-options-for-editors-2024/"><u>[Updated] Precision Displays - The Finest Screen Options For Editors, 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-podcasting-prowess-crafting-a-trendsetting-showcase/"><u>2024 Approved Podcasting Prowess Crafting a Trendsetting Showcase</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-list-legal-game-music-sources/"><u>2024 Approved The Ultimate List Legal Game Music Sources</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/action-plan-conquering-error-0x800700e1-in-windows-11-systems/"><u>Action Plan: Conquering Error 0X800700E1 in Windows 11 Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/convert-and-save-webcam-images-in-vlc-for-2024/"><u>Convert and Save Webcam Images in VLC for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/harmonic-phone-chimes-the-step-by-step-to-cut-tamil-alerts/"><u>Harmonic Phone Chimes The Step-by-Step to Cut Tamil Alerts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/ignite-your-networking-join-the-1k-club-on-instagram-regularly/"><u>Ignite Your Networking Join the 1K Club on Instagram Regularly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-hdr-image-processing-a-lightroom-approach/"><u>In 2024, Pro HDR Image Processing A Lightroom Approach</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rotate-iphone-pics-sideways-and-upside-down-made-easy/"><u>In 2024, Rotate iPhone Pics Sideways & Upside Down Made Easy</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-prime-meme-blueprints/"><u>In 2024, Selecting Prime Meme Blueprints</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-action-cameras-for-thrill-seekers-for-2024/"><u>Leading Action Cameras for Thrill Seekers for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/meditative-playlist-top-10-free-tracks-for-serenity-for-2024/"><u>Meditative Playlist Top 10 Free Tracks for Serenity for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/msmpengexe-eating-up-too-much-cpu-windows-11-solved/"><u>MsMpEng.exe Eating up Too Much CPU Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfecting-the-synergy-of-visuals-and-voiceovers-in-videos-for-2024/"><u>Perfecting the Synergy of Visuals and Voiceovers in Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-the-steam-lag-in-windows-11-gaming-environment/"><u>Solutions to the Steam Lag in Windows 11 Gaming Environment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stop-automatic-song-replay-in-apple-music-with-these-easy-steps/"><u>Stop Automatic Song Replay in Apple Music with These Easy Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-transcoding-approaches-to-boost-zoom-videos/"><u>[New] Top Transcoding Approaches to Boost Zoom Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-key-elements-in-constructing-a-podcast-rss-feed/"><u>[Updated] Key Elements in Constructing a Podcast RSS Feed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-image-correction-in-just-5-essential-android-editing-tools/"><u>[Updated] Master Image Correction in Just 5 Essential Android Editing Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-persuasive-films-that-hook-and-hold-audiences/"><u>2024 Approved Persuasive Films That Hook and Hold Audiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-upconversion-from-standard-definition-to-dynamic-range-extraordinaire/"><u>2024 Approved Seamless Upconversion From Standard Definition to Dynamic Range Extraordinaire</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/exclusive-deal-buy-an-alienware-gaming-powerhouse-for-only-1499-equiped-with-rtx-4070-and-intel-i7/"><u>Exclusive Deal: Buy an Alienware Gaming Powerhouse for Only $1,499! Equiped with RTX #4070 and Intel I7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing-for-2024/"><u>Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211676061-the-ultimate-fix-for-google-chromes-cache-miss-error-tips-and-tricks-to-get-you-back-online/"><u>The Ultimate Fix for Google Chrome's Cache Miss Error: Tips & Tricks to Get You Back Online</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-chargetechs-27000mah-power-bank-top-reviews-and-features/"><u>Ultimate Guide to ChargeTech's 27000mAh Power Bank: Top Reviews & Features</u></a></li>
 </ul></div>
 

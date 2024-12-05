@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] SRT File Playback  Windows & Mac Integration\""
-date: 2024-11-01T16:05:42.978Z
-updated: 2024-11-06T02:52:13.223Z
+date: 2024-11-30T16:53:38.126Z
+updated: 2024-12-05T17:39:17.683Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ So, if you too have videos and movies with SRT and looks for ways on **how to op
 
 ![open srt file](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Which Platforms support SRT files?
 
 An array of subtitle formats are available with support to different platforms, tools and devices. Some of the commonly used types include SRT., WebVTT, SSA, TTML, TXT, VTT, and more.
@@ -41,6 +45,10 @@ The table below lists the best suitable subtitle format for different sites, too
 | Windows Media Player                   | SRT                         |
 | Wondershare Filmora Video Editing Tool | SRT                         |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Open SRT Files in Windows 10/11?
 
 Subtitles files are displayed while the video is played using a video player. To open the SRT files on your Windows 10/11 systems, any text editor will be good. Using the editor, you can read as well as edit the subtitles as needed.
@@ -54,32 +62,20 @@ Steps to **open subtitles SRT** files in Windows 10/11
 ![open srt on windows 1](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Select Word or Notepad in the Open with window. You can choose the option- “Always use the selected program to open this type of file” so that all the srt files are opened using this selected program.
 
 ![open srt on windows 2](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Next click on the OK button and then double click on the file that will open in Notepad or WordPad as selected.
 
 ![open srt on windows 3](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-04.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. The SRT file will open in the text editor and you can even edit it if required.
 
@@ -92,10 +88,7 @@ We recently covered some concrete methods in detail of **how to open SRT file on
 ![text edit for mac](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Open the File with Online SRT Viewers \[Mac & Windows\]
@@ -117,10 +110,7 @@ Step3 The tool will render the file and you can easily view it.
 Step4 You can easily navigate between the pages and even zoom in and zoom out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Open the File with Video Editing Software \[Mac & Windows\]
@@ -141,22 +131,23 @@ Mac system. In the Media resource area, import the SRT subtitle files directly.
 
 ![open srt using wondershare filmora 1](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Next, double-click on the selected SRT file or right-click on the timeline and then choose the Advanced Edit option.
 
 ![open srt using wondershare filmora 2](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Now, the software can be used for performing an array of SRT editing functions like editing the time code, changing the subtitles, adding, removing, and merging the subtitle strips, changing the subtitle style, and more.
 
 Step4 Once the subtitle file is edited, right-click and then choose the Export Subtitle File option.
 
 ![open srt using wondershare filmora 3](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -174,19 +165,6 @@ Steps to **open subtitles SRT** files in Windows 10/11
 
 ![open srt on windows 1](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-02.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Select Word or Notepad in the Open with window. You can choose the option- “Always use the selected program to open this type of file” so that all the srt files are opened using this selected program.
 
 ![open srt on windows 2](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-03.jpg)
@@ -196,6 +174,10 @@ Steps to **open subtitles SRT** files in Windows 10/11
 ![open srt on windows 3](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-04.jpg)
 
 1. The SRT file will open in the text editor and you can even edit it if required.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Open SRT Files on Mac
 
@@ -212,13 +194,6 @@ In addition to the desktop programs, there are several online tools available as
 One of the online tools that can be used for opening SRT subtitle files on your Windows, Mac, and other platform is Aspose. Using this program, you can view the SRT document pages as the images from your device. Since the SRT files are opened as images, they are protected from being edited or copied. You can open, navigate, zoom, and preview the original document as an image. The local file, as well as online ones using a URL, can be added to the interface to **read srt file.**
 
 ![open srt using aspose](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Steps to **open SRT file online** using Aspose
 
@@ -251,13 +226,6 @@ Mac system. In the Media resource area, import the SRT subtitle files directly.
 Step2 Next, double-click on the selected SRT file or right-click on the timeline and then choose the Advanced Edit option.
 
 ![open srt using wondershare filmora 2](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Now, the software can be used for performing an array of SRT editing functions like editing the time code, changing the subtitles, adding, removing, and merging the subtitle strips, changing the subtitle style, and more.
 
@@ -293,24 +261,24 @@ The above listed are several ways by which an SRT subtitle file can be opened on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/oosting-income-through-effective-video-marketing/"><u>[New] Boosting Income Through Effective Video Marketing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-get-premium-sound-for-less-with-top-asmr-microphones/"><u>[New] Get Premium Sound for Less with Top ASMR Microphones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-precise-voice-adjustments-for-pubg-success/"><u>[New] Precise Voice Adjustments for PUBG Success</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-samsung-gear-360-replacements-latest-innovations-in-camera-tech/"><u>[New] Samsung Gear 360 Replacements Latest Innovations in Camera Tech</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-instagram-snapshot-of-an-enlightening-episode/"><u>[Updated] 2024 Approved Instagram Snapshot of an Enlightening Episode</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigate-the-world-of-instagram-videos-for-maximum-impact-for-2024/"><u>[Updated] Navigate the World of Instagram Videos for Maximum Impact for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-unleashing-creativity-uploading-movies-from-mmc-to-vimeo-for-2024/"><u>[Updated] Unleashing Creativity Uploading Movies From MMC to Vimeo for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-youtube-full-length-view-control/"><u>2024 Approved Mastering YouTube Full-Length View Control</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-picture-pieces-proposals-radiate-positivity-and-creativity/"><u>2024 Approved Picture Pieces Proposals Radiate Positivity and Creativity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-iphone-photo-and-video-transfers-guide/"><u>2024 Approved Seamless iPhone Photo & Video Transfers Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-rapid-repairs-troubleshooting-stuck-predictive-emojis-on-iphones-and-ipads/"><u>7 Rapid Repairs: Troubleshooting Stuck Predictive Emojis on iPhones & iPads</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-success-optimizing-your-sites-performance/"><u>Cookiebot-Driven Success: Optimizing Your Site's Performance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-how-to-save-photo-from-video-in-windows-10-photos-app/"><u>In 2024, How to Save Photo From Video in Windows 10 Photos App</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mix-mastery-syncing-audio-to-windows-11-videos/"><u>In 2024, Mix Mastery Syncing Audio to Windows 11 Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-srt-to-sub-streamlining-your-video-captions/"><u>In 2024, SRT to SUB Streamlining Your Video Captions</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-8-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 8 to PC | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterful-techniques-for-perfect-time-lapse-videos-on-hero-10-for-2024/"><u>Masterful Techniques for Perfect Time-Lapse Videos on Hero 10 for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-motorola-moto-g04-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Motorola Moto G04</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-here-are-top-5-free-watermark-software-to-help-you-add-watermark-to-your-files-try-any-of-these-easy-to-use-software-to-add-watermark-to-video-files/"><u>Updated Here Are Top 5 Free Watermark Software to Help You Add Watermark to Your Files. Try Any of These Easy to Use Software to Add Watermark to Video Files for Free</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-fast-techniques-to-restructure-your-youtube-sequence/"><u>[New] In 2024, Fast Techniques to Restructure Your YouTube Sequence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-metaverse-vs-multimetaverse-elucidating-the-variances-ultimate-guide/"><u>[New] Metaverse Vs. MultiMetaverse Elucidating the Variances (Ultimate Guide)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snickerscribble-program/"><u>[New] SnickerScribble Program</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tream-your-success-a-step-by-step-guide-to-earning/"><u>[New] Stream Your Success A Step-by-Step Guide to Earning</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-winning-strategies-the-complete-vegas-pro-21-review-for-2024/"><u>[New] Winning Strategies The Complete Vegas Pro '21 Review for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-virtual-worlds-todays-insights-and-tomorrows-trials/"><u>[Updated] Inside Virtual Worlds Today's Insights & Tomorrow's Trials</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-strategies-for-securing-an-original-tiktok-hashtag/"><u>[Updated] Strategies for Securing an Original TikTok Hashtag</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-visual-storytelling-with-vsco/"><u>2024 Approved Mastering Visual Storytelling with VSCO</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-past-edgenuity-stealthy-study-strategies/"><u>2024 Approved Navigate Past Edgenuity Stealthy Study Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-pcs-performance-free-steelseries-engine-tailored-for-windows-11/"><u>Boost Your PC's Performance: Free SteelSeries Engine Tailored for Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-htc-vive-the-pinnacle-of-immersive-3d-playing-experiences/"><u>In 2024, HTC Vive The Pinnacle of Immersive 3D Playing Experiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-curves-transforming-photos-in-ps/"><u>In 2024, Master Curves Transforming Photos in PS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-15-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 15 Plus? How to Fix</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/innovative-approaches-adding-borders-to-your-instagram-content/"><u>Innovative Approaches Adding Borders to Your Instagram Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-gopro-filming-for-2024/"><u>Navigating the World of GoPro Filming for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scriptwriting-secrets-penning-podcast-episodes-that-resonate-for-2024/"><u>Scriptwriting Secrets Penning Podcast Episodes That Resonate for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/spark-imagination-with-the-top-drawing-apps-on-android-devices-for-2024/"><u>Spark Imagination with the Top Drawing Apps on Android Devices for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Poco F5 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

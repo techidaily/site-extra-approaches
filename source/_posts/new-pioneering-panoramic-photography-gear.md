@@ -1,7 +1,7 @@
 ---
 title: "[New] Pioneering Panoramic Photography Gear"
-date: 2024-11-19T23:55:18.427Z
-updated: 2024-11-25T22:17:30.785Z
+date: 2024-11-28T20:42:43.096Z
+updated: 2024-12-05T20:21:57.584Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,15 @@ Here are 5 great 360-degree action cameras, specially chosen for being compact, 
 
 ![360 degree action camera - Nikon Key Mission 360](https://images.wondershare.com/filmora/article-images/360-action-camera-nikon-keymission.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This upcoming camera, made by a prominent camera company, is set to be a big player in the 360 action cam market. With an expected retail price of $499, it will be comparable to other cameras in the market. This two lens camera is meant to take everything you can throw at it, being waterproof to 100 feet, as well as dust, shock, and cold resistant. The camera will shoot in 4K UHD, with other details about still photo quality still to be released. While we won’t know for sure how well Samsung delivers on its promises until the camera is released, expectations are high. Expect this new entry to be a strong competitor in the market, and if you don’t need a 360-degree camera just yet, it may well be worth waiting for this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. [Giroptic 360cam](https://www.giroptic.com/intl/en/)
 
@@ -47,16 +55,12 @@ This pear-shaped camera has three lenses, whose images are combined to form a co
 **Related article:** [Full review for Giroptic >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. [VSN 360](https://vsnmobil.com/products/v-360/)
 
 ![360 degree action camera - VSN 360](https://images.wondershare.com/filmora/article-images/360-action-camera-vsn.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This camera counts in the 360-degree market because horizontally, it takes a full 360-degree image. However, its vertical view is limited to a 60-degree angle. This shortcoming is one of the reasons that many people prefer other cameras for their VR film making. Instead of using multiple lenses, the VSN 360 relies on a single camera and a conical mirror to capture its 360-degree view. Retailing for around $449, this camera is less expensive than some, but more expensive, and tougher, than the 360-cams designed for more mundane uses. Some people criticize its video quality, but then, it was an early entrant in a category that is growing rapidly. Like most others, it uses an app for most camera controls, as well as for its video conferencing capabilities, not the most action packed use, but an interesting one.
 
@@ -64,23 +68,19 @@ This camera counts in the 360-degree market because horizontally, it takes a ful
 
 ![360 degree action camera - Kodak Pixpro SP](https://images.wondershare.com/filmora/article-images/360-action-camera-kodak-pixpro-sp360.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Offered by the well-known Kodak company, this camera uses a single, dome shaped lens to capture a 360-degree view of the world. At $449, this is slightly less expensive than other cameras. Like the Keymission, this camera is built like a tank, resistant to water, shocks, and dust. However, unlike the Keymission, it is not waterproof, so I wouldn’t take it swimming with you. It shoots stills with 8MP resolution, and 2880x2880 video. For many people, the quality of the images shot by the Kodak camera just doesn’t measure up to other 360-degree cameras. Still, as one of the toughest inexpensive models available, consider it if you tend to be hard on your gear.
 
 ## 5\. [BublCam](https://www.bublcam.com/)
 
 ![360 degree action camera - Bublcam](https://images.wondershare.com/filmora/article-images/affordable-360-camera-bublcam.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Retailing for $800, Bublcam is the most expensive camera in this line up, but makes up for it with its high-quality, spherical photos and videos. Bublcam uses 4 lenses to take 14 MP stills and 1080p video, and includes motion activated stabilization features to keep shaky camera work from ruining your videos. The camera is best controlled through the app, available for iOS or Android, but can also be run in a rudimentary fashion using the buttons on the device. As a nice feature, the BublCam has an SD card slot for extra storage.
 
 **Related article:** [Full review for Bublecam >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -89,7 +89,7 @@ If you’re looking for a 360-degree camera, or if you’re thinking about it no
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -107,19 +107,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-5-best-toy-drones/"><u>[New] 5 Best Toy Drones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-srt-to-txt-translation-the-fastest-guide/"><u>[New] Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-excellence-in-dialogue-maker-land/"><u>[Updated] Excellence in Dialogue Maker Land</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-write-a-script-for-a-youtube-video/"><u>[Updated] How to Write a Script for a YouTube Video?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-luxury-sedan-sj4000s-best-kept-secrets-gear-up/"><u>[Updated] Luxury Sedan SJ4000's Best-Kept Secrets Gear Up</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-assemble-media-pieces-in-youtube-sorted-views/"><u>2024 Approved Assemble Media Pieces in YouTube Sorted Views</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-laugh-ledger-premium-free-meme-collections/"><u>2024 Approved Laugh Ledger Premium, FREE Meme Collections</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-progressive-enhancements-in-ai-comparing-openais-gpt-series/"><u>Exploring Progressive Enhancements in AI: Comparing OpenAI's GPT Series</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-headline-economy-utilizing-slug-lines-smartly/"><u>In 2024, Mastering Headline Economy Utilizing Slug Lines Smartly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-snap-fast-moments-iphone-methods-for-blur-effects/"><u>In 2024, Snap Fast Moments IPhone Methods for Blur Effects</u></a></li>
-<li><a href="https://windows11.techidaily.com/internal-naming-systems-a-detailed-approach-to-folders-in-explorer/"><u>Internal Naming Systems: A Detailed Approach to Folders in Explorer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/melodic-memories-in-mobile-formats-for-2024/"><u>Melodic Memories in Mobile Formats for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/successful-strategies-for-fixing-windows-11-setup-issues/"><u>Successful Strategies for Fixing Windows 11 Setup Issues</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/swift-shots-on-iphone-time-lapse-recording-guide-for-2024/"><u>Swift Shots on iPhone Time-Lapse Recording Guide for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-click-attractor-the-title-crafting-kit-for-2024/"><u>[New] Click Attractor The Title Crafting Kit for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-influence-with-masterful-facebook-story-techniques/"><u>[New] Elevate Your Influence with Masterful Facebook Story Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-strategies-for-precise-age-entry-in-tiktok-profiles/"><u>[Updated] 2024 Approved Strategies for Precise Age Entry in TikTok Profiles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-pairings-adding-songs-to-windows-11-videos-with-ease/"><u>[Updated] Perfect Pairings Adding Songs to Windows 11 Videos with Ease</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-your-video-conferencing-experience-with-zoom-and-win10/"><u>2024 Approved Optimize Your Video Conferencing Experience with Zoom & Win10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-nokia-c12-plus-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Nokia C12 Plus for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-muting-background-noise-in-skype-sessions/"><u>In 2024, Muting Background Noise in Skype Sessions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-artistry-on-screen-top-15-stop-motion-marvels/"><u>In 2024, Pioneering Artistry on Screen Top 15 Stop-Motion Marvels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laptoppc-editors-steer-clear-of-inshot-for-2024/"><u>Laptop/PC Editors Steer Clear of Inshot for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-zero-30-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Zero 30 5G</u></a></li>
 </ul></div>
 

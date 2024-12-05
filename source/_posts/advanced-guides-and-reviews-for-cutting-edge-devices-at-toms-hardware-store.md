@@ -1,7 +1,7 @@
 ---
 title: Advanced Guides & Reviews for Cutting-Edge Devices at Tom's Hardware Store
-date: 2024-11-15T16:30:14.809Z
-updated: 2024-11-16T16:32:29.832Z
+date: 2024-12-03T17:28:46.982Z
+updated: 2024-12-05T18:19:40.012Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,29 +66,22 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-leading-edge-bots-in-social-chats-for-2024/"><u>[Updated] Leading Edge Bots in Social Chats for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-sound-on-sony-ps-console-games/"><u>[Updated] Mastering Sound on Sony PS Console Games</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-real-time-hardware-for-vr/"><u>[Updated] Real-Time Hardware for VR</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-coding-warfare-comparing-the-superiority-of-av1-and-vp9/"><u>2024 Approved Coding Warfare Comparing the Superiority of AV1 and VP9</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-pick-extensive-digital-vaults/"><u>2024 Approved Prime Pick Extensive Digital Vaults</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secret-techniques-in-ps-for-first-timers/"><u>2024 Approved Secret Techniques in PS for First-Timers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guiding-ai-truthfulness-navigating-through-essential-prompt-cues/"><u>Guiding AI Truthfulness: Navigating Through Essential Prompt Cues</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hps-deskjet-ink-advantage-3050-driver-software-download-fresh-update-for-windows-systems/"><u>HP's Deskjet Ink Advantage 3050 Driver Software Download: Fresh Update for Windows Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-engaging-sims-4-experience-through-recording/"><u>In 2024, Engaging Sims 4 Experience Through Recording</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-idevice-videography-tools/"><u>In 2024, Leading iDevice Videography Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-visual-storytelling-key-shot-techniques-for-beginners/"><u>In 2024, Mastering Visual Storytelling Key Shot Techniques for Beginners</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seeking-peak-playback-performance-vlc-or-mx-showdown/"><u>In 2024, Seeking Peak Playback Performance VLC or MX Showdown</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-top-10-innovative-tweets-de-followers-and-cleanup-apps/"><u>In 2024, Top 10 Innovative Tweets De-Followers & Cleanup Apps</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/resolving-the-0xc00d5212-media-playback-issue-on-windows-11-a-step-by-step-guide/"><u>Resolving the 0xC00D5212 Media Playback Issue on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionary-collages-made-simple-by-picshot-for-2024/"><u>Revolutionary Collages Made Simple by Picshot for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-gpt-family-unraveled-how-do-gpt-4-and-its-siblings-differ/"><u>The GPT Family Unraveled – How Do GPT-4 and Its Siblings Differ?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ultimate-yt-shorts-companion-for-2024/"><u>Your Ultimate YT Shorts Companion for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-permanent-name-shift-on-google-meet-devices/"><u>[New] 2024 Approved Permanent Name Shift on Google Meet Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instant-image-clarity-picart-background-cleansing-hacks/"><u>[New] Instant Image Clarity PicArt Background Cleansing Hacks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-apex-racecraft-games-5-top-titles/"><u>[Updated] Apex Racecraft Games 5 Top Titles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-intensify-your-videoleap-images-through-precision-zooming/"><u>[Updated] Intensify Your Videoleap Images Through Precision Zooming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-raspberry-router-image-maker/"><u>[Updated] Raspberry Router Image Maker</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reviving-retro-shots-step-by-step-for-image-conversion-and-curation/"><u>[Updated] Reviving Retro Shots Step-by-Step for Image Conversion & Curation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-money-no-problem-master-fcp-legally/"><u>2024 Approved No Money, No Problem Master FCP Legally</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-price-tag-shooting-your-next-music-video/"><u>2024 Approved Price Tag Shooting Your Next Music Video</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-react-and-relate-harness-the-power-of-alternate-perspectives-for-compelling-youtube-vids-2-pov-method/"><u>2024 Approved React and Relate - Harness the Power of Alternate Perspectives for Compelling YouTube Vids (2 POV Method)</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-spark-10-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Spark 10 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-google-pixel-7a-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Google Pixel 7a Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-15-pro-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 15 Pro to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-performance-with-right-fpv-propeller-choices/"><u>In 2024, Maximizing Performance with Right FPV Propeller Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-starting-with-the-basics-of-av1-codec/"><u>In 2024, Starting with the Basics of AV1 Codec</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mirillis-help-desk-frequently-asked-questions-about-our-product-line/"><u>Mirilli's Help Desk: Frequently Asked Questions About Our Product Line</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-comprehensible-guide-downloading-safe-free-vlc-on-macos/"><u>The Comprehensible Guide Downloading Safe, Free VLC on macOS</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

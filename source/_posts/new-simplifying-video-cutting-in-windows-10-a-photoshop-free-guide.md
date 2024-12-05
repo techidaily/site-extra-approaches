@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplifying Video Cutting in Windows 10  A Photoshop-Free Guide\""
-date: 2024-11-12T16:23:25.001Z
-updated: 2024-11-16T16:24:30.072Z
+date: 2024-11-29T16:39:17.670Z
+updated: 2024-12-05T16:52:01.372Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 * [**Part1: How to trim video in Windows 10 Photos**](#part1)
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to trim video in Windows 10 Photos
 
 When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
@@ -49,14 +53,11 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
-**Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 ## Part 2: How to trim video in Windows 10 with VLC
 
@@ -77,16 +78,7 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -96,25 +88,13 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -132,24 +112,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-direct-live-broadcasting-obs-to-instagram-for-2024/"><u>[New] Direct Live Broadcasting OBS to Instagram for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-maximizing-video-impact-with-zoom-in-tiktok/"><u>[New] Maximizing Video Impact with Zoom in TikTok</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-parrots-drone-redesign-advanced-edition-review/"><u>[New] Parrot's Drone Redesign - Advanced Edition Review</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-the-art-of-using-telegram-web/"><u>[Updated] 2024 Approved Mastering the Art of Using Telegram Web</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-the-charge-smart-transcription-in-professional-slides/"><u>[Updated] Leading the Charge Smart Transcription in Professional Slides</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-optimize-for-popularity-top-youtube-seo-devices-unveiled/"><u>[Updated] Optimize for Popularity Top YouTube SEO Devices Unveiled</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-craft-viral-instagram-moments-by-incorporating-tiktok-wisdom/"><u>2024 Approved Craft Viral Instagram Moments by Incorporating TikTok Wisdom</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-love-in-song-ultimate-listening-guide-to-proposals/"><u>2024 Approved Love in Song Ultimate Listening Guide to Proposals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-more-queasiness-in-vr-worlds/"><u>2024 Approved No More Queasiness in VR Worlds</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-paving-the-way-for-profitable-sponsorships-with-online-influencers/"><u>2024 Approved Paving the Way for Profitable Sponsorships with Online Influencers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-personalize-your-prayers-with-scripture-inspired-tunes-guide/"><u>2024 Approved Personalize Your Prayers with Scripture-Inspired Tunes Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-practical-guide-to-resolving-steam-setup-problems-win11-edition/"><u>A Practical Guide to Resolving Steam Setup Problems, Win11 Edition</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/discover-the-power-of-vue-argon-a-comprehensive-zero-cost-ui-framework-merging-vuejs-with-bootstrap/"><u>Discover the Power of Vue Argon: A Comprehensive, Zero-Cost UI Framework Merging Vue.js with Bootstrap</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-se-2022-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-the-sound-back-in-pc-warzone-games-expert-fixes-and-advice/"><u>How to Get the Sound Back in PC Warzone Games - Expert Fixes & Advice</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-virtual-space-insights-into-vr-cinema/"><u>In 2024, Mastering Virtual Space Insights Into VR Cinema</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A23 5G Device</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-why-does-my-photo-booth-videos-keep-freezing/"><u>In 2024, Why Does My Photo Booth Videos Keep Freezing?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ymu719-used-in-yamahas-own-surround-master-av-receiver-models-it-differs-from-the-yac513-by-adding-dolby-digital-live-encoding-hardware-and-an-extra-digital29/"><u>YMU719 - Used in Yamaha's Own Surround Master AV Receiver Models. It Differs From the YAC513 by Adding Dolby Digital Live Encoding Hardware and an Extra Digital Audio Input Connector (S/PDIF)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-exclusive-review-top-6-screen-recorders-for-mac/"><u>[New] In 2024, Exclusive Review Top 6 Screen Recorders for Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-complexities-of-3d-lut-filters-in-adobes-photosophatic-suite/"><u>[New] Navigating the Complexities of 3D LUT Filters in Adobe's PHOTOSOPHATIC Suite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>[Updated] Launchpad Logic The Complete Framework for Founders of a Reviews Channel</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-video-tweaks-integrating-story-remix-into-windows-10-photos/"><u>[Updated] Seamless Video Tweaks Integrating Story Remix Into Windows 10 Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sparkle-with-style-animating-text-in-your-insta-stories/"><u>[Updated] Sparkle with Style Animating Text in Your Insta Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-photos-master-the-art-of-adding-motion-blur-effects/"><u>2024 Approved Pro Photos Master the Art of Adding Motion Blur Effects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevating-roi-with-strategic-facebook-animation-ads-for-2024/"><u>Elevating ROI with Strategic Facebook Animation Ads for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-tips-and-tricks-for-addressing-the-top-twelve-iphone-12-concerns/"><u>Essential Tips & Tricks for Addressing the Top Twelve iPhone 12 Concerns</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1723262345446-gear-up-for-the-epic-showdown-of-minds-vs-machines-in-202vearl-world-server-championship/"><u>Gear Up for the Epic Showdown of Minds vs Machines in 202Vearl World Server Championship</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-asus-rog-phone-7-ultimate-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Asus ROG Phone 7 Ultimate FRP Locks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-sony-xperia-5-v-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Sony Xperia 5 V IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-of-new-google-streamer-device-exploring-news-price-forecasts-arrival-dates-and-hardware-specs/"><u>Unlocking the Secrets of New Google Streamer Device - Exploring News, Price Forecasts, Arrival Dates & Hardware Specs</u></a></li>
 </ul></div>
 

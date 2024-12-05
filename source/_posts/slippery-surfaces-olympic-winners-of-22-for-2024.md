@@ -1,7 +1,7 @@
 ---
 title: "\"Slippery Surfaces  Olympic Winners of '22 for 2024\""
-date: 2024-11-19T16:54:08.456Z
-updated: 2024-11-25T17:25:52.571Z
+date: 2024-12-03T19:36:49.487Z
+updated: 2024-12-05T17:16:04.395Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
@@ -37,23 +41,19 @@ Canada’s Steven Dubois wins the silver medal.
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
@@ -69,16 +69,12 @@ The last leg of competition among skaters before reaching the finishing line at 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -93,6 +89,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -135,22 +135,24 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-subtitle-enhancement-essential-online-tools-explored/"><u>[New] Mastering Video Subtitle Enhancement Essential Online Tools Explored</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-total-clarification-googles-podcast-application-simplified-for-2024/"><u>[New] Total Clarification Google's Podcast Application Simplified for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-must-see-vr-platforms-and-places/"><u>[Updated] Must-See VR Platforms and Places</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-post-a-highlight-from-the-latest-audio-show/"><u>[Updated] Post a Highlight From the Latest Audio Show</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-srt-to-sub-guide-practical-conversion-methods/"><u>[Updated] SRT to SUB Guide Practical Conversion Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-insider-guide-to-gopro-wizardry/"><u>2024 Approved Insider Guide to GoPro Wizardry</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-collage-assembly-tips-for-instant-sharing/"><u>2024 Approved Quick Collage Assembly Tips for Instant Sharing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/erfolgreiche-wiederherstellung-von-festplatten-image-dateien-unter-windows-11-erklart/"><u>Erfolgreiche Wiederherstellung Von Festplatten-Image-Dateien Unter Windows 11 Erklärt</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-california-drivers-can-securely-store-licenses-in-apple-and-google-wallets-step-by-step-guide/"><u>How California Drivers Can Securely Store Licenses in Apple and Google Wallets - Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-doom-eternal-from-suddenly-crashing/"><u>How to Prevent Doom Eternal From Suddenly Crashing?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-poco-m6-pro-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Poco M6 Pro 5G FRP Locks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone X</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sony-s6500-blu-ray-reader-an-updated-analysis/"><u>In 2024, Sony S6500 Blu-Ray Reader An Updated Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/narrative-techniques-for-impactful-documentaries-for-2024/"><u>Narrative Techniques for Impactful Documentaries for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-lg-smarttv-24lh4830-top-budget-pick-for-immersive-and-dependable-screen-time/"><u>The LG ˈsmaRtTV 24LH4830: Top Budget Pick for Immersive and Dependable Screen Time</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-childrens-tablets-parents-swear-by-expert-review-by-zdnet/"><u>Top-Rated Children's Tablets Parents Swear By - Expert Review by ZDNet</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>Updated An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-notable-industry-players-driving-vr-growth/"><u>[New] Notable Industry Players Driving VR Growth</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-6-tools-to-remove-signature-backgrounds-effortlessly/"><u>[New] Prime 6 Tools to Remove Signature Backgrounds Effortlessly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-slow-motion-mastery-in-phantom-cameras/"><u>[New] Step-by-Step Slow Motion Mastery in Phantom Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-the-most-effective-7-artwork-to-nft-services/"><u>[Updated] A Step-by-Step Guide - The Most Effective 7 Artwork-to-NFT Services</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-revolutionizing-reality-top-vr-peripherals/"><u>[Updated] In 2024, Revolutionizing Reality Top VR Peripherals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-aging-strategy-edit-and-confirm-on-tiktok/"><u>[Updated] Optimal Aging Strategy Edit and Confirm On TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-broadcast-essentials-for-macos-users-on-mixer/"><u>2024 Approved Live Broadcast Essentials for macOS Users on Mixer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-videographic-success-stories-for-client-praise/"><u>2024 Approved Mastering Videographic Success Stories for Client Praise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/celebrating-crealitys-10th-anniversary-with-the-new-vibrant-colored-3d-printer/"><u>Celebrating Creality's 10Th Anniversary with the New Vibrant-Colored 3D Printer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-friendly-computing-with-new-amazon-sustainability-tool-tracking-carbon-footprint-in-the-cloud/"><u>Eco-Friendly Computing with New Amazon Sustainability Tool Tracking Carbon Footprint in the Cloud</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pixelated-projections-immersive-filmscape/"><u>In 2024, Pixelated Projections Immersive Filmscape</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-side-by-side-hero4-vs-hero5-analysis/"><u>In 2024, Side by Side Hero4 vs Hero5 Analysis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-trailblaze-your-way-to-success-insights-on-youtube-metrics-with-social-blade/"><u>In 2024, Trailblaze Your Way to Success Insights on YouTube Metrics with Social Blade</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/maximize-your-seo-impact-with-alternative-solutions-to-ubersuggest-explore-the-powersuite-of-options/"><u>Maximize Your SEO Impact with Alternative Solutions to Ubersuggest | Explore the PowerSuite of Options</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro/"><u>New 2024 Approved How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prolific-pose-pattern-packages-for-2024/"><u>Prolific Pose Pattern Packages for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-inverse-photo-journey-through-facebooks-vast-web-for-2024/"><u>The Inverse Photo Journey Through Facebook’s Vast Web for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-confused-about-which-gopro-should-you-use-this-article-introduces-and-provides-a-detailed-overview-of-the-best-gopro-for-youtubers-you/"><u>Updated 2024 Approved Confused About Which GoPro Should You Use? This Article Introduces and Provides a Detailed Overview of the Best GoPro for YouTubers You Can Find in the Market for Vlogging</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-you-shouldnt-overlook-the-advantages-of-switching-to-the-new-iphone-15-insights/"><u>Why You Shouldn't Overlook the Advantages of Switching to the New iPhone 15 - Insights</u></a></li>
 </ul></div>
 

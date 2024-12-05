@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Snowy Standouts From Winter 2022 Olympics"
-date: 2024-11-24T16:59:43.019Z
-updated: 2024-11-26T00:15:56.775Z
+date: 2024-12-02T20:02:12.245Z
+updated: 2024-12-05T20:44:54.763Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Nathan Chen Breaks World Record
 
 Nathan Chen of the United States set a world-record score in men's figure skating short program held at Beijing Olympics. Chen scored 113.97 at Capital Indoor Stadium in Beijing. Four years after his dreams were shattered, Chen has not only come back stronger in his performance but managed to break the world record.
@@ -39,6 +43,10 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-breaks-world-record.jpg)
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
@@ -56,21 +64,17 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Van der Poel Breaks the World Record
 
 Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year-old Swede started strongly and crossed the finish line in 12 minutes 30.74 seconds to set the world record. His victory also made Sweden taste an Olympic medal after 1988\. The victory also made him the tenth man to win both the 10,000 races and 5,000 races in the same event. It is also the largest Olympic victory as he triumphed the record set by Johan Olav Kloss in 1994 by 18.70 seconds.
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
@@ -78,14 +82,10 @@ Yan Wengang becomes the first medalist from China in a sliding sport. In a four-
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
@@ -96,6 +96,10 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
 We are all aware of the tensions between Ukraine and Russia are at their peak and there are many experts who believe the countries are on the verge of declaring war. Even though The Winter Olympics should have ideally been an apolitical event, Ukrainian skeleton athlete Vladyslav Heraskevych flashed a sign that read “No War in Ukraine” to spark a political controversy.
@@ -104,6 +108,10 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. American Favorite Out of the Tournament
 
 US skater Vincent Zhou has tested positive for coronavirus and therefore, he is out of the Winter Olympics. Naturally, Zhou was in tears and extremely emotional as he was a top medal contender. He did take part in the team free skate event but he struggle to perform at his best even though the US team managed to win silver at the event.
@@ -111,24 +119,16 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
 
 Doping scandals have become a part of the Olympics and this year is no different. According to International Testing Agency, Russian skater Kamila Valieva failed the doping test. On further examination, she tested positive for a performance-enhancing banned substance. She was told that she could not train, compete and participate during the Olympic Winter Games.
 
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
@@ -141,17 +141,18 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-photopea-guide-to-clean-image-canvases/"><u>[New] Photopea Guide to Clean Image Canvases</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-solo-podcast-landscape-successfully/"><u>[Updated] Navigating the Solo Podcast Landscape Successfully</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premier-editing-software-for-mobile-app-creation/"><u>[Updated] Premier Editing Software for Mobile App Creation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sharpen-your-skills-with-these-essential-pixlr-tips/"><u>[Updated] Sharpen Your Skills with These Essential Pixlr Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pricing-your-way-to-higher-youtube-traffic/"><u>2024 Approved Pricing Your Way to Higher YouTube Traffic</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-successful-messaging-using-mozilla-thunderbird/"><u>Comprehensive Strategies for Successful Messaging Using Mozilla Thunderbird</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/fresh-look-at-sonys-ultra-hd-player-s3700-for-2024/"><u>Fresh Look at Sony's Ultra HD PLAYER S3700 for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-xiaomi-14-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Xiaomi 14 Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/instantaneous-windows-photo-explorer/"><u>Instantaneous Windows Photo Explorer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simplified-method-getting-rid-of-your-pin-lock-in-windows-11/"><u>Simplified Method: Getting Rid of Your PIN Lock in Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-transformation-navigating-the-meta-ai-terrain/"><u>Social Media Transformation: Navigating the Meta AI Terrain</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-how-to-repair-your-ps4-microphone-issues-quickly/"><u>Ultimate Guide: How to Repair Your PS4 Microphone Issues Quickly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premiere-live-concert-streams/"><u>[New] Premiere Live Concert Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-what-is-the-best-frame-rate-for-slow-motion-video/"><u>[New] What Is The Best Frame Rate For Slow Motion Video?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-discover-the-best-practices-to-master-snapchats-video-timeline-for-2024/"><u>[Updated] Discover the Best Practices to Master Snapchat's Video Timeline for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-scan-the-market-identifying-the-top-9-free-mp3-grabbers-for-android-for-2024/"><u>[Updated] Scan the Market Identifying the Top 9 Free MP3 Grabbers for Android for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-imovie-cropping-query-the-hidden-logic-behind-it/"><u>2024 Approved IMovie Cropping Query The Hidden Logic Behind It</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/accessible-steps-to-proficiently-watch-facebook-live-feeds/"><u>Accessible Steps to Proficiently Watch Facebook Live Feeds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-default-silence-camera-activation-in-win11/"><u>Breaking the Default Silence: Camera Activation in Win11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mirthful-melodies-smart-picks-for-funny-phone-tones/"><u>In 2024, Mirthful Melodies Smart Picks for Funny Phone Tones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picsart-app-insights-comprehensive-review-and-walkthrough-for-2024/"><u>PicsArt App Insights Comprehensive Review and Walkthrough for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-recruiting-gems-amp-up-engagement-for-2024/"><u>Top 10 Recruiting Gems Amp Up Engagement for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-sony-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Sony</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/water-damage-no-more-mastering-the-art-of-drying-a-soaked-iphone-or-ipod/"><u>Water Damage No More: Mastering the Art of Drying a Soaked iPhone or iPod</u></a></li>
 </ul></div>
 

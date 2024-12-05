@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Slippery Surfaces  Olympic Winners of '22\""
-date: 2024-11-21T16:04:51.977Z
-updated: 2024-11-25T17:16:32.541Z
+date: 2024-11-28T16:38:58.765Z
+updated: 2024-12-05T21:10:25.043Z
 tags: 
   - screen-recording
   - ai video
@@ -22,15 +22,7 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
@@ -52,13 +44,13 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
@@ -68,12 +60,16 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -89,6 +85,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -109,7 +109,7 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -135,21 +135,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-linux-screenshot-solutions-the-ultimate-guide/"><u>[New] 2024 Approved Linux Screenshot Solutions The Ultimate Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ssential-imovie-techniques-to-upgrade-your-youtube-content/"><u>[New] Essential iMovie Techniques to Upgrade Your YouTube Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-photo-editing-seamless-integration-of-timestamps/"><u>[New] Master Photo Editing Seamless Integration of Timestamps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-toward-unauthorized-access-a-c-span-journey/"><u>[New] Navigating Toward Unauthorized Access A C-Span Journey</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-incremental-volume-decrease-with-lumafusion/"><u>[Updated] Mastering the Art of Incremental Volume Decrease with Lumafusion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-max-power-reimagined-selecting-mac-and-wins-best-srt-converters/"><u>[Updated] Max Power Reimagined Selecting Mac & Win's Best SRT Converters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-smart-strategies-showcase-ranking-best-trivia-video-streams/"><u>[Updated] Smart Strategies Showcase Ranking Best Trivia Video Streams</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-professionals-choice-top-10-camera-gimbals-compared-iphone-android-dslr/"><u>2024 Approved Professional's Choice Top 10 Camera Gimbals Compared - iPhone, Android, DSLR</u></a></li>
-<li><a href="https://win-blog.techidaily.com/convertissez-un-fichier-rw2-en-jpeg-gratuitement-sur-linternet-groupe-mouvavi/"><u>Convertissez Un Fichier RW2 en JPEG Gratuitement Sur L'Internet - Groupe Mouvavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/direct-links-to-download-compatible-thunderbolt-drivers-for-windows-machines/"><u>Direct Links to Download Compatible Thunderbolt Drivers for Windows Machines</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/fixing-linuxacademy-downloads-on-mac-and-windows-step-by-step-troubleshooting-guide/"><u>Fixing Linuxacademy Downloads on Mac & Windows: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-atikmpagsys-related-video-playback-issues-in-windows-10-solutions-included/"><u>How to Fix Atikmpag.sys-Related Video Playback Issues in Windows 10 - Solutions Included</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s Plus To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-lengthy-iphone-photo-captures/"><u>In 2024, Mastering Lengthy iPhone Photo Captures</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-repairing-package-failures-in-windo/"><u>Mastering the Art of Repairing Package Failures in Windo</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pro-chromebook-zoom-usage-techniques-for-2024/"><u>Pro Chromebook Zoom Usage Techniques for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-top-10-christian-melodies-download-and-personalize-guide/"><u>[Updated] 2024 Approved Top 10 Christian Melodies Download & Personalize Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-exclusive-review-top-10-budget-friendly-video-meetup-apps-for-companies-and-schools-for-2024/"><u>[Updated] Exclusive Review Top 10 Budget-Friendly Video Meetup Apps for Companies & Schools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-the-art-of-photo-display-with-best-frames/"><u>[Updated] Master the Art of Photo Display with Best Frames</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-slick-shots-from-yesteryear-mastering-vhs-hacks-in-modern-edits/"><u>[Updated] Slick Shots From Yesteryear Mastering VHS Hacks in Modern Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lighten-up-the-internet-craft-memes-with-kapwing/"><u>2024 Approved Lighten Up the Internet Craft Memes With Kapwing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lightweight-realities-googles-cardboard-and-samsung-gear-vr/"><u>2024 Approved Lightweight Realities Google’s Cardboard and Samsung Gear VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-video-editing-turn-your-avis-into-stylish-shareable-gifs-with-filmora/"><u>2024 Approved Master Video Editing Turn Your AVIs Into Stylish, Shareable GIFs with Filmora</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-record-and-save-every-sound-on-pc-exclusive-x-recorder/"><u>2024 Approved Record & Save Every Sound on PC - Exclusive X-Recorder</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-how-to-catch-every-thrilling-moment-in-cricket/"><u>2024 Approved Step-by-Step Guide How to Catch Every Thrilling Moment in Cricket</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-ace-2v-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From OnePlus Ace 2V to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-nikon-j5-setting-new-standards-in-high-resolution-video-production/"><u>In 2024, Nikon J5 Setting New Standards in High-Resolution Video Production</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-overcoming-iphone-lens-focus-discrepancies/"><u>In 2024, Overcoming iPhone Lens Focus Discrepancies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/open-source-tranquil-harmony-for-2024/"><u>Open Source Tranquil Harmony for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-locking-down-your-mac-with-disk-encryption-techniques-and-recovery-methods/"><u>Step-by-Step Guide: Locking Down Your Mac with Disk Encryption Techniques & Recovery Methods</u></a></li>
 </ul></div>
 

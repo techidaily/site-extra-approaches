@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Photo Perfection  Implement These 10 Composition Tenets\""
-date: 2024-11-22T23:19:17.596Z
-updated: 2024-11-25T16:52:50.818Z
+date: 2024-11-30T20:17:51.665Z
+updated: 2024-12-05T17:57:47.148Z
 tags: 
   - screen-recording
   - ai video
@@ -28,11 +28,19 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
  Capturing photographs with an iPhone have always been a favorite hobby of community at large. Well, who wouldn’t want to make use of its high quality camera and powerful functionalities to capture the most alluring view! Nevertheless, most of the people fail to take better photos since they don’t know some key photography rules. If you are one of those, all you need to have is little more knowledge on photography composition rules. In today’s post, we have collated 10 golden photography rules that will empower you to steal the view perfectly with your iPhone. So let’s explore and make your photos even more stunning.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Rule of Thirds
 
  The Rule of Thirds consists of a set of guidelines to assist a photographer correctly position the subject in a particular scene. It is meant to draw the attention of the viewer directly towards the subject. According to this rule, the picture is divided into nine equal grids that break the entire image with two vertical and two horizontal lines into vertical and horizontal thirds. As per the Rule of Thirds, the subject should be placed at the intersecting points of the grids.
 
 ![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Leading Lines
 
@@ -52,11 +60,23 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Diagonals
 
  Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
 
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shape
 
@@ -65,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Leave Empty Space
@@ -75,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Direction of Subject
@@ -84,27 +104,11 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fill Your Frame
 
  Making your subject stand out against the entire frame in a photograph creates more impact. You can easily obtain this goal with your iPhone by covering the entire frame with your subject. According to this amazing photography composition technique, all you have to do is move your iPhone closer to the subject and nullify the appearance of the surroundings to take a close shot. Like this, you are able to capture the intricate detailing of a leaf with its vivid colors and texture, the detailing and motif on a wall art and much more.
 
 ![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Break the Rules
 
@@ -113,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclsion
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
  Images come from the Internet
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -143,16 +143,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-boosting-views-essential-hashtags-for-trending-shorts/"><u>[New] 2024 Approved Boosting Views Essential Hashtags for Trending Shorts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-deciphering-androids-lightroom-capabilities/"><u>[New] 2024 Approved Deciphering Android's Lightroom Capabilities</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-living-narratives-interactive-vr-storytelling/"><u>[New] Living Narratives Interactive VR Storytelling</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-superior-quality-recordings-the-1-to-18-camera-list/"><u>[New] Superior Quality Recordings - The #1 to #18 Camera List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-no-cost-audio-treasure-trove-for-video-endings/"><u>[Updated] No-Cost Audio Treasure Trove for Video Endings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-practices-for-streaming-live-cricket-events/"><u>2024 Approved Prime Practices for Streaming Live Cricket Events</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/integrating-background-footage-for-enhanced-narratives-for-2024/"><u>Integrating Background Footage for Enhanced Narratives for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/potion-powered-pronunciation-can-voice-changer-apps-be-real-magic-search-for-other-ways-for-2024/"><u>Potion-Powered Pronunciation Can Voice Changer Apps Be Real Magic? Search for Other Ways for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/softened-screen-debut-for-2024/"><u>Softened Screen Debut for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-producing-polished-professional-looking-videos/"><u>Updated 2024 Approved The Ultimate Guide to Producing Polished, Professional-Looking Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-one-off-to-firm-follower-an-ethical-approach-for-2024/"><u>[New] From One-Off to Firm Follower An Ethical Approach for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-masterful-persona-design-on-tiktok-the-ultimate-how-to/"><u>[Updated] In 2024, Masterful Persona Design on TikTok - The Ultimate How To</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-creating-a-peak-vr-environment/"><u>[Updated] Step-by-Step Guide to Creating a Peak VR Environment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-essence-of-a-memorable-video-conclusion-in-vimeo-for-2024/"><u>[Updated] The Essence of a Memorable Video Conclusion in Vimeo for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>2024 Approved Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-disableremove-youtube-shorts-permanently2-for-2024/"><u>How to Disable/Remove YouTube Shorts Permanently?2 For 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-macs-top-5-mkv-decoder-software/"><u>In 2024, Mac's Top 5 MKV Decoder Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pull-off-professional-video-edits-with-ken-burns-effect/"><u>In 2024, Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-naming-solutions-leading-10-ai-name-generators/"><u>In 2024, Smart Naming Solutions Leading 10 AI Name Generators</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/instant-snapback-tips/"><u>Instant Snapback Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/metaverse-meets-omniverse-a-comparative-guide-for-2024/"><u>Metaverse Meets Omniverse A Comparative Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-level-gopro-tricks-and-insights-for-2024/"><u>Pro-Level GoPro Tricks and Insights for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-laptops-silent-mic-comprehensive-solutions-for-common-problems/"><u>Revive Your Laptop's Silent Mic: Comprehensive Solutions for Common Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-major-hurdles-with-iphone-12-and-expert-troubleshooting-tips/"><u>The Major Hurdles with iPhone 12 & Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-benefits-of-synology-rt2600ac-exceptional-wi-fi-range-and-robust-parental-control-mechanisms-for-secure-home-networking/"><u>Unveiling the Benefits of Synology RT2600ac – Exceptional Wi-Fi Range and Robust Parental Control Mechanisms for Secure Home Networking</u></a></li>
 </ul></div>
 
