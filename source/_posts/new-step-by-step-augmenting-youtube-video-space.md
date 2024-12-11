@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Augmenting YouTube Video Space\""
-date: 2024-12-04T17:34:04.155Z
-updated: 2024-12-05T16:37:22.695Z
+date: 2024-12-08T19:02:36.664Z
+updated: 2024-12-11T16:51:53.106Z
 tags: 
   - screen-recording
   - ai video
@@ -35,7 +35,7 @@ Step3Go to Zoom option and click on “+” to zoom the browser window and there
 ![browser zoom youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Play the video in theatre mode for a better zooming result. Alternatively, you can press Ctrl and “+” keys together to zoom in by percentage.
@@ -78,19 +78,11 @@ Step2From the top, click on Create button and select Upload Videos. Add the down
 
 ![youtube built in editor zoom](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3After uploading, click on the Video and select Editor option from the left menu.
 
 Step4You will find Zoom in and Zoom out icon below the video preview. Here, zoom in means the timeline gets zoomed so that you can check out the video frame by frame to find out all the details in any portion of the video.
 
 ![zoom in out youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -104,23 +96,23 @@ Step2Drag and drop the target YouTube video on Filmora into Project Media folder
 
 ![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
 ![drag video file into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4From Crop window, go to Pan & Zoom section. Place the rectangular box on that portion of the video which you want to zoom in. Mark the start and end of the video for pan and zoom effect. Play the video to watch how the effect unfolds. Finally, click on OK button.
 
 ![go to pan zoom section](https://images.wondershare.com/filmora/guide/crop-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you want, you can export the edited video in any desired file format directly from [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 3\. Use YouTube Built-in Editor
 
@@ -133,7 +125,7 @@ Step2From the top, click on Create button and select Upload Videos. Add the down
 ![youtube built in editor zoom](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3After uploading, click on the Video and select Editor option from the left menu.
@@ -141,6 +133,14 @@ Step3After uploading, click on the Video and select Editor option from the left 
 Step4You will find Zoom in and Zoom out icon below the video preview. Here, zoom in means the timeline gets zoomed so that you can check out the video frame by frame to find out all the details in any portion of the video.
 
 ![zoom in out youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -170,24 +170,24 @@ There are several ways you can zoom into YouTube videos to check out the desired
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-building-connections-through-collaborative-playlists/"><u>[New] In 2024, Building Connections Through Collaborative Playlists</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pictorial-mosaic-construction-with-digital-photography/"><u>[New] Pictorial Mosaic Construction with Digital Photography</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-players-guide-best-of-terraria-mods/"><u>[Updated] 2024 Approved Ultimate Player's Guide Best of Terraria Mods</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-essential-tips-for-a-novice-using-facebook-analytics/"><u>[Updated] Essential Tips for a Novice Using Facebook Analytics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-metagaming-mastery-top-10-friendly-games/"><u>2024 Approved Metagaming Mastery Top 10 Friendly Games</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-speaking-shifts-a-guide-to-free-fire-voices/"><u>2024 Approved Speaking Shifts A Guide to Free Fire Voices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-insert-a-linked-text-in-your-tiktok-bio/"><u>2024 Approved Step-by-Step Guide Insert a Linked Text in Your TikTok Bio</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/clearing-crosscheck-print-failures/"><u>Clearing Crosscheck Print Failures</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-persistent-crashes-of-fuser-software-on-your-windows-computer/"><u>Fixing the Persistent Crashes of Fuser Software on Your Windows Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo Find X7 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-scalable-and-stylish-type-in-ae-with-top-choices/"><u>In 2024, Scalable and Stylish Type in AE with Top Choices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leap-into-the-future-a-guide-for-windows-11-installation-for-2024/"><u>Leap Into the Future A Guide for Windows 11 Installation for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximizing-your-iphones-photographic-skills-in-ios-11-for-2024/"><u>Maximizing Your iPhone's Photographic Skills in iOS 11 for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfected-edits-on-the-go-leading-apps-for-macos-big-surs-video-editors-for-2024/"><u>Perfected Edits on the Go Leading Apps for macOS Big Sur's Video Editors for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/principles-of-crafting-alluring-video-scripts-for-2024/"><u>Principles of Crafting Alluring Video Scripts for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/"><u>Top 6 Celebrity Text to Speech AI Voice Generators You May Like</u></a></li>
-<li><a href="https://win11.techidaily.com/top-rated-tablets-with-built-in-dvd-player-capability/"><u>Top-Rated Tablets with Built-In DVD Player Capability</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-pova-5-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Pova 5 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-top-5-ultra-light-action-camera-list/"><u>[New] Pinnacle Top 5 Ultra-Light Action Camera List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secrets-to-professional-streams-selecting-from-the-best-9-filters/"><u>[New] Secrets to Professional Streams Selecting From the Best 9 Filters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secure-your-stream-with-these-top-5-mac-tools/"><u>[New] Secure Your Stream with These Top 5 Mac Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-snap-the-truth-your-manual-to-authenticity-on-instagram-for-2024/"><u>[New] Snap the Truth Your Manual to Authenticity on Instagram for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-steps-to-secure-unmarked-stock-photos-for-business/"><u>[New] Steps to Secure Unmarked Stock Photos for Business</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-virtual-reality-therapy-breakthroughs/"><u>[New] Virtual Reality Therapy Breakthroughs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-honesty-in-high-definition-reviewing-recordcasts-efficacy/"><u>[Updated] 2024 Approved Honesty in High-Definition Reviewing RecordCast's Efficacy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-steadicam-pairings-with-premium-dslr-cameras/"><u>[Updated] Ideal Steadicam Pairings with Premium DSLR Cameras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-video-capture-on-periscope-a-comprehensive-manual/"><u>[Updated] Mastering Video Capture on Periscope A Comprehensive Manual</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-high-dynamic-range-photography-with-ps/"><u>[Updated] Navigating High Dynamic Range Photography with PS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pushing-the-envelope-in-color-correction-top-10-luts-for-lightroom-experts/"><u>[Updated] Pushing the Envelope in Color Correction Top 10 LUTs For Lightroom Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-migrating-media-from-android-to-iphone/"><u>2024 Approved Migrating Media From Android to iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/digital-memory-keeping-for-your-ps3-experiences/"><u>Digital Memory Keeping for Your PS3 Experiences</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-quickly-capture-iphone-screens-on-the-fly/"><u>How to Quickly Capture iPhone Screens on the Fly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-flat-text-into-sculptable-3d-characters/"><u>In 2024, Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 12 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/is-auroras-hdr-enhancing-your-viewing-experience-for-2024/"><u>Is Aurora's HDR Enhancing Your Viewing Experience for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/personal-vocalization-changing-your-tone-for-stories-and-reels-for-2024/"><u>Personal Vocalization Changing Your Tone for Stories & Reels for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/techniques-securisees-pour-cloner-le-systeme-dexploitation-en-direct-sur-un-ssd-samsung-850-evo-sous-windows/"><u>Techniques Sécurisées Pour Cloner Le Système D'Exploitation en Direct Sur Un SSD Samsung 850 EVO Sous Windows</u></a></li>
 </ul></div>
 

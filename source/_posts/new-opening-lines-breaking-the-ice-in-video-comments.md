@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Opening Lines  Breaking the Ice in Video Comments\""
-date: 2024-07-27T22:48:12.828Z
-updated: 2024-07-28T22:48:12.828Z
+date: 2024-12-07T18:02:49.612Z
+updated: 2024-12-11T19:55:48.326Z
 tags: 
   - screen-recording
   - ai video
@@ -25,9 +25,9 @@ A YouTube subscriber is someone who has chosen to follow your channel and your c
 ![youtube channel subscriber count](https://images.wondershare.com/filmora/article-images/2022/11/youtube-channel-subscriber-count.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How important is the subscriber to vloggers or content creator
 
 Building a strong and loyal subscriber base is very important when it comes to creating a strong online community. When a YouTube channel has many subscribers, it’s likely to get more targeted traffic, exposure and views.
@@ -38,15 +38,13 @@ Building a strong and loyal subscriber base is very important when it comes to c
 * Subscriber is a fan that watches, shares and comments about the video that are uploaded on a channel.
 * Having more subscribers on a YouTube channel influences and it reflects the channel’s popularity. This can convince more people to subscribe to the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![increase youtube channel subscribers](https://images.wondershare.com/filmora/article-images/2022/11/increase-youtube-channel-subscribers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to communicate with your Subscriber
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Replying to comments section
 
@@ -56,6 +54,10 @@ Engagement is a huge buzz word in the social media space, often comments on a Yo
 
 ![reply youtube comments section](https://images.wondershare.com/filmora/article-images/2022/11/reply-youtube-comments-section.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Engaging with other People
 
 Did you explore other online communities, especially the ones where you know your audience spends their time?
@@ -64,10 +66,15 @@ Engaging with other people, joining groups, forums and others forms of communica
 
 In entering in some communities or groups, remember that these are communities and as a YouTuber, you should be transparent about who you are and what you do. Users are protective when it comes to maintaining the integrity of discussion in these communities, so be sure you’re adding value first and foremost.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![engage with other people youtube](https://images.wondershare.com/filmora/article-images/2022/11/engage-with-other-people-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Promoting your channel
 
@@ -87,14 +94,8 @@ Step3 Add like, share and subscribe quotes sometime during the video.
 
 Step4 Always end the video with a coming back for the next one with a subscribe signal in it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to increase YouTube Subscribers
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Interact Constantly
 
 YouTube is an online community. It’s not just a place where people host videos. When you see this platform this way, you will use it to interact with people who visit it every day. Just like with other social media, the more you give on YouTube.
@@ -103,9 +104,6 @@ Be sure to encourage comments in your videos, as well as taking the time to answ
 
 The more comments and interaction one of your videos has, the more value YouTube and google search algorithm places on it for certain searches. It’s one the many factors this algorithm takes into account when determining what videos to rank for what key phrases being searched.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Asking for subscribers
 
 You can increase your YouTube subscribers by asking people to subscribe to your channel if they like your video. To do this, include a call to action in your video. Your call to action should be compelling to convince people to subscriber. Don’t be shy to ask your family, friends, friends of your friends to subscribe and share your video to their social accounts to more people will see and watch your video. From there you will gain more subscriber and more viewers. Also don’t forget to thank them for their effort promoting your channel.
@@ -114,12 +112,13 @@ You can increase your YouTube subscribers by asking people to subscribe to your 
 
 Promote your channel and videos on other social media like Facebook, Twitter and Instagram. Ask people to watch your videos and subscribe to stay updated on the new videos that you will be published.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![prompt youtube channel on facebook](https://images.wondershare.com/filmora/article-images/2022/11/prompt-youtube-channel-on-facebook.jpg)
 
 While doing this, be consistent and provide value to your subscriber. People want to know that they can count on your channel to provide quality and relevant videos. Be remarkable by taking the right approach. You can increase you YouTube views by establishing relationships with the audiences. Do this by engaging and interacting with the existing audience or subscriber. Be realistic, sustainable, and organic in your videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Engaging to Subscribers Tips
 
@@ -143,10 +142,6 @@ One of the important things to do as a YouTuber is to give importance to subscri
 
 ![youtube video engaging tips](https://images.wondershare.com/filmora/article-images/2022/11/youtube-video-engaging-tips.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you want to have a successful career on YouTube you have to always remember people behind your success and always think of whats best for your channel.
@@ -185,5 +180,26 @@ Creating videos on YouTube is key to your video marketing and content marketing 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-virtual-adventures-await-in-latest-windows-10-gaming-and-apps/"><u>[New] 2024 Approved Virtual Adventures Await in Latest Windows 10 Gaming & Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-multi-display-mode-an-in-depth-guide-to-pip-on-edge/"><u>[New] Mastering Multi-Display Mode An In-Depth Guide to PIP on Edge</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proximity-prowess-mastering-the-art-of-roblox-magnification/"><u>[New] Proximity Prowess Mastering the Art of Roblox Magnification</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-soothing-soundscapes-recommended-voice-experts/"><u>[New] Soothing Soundscapes Recommended Voice Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-10-superior-soundspeed-apps-for-devices/"><u>[Updated] In 2024, 10 Superior Soundspeed Apps for Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-sites-summarized-acquiring-personal-preferences-in-ringtone-vids/"><u>[Updated] Premium Sites Summarized Acquiring Personal Preferences in Ringtone Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>[Updated] Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-steps-to-ensure-quality-film-with-your-iphone/"><u>[Updated] Steps to Ensure Quality Film with Your iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-selection-of-ps1-games-now-on-your-computer-for-2024/"><u>[Updated] Ultimate Selection of PS1 Games, Now on Your Computer for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-market-leading-6-social-channels-for-business-advancement/"><u>2024 Approved Market-Leading 6 Social Channels for Business Advancement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-peering-into-pitfalls-a-deep-dive-into-vr-shortcomings/"><u>2024 Approved Peering Into Pitfalls A Deep Dive Into VR Shortcomings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-classic-rpg-gaming-with-fallout-3-a-how-to-guide-for-windows-11-users/"><u>Enjoy Classic RPG Gaming with Fallout 3: A How-To Guide for Windows 11 Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy M34 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nokia-g42-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Nokia G42 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a79-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A79 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-choosing-and-crafting-whatsapp-alerts-for-2024/"><u>Mastering the Art of Choosing & Crafting WhatsApp Alerts for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/professional-photographers-pick-of-edits-for-2024/"><u>Professional Photographers' Pick of Edits for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/quick-tips-effective-inshot-for-pclaptop-videos-for-2024/"><u>Quick Tips Effective Inshot for PC/Laptop Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/srt-mastery-curating-the-best-mac-and-windows-turbo-boosts-for-2024/"><u>SRT Mastery Curating the Best Mac & Windows Turbo Boosts for 2024</u></a></li>
+</ul></div>
 

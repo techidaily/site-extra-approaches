@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Renewal of Photo Viewing Capabilities in Windows 10 - Guide\""
-date: 2024-11-30T20:59:32.657Z
-updated: 2024-12-05T19:58:10.813Z
+date: 2024-12-10T19:10:45.741Z
+updated: 2024-12-11T18:00:22.078Z
 tags: 
   - screen-recording
   - ai video
@@ -56,10 +56,14 @@ Here is why they want to restore Windows Photo Viewer –
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -72,10 +76,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -91,16 +91,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -112,7 +112,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -130,21 +130,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-unleashed-a-creators-guide-to-greatness/"><u>[Updated] 2024 Approved YouTube Unleashed A Creator's Guide to Greatness</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-metaverse-vs-multiverse-what-are-the-differences-complete-guide-for-2024/"><u>[Updated] Metaverse Vs. Multiverse What Are the Differences [Complete Guide] for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-your-idevice-how-to-download-episodes-with-swiftness/"><u>[Updated] Navigating Your iDevice - How to Download Episodes with Swiftness</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-power-up-with-these-20-top-songs-that-elevate-your-exercise-routine/"><u>[Updated] Power-Up with These 20 Top Songs that Elevate Your Exercise Routine</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-installation-of-movie-maker-6/"><u>2024 Approved Mastering the Installation of Movie Maker 6</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-pitch-integrating-music-with-cropping-and-editing-in-canva/"><u>2024 Approved Perfect Pitch Integrating Music with Cropping and Editing in Canva</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-infinix-note-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Note 30 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-4k-videos-with-the-versatile-nikon-1j5/"><u>In 2024, Mastering 4K Videos with the Versatile Nikon 1J5</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-visual-storytelling-with-online-wallpaper-swap/"><u>In 2024, Mastering Visual Storytelling with Online Wallpaper Swap</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-memetic-magic-unlock-with-kapwing-creator/"><u>In 2024, Memetic Magic – Unlock with Kapwing Creator</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/learning-curved-picture-correction-for-2024/"><u>Learning Curved Picture Correction for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719256266387-repairing-email-notification-shortcom-written-exercise/"><u>Repairing Email Notification Shortcom Written Exercise</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/seamless-solutions-fixing-non-responsive-bluetooth-on-your-windows-11-device/"><u>Seamless Solutions: Fixing Non-Responsive Bluetooth on Your Windows 11 Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamlessly-add-music-to-inshot-on-mobile-devices-for-2024/"><u>Seamlessly Add Music to InShot on Mobile Devices for 2024</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-youtube-monetization-carryminati-ajey-nagar-youtube-income-2023/"><u>[New] 2024 Approved YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-reimagining-team-call-backdrops-beforeafter-chats/"><u>[New] In 2024, Reimagining Team Call Backdrops Before/After Chats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-setting-up-zoom-like-a-pro/"><u>[New] Setting Up Zoom Like a Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-safaris-picture-in-picture-settings-simplified/"><u>[Updated] Safari’s Picture In Picture Settings Simplified</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-guide-to-social-media-success-popular-and-secret-tiktok-emojis/"><u>[Updated] The Ultimate Guide to Social Media Success Popular & Secret TikTok Emojis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snowbound-sagas-2022-olympic-milestones/"><u>2024 Approved Snowbound Sagas 2022 Olympic Milestones</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/efficiency-in-language-proficiency-how-long/"><u>Efficiency in Language Proficiency - How Long?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-poco-x5-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Poco X5’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-chromes-picture-in-picture-for-multi-screen-browsing/"><u>In 2024, Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-digital-cropping-easy-online-methods/"><u>In 2024, Navigating Digital Cropping - Easy Online Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soaring-past-competitors-mastering-drone-racing-and-best-fpv-drones/"><u>In 2024, Soaring Past Competitors Mastering Drone Racing and Best FPV Drones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lgs-visual-masterpiece-comprehensive-monitor-analysis-for-2024/"><u>LG’s Visual Masterpiece Comprehensive Monitor Analysis for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/migrating-your-hardware-from-hdd-to-ssd-on-windows-operating-systems-11-10-and-8/"><u>Migrating Your Hardware From HDD to SSD on Windows Operating Systems (11, 10 & 8)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/nexus-of-networked-realities-unveiling-metaverse-vs-omniverse-for-2024/"><u>Nexus of Networked Realities Unveiling Metaverse Vs. Omniverse for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/silent-symphony-a-compendium-of-top-speech-to-text-tools-for-2024/"><u>Silent Symphony A Compendium of Top Speech-to-Text Tools for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Camon 20 Premier 5G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] How To Fade Audio In Lumafusion"
-date: 2024-12-02T16:02:09.025Z
-updated: 2024-12-05T20:06:59.208Z
+date: 2024-12-07T18:51:45.695Z
+updated: 2024-12-11T19:47:53.807Z
 tags: 
   - screen-recording
   - ai video
@@ -30,23 +30,19 @@ Step1 LumaFusion's default structure is comparable to that of many desktops edit
 
 ![lumafusion timeline](https://images.wondershare.com/filmora/article-images/2022/07/lumafusion-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
 
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
 
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
 
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. LumaFusion Alternative Way to Fade Audio in Video
 
@@ -70,15 +66,15 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4 Share and export
 
@@ -88,13 +84,13 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How do you do transitions in LumaFusion?
 
@@ -119,7 +115,7 @@ Drag and drop your sound recordings from the media library to the timeline at th
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3 Apply Fade Effects
@@ -134,6 +130,10 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Related FAQs about LumaFusion
 
 ### 1\. How do you fade in a title LumaFusion?
@@ -141,7 +141,7 @@ In that window, you can select the MP3 format in the format customization box to
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How do you do transitions in LumaFusion?
@@ -176,19 +176,21 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/est-8-youtube-editing-software-for-linux-for-2024/"><u>[New] Best 8 YouTube Editing Software for Linux for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-leading-three-cameras-for-ultra-detailed-videography/"><u>[New] Leading Three Cameras for Ultra-Detailed Videography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-radiant-reality-tiles-photographic-collages-that-sparkle/"><u>[New] Radiant Reality Tiles Photographic Collages That Sparkle</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximum-frame-rate-for-languid-motion-videos/"><u>[Updated] Maximum Frame Rate for Languid Motion Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamline-editing-how-to-load-music-in-inshot/"><u>[Updated] Streamline Editing How to Load Music in InShot</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-king-of-construction-showdown-thieye-t5-or-sjcam-s6/"><u>2024 Approved King of Construction Showdown Thieye T5 or SJCAM S6?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-steps-to-acquire-free-and-safe-vlc-player-on-a-mac-computer/"><u>2024 Approved Steps to Acquire Free and Safe VLC Player on a Mac Computer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-stepwise-journey-to-excellence-in-voice-memos/"><u>2024 Approved Stepwise Journey to Excellence in Voice Memos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-visionary-film-techniques-top-15-cine-look-ups-empowering-action-cam/"><u>2024 Approved Visionary Film Techniques Top 15 Cine Look-Ups Empowering Action Cam</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-overhaul-overflow-cutting-edge-techniques-for-massive-tiktok-drafts/"><u>In 2024, Overhaul Overflow Cutting-Edge Techniques for Massive TikTok Drafts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mpeg-ts-to-mp4windows-1011/"><u>MPEG-TS to MP4変換：Windows 10/11でおすすめのベスト方法集</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/streamlined-steps-for-storing-webcam-chat-transcripts-for-2024/"><u>Streamlined Steps for Storing Webcam Chat Transcripts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/time-loop-mastery-how-to-rewind-iphone-media/"><u>Time-Loop Mastery How to Rewind iPhone Media</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-correctly-address-winhttpdll-not-found-error-messages/"><u>Ultimate Guide: How to Correctly Address 'Winhttp.dll Not Found' Error Messages</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-glow-up-your-android-footage/"><u>[New] Glow Up Your Android Footage</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-depth-look-at-razers-hd-webcam-experience/"><u>[New] In-Depth Look at Razer's HD Webcam Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-kit-list-for-road-trip-movie-making/"><u>[New] Kit List for Road-Trip Movie Making</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-poptoons-ultimate-insight-24-annual/"><u>[New] PopToons Ultimate Insight '24 Annual</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-healthcare-cyber-therapies/"><u>[New] Revolutionizing Healthcare Cyber-Therapies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tep-up-your-mobile-filmmaking-with-these-9-must-have-tools-for-2024/"><u>[New] Step Up Your Mobile Filmmaking with These 9 Must-Have Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-insiders-guide-to-the-vr-lexicon-essentials/"><u>[Updated] Insider's Guide to the VR Lexicon Essentials</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unlocking-youtube-revenue-essential-view-count-milestones/"><u>[Updated] Unlocking YouTube Revenue Essential View Count Milestones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-time-stamp-integration-on-youtube-videos/"><u>2024 Approved Seamless Time-Stamp Integration on YouTube Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/gag-generator-for-the-web-for-2024/"><u>Gag Generator for the Web for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-chromes-pip-feature-across-devices/"><u>In 2024, Navigating Chrome's PIP Feature Across Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picture-perfection-at-a-click-endless-free-space-plus-charged-cloud-haven/"><u>In 2024, Picture Perfection at a Click Endless Free Space + Charged Cloud Haven</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-power-of-persuasion-exploring-6-video-genres/"><u>In 2024, The Power of Persuasion Exploring 6 Video Genres</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-apps-de-montage-photoshop-decouvrez-les-meilleurs-choix-pour-votre-mobile/"><u>Top Apps De Montage Photoshop : Découvrez Les Meilleurs Choix Pour Votre Mobile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-talking-game-premium-gpt-plus-plan-for-us-aficionados/"><u>Upgrade Your Talking Game: Premium GPT-Plus Plan for U.S. Aficionados</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-purpose-of-pagefilesys-and-should-it-be-deleted/"><u>What Is the Purpose of Pagefile.sys and Should It Be Deleted?</u></a></li>
 </ul></div>
 

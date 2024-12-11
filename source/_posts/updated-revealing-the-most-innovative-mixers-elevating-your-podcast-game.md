@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Revealing the Most Innovative Mixers, Elevating Your Podcast Game"
-date: 2024-07-27T22:47:43.081Z
-updated: 2024-07-28T22:47:43.081Z
+date: 2024-12-09T17:23:11.791Z
+updated: 2024-12-11T16:26:21.071Z
 tags: 
   - screen-recording
   - ai video
@@ -61,9 +61,6 @@ Furthermore, it can work in isolation and save and store audio on the microSD ca
 
 The Rode RodeCaster Pro, priced at $430, is a complete game-changer if you are into podcasting for the long haul.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Behringer Xenyx Q802USB
 
 Next on the list is the Behringer Xenyx Q802USB, another top-notch mixer that editors recommend. It is a USB interface mixer connecting your computer with a USB cable. It is not a sole unit but works with different instruments.
@@ -90,16 +87,10 @@ We have given you an overview of the top three picks of editors but let us go in
 
 If you are looking for a mixer with a complete set of podcast functions within your price range, here is a list of the 10 best podcasting mixers. These 10 mixers vary in their features and prices. Thus, giving you a ton of variety to choose from. So, let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Rode RodeCaster Pro
 
 The Rode RodeCaster Pro is one of the few mixers explicitly designed for podcasts. As a result, it is one of the greatest mixers available in the market. All you need is a good mic to use with it, and you are on your way to creating a fantastic podcast.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the rode rodecaster pro](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-4.jpg)
 
 The RodeCaster Pro is a digital mixer that works best for multi-person podcasts. It helps record up to four people locally and bring in a remote or telephonic guest. In addition, the simplicity of the RodeCaster Pro is exceptional such that you can even carry it around with you and record podcasts on the go.
@@ -138,18 +129,6 @@ Other than that, you can't connect it to a camera. So, if you want to create vid
 
 If you are looking for a mixer that can handle your podcasting needs for less than $100, Behringer Xenyx Q802USB is a great choice. It is a premium-quality audio mixer and offers a range of advanced mixing functions.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![behringer xenyx q802usb and its cables](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-5.jpg)
 
 It has four channels, with the first two offering XLR mic inputs and the other two offering stereo inputs. Each channel has a separate equalizer. So, for solo or 2-person podcasts, this is your go-to mixer.
@@ -186,9 +165,6 @@ Some users have complained that the mixer sometimes wobbles on a flat surface wh
 
 Another reason that could be a deal breaker is that it has no power on/off button. It can be annoying as you have to unplug the mixer whenever you want to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 3\. PreSonus StudioLive AR8c
 
 PreSonus came into the market with an upgrade with its StudioLive AR8c. It is easy to operate and has a logical and compact workflow, as each button has a single function. The exciting bit is that with this mixer, you get the best of both worlds with its analog controls and digital interface.
@@ -303,18 +279,12 @@ So, why not get something better for the same price?
 
 Yamaha AG03 and AG06 do not offer a mute button for individual channels. So, if you have to mute a channel that is not in use, you have to turn down the gain. Although just as effective as the mute button, it is a bit tedious.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Pyle-Pro PAD10MXU
 
 Most of the mixers on the list come at a high price. However, Pyle-Pro PAD10MXU is a relatively cheap mixer with minimalistic features that will fulfill your podcasting needs.
 
 PAD10MXU is a 2-channel mixer with a USB interface. The first channel features an XLR and ¼ inch phone connection. You can connect a mic, line device, or any other instrument using Channel 1.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![pad10mxu controls and interface](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-9.jpg)
 
 Channel 2/3 is an RCA input that you can use to connect record/playback devices. You also have gain controls for both channels for level adjustment. The Pyle-Pro PAD10MXU comes for $68, the cheapest on our list.
@@ -373,17 +343,15 @@ This mixer serves pretty well for podcasting; however, there is one reason why y
 
 When you transfer or save your recording on the computer, the mixer does not provide individual recordings of each input. Instead, you get only a single recording of the main output.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 8\. Behringer Xenyx Q1202USB
 
 The Behringer Xenyx Q1202USB provides state-of-the-art features for you to record stunning, professional podcasts. If you are a bit more on the professional end of the podcasting game, then this is the mixer for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![behringer xenyx q1202usb](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Q1202USB is a 12-channel mixer with 4 XLR mic inputs, multiple line inputs, and a few RCA inputs. It also has an FX send for you to add any external processors. This mixer offers great control over the different channel inputs. You can adjust the gains, EQ, pan, and much more using the control knobs.
 
@@ -414,8 +382,9 @@ One of the major flaws is that this mixer does not allow you to monitor your inp
 Another flaw is that you tend to hear audio wiggles if your gain settings are lower than 75%. Again, these can be a turn-off for you but not that much of a significant flaw.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 9\. Mackie PROFX12V2
 
 Moving on, we have the Mackie PROFX12V2\. It is a high-quality analog mixer and has a user-friendly interface. It is perfect for professional podcasting.
@@ -452,9 +421,6 @@ The compression feature of the PROFX12V2 is not that great and might change your
 
 Last on the list is the Allen & Heath ZEDi-8\. This one is a compact hybrid mixer that gives high-level audio results for your podcast.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![the allen & heath zedi-8](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-13.jpg)
 
 The ZEDi-8 is a mixer with a USB interface, offering the best of both worlds. It is compatible with Mac, PC, and any other iOS device. It has 2 channels and does not require DI boxes.
@@ -475,17 +441,10 @@ As compared to other mixers, this one has a bit of a stiff learning curve. So, f
 
 Okay! So, now that you know about the 10 best mixers available for podcasting. If you still can't decide, you can consider the following aspects while buying an audio mixer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Part 4\. What should I look for when buying an Audio Mixer?
 
 Buying an audio mixer is a difficult decision to make. Because if you are not fully aware of your requirement, you might pick the wrong one and end up regretting later. So, to save you from regrets, we are going to tell you what you should look for while buying one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Channel Count
 
 The first thing you need to know is how many people you will be having in your podcasts. Then, depending on the number of people contributing to your podcast, you must choose a mixer that meets that number of channels.
@@ -504,9 +463,6 @@ Some mixers do not offer good value for money. So, make sure you do proper resea
 
 With these considerations, you may clearly mind choosing an audio mixer to a close.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Part 5\. How to Edit Video Podcast after Recording?
 
 Once you are done recording your podcast through an audio mixer, you have your recording on your computer. Then, it's time for post-production! Well, guess what? We have just the tool for you to fulfill your post-production needs.
@@ -534,11 +490,12 @@ Click on the "New Project" option. The following window will appear.
 
 ![filmora project window](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open the record dropdown menu and click "Record from Webcam."
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![recording via webcam](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-16.jpg)
 
 ##### Step3 Make a Podcast
@@ -551,9 +508,6 @@ Adjust the settings of the webcam and hit the record button. Filmora will record
 
 Now, drag and drop the video to the timeline below and start editing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![editing the podcast](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-18.jpg)
 
 You can use different features for editing your video podcasts, such as effects, transitions, subtitles, intros, outros, music, and more.
@@ -564,9 +518,6 @@ After editing, you can save your podcast or upload it to your channel.
 
 To share, click on "Export." Adjust the settings and then click OK to share.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![exporting the podcast](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-19.jpg)
 
 We have given a basic overview of how the editing and recording process works in Filmora. Next, let's move on to a video tutorial.
@@ -577,9 +528,6 @@ We all know that video tutorials are so much better. So, if you want to learn ab
 
 Well, that is all on podcast editing. Moving on, we have some Frequently Asked Questions about audio mixers.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Part 6\. Frequently Asked Questions About Audio Mixers
 
 ### 1\. Can audio mixers work with USB headsets?
@@ -590,9 +538,6 @@ Audio mixers can work with USB headsets if they have a USB interface.
 
 Yes, mixers do affect the audio quality. However, they usually help enhance the sound quality and give you more control over adjusting levels, panning, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### 3\. How long do audio mixers last?
 
 Depending upon the quality and usage of the mixer, an audio mixer may last from 3-5 or 5-10 years.
@@ -615,32 +560,24 @@ Using an audio mixer for podcasts improves the audio quality, and the preamps wi
 
 If you use an audio mixer to its full potential, you might even be able to record the complete podcast in one flow and avoid post-production altogether. Now that you understand the need for a mixer let us look at the editors' favorite podcast mixers.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Editor's Favorite Mixers for Podcasting
 
 Based on the features and functionality of podcast mixers, some editors have rated the following three podcast mixers as their favorites.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Rode RODECaster Pro
 
 The RodeCaster Pro is among the best Pro-level podcast mixers. It works as a unique "all-in-one" solution and is all you need to create incredible podcasts. It features four microphone inputs, eight programmable sound boards, nine language options, and much more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![rodecaster pro podcast production studio](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-1.jpg)
 
 Furthermore, it can work in isolation and save and store audio on the microSD card. Therefore, it is best suited for recording live podcasts and integrating remote guests.
 
 The Rode RodeCaster Pro, priced at $430, is a complete game-changer if you are into podcasting for the long haul.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Behringer Xenyx Q802USB
 
 Next on the list is the Behringer Xenyx Q802USB, another top-notch mixer that editors recommend. It is a USB interface mixer connecting your computer with a USB cable. It is not a sole unit but works with different instruments.
@@ -649,9 +586,6 @@ Next on the list is the Behringer Xenyx Q802USB, another top-notch mixer that ed
 
 It has 2 XLR microphone inputs, 2 stereo inputs, and multiple audio outputs. Moreover, the preamps are pretty good (go up to 60 DB) too. This audio mixer will step up your podcasting gear game. The Behringer Xenyx Q802USB costs around $95 and is your ticket to great sound quality.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. PreSonus StudioLive AR8c
 
 Last but not least is the PreSonus StudioLive AR8c. AR8c is a great fit for anyone who wants to upgrade from a simple two-channel interface.
@@ -665,6 +599,10 @@ The PreSonus StudioLive AR8c is an 8-channel analog mixer with 4 balanced mic in
 Each channel has level control, 3-band semi-parametric EQ, pan, mute, FX, aux, and PFL controls. It also features the "Stereo Super Channel," which allows you to connect your phone or other devices with the mixer. Priced at $499, this audio mixer is going to rock your podcasting game.
 
 We have given you an overview of the top three picks of editors but let us go into a bit more detail about the top 10 best mixers for podcasting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. The 10 Best Mixers for Podcasting in 2022
 
@@ -708,17 +646,10 @@ First and foremost, its price tag of $430 is something to look at. However, if y
 
 Other than that, you can't connect it to a camera. So, if you want to create video podcasts, this mixer won't benefit you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Behringer Xenyx Q802USB
 
 If you are looking for a mixer that can handle your podcasting needs for less than $100, Behringer Xenyx Q802USB is a great choice. It is a premium-quality audio mixer and offers a range of advanced mixing functions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![behringer xenyx q802usb and its cables](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-5.jpg)
 
 It has four channels, with the first two offering XLR mic inputs and the other two offering stereo inputs. Each channel has a separate equalizer. So, for solo or 2-person podcasts, this is your go-to mixer.
@@ -755,9 +686,6 @@ Some users have complained that the mixer sometimes wobbles on a flat surface wh
 
 Another reason that could be a deal breaker is that it has no power on/off button. It can be annoying as you have to unplug the mixer whenever you want to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. PreSonus StudioLive AR8c
 
 PreSonus came into the market with an upgrade with its StudioLive AR8c. It is easy to operate and has a logical and compact workflow, as each button has a single function. The exciting bit is that with this mixer, you get the best of both worlds with its analog controls and digital interface.
@@ -802,14 +730,6 @@ One of the primary reasons for avoiding this mixer is that it has no faders. Ins
 
 The Zoom PodTrak P4 is the reigning kind of field recorder. It was released in 2020, but this gadget mixed up the mixer world. The PodTrak P4 does everything a mixer does but in a more flexible packaging. So you can call it a handheld podcast recorder.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the zoom podtrak p4](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-7.jpg)
 
 This podcast recorder has four XLR microphone inputs which can help in multitrack recording. Each input has a gain control and a mute button. It also has 4 headphone outputs with independent volume controls. It also has 4 sound pads which you use to enhance your podcast while recording.
@@ -840,9 +760,6 @@ The Zoom PodTrak P4 has a plastic build. Unfortunately, this means that it might
 
 While we are on the subject of dealbreakers, PodTrak P4 is not a standalone unit. It would help if you had at least one XLR mic to record your podcast. So, in terms of portability, you require a mic along with the PodTrak.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### 5\. Yamaha AG03
 
 Now, we will be looking at Yamaha AG03 and Yamaha AG06\. We are talking about both these mixers together because they essentially have the same basic functions.
@@ -869,9 +786,6 @@ Another fun feature of these two mixers is that you can customize the compressio
 
 If you connect the mixer to your computer, the mixer offers you control of the computer sound. For example, using the mixer's own input level knob, you can use to adjust the volume of the sound coming from the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reasons Why You Need to Avoid
 
 Some contest points regarding these two Yamaha mixers are the value of money they offer and the lack of a muting option for an individual channel.
@@ -886,18 +800,12 @@ So, why not get something better for the same price?
 
 Yamaha AG03 and AG06 do not offer a mute button for individual channels. So, if you have to mute a channel that is not in use, you have to turn down the gain. Although just as effective as the mute button, it is a bit tedious.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Pyle-Pro PAD10MXU
 
 Most of the mixers on the list come at a high price. However, Pyle-Pro PAD10MXU is a relatively cheap mixer with minimalistic features that will fulfill your podcasting needs.
 
 PAD10MXU is a 2-channel mixer with a USB interface. The first channel features an XLR and ¼ inch phone connection. You can connect a mic, line device, or any other instrument using Channel 1.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![pad10mxu controls and interface](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-9.jpg)
 
 Channel 2/3 is an RCA input that you can use to connect record/playback devices. You also have gain controls for both channels for level adjustment. The Pyle-Pro PAD10MXU comes for $68, the cheapest on our list.
@@ -932,6 +840,10 @@ The Alesis MultiMix 4 is another banger on the list of best mixers. The interfac
 
 ![alesis multimix 4](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Alesis MultiMix 4 is a 4-channel mixer. All of these inputs can accept a ¼ inch line input. In addition, you can plug in XLR or condenser microphones (thanks to the 48V phantom power). You can also add a guitar or bass to the mix.
 
 Besides that, Alesis MultiMix 4 also comes with cool built-in effects such as reverb, delays, phasers, and much more. You can add extra depth to your audio using these effects.
@@ -955,6 +867,10 @@ This mixer serves pretty well for podcasting; however, there is one reason why y
 **● No Individual Recordings of Inputs**
 
 When you transfer or save your recording on the computer, the mixer does not provide individual recordings of each input. Instead, you get only a single recording of the main output.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Behringer Xenyx Q1202USB
 
@@ -990,17 +906,10 @@ One of the major flaws is that this mixer does not allow you to monitor your inp
 
 Another flaw is that you tend to hear audio wiggles if your gain settings are lower than 75%. Again, these can be a turn-off for you but not that much of a significant flaw.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 9\. Mackie PROFX12V2
 
 Moving on, we have the Mackie PROFX12V2\. It is a high-quality analog mixer and has a user-friendly interface. It is perfect for professional podcasting.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![mackie profx12v2](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-12.jpg)
 
 PROFX12V2 has a total of 12-channels, seven of which offer Onyx preamps. It comes with a USB-B port and also has ports for headphones. It also has great effects, such as reverb, delays, echo, etc.
@@ -1053,16 +962,10 @@ As compared to other mixers, this one has a bit of a stiff learning curve. So, f
 
 Okay! So, now that you know about the 10 best mixers available for podcasting. If you still can't decide, you can consider the following aspects while buying an audio mixer.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. What should I look for when buying an Audio Mixer?
 
 Buying an audio mixer is a difficult decision to make. Because if you are not fully aware of your requirement, you might pick the wrong one and end up regretting later. So, to save you from regrets, we are going to tell you what you should look for while buying one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Channel Count
 
 The first thing you need to know is how many people you will be having in your podcasts. Then, depending on the number of people contributing to your podcast, you must choose a mixer that meets that number of channels.
@@ -1071,9 +974,6 @@ The first thing you need to know is how many people you will be having in your p
 
 You also need to know whether your guests or cohosts will join you via a mic or phone connection. While buying a mixer, make sure they have the right number of connection types you require
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Analog or Digital
 
 While analog mixers are cheaper, digital ones are more functional. So, analog is better for you if you have a tight budget. However, digital mixers are more fun to play with if you get some money.
@@ -1103,9 +1003,6 @@ It saves you a ton of hassle, and you can simply do everything on a single softw
 
 Download Filmora from the [official website](https://filmora.wondershare.net/filmora-video-editor.html?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe5TGxvOEkHGW1NAiKiwAP4%5F7BS1Fbau5V5SFYVkDTsjvVGNMJ2hvoEaAmtYEALw%5FwcB) and set it up.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora interface](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-14.jpg)
 
 ##### Step2 Start Recording
@@ -1122,9 +1019,6 @@ Open the record dropdown menu and click "Record from Webcam."
 
 Adjust the settings of the webcam and hit the record button. Filmora will record your webcam, and you can make a podcast and talk about whatever you want. Once you are done with your podcast and have to end it, hit the red button to stop recording. The recorded file will automatically appear in the media library.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![saved podcast in media library](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-17.jpg)
 
 ##### Step4 Start Editing
@@ -1132,6 +1026,10 @@ Adjust the settings of the webcam and hit the record button. Filmora will record
 Now, drag and drop the video to the timeline below and start editing.
 
 ![editing the podcast](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can use different features for editing your video podcasts, such as effects, transitions, subtitles, intros, outros, music, and more.
 
@@ -1141,9 +1039,6 @@ After editing, you can save your podcast or upload it to your channel.
 
 To share, click on "Export." Adjust the settings and then click OK to share.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![exporting the podcast](https://images.wondershare.com/filmora/article-images/2022/12/10-best-mixers-for-podcasting-in-2022-19.jpg)
 
 We have given a basic overview of how the editing and recording process works in Filmora. Next, let's move on to a video tutorial.
@@ -1155,8 +1050,9 @@ We all know that video tutorials are so much better. So, if you want to learn ab
 Well, that is all on podcast editing. Moving on, we have some Frequently Asked Questions about audio mixers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 6\. Frequently Asked Questions About Audio Mixers
 
 ### 1\. Can audio mixers work with USB headsets?
@@ -1164,8 +1060,9 @@ Well, that is all on podcast editing. Moving on, we have some Frequently Asked Q
 Audio mixers can work with USB headsets if they have a USB interface.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Do mixers affect audio quality?
 
 Yes, mixers do affect the audio quality. However, they usually help enhance the sound quality and give you more control over adjusting levels, panning, and more.
@@ -1206,7 +1103,24 @@ Podcasts are usually elementary to start; skip the mixer if you are beginning. H
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>[New] In 2024, Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-videography-elevated-8-key-techniques-for-professional-recordings/"><u>[New] IPhone Videography Elevated 8 Key Techniques for Professional Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-meeting-magic-key-ways-to-tweak-with-zoom-converter/"><u>[New] Master Meeting Magic Key Ways to Tweak with Zoom Converter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-speed-in-your-youtube-videography-with-rapid-techniques/"><u>[New] Unleash Speed in Your YouTube Videography with Rapid Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-10-recording-tips-to-record-audio-in-high-quality/"><u>[Updated] 10 Recording Tips to Record Audio in High Quality</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unlocking-the-mystery-of-pfp-a-tiktok-perspective/"><u>[Updated] In 2024, Unlocking the Mystery of 'PFP' A TikTok Perspective</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-complexities-of-youtubes-subtitles-download-with-3-proven-techniques/"><u>[Updated] Navigating the Complexities of YouTube's Subtitles Download With 3 Proven Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-over-supplementary-film-sequences-b-roll/"><u>2024 Approved Mastery Over Supplementary Film Sequences (B-Roll)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/crafting-cinematic-content-with-precision-ratios-for-2024/"><u>Crafting Cinematic Content with Precision Ratios for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-love-for-filmora-the-editors-prime-traits/"><u>Decoding Love for Filmora The Editor’s Prime Traits</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-y100-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo Y100 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-resolving-windows-spotlight-problems-on-your-windows-11-pc/"><u>Mastering the Fixes: Resolving Windows Spotlight Problems on Your Windows 11 PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-pages-with-premieres-fade-techniques-for-2024/"><u>Perfect Pages with Premiere's Fade Techniques for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-6-solutions-for-multilingual-videos-for-2024/"><u>Premium 6 Solutions for Multilingual Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/spark-paves-way-but-will-mavic-air-top-the-gaming-scene-in-2024/"><u>Spark Paves Way, But Will Mavic Air Top the Gaming Scene, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/steps-to-acquire-free-and-safe-vlc-player-on-a-mac-computer-for-2024/"><u>Steps to Acquire Free and Safe VLC Player on a Mac Computer for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamlining-and-organizing-your-itunes-video-files-for-2024/"><u>Streamlining and Organizing Your iTunes Video Files for 2024</u></a></li>
+</ul></div>
 
