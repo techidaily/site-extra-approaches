@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Overcoming Windows 11 Photo App Anomalies with Ease"
-date: 2024-07-27T22:39:21.950Z
-updated: 2024-07-28T22:39:21.950Z
+date: 2024-12-12T02:38:39.932Z
+updated: 2024-12-18T02:21:53.472Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://www.lifewire.com/thmb/rQ3q4SoJdzdvXlfXUbIk9JHjOFk=/400x300/fi
 
 # How to Solve Windows 10 Photos App Crashes Effectively \[2024\]
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -45,9 +42,6 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -57,14 +51,11 @@ Here is how to troubleshoot –
    1. Press the ‘Windows’ key + ‘X’ for launching the ‘Control Panel. Alternatively, type ‘Control Panel’ in the search box.
    2. Pick ‘Troubleshooting’ and hit it. Tap on ‘View All’ from the top-left panel of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
@@ -80,6 +71,10 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 ### Solution 3: Reset it
@@ -93,8 +88,9 @@ Here is how can you reset it –
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -105,6 +101,10 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -118,15 +118,13 @@ Here is how to reinstall the Windows 10 Photos App –
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -137,12 +135,27 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-discovering-the-ideal-live-stream-provider-a-top-10-list-for-2024/"><u>[New] Discovering the Ideal Live Stream Provider A Top 10 List for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-redefining-collaboration-the-power-of-immersive-vr/"><u>[New] Redefining Collaboration The Power of Immersive VR</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-from-simple-to-stunning-infusing-life-into-text-on-instagram/"><u>[Updated] In 2024, From Simple to Stunning Infusing Life Into Text on Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-8-srt-conversion-websites-without-a-cost-for-2024/"><u>[Updated] Top 8 SRT Conversion Websites Without a Cost for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-meme-mastery-in-the-metaverse-a-comedic-journey/"><u>2024 Approved Meme Mastery in the Metaverse A Comedic Journey</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-5-video-tweaking-apps-for-social-networking/"><u>2024 Approved Top 5 Video Tweaking Apps for Social Networking</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/codec-confrontation-who-takes-the-victory-av1-or-vp9/"><u>Codec Confrontation Who Takes the Victory, AV1 or VP9?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/create-the-best-canon-time-lapse-video-for-2024/"><u>Create the Best Canon Time-Lapse Video for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lighten-spirits-with-adobes-meme-magic-for-2024/"><u>Lighten Spirits with Adobe's Meme Magic for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/spark-interest-on-instagram-with-top-unboxing-video-techniques-for-2024/"><u>Spark Interest on Instagram with Top Unboxing Video Techniques for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-procedures-for-producing-high-quality-asmr-videos-for-2024/"><u>Step-by-Step Procedures for Producing High-Quality ASMR Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-finest-hd-screenshot-and-recording-software-for-2024/"><u>The Finest HD Screenshot and Recording Software for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/zoomed-mastery-from-amateurs-to-pros-in-social-snapping-for-2024/"><u>Zoomed Mastery From Amateurs to Pros in Social Snapping for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside VR  Contemporary Insights & Upcoming Struggles\""
-date: 2024-07-27T22:40:02.192Z
-updated: 2024-07-28T22:40:02.192Z
+date: 2024-12-10T18:05:44.022Z
+updated: 2024-12-17T16:29:58.217Z
 tags: 
   - screen-recording
   - ai video
@@ -20,22 +20,12 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 
 # Virtual Reality Technology: Current State and Future Challenges
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: State of VR Technology
 
 ### VR technology is New
@@ -46,9 +36,6 @@ No advertising on the website.
 
 **One of the most popular brands of VR headsets today is Oculus Rift, which is also what is used in Samsung Gear VR.** It started from a Kick starter campaign and has now grown into what is the most popular within the product category. It has a powerful resolution and a wide array of advanced features. Another option that is equally popular is the Sony PlayStation VR, which comes with a 5.7-inch OLED display. Google Cardboard, meanwhile, is an option that is similar in terms of effects, but simpler in terms of technology. It uses a simple cardboard with integrated optics to create the VR effect.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### 2016 is going to be a big year for VR
 
 **Deloitte, in one of its researches, have noted that 2016 is going to be a big year for VR,** predicting that it will be a billion dollar industry, with $700 million resulting from hardware sales and the remaining amount from content. By 2020, it is expected that it will be worth more than $14.6 billion. More so, in a report by Goldman Sachs, it has been reiterated that there are more than $3.25 billion in venture capital investments in the VR industry, which is reflective of the high hopes of businesses that it is indeed going to be the next big thing in entertainment.
@@ -58,8 +45,9 @@ No advertising on the website.
  )
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Challenges for VR
 
 ### Powerful computers and smartphones will be required
@@ -78,139 +66,6 @@ No advertising on the website.
 
  Lastly, and perhaps most importantly, the challenge is to find more applications. It is currently being centered on game-based applications. It has also been recently talked about because of being used for watching porn. Manufacturers are challenged to come up with creative ways in order to increase the usefulness of such a promising device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 3: Conclusion
-
- In sum, while it is undeniable that VR is big in today’s time, there is a lot of room for improvement. There are limited choices when it comes to VR products available on the market, and for many, it is still a bit expensive. Others lack knowledge on how it works, which results into hesitation. There are also some obstacles that have yet to be addressed and more opportunities to be uncovered. It would be safe to say that it is still in its infancy, but slowly, it is getting to the top.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-## Part 1: State of VR Technology
-
-### VR technology is New
-
-**Being a relatively new technology, VR technology is clearly just beginning to take off.** There are companies manufacturing their own VR headsets, but they are still not as big as other products that are meant to entertain. Aside from the limited options, one more thing that is worth noting about the current state of VR is the fact that content is limited, as well as the applications. Most of the products available on the market today are targeted towards gamers and mostly exclusive to high-end buyers because of its expensive price.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-### The most popular brands of VR headsets today is Oculus Rift
-
-**One of the most popular brands of VR headsets today is Oculus Rift, which is also what is used in Samsung Gear VR.** It started from a Kick starter campaign and has now grown into what is the most popular within the product category. It has a powerful resolution and a wide array of advanced features. Another option that is equally popular is the Sony PlayStation VR, which comes with a 5.7-inch OLED display. Google Cardboard, meanwhile, is an option that is similar in terms of effects, but simpler in terms of technology. It uses a simple cardboard with integrated optics to create the VR effect.
-
-### 2016 is going to be a big year for VR
-
-**Deloitte, in one of its researches, have noted that 2016 is going to be a big year for VR,** predicting that it will be a billion dollar industry, with $700 million resulting from hardware sales and the remaining amount from content. By 2020, it is expected that it will be worth more than $14.6 billion. More so, in a report by Goldman Sachs, it has been reiterated that there are more than $3.25 billion in venture capital investments in the VR industry, which is reflective of the high hopes of businesses that it is indeed going to be the next big thing in entertainment.
-
-![vr-technology
-]( https://images.wondershare.com/filmora/resource/vr-technology.jpg
- )
-
-## Part 2: Challenges for VR
-
-### Powerful computers and smartphones will be required
-
- In spite of being full of potential, however, there are also some challenges that should be addressed in order to ensure the success of VR. Among others, one of the most significant would be the need for powerful devices that would complement the headsets. **Powerful computers and smartphones will be required to render the effects that are anticipated.** For Oculus Rift, for instance, a powerful video card is needed for a computer, something you might not have at home, making the VR technology inapplicable.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-### VR design
-
- In addition, there are also challenges when it comes to aesthetics. Today’s VR headsets look almost entirely the same – they are bulky, and they look silly. **Manufacturers must find a way in order to make the design more aesthetically-pleasing.**
-
-### VR headsets should be affordable
-
-**Manufacturers will also be challenged to make VR headsets more affordable** so that more people will be able to purchase it. Most of the models currently available are just too expensive for average buyers.
-
-###
-
- Lastly, and perhaps most importantly, the challenge is to find more applications. It is currently being centered on game-based applications. It has also been recently talked about because of being used for watching porn. Manufacturers are challenged to come up with creative ways in order to increase the usefulness of such a promising device.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 3: Conclusion
-
- In sum, while it is undeniable that VR is big in today’s time, there is a lot of room for improvement. There are limited choices when it comes to VR products available on the market, and for many, it is still a bit expensive. Others lack knowledge on how it works, which results into hesitation. There are also some obstacles that have yet to be addressed and more opportunities to be uncovered. It would be safe to say that it is still in its infancy, but slowly, it is getting to the top.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 1: State of VR Technology
-
-### VR technology is New
-
-**Being a relatively new technology, VR technology is clearly just beginning to take off.** There are companies manufacturing their own VR headsets, but they are still not as big as other products that are meant to entertain. Aside from the limited options, one more thing that is worth noting about the current state of VR is the fact that content is limited, as well as the applications. Most of the products available on the market today are targeted towards gamers and mostly exclusive to high-end buyers because of its expensive price.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### The most popular brands of VR headsets today is Oculus Rift
-
-**One of the most popular brands of VR headsets today is Oculus Rift, which is also what is used in Samsung Gear VR.** It started from a Kick starter campaign and has now grown into what is the most popular within the product category. It has a powerful resolution and a wide array of advanced features. Another option that is equally popular is the Sony PlayStation VR, which comes with a 5.7-inch OLED display. Google Cardboard, meanwhile, is an option that is similar in terms of effects, but simpler in terms of technology. It uses a simple cardboard with integrated optics to create the VR effect.
-
-### 2016 is going to be a big year for VR
-
-**Deloitte, in one of its researches, have noted that 2016 is going to be a big year for VR,** predicting that it will be a billion dollar industry, with $700 million resulting from hardware sales and the remaining amount from content. By 2020, it is expected that it will be worth more than $14.6 billion. More so, in a report by Goldman Sachs, it has been reiterated that there are more than $3.25 billion in venture capital investments in the VR industry, which is reflective of the high hopes of businesses that it is indeed going to be the next big thing in entertainment.
-
-![vr-technology
-]( https://images.wondershare.com/filmora/resource/vr-technology.jpg
- )
-
-## Part 2: Challenges for VR
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-### Powerful computers and smartphones will be required
-
- In spite of being full of potential, however, there are also some challenges that should be addressed in order to ensure the success of VR. Among others, one of the most significant would be the need for powerful devices that would complement the headsets. **Powerful computers and smartphones will be required to render the effects that are anticipated.** For Oculus Rift, for instance, a powerful video card is needed for a computer, something you might not have at home, making the VR technology inapplicable.
-
-### VR design
-
- In addition, there are also challenges when it comes to aesthetics. Today’s VR headsets look almost entirely the same – they are bulky, and they look silly. **Manufacturers must find a way in order to make the design more aesthetically-pleasing.**
-
-### VR headsets should be affordable
-
-**Manufacturers will also be challenged to make VR headsets more affordable** so that more people will be able to purchase it. Most of the models currently available are just too expensive for average buyers.
-
-###
-
- Lastly, and perhaps most importantly, the challenge is to find more applications. It is currently being centered on game-based applications. It has also been recently talked about because of being used for watching porn. Manufacturers are challenged to come up with creative ways in order to increase the usefulness of such a promising device.
-
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Conclusion
 
  In sum, while it is undeniable that VR is big in today’s time, there is a lot of room for improvement. There are limited choices when it comes to VR products available on the market, and for many, it is still a bit expensive. Others lack knowledge on how it works, which results into hesitation. There are also some obstacles that have yet to be addressed and more opportunities to be uncovered. It would be safe to say that it is still in its infancy, but slowly, it is getting to the top.
@@ -230,22 +85,21 @@ Follow @Benjamin Arango
 ## Part 1: State of VR Technology
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### VR technology is New
 
 **Being a relatively new technology, VR technology is clearly just beginning to take off.** There are companies manufacturing their own VR headsets, but they are still not as big as other products that are meant to entertain. Aside from the limited options, one more thing that is worth noting about the current state of VR is the fact that content is limited, as well as the applications. Most of the products available on the market today are targeted towards gamers and mostly exclusive to high-end buyers because of its expensive price.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The most popular brands of VR headsets today is Oculus Rift
 
 **One of the most popular brands of VR headsets today is Oculus Rift, which is also what is used in Samsung Gear VR.** It started from a Kick starter campaign and has now grown into what is the most popular within the product category. It has a powerful resolution and a wide array of advanced features. Another option that is equally popular is the Sony PlayStation VR, which comes with a 5.7-inch OLED display. Google Cardboard, meanwhile, is an option that is similar in terms of effects, but simpler in terms of technology. It uses a simple cardboard with integrated optics to create the VR effect.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### 2016 is going to be a big year for VR
 
 **Deloitte, in one of its researches, have noted that 2016 is going to be a big year for VR,** predicting that it will be a billion dollar industry, with $700 million resulting from hardware sales and the remaining amount from content. By 2020, it is expected that it will be worth more than $14.6 billion. More so, in a report by Goldman Sachs, it has been reiterated that there are more than $3.25 billion in venture capital investments in the VR industry, which is reflective of the high hopes of businesses that it is indeed going to be the next big thing in entertainment.
@@ -257,18 +111,24 @@ Follow @Benjamin Arango
 ## Part 2: Challenges for VR
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Powerful computers and smartphones will be required
 
  In spite of being full of potential, however, there are also some challenges that should be addressed in order to ensure the success of VR. Among others, one of the most significant would be the need for powerful devices that would complement the headsets. **Powerful computers and smartphones will be required to render the effects that are anticipated.** For Oculus Rift, for instance, a powerful video card is needed for a computer, something you might not have at home, making the VR technology inapplicable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### VR design
 
  In addition, there are also challenges when it comes to aesthetics. Today’s VR headsets look almost entirely the same – they are bulky, and they look silly. **Manufacturers must find a way in order to make the design more aesthetically-pleasing.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### VR headsets should be affordable
 
@@ -282,9 +142,126 @@ Follow @Benjamin Arango
 
  In sum, while it is undeniable that VR is big in today’s time, there is a lot of room for improvement. There are limited choices when it comes to VR products available on the market, and for many, it is still a bit expensive. Others lack knowledge on how it works, which results into hesitation. There are also some obstacles that have yet to be addressed and more opportunities to be uncovered. It would be safe to say that it is still in its infancy, but slowly, it is getting to the top.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+## Part 1: State of VR Technology
+
+### VR technology is New
+
+**Being a relatively new technology, VR technology is clearly just beginning to take off.** There are companies manufacturing their own VR headsets, but they are still not as big as other products that are meant to entertain. Aside from the limited options, one more thing that is worth noting about the current state of VR is the fact that content is limited, as well as the applications. Most of the products available on the market today are targeted towards gamers and mostly exclusive to high-end buyers because of its expensive price.
+
+### The most popular brands of VR headsets today is Oculus Rift
+
+**One of the most popular brands of VR headsets today is Oculus Rift, which is also what is used in Samsung Gear VR.** It started from a Kick starter campaign and has now grown into what is the most popular within the product category. It has a powerful resolution and a wide array of advanced features. Another option that is equally popular is the Sony PlayStation VR, which comes with a 5.7-inch OLED display. Google Cardboard, meanwhile, is an option that is similar in terms of effects, but simpler in terms of technology. It uses a simple cardboard with integrated optics to create the VR effect.
+
+### 2016 is going to be a big year for VR
+
+**Deloitte, in one of its researches, have noted that 2016 is going to be a big year for VR,** predicting that it will be a billion dollar industry, with $700 million resulting from hardware sales and the remaining amount from content. By 2020, it is expected that it will be worth more than $14.6 billion. More so, in a report by Goldman Sachs, it has been reiterated that there are more than $3.25 billion in venture capital investments in the VR industry, which is reflective of the high hopes of businesses that it is indeed going to be the next big thing in entertainment.
+
+![vr-technology
+]( https://images.wondershare.com/filmora/resource/vr-technology.jpg
+ )
+
+## Part 2: Challenges for VR
+
+### Powerful computers and smartphones will be required
+
+ In spite of being full of potential, however, there are also some challenges that should be addressed in order to ensure the success of VR. Among others, one of the most significant would be the need for powerful devices that would complement the headsets. **Powerful computers and smartphones will be required to render the effects that are anticipated.** For Oculus Rift, for instance, a powerful video card is needed for a computer, something you might not have at home, making the VR technology inapplicable.
+
+### VR design
+
+ In addition, there are also challenges when it comes to aesthetics. Today’s VR headsets look almost entirely the same – they are bulky, and they look silly. **Manufacturers must find a way in order to make the design more aesthetically-pleasing.**
+
+### VR headsets should be affordable
+
+**Manufacturers will also be challenged to make VR headsets more affordable** so that more people will be able to purchase it. Most of the models currently available are just too expensive for average buyers.
+
+###
+
+ Lastly, and perhaps most importantly, the challenge is to find more applications. It is currently being centered on game-based applications. It has also been recently talked about because of being used for watching porn. Manufacturers are challenged to come up with creative ways in order to increase the usefulness of such a promising device.
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 3: Conclusion
+
+ In sum, while it is undeniable that VR is big in today’s time, there is a lot of room for improvement. There are limited choices when it comes to VR products available on the market, and for many, it is still a bit expensive. Others lack knowledge on how it works, which results into hesitation. There are also some obstacles that have yet to be addressed and more opportunities to be uncovered. It would be safe to say that it is still in its infancy, but slowly, it is getting to the top.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+## Part 1: State of VR Technology
+
+### VR technology is New
+
+**Being a relatively new technology, VR technology is clearly just beginning to take off.** There are companies manufacturing their own VR headsets, but they are still not as big as other products that are meant to entertain. Aside from the limited options, one more thing that is worth noting about the current state of VR is the fact that content is limited, as well as the applications. Most of the products available on the market today are targeted towards gamers and mostly exclusive to high-end buyers because of its expensive price.
+
+### The most popular brands of VR headsets today is Oculus Rift
+
+**One of the most popular brands of VR headsets today is Oculus Rift, which is also what is used in Samsung Gear VR.** It started from a Kick starter campaign and has now grown into what is the most popular within the product category. It has a powerful resolution and a wide array of advanced features. Another option that is equally popular is the Sony PlayStation VR, which comes with a 5.7-inch OLED display. Google Cardboard, meanwhile, is an option that is similar in terms of effects, but simpler in terms of technology. It uses a simple cardboard with integrated optics to create the VR effect.
+
+### 2016 is going to be a big year for VR
+
+**Deloitte, in one of its researches, have noted that 2016 is going to be a big year for VR,** predicting that it will be a billion dollar industry, with $700 million resulting from hardware sales and the remaining amount from content. By 2020, it is expected that it will be worth more than $14.6 billion. More so, in a report by Goldman Sachs, it has been reiterated that there are more than $3.25 billion in venture capital investments in the VR industry, which is reflective of the high hopes of businesses that it is indeed going to be the next big thing in entertainment.
+
+![vr-technology
+]( https://images.wondershare.com/filmora/resource/vr-technology.jpg
+ )
+
+## Part 2: Challenges for VR
+
+### Powerful computers and smartphones will be required
+
+ In spite of being full of potential, however, there are also some challenges that should be addressed in order to ensure the success of VR. Among others, one of the most significant would be the need for powerful devices that would complement the headsets. **Powerful computers and smartphones will be required to render the effects that are anticipated.** For Oculus Rift, for instance, a powerful video card is needed for a computer, something you might not have at home, making the VR technology inapplicable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### VR design
+
+ In addition, there are also challenges when it comes to aesthetics. Today’s VR headsets look almost entirely the same – they are bulky, and they look silly. **Manufacturers must find a way in order to make the design more aesthetically-pleasing.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### VR headsets should be affordable
+
+**Manufacturers will also be challenged to make VR headsets more affordable** so that more people will be able to purchase it. Most of the models currently available are just too expensive for average buyers.
+
+###
+
+ Lastly, and perhaps most importantly, the challenge is to find more applications. It is currently being centered on game-based applications. It has also been recently talked about because of being used for watching porn. Manufacturers are challenged to come up with creative ways in order to increase the usefulness of such a promising device.
+
+## Part 3: Conclusion
+
+ In sum, while it is undeniable that VR is big in today’s time, there is a lot of room for improvement. There are limited choices when it comes to VR products available on the market, and for many, it is still a bit expensive. Others lack knowledge on how it works, which results into hesitation. There are also some obstacles that have yet to be addressed and more opportunities to be uncovered. It would be safe to say that it is still in its infancy, but slowly, it is getting to the top.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -315,5 +292,24 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-lg-360-camera-update-revolutionary-tech-and-features-reviewed/"><u>[New] 2024 Approved LG 360 Camera Update Revolutionary Tech and Features Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-photoharmony-android-and-ios-instagram-collages/"><u>[New] 2024 Approved PhotoHarmony Android & iOS Instagram Collages</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-creativity-adding-borders-in-video-stories-for-2024/"><u>[New] Unlock Creativity Adding Borders in Video Stories for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-googles-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential/"><u>[Updated] Google's Goldmine A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-novice-path-to-prosperity-making-money-on-periscope/"><u>[Updated] Novice Path to Prosperity Making Money on Periscope</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skin-the-subject-eradicate-bg-in-affinity/"><u>[Updated] Skin the Subject, Eradicate Bg in Affinity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-srt-conversion-made-simple-3-actionable-solutions/"><u>[Updated] SRT Conversion Made Simple 3 Actionable Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-landscape-of-firefox-picture-in-picture/"><u>2024 Approved Navigating the Landscape of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sleek-60-second-fades/"><u>2024 Approved Sleek 60-Second Fades</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-laptop-ventilation-for-your-device-check-out-the-topmate-c3amator-review/"><u>Affordable Laptop Ventilation for Your Device? Check Out the TopMate C3amator Review!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/essential-list-of-top-10-costless-apps-for-srt-files/"><u>Essential List of Top 10 Costless Apps for Srt Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-usb-device-unrecognizable-alerts-a-step-by-step-guide/"><u>Fixing Persistent 'USB Device Unrecognizable' Alerts: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-x9b-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor X9b to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-approach-to-crafting-xml-for-podcasts/"><u>In 2024, Simplified Approach to Crafting XML for Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laugh-loom-imgur-memomaker-for-2024/"><u>Laugh Loom Imgur MemoMaker for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-adobe-easy-hue-transformations-for-2024/"><u>Mastering Adobe Easy Hue Transformations for 2024</u></a></li>
+</ul></div>
 

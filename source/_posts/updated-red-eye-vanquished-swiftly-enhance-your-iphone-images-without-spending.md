@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Red Eye Vanquished  Swiftly Enhance Your iPhone Images Without Spending\""
-date: 2024-07-27T22:43:34.855Z
-updated: 2024-07-28T22:43:34.855Z
+date: 2024-12-14T23:29:43.686Z
+updated: 2024-12-17T17:16:53.291Z
 tags: 
   - screen-recording
   - ai video
@@ -33,26 +33,14 @@ This typically happens when you try to [take picture in the dim light or in the 
 * [Part 1: Remove Red Eyes on iPhone with Photos app for FREE](#remove%5Fred%5Feye%5Fwith%5Fphotos%5Fapp)
 * [Part 2: 5 Best Red Eye Remover Apps for iPhone \[FREE Options Included\] ](#best%5Fred%5Feye-removers%5Ffor-iPhone)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Polish video footage with Filmora video editor
 
 [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) provides much more intuitive interface to help creators to empower the imagination. Beside the basic video editing, you can now do visual audio editing further. Download the free trial version to test it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to remove Red Eye with your iPhone's FREE Photo App
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![red eye photo](https://images.wondershare.com/filmora/article-images/remove-red-eye-from-iphone.jpg)
 
 Image resource: OS X Daily
@@ -65,10 +53,11 @@ This section will provide you the steps for red eye correction on iPhone with th
 
 **Step 3** – Choose the "Edit" option from the screen and then you are required to tap on the "Red Eye Correction" option. This eye correction icon will be the image of an eye from which a slanting line is crossing through it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/red-eye-correction-button-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image resource: OS X Daily
 
@@ -106,9 +95,6 @@ Cost: $3.99
 
 User Rating: 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![facetune-app](https://images.wondershare.com/filmora/article-images/facetune-app.jpg)
 
 [Click to download this app](https://apps.apple.com/us/app/facetune/id606310581)
@@ -119,15 +105,16 @@ Another red eye remover app in the list is Facetune. The app is available in the
 * You can get the beautiful skin in your pictures via Facetune by removing pimples or blemishes etc.
 * The app can also work as hair salon, makeup artist and help in sharing the files to the friends too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Pixelmator
 
 Cost: $4.99
 
 User Rating: 3.8
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pixelmator-app](https://images.wondershare.com/filmora/article-images/pixelmator-app.jpg)
 
 [Click to download this app](https://apps.apple.com/us/app/pixelmator/id924695435)
@@ -154,16 +141,10 @@ The fourth in the list is Visage: perfect face tune app which is free of cost an
 * Hiding pimples, spots and even wrinkles from the face
 * Comparing before and after images to judge clearly
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Photo Editor by Aviary
 
 Cost: Free
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![photo-editor-by-aviary](https://images.wondershare.com/filmora/article-images/photo-editor-by-aviary.jpg)
 
 [Click to download this app](https://apps.apple.com/us/app/photoshop-express-photo-editor/id331975235)
@@ -182,14 +163,163 @@ This app has been discontinued on December 10, 2018 by Adobe, and it's not avail
 
 After removing the red eyes from your iPhone photos, it’s time to make your photos to next level by making them into a video. [Making videos from the photos](https://tools.techidaily.com/wondershare/filmora/download/) you taken with iPhone is easy if you are using Filmora since it supports import photos from iPhone directly and has several different aspect ratios for you to choose. You can add titles, transitions, filters and overlays to photos and choose the royal free music from the sound library.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+That awkward moment when you excitedly click pictures from your iPhone to capture your perfect moments and get the pictures with those annoying   **red eyes glowing**  due to flash. The picture looks clumsy and that enthusiasm turns into dissatisfaction ultimately forcing you to make the pose and take the picture again.
+
+This typically happens when you try to [take picture in the dim light or in the dark](https://tools.techidaily.com/wondershare/filmora/download/). Accordingly, we have reached here with this post, after reading which you will be free from this unpleasant situation and will be able to   **remove red eye on iPhone for free with the Photos app** . We will also offer some useful   **red eye remover apps for iPhone**.
+
+* [Part 1: Remove Red Eyes on iPhone with Photos app for FREE](#remove%5Fred%5Feye%5Fwith%5Fphotos%5Fapp)
+* [Part 2: 5 Best Red Eye Remover Apps for iPhone \[FREE Options Included\] ](#best%5Fred%5Feye-removers%5Ffor-iPhone)
+
+### Polish video footage with Filmora video editor
+
+[Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) provides much more intuitive interface to help creators to empower the imagination. Beside the basic video editing, you can now do visual audio editing further. Download the free trial version to test it.
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 1: How to remove Red Eye with your iPhone's FREE Photo App
+
+![red eye photo](https://images.wondershare.com/filmora/article-images/remove-red-eye-from-iphone.jpg)
+
+Image resource: OS X Daily
+
+This section will provide you the steps for red eye correction on iPhone with the built-in Photos app for free. Please note that you will need an iPhone **running with iOS 7 and later.**  Read along to get the steps and fix red eye with iPhone.
+
+**Step 1** – tap on the "Photos" app in your iPhone. Post launching the app, look for the layered rectangles icon located at the bottom right corner of the screen. This icon is for "Albums". Tap on it and proceed to the next step.
+
+**Step 2** – Now, tap on "All Photos" appearing on the screen followed by choosing the image you wish to edit.
+
+**Step 3** – Choose the "Edit" option from the screen and then you are required to tap on the "Red Eye Correction" option. This eye correction icon will be the image of an eye from which a slanting line is crossing through it.
+
+![](https://images.wondershare.com/filmora/article-images/red-eye-correction-button-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Image resource: OS X Daily
+
+Note: The "Red Eye Correction" option will not appear when the picture is captured without the use of flash. It will only be visible on the photos taken with flash and the screenshots.
+
+**Step 4** – After this, tap the red eye one by one and the red eye correction feature will change pixels as needed on the tapped area. You can tap eye once again if the edit was not of your preference.
+
+**Step 5** – lastly, tap on the eye with slash icon i.e. "Red Eye Correction" icon to return to the main edit screen. Hit on "Done" once satisfied with the results.
+
+If in case, you feel the changes are not according to what you needed, you can again go to the edit screen and hit on "Revert" option. This will restore the original picture.
+
+## Best 5 Red eye remover apps for iPhone
+
+After making you aware with the tutorial to remove red eye with iPhone Photos app, here are 5 red eye remover apps that will help you for the same.
+
+### 1\. Adobe Photoshop Express
+
+Cost: Free & In-App Purchases $4.99 monthly
+
+User rating: 4.8
+
+![adobe-photoshop-express](https://images.wondershare.com/filmora/article-images/adobe-photoshop-express.jpg)
+
+[Click to download this app](https://apps.apple.com/us/app/photoshop-express-photo-editor/id331975235)
+
+Adobe Photoshop Express is considered to be one of the   **most powerful red eye remover apps**  that gives the users flexibility to perform multiple tasks. The app can:
+
+* Make beautiful and share-worthy collages with a single tap
+* Help in uploading files from various platforms
+* Do numerous edits to the images apart from removing red eye such as crop, rotate, remove blemish, and add effects, borders and more.
+
+### 2\. Facetune
+
+Cost: $3.99
+
+User Rating: 4.9
+
+![facetune-app](https://images.wondershare.com/filmora/article-images/facetune-app.jpg)
+
+[Click to download this app](https://apps.apple.com/us/app/facetune/id606310581)
+
+Another red eye remover app in the list is Facetune. The app is available in the App Store and will demand a little penny of yours. Besides removing red eyes, see what's more Facetune can do.
+
+* Who doesn't want a smiling face and what if your smile looks more enhanced? Facetune can help in widening your smile brightening the teeth as well.
+* You can get the beautiful skin in your pictures via Facetune by removing pimples or blemishes etc.
+* The app can also work as hair salon, makeup artist and help in sharing the files to the friends too.
+
+### 3\. Pixelmator
+
+Cost: $4.99
+
+User Rating: 3.8
+
+![pixelmator-app](https://images.wondershare.com/filmora/article-images/pixelmator-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+[Click to download this app](https://apps.apple.com/us/app/pixelmator/id924695435)
+
+You can also fix red eye with the help of Pixelmator which is a feature-rich app. It can seamlessly work with iOS 11 as well as Mac computer. The features are:
+
+* Pixelmator helps in editing photos in different aspects like sharpening, blur, add effects, delete image imperfections etc.
+* With this app, you get full painting enhancement features to give a touch up to your paintings.
+* It shows a great compatibility with various formats.
+
+### 4\. Visage: perfect face tune app
+
+Cost: Free & In-App purchases from $1.19 - $5.99
+
+User Rating: 4
+
+![visage-lab-remove-red-eye](https://images.wondershare.com/filmora/article-images/visage-lab-remove-red-eye.jpg)
+
+[Click to download this app](https://apps.apple.com/al/app/visage-face-tune-edit-photos/id489833171)
+
+The fourth in the list is Visage: perfect face tune app which is free of cost and requires iOS 9 and later versions. iPhone, iPad and iPod touch are fully supported by this app to remove red eyes. Not just red eye removal, the app can be used for:
+
+* Face enhancement like eye or skin makeup, teeth whitening, artistic effects etc.
+* Hiding pimples, spots and even wrinkles from the face
+* Comparing before and after images to judge clearly
+
+### 5\. Photo Editor by Aviary
+
+Cost: Free
+
+![photo-editor-by-aviary](https://images.wondershare.com/filmora/article-images/photo-editor-by-aviary.jpg)
+
+[Click to download this app](https://apps.apple.com/us/app/photoshop-express-photo-editor/id331975235)
+
+The last app which can be used for red eye removal from the photos is Photo Editor by Aviary which promises a magical way to create and share beautiful photos. It is simple and fun to use. Here are its most talked about features:
+
+* It comes with a wide range of filters, sticker, touch-up tools and frames.
+* You can alter the brightness, highlights and more according to you via this app.
+* The photos can be easily shared to Instagram, Twitter or Facebook.
+
+Notes
+
+This app has been discontinued on December 10, 2018 by Adobe, and it's not available on App Store now. You can try other [photo editor apps](https://tools.techidaily.com/wondershare/filmora/download/) mentioned above to remove red eyes from photo on iPhone.
+
+## Best Video Editing Software for Making Photos with Music
+
+After removing the red eyes from your iPhone photos, it’s time to make your photos to next level by making them into a video. [Making videos from the photos](https://tools.techidaily.com/wondershare/filmora/download/) you taken with iPhone is easy if you are using Filmora since it supports import photos from iPhone directly and has several different aspect ratios for you to choose. You can add titles, transitions, filters and overlays to photos and choose the royal free music from the sound library.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -229,9 +359,6 @@ This section will provide you the steps for red eye correction on iPhone with th
 
 **Step 3** – Choose the "Edit" option from the screen and then you are required to tap on the "Red Eye Correction" option. This eye correction icon will be the image of an eye from which a slanting line is crossing through it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/red-eye-correction-button-iphone.jpg)
 
 Image resource: OS X Daily
@@ -248,9 +375,6 @@ If in case, you feel the changes are not according to what you needed, you can a
 
 After making you aware with the tutorial to remove red eye with iPhone Photos app, here are 5 red eye remover apps that will help you for the same.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Adobe Photoshop Express
 
 Cost: Free & In-App Purchases $4.99 monthly
@@ -284,8 +408,9 @@ Another red eye remover app in the list is Facetune. The app is available in the
 * The app can also work as hair salon, makeup artist and help in sharing the files to the friends too.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Pixelmator
 
 Cost: $4.99
@@ -302,9 +427,6 @@ You can also fix red eye with the help of Pixelmator which is a feature-rich app
 * With this app, you get full painting enhancement features to give a touch up to your paintings.
 * It shows a great compatibility with various formats.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Visage: perfect face tune app
 
 Cost: Free & In-App purchases from $1.19 - $5.99
@@ -312,6 +434,10 @@ Cost: Free & In-App purchases from $1.19 - $5.99
 User Rating: 4
 
 ![visage-lab-remove-red-eye](https://images.wondershare.com/filmora/article-images/visage-lab-remove-red-eye.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Click to download this app](https://apps.apple.com/al/app/visage-face-tune-edit-photos/id489833171)
 
@@ -321,16 +447,10 @@ The fourth in the list is Visage: perfect face tune app which is free of cost an
 * Hiding pimples, spots and even wrinkles from the face
 * Comparing before and after images to judge clearly
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Photo Editor by Aviary
 
 Cost: Free
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![photo-editor-by-aviary](https://images.wondershare.com/filmora/article-images/photo-editor-by-aviary.jpg)
 
 [Click to download this app](https://apps.apple.com/us/app/photoshop-express-photo-editor/id331975235)
@@ -351,9 +471,6 @@ After removing the red eyes from your iPhone photos, it’s time to make your ph
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -393,10 +510,6 @@ This section will provide you the steps for red eye correction on iPhone with th
 
 **Step 3** – Choose the "Edit" option from the screen and then you are required to tap on the "Red Eye Correction" option. This eye correction icon will be the image of an eye from which a slanting line is crossing through it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/red-eye-correction-button-iphone.jpg)
 
 Image resource: OS X Daily
@@ -409,25 +522,20 @@ Note: The "Red Eye Correction" option will not appear when the picture is captur
 
 If in case, you feel the changes are not according to what you needed, you can again go to the edit screen and hit on "Revert" option. This will restore the original picture.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best 5 Red eye remover apps for iPhone
 
 After making you aware with the tutorial to remove red eye with iPhone Photos app, here are 5 red eye remover apps that will help you for the same.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Adobe Photoshop Express
 
 Cost: Free & In-App Purchases $4.99 monthly
 
 User rating: 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![adobe-photoshop-express](https://images.wondershare.com/filmora/article-images/adobe-photoshop-express.jpg)
 
 [Click to download this app](https://apps.apple.com/us/app/photoshop-express-photo-editor/id331975235)
@@ -444,9 +552,6 @@ Cost: $3.99
 
 User Rating: 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![facetune-app](https://images.wondershare.com/filmora/article-images/facetune-app.jpg)
 
 [Click to download this app](https://apps.apple.com/us/app/facetune/id606310581)
@@ -489,182 +594,10 @@ The fourth in the list is Visage: perfect face tune app which is free of cost an
 * Hiding pimples, spots and even wrinkles from the face
 * Comparing before and after images to judge clearly
 
-### 5\. Photo Editor by Aviary
-
-Cost: Free
-
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![photo-editor-by-aviary](https://images.wondershare.com/filmora/article-images/photo-editor-by-aviary.jpg)
 
-[Click to download this app](https://apps.apple.com/us/app/photoshop-express-photo-editor/id331975235)
-
-The last app which can be used for red eye removal from the photos is Photo Editor by Aviary which promises a magical way to create and share beautiful photos. It is simple and fun to use. Here are its most talked about features:
-
-* It comes with a wide range of filters, sticker, touch-up tools and frames.
-* You can alter the brightness, highlights and more according to you via this app.
-* The photos can be easily shared to Instagram, Twitter or Facebook.
-
-Notes
-
-This app has been discontinued on December 10, 2018 by Adobe, and it's not available on App Store now. You can try other [photo editor apps](https://tools.techidaily.com/wondershare/filmora/download/) mentioned above to remove red eyes from photo on iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Best Video Editing Software for Making Photos with Music
-
-After removing the red eyes from your iPhone photos, it’s time to make your photos to next level by making them into a video. [Making videos from the photos](https://tools.techidaily.com/wondershare/filmora/download/) you taken with iPhone is easy if you are using Filmora since it supports import photos from iPhone directly and has several different aspect ratios for you to choose. You can add titles, transitions, filters and overlays to photos and choose the royal free music from the sound library.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-That awkward moment when you excitedly click pictures from your iPhone to capture your perfect moments and get the pictures with those annoying   **red eyes glowing**  due to flash. The picture looks clumsy and that enthusiasm turns into dissatisfaction ultimately forcing you to make the pose and take the picture again.
-
-This typically happens when you try to [take picture in the dim light or in the dark](https://tools.techidaily.com/wondershare/filmora/download/). Accordingly, we have reached here with this post, after reading which you will be free from this unpleasant situation and will be able to   **remove red eye on iPhone for free with the Photos app** . We will also offer some useful   **red eye remover apps for iPhone**.
-
-* [Part 1: Remove Red Eyes on iPhone with Photos app for FREE](#remove%5Fred%5Feye%5Fwith%5Fphotos%5Fapp)
-* [Part 2: 5 Best Red Eye Remover Apps for iPhone \[FREE Options Included\] ](#best%5Fred%5Feye-removers%5Ffor-iPhone)
-
-### Polish video footage with Filmora video editor
-
-[Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) provides much more intuitive interface to help creators to empower the imagination. Beside the basic video editing, you can now do visual audio editing further. Download the free trial version to test it.
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 1: How to remove Red Eye with your iPhone's FREE Photo App
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
-![red eye photo](https://images.wondershare.com/filmora/article-images/remove-red-eye-from-iphone.jpg)
-
-Image resource: OS X Daily
-
-This section will provide you the steps for red eye correction on iPhone with the built-in Photos app for free. Please note that you will need an iPhone **running with iOS 7 and later.**  Read along to get the steps and fix red eye with iPhone.
-
-**Step 1** – tap on the "Photos" app in your iPhone. Post launching the app, look for the layered rectangles icon located at the bottom right corner of the screen. This icon is for "Albums". Tap on it and proceed to the next step.
-
-**Step 2** – Now, tap on "All Photos" appearing on the screen followed by choosing the image you wish to edit.
-
-**Step 3** – Choose the "Edit" option from the screen and then you are required to tap on the "Red Eye Correction" option. This eye correction icon will be the image of an eye from which a slanting line is crossing through it.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/red-eye-correction-button-iphone.jpg)
-
-Image resource: OS X Daily
-
-Note: The "Red Eye Correction" option will not appear when the picture is captured without the use of flash. It will only be visible on the photos taken with flash and the screenshots.
-
-**Step 4** – After this, tap the red eye one by one and the red eye correction feature will change pixels as needed on the tapped area. You can tap eye once again if the edit was not of your preference.
-
-**Step 5** – lastly, tap on the eye with slash icon i.e. "Red Eye Correction" icon to return to the main edit screen. Hit on "Done" once satisfied with the results.
-
-If in case, you feel the changes are not according to what you needed, you can again go to the edit screen and hit on "Revert" option. This will restore the original picture.
-
-## Best 5 Red eye remover apps for iPhone
-
-After making you aware with the tutorial to remove red eye with iPhone Photos app, here are 5 red eye remover apps that will help you for the same.
-
-### 1\. Adobe Photoshop Express
-
-Cost: Free & In-App Purchases $4.99 monthly
-
-User rating: 4.8
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
-![adobe-photoshop-express](https://images.wondershare.com/filmora/article-images/adobe-photoshop-express.jpg)
-
-[Click to download this app](https://apps.apple.com/us/app/photoshop-express-photo-editor/id331975235)
-
-Adobe Photoshop Express is considered to be one of the   **most powerful red eye remover apps**  that gives the users flexibility to perform multiple tasks. The app can:
-
-* Make beautiful and share-worthy collages with a single tap
-* Help in uploading files from various platforms
-* Do numerous edits to the images apart from removing red eye such as crop, rotate, remove blemish, and add effects, borders and more.
-
-### 2\. Facetune
-
-Cost: $3.99
-
-User Rating: 4.9
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
-![facetune-app](https://images.wondershare.com/filmora/article-images/facetune-app.jpg)
-
-[Click to download this app](https://apps.apple.com/us/app/facetune/id606310581)
-
-Another red eye remover app in the list is Facetune. The app is available in the App Store and will demand a little penny of yours. Besides removing red eyes, see what's more Facetune can do.
-
-* Who doesn't want a smiling face and what if your smile looks more enhanced? Facetune can help in widening your smile brightening the teeth as well.
-* You can get the beautiful skin in your pictures via Facetune by removing pimples or blemishes etc.
-* The app can also work as hair salon, makeup artist and help in sharing the files to the friends too.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### 3\. Pixelmator
-
-Cost: $4.99
-
-User Rating: 3.8
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![pixelmator-app](https://images.wondershare.com/filmora/article-images/pixelmator-app.jpg)
-
-[Click to download this app](https://apps.apple.com/us/app/pixelmator/id924695435)
-
-You can also fix red eye with the help of Pixelmator which is a feature-rich app. It can seamlessly work with iOS 11 as well as Mac computer. The features are:
-
-* Pixelmator helps in editing photos in different aspects like sharpening, blur, add effects, delete image imperfections etc.
-* With this app, you get full painting enhancement features to give a touch up to your paintings.
-* It shows a great compatibility with various formats.
-
-### 4\. Visage: perfect face tune app
-
-Cost: Free & In-App purchases from $1.19 - $5.99
-
-User Rating: 4
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
-![visage-lab-remove-red-eye](https://images.wondershare.com/filmora/article-images/visage-lab-remove-red-eye.jpg)
-
-[Click to download this app](https://apps.apple.com/al/app/visage-face-tune-edit-photos/id489833171)
-
-The fourth in the list is Visage: perfect face tune app which is free of cost and requires iOS 9 and later versions. iPhone, iPad and iPod touch are fully supported by this app to remove red eyes. Not just red eye removal, the app can be used for:
-
-* Face enhancement like eye or skin makeup, teeth whitening, artistic effects etc.
-* Hiding pimples, spots and even wrinkles from the face
-* Comparing before and after images to judge clearly
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Photo Editor by Aviary
 
 Cost: Free
@@ -683,15 +616,16 @@ Notes
 
 This app has been discontinued on December 10, 2018 by Adobe, and it's not available on App Store now. You can try other [photo editor apps](https://tools.techidaily.com/wondershare/filmora/download/) mentioned above to remove red eyes from photo on iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Video Editing Software for Making Photos with Music
 
 After removing the red eyes from your iPhone photos, it’s time to make your photos to next level by making them into a video. [Making videos from the photos](https://tools.techidaily.com/wondershare/filmora/download/) you taken with iPhone is easy if you are using Filmora since it supports import photos from iPhone directly and has several different aspect ratios for you to choose. You can add titles, transitions, filters and overlays to photos and choose the royal free music from the sound library.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -722,5 +656,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-comprehensive-guide-to-youtubes-subscription-advantages/"><u>[New] 2024 Approved Comprehensive Guide to YouTube's Subscription Advantages</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-breakthrough-techniques-for-effective-macscreenscreencasting/"><u>[New] In 2024, Breakthrough Techniques for Effective MacScreenscreencasting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-your-gaming-experience-with-these-5-techniques-on-windows-11/"><u>[Updated] In 2024, Elevate Your Gaming Experience with These 5 Techniques on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-social-media-sensation-tiktoks-top-10-per-share/"><u>[Updated] In 2024, Social Media Sensation TikTok's Top 10 Per Share</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-infiltrating-the-top-channels-in-youtube-space/"><u>[Updated] Infiltrating the Top Channels in YouTube Space</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inshots-counterparts-for-pc-video-editing/"><u>[Updated] Inshot's Counterparts for PC Video Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-metaverse-journeys-ten-sci-fi-films-that-expand-realities/"><u>2024 Approved Metaverse Journeys Ten Sci-Fi Films that Expand Realities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-how-to-download-and-personalize-whatsapp-ringtone-on-mobile/"><u>2024 Approved Step-By-Step How to Download and Personalize WhatsApp Ringtone on Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphoneandroids-top-sticker-adding-apps-the-essential-10-collection/"><u>In 2024, IPhone/Android's Top Sticker-Adding Apps The Essential 10 Collection</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-integration-for-tiktok-video-content/"><u>In 2024, Twitter Integration for TikTok Video Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/insight-into-magix-design-studio-for-2024/"><u>Insight Into MAGIX Design Studio for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-srt-postings-a-guide-for-platform-specific-strategies-for-2024/"><u>Mastering the Art of SRT Postings A Guide for Platform-Specific Strategies for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-best-tiktok-watermark-removers-online-for-2024/"><u>New Best TikTok Watermark Removers Online for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/outshine-filmora-a-roundup-of-the-best-tablets-for-image-tweaking-for-2024/"><u>Outshine Filmora A Roundup of the Best Tablets for Image Tweaking for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-presentations-with-a-personal-touch-adding-audio-for-2024/"><u>Perfect Presentations with a Personal Touch Adding Audio for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/srt-transition-the-ultimate-subcap-guide/"><u>SRT Transition The Ultimate SUBCAP Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-warnings-that-reveal-water-intrusion-in-your-iphone-device/"><u>Top 9 Warnings That Reveal Water Intrusion in Your iPhone Device</u></a></li>
+</ul></div>
 

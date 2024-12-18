@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Slippery Surfaces  Olympic Winners of '22\""
-date: 2024-12-06T20:21:56.049Z
-updated: 2024-12-11T18:20:12.982Z
+date: 2024-12-17T01:44:52.111Z
+updated: 2024-12-18T01:44:01.625Z
 tags: 
   - screen-recording
   - ai video
@@ -24,10 +24,6 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -44,28 +40,28 @@ Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
@@ -75,6 +71,10 @@ The last leg of competition among skaters before reaching the finishing line at 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -108,6 +108,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -117,10 +121,6 @@ Step 4: Add all the still footages and clips on the Video Timeline while add aud
 Step 5: Select individual slides and apply Transition, Effects or add Titles and Elements from the top bar.
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -135,20 +135,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-instagram-stories-mastering-the-art-of-time-manipulation/"><u>[New] 2024 Approved Instagram Stories – Mastering the Art of Time Manipulation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-visuals-and-audio-top-5-video-creators-guide/"><u>[New] 2024 Approved Mastering Visuals and Audio Top 5 Video Creators' Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-nailing-the-art-of-ppt-video-reproduction/"><u>[New] 2024 Approved Nailing the Art of PPT Video Reproduction</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-exploring-the-versatility-of-magix-designer/"><u>[New] In 2024, Exploring the Versatility of MAGIX Designer</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-bypassing-identification-to-explore-instagram-stories-desktop-android-ios-for-2024/"><u>[Updated] Bypassing Identification to Explore Instagram Stories [Desktop, Android, iOS] for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-commerce-codex-for-instagram-creators-securing-profitable-alignments/"><u>[Updated] In 2024, The Commerce Codex for Instagram Creators Securing Profitable Alignments</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pathway-to-enlisting-world-class-cinematographers/"><u>[Updated] Pathway to Enlisting World-Class Cinematographers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simplified-method-to-tag-chapters-on-youtube-clips/"><u>[Updated] Simplified Method to Tag Chapters on YouTube Clips</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728498885180-wechat/"><u>如何利用开源工具免费解析WeChat信息</u></a></li>
-<li><a href="https://windows11.techidaily.com/conjoining-android-and-windows-11-tablets-effortlessly/"><u>Conjoining Android and Windows 11 Tablets Effortlessly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dreaming-of-cosmic-adornments-why-my-galactic-rendezvous-with-accessories-was-vetoed-by-samsung/"><u>Dreaming of Cosmic Adornments: Why My Galactic Rendezvous with Accessories Was Vetoed by Samsung</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastery-in-myths-and-modernity-the-yt-story-channels-of-23/"><u>In 2024, Mastery in Myths and Modernity The YT Story Channels of '23</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-graphic-hubs-offered-free-with-unmatched-quality-and-design-tools/"><u>In 2024, Prime Graphic Hubs Offered Free, With Unmatched Quality & Design Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-shaky-video-tamer-for-handheld-cams/"><u>In 2024, Shaky Video Tamer for Handheld Cams</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/monetized-critique-videos-the-truth-unveiled-for-2024/"><u>Monetized Critique Videos The Truth Unveiled for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instagram-to-tiktok-the-ultimate-connector/"><u>[New] Instagram to TikTok The Ultimate Connector</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-photo-framing-techniques-via-digital-platforms-2-written-by-user-johndoe/"><u>[New] Master Photo Framing Techniques via Digital Platforms (2 Written by User JohnDoe</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-flashlog-screen-grab-review-and-substitutes-for-2024/"><u>[Updated] FlashLog Screen Grab Review and Substitutes for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-concepts-to-recordings-a-step-by-step-guide-for-podcast-writers/"><u>[Updated] From Concepts to Recordings A Step-by-Step Guide for Podcast Writers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-your-media-best-ios-players-for-phones-and-tablets/"><u>[Updated] Master Your Media Best iOS Players for Phones & Tablets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mcb-video-graphics-pack-for-youtube-channels/"><u>[Updated] MCB Video Graphics Pack for YouTube Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smirk-sessions-humorous-content-for-all-events/"><u>[Updated] Smirk Sessions Humorous Content for All Events</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728488212750-office3/"><u>効果的で安価なOffice文書復元手順：3番手から最高の方法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-into-the-world-of-podcasting-from-concept-to-finalized-scripts/"><u>Dive Into the World of Podcasting From Concept to Finalized Scripts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-black-screen-problems-when-presenting-your-screen-in-discord-chats/"><u>How to Overcome Black Screen Problems When Presenting Your Screen in Discord Chats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-ios-choices-for-superior-video-experience/"><u>In 2024, Premier iOS Choices for Superior Video Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-silent-streamers-academy-learn-to-broadcast-on-ig-without-attention/"><u>In 2024, Silent Streamers Academy Learn to Broadcast on IG without Attention</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-blueprint-for-impressive-photographic-mosaics/"><u>In 2024, Step-by-Step Blueprint for Impressive Photographic Mosaics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-13-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 13 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-c55-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme C55 Phone Network-Ready</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picturing-laughter-building-memes-with-text-tool-for-2024/"><u>Picturing Laughter Building Memes with Text Tool for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/wave-riders-guide-tips-on-underwater-video-with-your-gopro-camera/"><u>Wave Riders' Guide Tips on Underwater Video with Your GoPro Camera</u></a></li>
 </ul></div>
 

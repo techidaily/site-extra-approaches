@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Luminary Lessons  Teaching the Power of Proper Lighting\""
-date: 2024-07-27T22:40:48.318Z
-updated: 2024-07-28T22:40:48.318Z
+date: 2024-12-15T03:10:36.079Z
+updated: 2024-12-17T23:07:33.370Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -52,19 +56,12 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -73,26 +70,32 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
@@ -103,18 +106,12 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -147,5 +144,19 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/uide-to-top-templates-for-youtube-previews/"><u>[New] Guide to Top Templates for YouTube Previews</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/asterful-guide-integrating-youtube-and-social-media-platforms-fb-for-2024/"><u>[New] Masterful Guide Integrating YouTube and Social Media Platforms FB for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-the-art-of-sound-alteration-on-sony-games/"><u>[Updated] Master the Art of Sound Alteration on Sony Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-no-money-more-matches-live-record-and-trim-soccer-games/"><u>[Updated] No Money, More Matches Live, Record & Trim Soccer Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-sponsorships-partnering-effectively-with-brands-live/"><u>2024 Approved Navigating Sponsorships Partnering Effectively with Brands Live</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-how-the-amazonbasics-cross-cut-shredder-measures-up-a-review-for-savvy-shoppers/"><u>Discover How the AmazonBasics Cross-Cut Shredder Measures Up - A Review for Savvy Shoppers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-make-your-instagram-stories-more-inclusive-with-easy-text-additions/"><u>How To Make Your Instagram Stories More Inclusive With Easy Text Additions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insightful-examination-of-wirecast-and-its-peers/"><u>In 2024, Insightful Examination of WireCast & Its Peers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rhythm-rangers-must-try-free-online-tools/"><u>In 2024, Rhythm Rangers' Must-Try Free Online Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-position-predictor-highest-charting-videos-for-2024/"><u>Prime Position Predictor Highest Charting Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/starting-out-right-key-actions-for-optimizing-your-brand-new-computer/"><u>Starting Out Right: Key Actions for Optimizing Your Brand-New Computer</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-note-12-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi Note 12 Pro 5G Reset Code | Dr.fone</u></a></li>
+</ul></div>
 

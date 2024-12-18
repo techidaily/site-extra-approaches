@@ -1,7 +1,7 @@
 ---
 title: "\"Phantom Footprints  Videography Review for 2024\""
-date: 2024-07-27T22:39:51.453Z
-updated: 2024-07-28T22:39:51.453Z
+date: 2024-12-15T01:22:08.287Z
+updated: 2024-12-17T17:59:54.352Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 # Drift Innocations Ghost-S Action Camera Review
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -38,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -113,15 +111,8 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -217,10 +208,11 @@ Follow @Max Wales
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -237,6 +229,10 @@ Follow @Max Wales
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
@@ -313,9 +309,6 @@ Follow @Max Wales
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
@@ -337,6 +330,10 @@ Follow @Max Wales
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Complete Review for Drift Ghost-S
 
@@ -411,15 +408,13 @@ Follow @Max Wales
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -449,5 +444,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-youtube-live-stream-on-any-device-for-2024/"><u>[New] How To Record YouTube Live Stream On Any Device for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-integrating-automatic-speech-conversion-into-powerpoint-presentations/"><u>[New] Integrating Automatic Speech Conversion Into PowerPoint Presentations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-your-craft-smartphone-lut-enhancements/"><u>[New] Master Your Craft Smartphone LUT Enhancements</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pc-friendly-non-inshot-editing-software/"><u>[New] PC-Friendly Non-Inshot Editing Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-chrome-os-vocal-personalization-guide-review-of-the-best-speech-converters/"><u>[Updated] In 2024, Chrome OS Vocal Personalization Guide Review of the Best Speech Converters</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-revisiting-old-photos-sending-them-as-snaps-on-snapchat-for-2024/"><u>[Updated] Revisiting Old Photos Sending Them as Snaps on Snapchat for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-film-finishing-finesse-download-personalized-epilogues-no-money/"><u>2024 Approved Film Finishing Finesse Download Personalized Epilogues, No Money</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-kinemaster-insider-the-art-of-seamless-video-transitions/"><u>2024 Approved Kinemaster Insider The Art of Seamless Video Transitions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-circumvent-ms-defender-block-on-other-av-tools/"><u>How to Circumvent MS Defender Block on Other AV Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-7-plus-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 7 Plus to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-twitter-video-converters-guide/"><u>In 2024, Premier Twitter Video Converters Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quintet-of-premium-picture-and-sound-recording-tools-for-2024/"><u>Quintet of Premium Picture & Sound Recording Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stay-ahead-of-the-game-use-mematic-for-2024/"><u>Stay Ahead of the Game - Use Mematic for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/trasforma-hdd-in-ssd-compatto-gratuitamente-con-questi-semplici-passaggi-di-windows/"><u>Trasforma HDD in SSD Compatto Gratuitamente Con Questi Semplici Passaggi Di Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974335727-upgrade-graphics-performance-install-intel-hd-graphics-3000-on-windows-10-with-ease/"><u>Upgrade Graphics Performance: Install Intel HD Graphics 3000 on Windows 10 with Ease</u></a></li>
+</ul></div>
 

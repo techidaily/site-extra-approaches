@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Filmmaking Tricks  Save Time & Money at Home\""
-date: 2024-07-27T22:42:14.156Z
-updated: 2024-07-28T22:42:14.156Z
+date: 2024-12-11T17:38:42.411Z
+updated: 2024-12-17T17:56:53.817Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://www.lifewire.com/thmb/D9CXMVwIxscGdFy-6htXBFxqE8I=/400x300/fi
 
 Have you ever wanted to film from home but missing some filming gear? You still haven't acted because of a limited budget. Well, in this article, we will share 5 tips and tricks to help you film at home. So let's dive into it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1\. Hack. DIY A Flag for Lighting Control
 
 When we set up the light near the subject, the light might be leaked onto the background. So, we may need to shape it to block the light from hitting the background.
@@ -33,14 +30,8 @@ On film sets and studios, the professionals use flags to absorb and make shapes 
 
 You can buy it from a nearby stationery store. Ensure the cardboard is not too big to fit the t-shirt around the board.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. A Black T-shirt
 
 For the black t-shirt, you can use an old t-shirt that you don't wear anymore. You can also find these shirts at your local thrift shop.
@@ -49,9 +40,6 @@ For the black t-shirt, you can use an old t-shirt that you don't wear anymore. Y
 
 After managing all the required things, you must wrap and secure the t-shirt around the board. If the size of the t-shirt is larger than cardboard, tie the sleeves to secure the t-shirt. Or you can also use tape to secure the t-shirt and fasten it on the backside.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![process for making diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-3.png)
 
 With this DIY flag, you can now easily give shape and block the light while filming at home. **Warnings:** Some fabrics are not fireproof, so always keep an eye on the flag.
@@ -62,18 +50,12 @@ After filming the video, see the precise results before using the flag, when the
 
 ![results after using diy flag for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Hack. DIY Black Wrap or Cinewrap
 
 The black wrap is used in professional studios and set up to block and shape light. You can block light by directly giving shape to LED lightbulbs. The black wrap is made mainly of aluminum, so it's easy to provide forms for different lights.
 
 The aluminum foils used in households have the same characteristics as a black wrap, so that you can use it as an alternative. Look at the following requirement to make it! To make a black wrap, you need two household tools. There is no need to get pricey things from the market. For this, follow the below outlines of the tools!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### 1\. A Light Bulb
 
 You can take any LED bulb present at our home. Ensure that the bulb size is manageable to avoid any issues handling it.
@@ -100,16 +82,10 @@ Step3 Leave a small part of the bulb open from the top and cover the part from t
 
 Step4 Ensure the lamp switch is off, and install the light bulb.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![process of creating a black wrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-7.png)
 
 When you turn on the lamp, the light has been shaped into a smaller light source.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Final Results for the Black Wrap or Cinewrap
 
 You can observe that the light is only at the required place, with no dispersion observed and no scattering. You can create more shapes to foil and then wrap them on the bulb for a different look.
@@ -136,9 +112,6 @@ As mentioned, you can get cardboard from a nearby stationery store. The cardboar
 
 The next thing you should have to make a reflector is foil paper. The foil paper is readily available at all supermarkets or in shops. Ensure that the foil paper is of aluminum because it can reflect back the light.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![foil paper used for making a light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-11.png)
 
 You can wrap the foil paper around the cardboard as smoothly as possible to prevent too many creases. The smoother look, the more chances of a glowing effect.
@@ -147,49 +120,32 @@ You can wrap the foil paper around the cardboard as smoothly as possible to prev
 
 You can see clearly that the subject face is brighter than before the reflector usage. You can make large-size reflectors too, as per your requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![results after using diy light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Part 4\. Hack. DIY LED Light Panel
 
 For a good-supplied light to a subject, you can make your own LED light panel with LED strips at home in two steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### 1\. A Cardboard
 
 Still, cardboard is the most helpful one. Ensure that the size of the cardboard is ideal and equal to the LED strips attached to it.
 
 ![cardboard used in diy led light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. LED Strips
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![led strips used for making a light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-14.png)
 
 First, you need to cut the cardboard into the required size. The single LED strip does not provide broad light when spread as a straight line. So, we need cardboard to create a broader light source.
 
 Fasten the LED strip on the cardboard into a spiral shape. Make sure that the gap between each circle does not change too much.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![attachment of led strips on cardboard](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Final Results of Using the DIY LED Light Panel
 
 See how clear the subject's face looks after using an LED panel. Of course, you can make a broader panel if you have to film a more extensive subject.
@@ -204,9 +160,6 @@ The light diffusers reduce the bright light and create smooth and soft touching 
 
 Light diffusers are often used on professional sets to reduce harsh shadows and create even soft lighting. However, they mostly use large diffusers due to the large filming spots, as shown below!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![light diffuser used in professional studios](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-17.png)
 
 To make a light diffuser, you don't need specific props or tools. However, as shown below, you need a desk mat to make it possible!
@@ -215,15 +168,11 @@ To make a light diffuser, you don't need specific props or tools. However, as sh
 
 It would be best if you had a transparent desk mat, which you can find at any household store. It is an alternative to a diffuser and helps maintain the light's tone.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![desk mat used for making diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-18.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 First, cover the LED light panel as made in the above hack with a desk mat to make diffuse light and soften the light. After covering it, take it near the subject for shooting the video or film of an upcoming project.
 
@@ -233,9 +182,6 @@ First, cover the LED light panel as made in the above hack with a desk mat to ma
 
 Look below and notice that the light is not much dispersed now and balances the subject. It gives a smooth look!
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![final results after using a diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-20.png)
 
 ## Conclusion
@@ -248,10 +194,11 @@ Step3 Leave a small part of the bulb open from the top and cover the part from t
 
 Step4 Ensure the lamp switch is off, and install the light bulb.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![process of creating a black wrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When you turn on the lamp, the light has been shaped into a smaller light source.
 
@@ -263,13 +210,14 @@ You can observe that the light is only at the required place, with no dispersion
 
 After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Hack. DIY Light Reflector
 
 A reflector is a spontaneous or specialized reflective surface that diverts the light to our subject or object. Professional filming setups usually use a large reflector to get a glowing effect on a subject or even more than two.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![light reflector used in a professional setup](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-9.png)
 
 When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
@@ -288,6 +236,10 @@ The next thing you should have to make a reflector is foil paper. The foil paper
 
 You can wrap the foil paper around the cardboard as smoothly as possible to prevent too many creases. The smoother look, the more chances of a glowing effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Final Results of Using the Foil Light Reflector
 
 You can see clearly that the subject face is brighter than before the reflector usage. You can make large-size reflectors too, as per your requirement.
@@ -295,8 +247,13 @@ You can see clearly that the subject face is brighter than before the reflector 
 ![results after using diy light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Hack. DIY LED Light Panel
 
 For a good-supplied light to a subject, you can make your own LED light panel with LED strips at home in two steps.
@@ -307,39 +264,32 @@ Still, cardboard is the most helpful one. Ensure that the size of the cardboard 
 
 ![cardboard used in diy led light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. LED Strips
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![led strips used for making a light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 First, you need to cut the cardboard into the required size. The single LED strip does not provide broad light when spread as a straight line. So, we need cardboard to create a broader light source.
 
 Fasten the LED strip on the cardboard into a spiral shape. Make sure that the gap between each circle does not change too much.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![attachment of led strips on cardboard](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-15.png)
 
 ### Final Results of Using the DIY LED Light Panel
 
 See how clear the subject's face looks after using an LED panel. Of course, you can make a broader panel if you have to film a more extensive subject.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![results after using diy led light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As you have noticed, the light is too bright on the subject. However, you can diffuse the light by following the next hack!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5\. Hack. DIY Light Diffuser
 
 The light diffusers reduce the bright light and create smooth and soft touching of the light on the subject. You can see below how professional setups use light diffusers.
@@ -350,9 +300,6 @@ Light diffusers are often used on professional sets to reduce harsh shadows and 
 
 To make a light diffuser, you don't need specific props or tools. However, as shown below, you need a desk mat to make it possible!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. A Desk Mat
 
 It would be best if you had a transparent desk mat, which you can find at any household store. It is an alternative to a diffuser and helps maintain the light's tone.
@@ -361,14 +308,8 @@ It would be best if you had a transparent desk mat, which you can find at any ho
 
 First, cover the LED light panel as made in the above hack with a desk mat to make diffuse light and soften the light. After covering it, take it near the subject for shooting the video or film of an upcoming project.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![process of making diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-19.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Final Results of Using the Light Diffuser
 
 Look below and notice that the light is not much dispersed now and balances the subject. It gives a smooth look!
@@ -376,8 +317,9 @@ Look below and notice that the light is not much dispersed now and balances the 
 ![final results after using a diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 You can now create your filming studio at home by following the DIY hacks. You will get professional results from these tools. Think about more creative ideas and make them possible to boost your audience.
@@ -406,5 +348,20 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-laughlab-design-suite/"><u>[New] LaughLab Design Suite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reddits-golden-threads-a-commendable-collection-top-10/"><u>[New] Reddit's Golden Threads A Commendable Collection (Top 10)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-best-8-linux-apps-for-professional-editing/"><u>[Updated] In 2024, Best 8 Linux Apps for Professional Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-live-stream-on-youtube-without-1000-subscribers-on-a-mobile/"><u>[Updated] Live Stream on YouTube without 1000 Subscribers on a Mobile</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-audio-capture-from-skype-for-mp3/"><u>[Updated] Mastering Audio Capture From Skype for MP3</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-equipment-for-cutting-edge-livestreams/"><u>[Updated] Premier Equipment for Cutting-Edge Livestreams</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/202n4/"><u>『202N4』オフライバーのダウンロードエラーを解決するためのガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-mp4-to-3gp-converter-effortless-online-format-switching-with-movavi/"><u>Free MP4 to 3Gp Converter - Effortless Online Format Switching with Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nokia C22 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laughlines-prime-websites-for-giggling-tones-for-2024/"><u>LaughLines Prime Websites for Giggling Tones for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-pick-kids-preferred-drones-for-2024/"><u>Perfect Pick Kids' Preferred Drones for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-portrait-retouching-conceal-dont-deceive-for-2024/"><u>Perfect Portrait Retouching Conceal, Don't Deceive for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo</u></a></li>
+</ul></div>
 

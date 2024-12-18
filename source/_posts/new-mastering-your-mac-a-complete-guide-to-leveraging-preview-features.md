@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-12-06T19:46:30.467Z
-updated: 2024-12-11T17:54:15.805Z
+date: 2024-12-13T01:10:26.410Z
+updated: 2024-12-17T23:34:37.361Z
 tags: 
   - screen-recording
   - ai video
@@ -30,11 +30,19 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -63,10 +71,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -97,7 +101,7 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -133,7 +137,7 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -152,10 +156,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -169,7 +169,7 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -221,18 +221,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-quick-fix-kinemaster-for-top-memes/"><u>[New] Quick-Fix KineMaster for Top Memes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-art-of-archiving-with-these-13-key-techniques/"><u>2024 Approved Master the Art of Archiving with These 13 Key Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-skyrocket-to-the-top-on-youtube-secrets-of-effective-seo-tactics-1-11/"><u>2024 Approved Skyrocket to the Top on YouTube Secrets of Effective SEO Tactics (1-11)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/affordable-action-camera-excellence-top-6-for-under-100-savings/"><u>Affordable Action Camera Excellence – Top 6 for Under $100 Savings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratuito-conversor-online-de-mp3-para-aac-pelo-movavi-guia-passo-a-passo/"><u>Gratuito Conversor Online De MP3 Para AAC Pelo Movavi: Guia Passo a Passo</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-14-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi 14 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-lenovo-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Lenovo?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-play-8t-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Play 8T Device</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inside-the-tech-what-is-virtual-reality-gear-in-2024/"><u>Inside the Tech What Is Virtual Reality Gear, In 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instantaneously-combine-photos-into-facebook-stories-for-2024/"><u>Instantaneously Combine Photos Into Facebook Stories for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/melodic-milestones-unveiling-top-sources-for-harmonious-opens/"><u>Melodic Milestones Unveiling Top Sources for Harmonious Opens</u></a></li>
-<li><a href="https://extra-support.techidaily.com/passport-photo-creation-made-easy-10-images-at-no-cost-for-2024/"><u>Passport Photo Creation Made Easy 10 Images at No Cost for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/secure-your-linkedin-content-with-these-6-video-downloading-solutions-for-2024/"><u>Secure Your LinkedIn Content with These 6 Video Downloading Solutions for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-initiated-graphic-output-regained-after-driver-malfunction/"><u>[Fix Initiated] Graphic Output Regained After Driver Malfunction</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cross-media-content-flow-from-youtube-to-thirtyplus-others-for-2024/"><u>[New] Cross-Media Content Flow From YouTube to Thirty+ Others for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo/"><u>[New] In 2024, Beyond the Norm A Review of the 4KCG318 Display by EIZO</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-insights-for-accelerating-editing-tasks-efficiently/"><u>[New] Quick Insights for Accelerating Editing Tasks Efficiently</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-clarity-our-top-ten-camera-lens-recommendations-of-2024/"><u>[Updated] Capturing Clarity Our Top Ten Camera Lens Recommendations of 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-8-premium-websites-for-free-3d-text-psd-files/"><u>2024 Approved Explore the 8 Premium Websites for FREE 3D Text PSD Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-techniques-for-verbal-note-taking-expertise/"><u>2024 Approved Optimal Techniques for Verbal Note-Taking Expertise</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smiles-in-screens-make-with-kapwing/"><u>2024 Approved Smiles in Screens Make with Kapwing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-crashes-in-detroit-become-human-for-a-seamless-gaming-experience-on-pc/"><u>Fixing Persistent Crashes in Detroit: Become Human for a Seamless Gaming Experience on PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-nord-n30-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From OnePlus Nord N30 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-the-revamped-sony-bdp-s6700/"><u>In 2024, Inside the Revamped Sony BDP-S6700</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-guide-uploading-subtitles-via-social-networks/"><u>In 2024, Perfect Guide Uploading Subtitles via Social Networks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quickest-photo-scanner-in-windows-land-for-2024/"><u>Quickest Photo Scanner in Windows Land for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smart-image-management-adjusting-iphone-photo-sizes-for-2024/"><u>Smart Image Management Adjusting iPhone Photo Sizes for 2024</u></a></li>
 </ul></div>
 

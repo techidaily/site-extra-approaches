@@ -1,7 +1,7 @@
 ---
 title: "Leveraging CG Central LUTs for Cinematic Color Enhancement for 2024"
-date: 2024-07-27T22:41:27.641Z
-updated: 2024-07-28T22:41:27.641Z
+date: 2024-12-11T01:46:56.847Z
+updated: 2024-12-17T19:56:52.091Z
 tags: 
   - screen-recording
   - ai video
@@ -21,22 +21,9 @@ thumbnail: https://thmb.techidaily.com/42d888d9431637ab1388aeb276d6888b24b9d1d85
 Color Grading Central is a company created by Denver Riddle, who is currently involved in the production of films. LUTs and other video color grading plugins of this company are inspired by some of the best Hollywood movies.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1\. What is color grading central and LUTs (Lookup table)?
 
 [Color Grading Central](https://www.colorgradingcentral.com/) is an online resource that develops color grading video information products and tools. Color Grading Central is an online resource that develops color grading video information products and tools.
@@ -47,15 +34,8 @@ LUTs or Look Up Tables are nothing more than a table of numbers that apply a col
 
 The Color Grading Central LUTs effect is stylish and cinematic.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 2\. How to use Luts from color grading central to color grading for movies?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![color grading for movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-2.jpg)
 
 Color grading is one way to enhance the look of your shots and serve your narrative vision. That's why many filmmakers, editors, and colorists working on film use Look Up Tables, or LUTs, to store color grades as templates to help speed up the process.
@@ -71,6 +51,10 @@ First, the two LUT formats work differently. **A 1D LUT** (usually. lut format) 
 The other two types of LUTs can be either 1D or 3D LUTs, but these days they are most often 3D LUTs. The difference between them is when in the process you use them and for what purpose.
 
 ![luts in movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 An input or camera LUT used at the beginning of the color correction process adjusts the footage so that the color correction tools work correctly. Color corrected recordings that require an input or camera LUT without one can lead to unexpected and unsatisfactory results.
 
@@ -94,14 +78,12 @@ Ground Control Color specializes in creating color LUTs for different cameras an
 
 From the "Free LUTs" page, users can download ten free conversion LUTs and three stylistic color LUTs.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![ground control color](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. [Color Grading Central: 7 Free LUTs, Color Presets, and Grains](http://www.colorgradingcentral.com/)
 
 If you're a budding colorist or video editor who takes color seriously, you should know about Color Grading Central. CGC specializes in all things color grading.
@@ -111,6 +93,10 @@ From grain to LUTs, their website is a good place to find lots of excellent colo
 In addition to giving away seven free color LUTs, they're also giving away an assortment of color presets, grains, and proposals just for their email list.
 
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [SmallHD: 7 Free LUTs](https://www.smallhd.com/community/movie-looks-download)
 
@@ -122,9 +108,6 @@ If you want to add a dramatic and cinematic feel to your footage, use this free 
 
 ![smallhd](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### 4\. [Frank Glencairn: Free Vintage LUT](https://frankglencairn.wordpress.com/2014/01/15/everything-looks-better-on-kodachrome-k-tone-lut/)
 
 Despite having the latest filmmaking technology at our fingertips, there is something about the old film look that looks amazing.
@@ -133,9 +116,6 @@ Frank Glencairn created a great K-Tone LUT designed to mimic the style of vintag
 
 Now you can replicate the look with retro-looking reds, blues, and yellows with this free LUT.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![frank glencairn](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-7.jpg)
 
 ### 5\. [Lutify.me: 7 Free Luts](https://lutify.me/free-luts/)
@@ -144,10 +124,11 @@ Ok, so the LUTs included in this pack require a few extra steps to download. Lut
 
 The good news is that you can register, download the LUT, and then cancel. Or hey, who knows, you might even like their software offering and stick with the program.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lutify me](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. How to do color grading in Filmora?
 
@@ -157,16 +138,14 @@ By clicking **"Effect"** and choosing **"LUT"**, where you can examine a range o
 
 ![lut](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Of course, if you're still dissatisfied with the result you may select **"Advanced"** for a more subtle color correction. White Balance, Vignette, and Enhancement are some of Adjust features. You can also choose a more precise pre-made configuration from the **Preset** option.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![preset](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 In summary, we've seen some different color grading LUTs that simplify the color grading process. However, [Filmora Pro](https://tools.techidaily.com/wondershare/filmora/download/) remains the best because no converter can beat its excellent color correction tool and convincing features of vignette, light, and flare, etc.
@@ -176,6 +155,10 @@ In summary, we've seen some different color grading LUTs that simplify the color
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 </article
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -207,5 +190,26 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-drone-vfx-essentials-free-luts-for-dji-drones-available-for-2024/"><u>[New] Drone VFX Essentials - Free LUTS for DJI Drones Available for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-streams-screening-netflix-on-mac-professionally/"><u>[New] Effortless Streams Screening Netflix on Mac Professionally</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-webcam-streaming-made-easy-top-18-software-highlights/"><u>[New] Live Webcam Streaming Made Easy Top 18 Software Highlights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-internet-idols-index-10-most-subscribed-global-creators/"><u>[Updated] 2024 Approved Internet Idols Index 10 Most Subscribed Global Creators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-aerial-capture-face-off-dji-mavic-2-vs-hero6-black/"><u>[Updated] Aerial Capture Face-Off DJi Mavic 2 vs Hero6 Black</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-for-efficient-video-editing-with-gopro-studio/"><u>[Updated] Expert Strategies for Efficient Video Editing with GoPro Studio</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-into-the-humor-hub-of-the-world-wide-web-metaverse-memes-101/"><u>[Updated] Into the Humor Hub of the World Wide Web - Metaverse Memes 101</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-smooth-volume-changes-in-fl-studio/"><u>[Updated] Mastering Smooth Volume Changes in FL Studio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photo-framing-made-easy-leading-apps-and-sites-reviewed/"><u>[Updated] Photo Framing Made Easy Leading Apps and Sites Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-joke-tastic-iphones-today/"><u>2024 Approved Joke-Tastic iPhones Today</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-multiplatform-vmix-blender/"><u>2024 Approved Multiplatform VMix Blender</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-narrow-your-focus-on-elite-hdr-camera-systems/"><u>2024 Approved Narrow Your Focus on Elite HDR Camera Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Phones with/without a PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-ustream-review-alternatives-on-hand/"><u>In 2024, Inside Ustream Review, Alternatives on Hand</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-jpeg-to-gif-with-a-click-ranked-list-of-top-free-converters/"><u>In 2024, JPEG to GIF with a Click Ranked List of Top Free Converters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-approach-to-crafting-professional-time-lapse-videos-in-gopro-studio/"><u>In 2024, Simplified Approach to Crafting Professional Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-titles-pro-elevate-your-youtube-game-for-2024/"><u>Prime Titles Pro Elevate Your YouTube Game for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-how-to-export-recovered-edb-filemailboxes-to-live-exchange-server/"><u>Video - How to Export Recovered EDB File(Mailboxes) to Live Exchange Server?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/witnessing-sonic-speed-an-unassuming-can-of-compressed-air-soars-to-hypersonic-velocities-shock-diamonds-exposed-by-skilled-observer/"><u>Witnessing Sonic Speed: An Unassuming Can of Compressed Air Soars to Hypersonic Velocities - Shock Diamonds Exposed by Skilled Observer</u></a></li>
+</ul></div>
 

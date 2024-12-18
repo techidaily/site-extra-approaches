@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Snowy Standouts From Winter 2022 Olympics"
-date: 2024-12-10T19:08:55.236Z
-updated: 2024-12-11T20:16:47.741Z
+date: 2024-12-16T21:30:05.025Z
+updated: 2024-12-17T17:15:57.606Z
 tags: 
   - screen-recording
   - ai video
@@ -32,15 +32,15 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Nathan Chen Breaks World Record
 
 Nathan Chen of the United States set a world-record score in men's figure skating short program held at Beijing Olympics. Chen scored 113.97 at Capital Indoor Stadium in Beijing. Four years after his dreams were shattered, Chen has not only come back stronger in his performance but managed to break the world record.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-breaks-world-record.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
@@ -53,7 +53,7 @@ Injuries are part of sports events but some injuries are gruesome and are result
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. US-Born Eileen Gu Wins Gold for China
@@ -61,6 +61,10 @@ She lost her balance before she could cross the finishing line and she slid acro
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
@@ -71,7 +75,7 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
@@ -82,11 +86,11 @@ Yan Wengang becomes the first medalist from China in a sliding sport. In a four-
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
 
@@ -96,17 +100,21 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
 We are all aware of the tensions between Ukraine and Russia are at their peak and there are many experts who believe the countries are on the verge of declaring war. Even though The Winter Olympics should have ideally been an apolitical event, Ukrainian skeleton athlete Vladyslav Heraskevych flashed a sign that read “No War in Ukraine” to spark a political controversy.
 
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
-He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
 ## 9\. American Favorite Out of the Tournament
 
@@ -114,15 +122,7 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
 
@@ -141,19 +141,21 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-speedy-conversion-techniques-for-your-srt-to-txt-tasks/"><u>[Updated] 2024 Approved Speedy Conversion Techniques for Your SRT to TXT Tasks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-zero-tolerance-for-background-distractions-editing-tutorial-on-photopea-for-2024/"><u>[Updated] Zero Tolerance for Background Distractions Editing Tutorial on Photopea for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-magix-image-suite-assessment/"><u>2024 Approved MAGIX Image Suite Assessment</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-through-8-prime-free-srt-translation-options/"><u>2024 Approved Navigating Through 8 Prime Free SRT Translation Options</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/choosing-your-perfect-smartphone-iphone-or-samsung-a-comprehensive-guide/"><u>Choosing Your Perfect Smartphone: IPhone or Samsung - A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-building-brand-buzz-the-power-of-instagram-story-quizzes/"><u>In 2024, Building Brand Buzz The Power of Instagram Story Quizzes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-capturing-dynamic-images-on-ios-devices/"><u>In 2024, Mastering the Art of Capturing Dynamic Images on iOS Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-3d-lut-application-in-photoshop-mastery/"><u>In 2024, Step-by-Step 3D LUT Application in Photoshop Mastery</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-cropping-in-the-digital-age-for-2024/"><u>Mastering the Art of Cropping in the Digital Age for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-photos-pro-level-pixlr-techniques-for-2024/"><u>Revolutionize Your Photos Pro-Level Pixlr Techniques for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-asus-rog-phone-8-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Asus ROG Phone 8 Pro to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-9-outils-darborescence-familiale-preferes-pour-les-genealogistes-de-2024-movavi/"><u>Top 9 Outils D'Arborescence Familiale Préférés Pour Les Genealogistes De 2024 - Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/what-makes-magix-video-pro-x-stand-out/"><u>What Makes Magix Video Pro X Stand Out?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-motorola-edge-40-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola Edge 40 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-10-easy-youtube-video-ideas-everyone-can-make-it/"><u>[New] 2024 Approved 10 Easy YouTube Video Ideas Everyone Can Make It</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-identifying-a-user-writes-silent-unseen-snapshots/"><u>[New] 2024 Approved Identifying a User' Writes Silent, Unseen Snapshots</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-building-authority-in-education-10-tips-for-youtube-channel-creation-for-2024/"><u>[New] Building Authority in Education 10 Tips for YouTube Channel Creation for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-directing-fundamentals-a-comprehensive-online-course-by-youtube-experts/"><u>[New] In 2024, Directing Fundamentals A Comprehensive Online Course by YouTube Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precise-participation-the-key-to-zooming-in-on-google-meet-talks/"><u>[New] Precise Participation The Key to Zooming in on Google Meet Talks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-deciphering-the-art-of-voice-documentation/"><u>[Updated] In 2024, Deciphering the Art of Voice Documentation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionizing-workouts-the-best-vr-treadmill-choices/"><u>[Updated] Revolutionizing Workouts The Best VR Treadmill Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-process-to-shoot-with-a-fisheye-lens/"><u>[Updated] Step-by-Step Process to Shoot with a Fisheye Lens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterpieces-of-radio-scripting-artistry/"><u>2024 Approved Masterpieces of Radio Scripting Artistry</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-file-recovery-solutions-for-pc-users-a-comprehensive-guide/"><u>Game File Recovery Solutions for PC Users – A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-in-broadcasting-zoom-and-fb-live-strategies/"><u>In 2024, Precision in Broadcasting ZOOM & FB Live Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ogg-mov-movavi-online-mp4/"><u>OGG MOV 비용 무료 변환 소프트웨어 - Movavi ONLINE 사용자가 쉽게 MP4로 전환해요</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prodigious-palette-top-10-free-sketch-apps-for-mac-users-for-2024/"><u>Prodigious Palette Top 10 Free Sketch Apps for Mac Users for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/secondary-partition-missing-fixes-and-solutions-on-link2sd/"><u>Secondary Partition Missing - Fixes and Solutions on Link2SD</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sleek-arenas-2022s-olympic-skating-for-2024/"><u>Sleek Arenas 2022'S Olympic Skating for 2024</u></a></li>
 </ul></div>
 

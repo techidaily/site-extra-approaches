@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step  Incorporating New Fonts Into After Effects\""
-date: 2024-07-27T22:41:13.887Z
-updated: 2024-07-28T22:41:13.887Z
+date: 2024-12-12T02:11:21.653Z
+updated: 2024-12-18T01:47:38.577Z
 tags: 
   - screen-recording
   - ai video
@@ -23,8 +23,9 @@ With the high demand for video consumption across the world, video editing has b
 After Effects is one of the most promising video editing applications available in the market. It facilitates its users with many editing features. One of such major functions of After Effects is it provides different fonts and text effects to its users. Here's a guide on **how to add fonts to After Effects**:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1\. How to add fonts to After Effects?
 
 Adding fonts to any video editor is a crucial part because texts add a story to the video projects. They have a great impact on the cinematic quality of any video. For informative videos, the style of font decides the tone in which the texts are displayed.
@@ -43,12 +44,17 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 
 ![activitate all fonts after effects](https://images.wondershare.com/filmora/article-images/2022/07/activitate-all-fonts-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now keep the Creative Cloud application up and running in your system and then open your After Effects application. There navigate to "Graphics" and then select "Add Fonts from Adobe Fonts".
 * You can also use the font dropdown menu as a shortcut to use the fonts instantly. In Adobe After Effects interface, you can then select the "Character" panel to add or change the fonts to your videos.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. Types of Fonts in After Effects
 
 Adobe After Effects provides a ton of families of fonts that can be added and used in video projects. These fonts are available on the Create Cloud application and also on the official website of adobe. Also, these fonts are categorized according to their height, weight, contrast as well as other attributes. And each of these fonts is shown with a preview saying "Typography" which can be selected instantly.
@@ -56,17 +62,15 @@ Adobe After Effects provides a ton of families of fonts that can be added and us
 Some of the most famous fonts such as "typewriter", "Cursive Handwriting" and many more are categorized under their family of fonts and are very easy to access. Along with this, you can also select fonts with different character strokes and can alter their features while adding to your videos.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3\. How to use text effects in After Effects?
 
 Adding text effects in Adobe After Effects is very easy and you can use these effects by following these steps:
 
 * First, select the project video that you want to edit. Then navigate to "effects and presets" and search for the presets of the texts that you want to edit.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![effects and presets adobe](https://images.wondershare.com/filmora/article-images/2022/07/effects-and-presets-adobe.jpg)
 
 * Now, add that text effect to your video by clicking on it and dragging and dropping it on your video. Then select any animation preset for your text from "Adobe Bridge".
@@ -97,9 +101,9 @@ These features also include adding texts and changing the fonts of those texts o
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
@@ -112,9 +116,6 @@ These features also include adding texts and changing the fonts of those texts o
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
@@ -124,9 +125,6 @@ These features also include adding texts and changing the fonts of those texts o
 * When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
 * After you are done, click "save" and the text effects will be added to your videos successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
@@ -153,5 +151,21 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-conquer-screen-capture-in-depth-windows-pc-guide-for-live-tv-recording/"><u>[New] Conquer Screen Capture In-Depth Windows PC Guide for Live TV Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-hdr-image-creation-and-merging-in-lightroom/"><u>[Updated] Mastering HDR Image Creation & Merging in Lightroom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-picture-warping-techniques-with-various-apps/"><u>[Updated] Mastering Picture Warping Techniques with Various Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-understanding-the-role-of-software-in-high-quality-screencasts/"><u>[Updated] Understanding the Role of Software in High-Quality Screencasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-secure-sharpening-hiding-unwanted-details/"><u>2024 Approved Secure Sharpening Hiding Unwanted Details</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-to-rectify-broken-airdrop-connectivity-across-apple-gadgets/"><u>2024 Approved Tips to Rectify Broken AirDrop Connectivity Across Apple Gadgets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-reasons-behind-a-cars-radio-ceasing-to-work-expert-solutions/"><u>Common Reasons Behind a Car's Radio Ceasing to Work: Expert Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/digital-symphony-recording-on-a-mac/"><u>Digital Symphony Recording on a Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-list-17-pro-rated-software-for-image-perfection/"><u>In 2024, Master List 17 Pro-Rated Software for Image Perfection</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/schritt-fur-schritt-tutorial-absolute-strategien-zum-schutz-von-hyper-v-virtualisierungen/"><u>Schritt-Für-Schritt-Tutorial: Absolute Strategien Zum Schutz Von Hyper-V Virtualisierungen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secrets-of-selective-zoom-sharpening-in-google-meet-for-2024/"><u>Secrets of Selective Zoom Sharpening in Google Meet for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stable-vr-experience-8-ways-to-prevent-nausea-for-2024/"><u>Stable VR Experience 8 Ways to Prevent Nausea for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-chatgpt-for-macos-users/"><u>The Comprehensive Guide to ChatGPT for macOS Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/visualhub-prox-premium-design-demands-high-payments/"><u>VisualHub ProX: Premium Design Demands High Payments</u></a></li>
+</ul></div>
 

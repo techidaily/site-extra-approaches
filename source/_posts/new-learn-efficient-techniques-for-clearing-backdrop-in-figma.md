@@ -1,7 +1,7 @@
 ---
 title: "[New] Learn Efficient Techniques for Clearing Backdrop In Figma"
-date: 2024-12-10T19:31:38.507Z
-updated: 2024-12-11T17:46:14.867Z
+date: 2024-12-15T19:34:59.845Z
+updated: 2024-12-17T22:14:43.086Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,10 @@ Step1 First, open a browser, visit the [Figma website](https://www.figma.com), a
 
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
 
 Step2 Next, search for **"**[**PixCut Background Remover**](https://www.figma.com/community/plugin/990188175789012011)**"** using the search option and select it from the result. Click **"Run,"** choose the **"Select App key"** option from the drop-down menu, and you will be asked for your **"Appkey."**
@@ -73,12 +77,16 @@ Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
@@ -86,10 +94,6 @@ Follow these tips to remove the background of images with transparent or solid c
 
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### (2) 3 Other Figma Plugins
 
@@ -114,7 +118,7 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### (3) Using Online Removers
@@ -126,10 +130,6 @@ To use the Remove BG tool, visit its website, drop your image file, or click the
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -152,7 +152,11 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### (3) Using Online Removers
@@ -160,10 +164,6 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
@@ -201,24 +201,22 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-ideal-strategies-for-recording-app-activity/"><u>[New] In 2024, Ideal Strategies for Recording App Activity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-tips-to-master-free-countdown-functions/"><u>[New] Quick Tips to Master FREE Countdown Functions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-disable-live-recording-in-quicktime-player-for-2024/"><u>[Updated] How to Disable Live Recording in QuickTime Player for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quickstart-to-flawless-nft-artistry-for-beginners/"><u>[Updated] Quickstart to Flawless NFT Artistry for Beginners</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-revolutionizing-reality-top-vr-peripherals/"><u>[Updated] Revolutionizing Reality Top VR Peripherals</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-top-free-microsoft-excel-add-ons-for-windows-7/"><u>1. Top Free Microsoft Excel Add-Ons for Windows 7</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-2e4-gameplay-glitches-how-to-stabilize-days-gone/"><u>Dealing with 2E4 Gameplay Glitches: How To Stabilize 'Days Gone'</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-deep-into-system-building-with-toms-hardware-guides/"><u>Dive Deep Into System Building with Tom's Hardware Guides</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-reboot-renderer-following-2021-enhancements/"><u>Effective Techniques to Reboot Renderer Following 2021 Enhancements</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-frames-with-top-rated-tools-24/"><u>In 2024, Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-instagrams-unexpected-video-timings/"><u>In 2024, Navigating Instagram's Unexpected Video Timings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-on-the-road-and-recorded-essential-helmet-cams-unveiled-for-bikers-gear/"><u>In 2024, On the Road & Recorded - Essential Helmet Cams Unveiled for Bikers' Gear</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-narrative-craftsmanship-how-to-write-impressive-docu-scripts/"><u>In 2024, Precision Narrative Craftsmanship How to Write Impressive Docu-Scripts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-depths-of-vlc-player-capabilities-for-2024/"><u>Navigating the Depths of VLC Player Capabilities for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-world-of-instagram-reel-downloads-for-2024/"><u>Navigating the World of Instagram Reel Downloads for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210266254-9781644113530-neuroaffective-meditation/"><u>Neuroaffective Meditation | Free Book</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quintessential-stop-motion-films-a-top-15-list-for-2024/"><u>Quintessential Stop-Motion Films A Top 15 List for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/transform-your-livestreams-with-eco-friendly-screen-effects/"><u>Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-avi-file-editing-easy-ways-to-trim-cut-and-split-videos-2023-update-for-2024/"><u>Updated Mastering AVI File Editing Easy Ways to Trim, Cut, and Split Videos (2023 Update) for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-entering-income-territory-with-a-thousand-followers/"><u>[New] Entering Income Territory with a Thousand Followers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-epicurean-epiphanies-filming-feast-creation/"><u>[New] In 2024, Epicurean Epiphanies Filming Feast Creation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-perfecting-the-art-of-whatsapp-call-logging/"><u>[New] Perfecting the Art of WhatsApp Call Logging</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-periscope-savvy-the-ultimate-operational-manual/"><u>[New] Periscope Savvy The Ultimate Operational Manual</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shining-up-your-android-videos-effortlessly/"><u>[New] Shining Up Your Android Videos Effortlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximize-windows-10-top-5-recording-techniques/"><u>[Updated] Maximize Windows 10 Top 5 Recording Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-10-image-repositories-without-costs/"><u>[Updated] Prime 10 Image Repositories Without Costs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-preservation-adding-dates-to-photos-with-ease/"><u>2024 Approved Precision Preservation Adding Dates to Photos with Ease</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/captivating-content-perfecting-pictures-through-snapchat-edits/"><u>Captivating Content Perfecting Pictures Through Snapchat Edits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/electric-revolution-unveiled-live-stream-ces-202/"><u>Electric Revolution Unveiled: Live Stream CES 202</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-14-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 14 Plus?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-10-mobile-apps-for-immediate-sports-action-access/"><u>In 2024, Leading 10 Mobile Apps for Immediate Sports Action Access</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-spotlight-tapes/"><u>In 2024, Pinnacle Spotlight Tapes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-streaming-supremacy-the-peak-of-youtuber-popularity/"><u>In 2024, Streaming Supremacy The Peak of YouTuber Popularity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/june-2024s-premier-electronics-bargains-at-best-buy-featured-on-zdnet/"><u>June 2024'S Premier Electronics Bargains at Best Buy Featured on ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximal-brightness-for-android-videos-explained-for-2024/"><u>Maximal Brightness for Android Videos Explained for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-viewing-experience-selecting-between-ultrawide-and-uhd-4k-for-2024/"><u>Optimal Viewing Experience Selecting Between UltraWide and UHD 4K for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Key Fixes for Stabilizing Windows 10 Photos Display\""
-date: 2024-07-27T22:40:59.472Z
-updated: 2024-07-28T22:40:59.472Z
+date: 2024-12-15T17:02:24.358Z
+updated: 2024-12-17T20:09:25.489Z
 tags: 
   - screen-recording
   - ai video
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 
 # How to Solve Windows 10 Photos App Crashes Effectively \[2024\]
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Photos represent the vibrant memories that we have so fondly spent with our loved ones or capture our achievements and milestones in life. Revisiting them later brings everything alive in front of you. But, when the Windows 10 Photos App crashes, how could you enjoy your beautiful photos? We know fixing the issue is not an easy job. But we have got you covered. If, in any case that, you undergo such crashing issues with Windows 10 Photos App, we are here to lead you through.
@@ -46,6 +40,10 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Windows 10 Photos app crashes
 
 ### Solution 1: Use the Troubleshooter
@@ -59,8 +57,16 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -71,9 +77,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
    3. The right window pane shows multiple libraries and you need to right-tap the ‘Pictures’ library and then choose ‘Properties’.
    4. Tap ‘Restore Defaults’ from the bottom-right portion of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
@@ -88,9 +91,6 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -102,9 +102,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -123,11 +120,14 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -135,12 +135,31 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-complete-checklist-for-youtube-video-resolution-and-size/"><u>[New] 2024 Approved The Complete Checklist for YouTube Video Resolution and Size</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unleashing-creativity-in-ar-a-comprehensive-guide-to-lut-tools/"><u>[New] 2024 Approved Unleashing Creativity in AR A Comprehensive Guide to LUT Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-make-money-on-youtube/"><u>[Updated] How To Make Money on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-multitask-views-how-to-control-picture-in-picture-on-iphones/"><u>[Updated] Mastering Multitask Views How to Control Picture in Picture on iPhones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-notable-examples-of-book-trailers/"><u>[Updated] Notable Examples of Book Trailers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pros-recommendations-for-free-and-paid-drawing-software-on-pc/"><u>[Updated] Pro's Recommendations for Free & Paid Drawing Software on PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-importing-audio-for-inshot-edits/"><u>[Updated] Step-by-Step Guide Importing Audio for InShot Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-pro-utilizing-lut-techniques/"><u>2024 Approved Premiere Pro Utilizing LUT Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-select-your-dreams-best-vr-bike-trails/"><u>2024 Approved Select Your Dreams Best VR Bike Trails</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/all-you-need-to-know-about-downloading-wm6/"><u>All You Need to Know About Downloading WM6</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-10-proplus-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Oppo Reno 10 Pro+ 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-resolving-no-video-issue-on-sony-a6400-device/"><u>In 2024, Resolving No-Video Issue on Sony A6400 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-communication-issues-with-a-missing-dhcp-server/"><u>Resolved: How to Fix Communication Issues with a Missing DHCP Server</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sharpen-your-streams-top-5-video-enhancers-for-2024/"><u>Sharpen Your Streams Top 5 Video Enhancers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-for-rectifying-error-code-31-on-your-pcs-network/"><u>The Blueprint for Rectifying Error Code 31 on Your PC's Network</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-1110seo7/"><u>ゲーム愛好家のための最適化ガイド：Windows 11と10を比較して、おすすめは？SEOテクニック7つ</u></a></li>
+</ul></div>
 
