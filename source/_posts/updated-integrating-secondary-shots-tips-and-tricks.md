@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Integrating Secondary Shots  Tips and Tricks\""
-date: 2024-12-11T21:00:53.515Z
-updated: 2024-12-17T17:36:06.319Z
+date: 2024-12-24T16:46:21.996Z
+updated: 2024-12-26T17:26:40.826Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 Now that we know that, let's dive in!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. B roll In TV And Movies
@@ -44,25 +44,25 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
@@ -72,19 +72,11 @@ B roll footage can be used to tell a story that supports the narrative of your v
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
 
@@ -92,9 +84,17 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -130,22 +130,22 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/issue-resolved-how-to-overcome-windows-camera-error-code-0xa0-groovyf4292-and-get-back-to-snapshots/"><u>[Issue Resolved]: How to Overcome Windows Camera Error Code 0xA0 Groovyf4292 and Get Back to Snapshots</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-boundless-video-recorder-app/"><u>[New] Boundless Video Recorder App</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/an-favorite-films-reimagined-7-replacements-for-2024/"><u>[New] Fan-Favorite Films Reimagined - #7 Replacements for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-jest-journal-chronicles-of-timely-laughter/"><u>[New] Jest Journal Chronicles of Timely Laughter</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-accessible-obs-presets-for-affordable-computers/"><u>[Updated] In 2024, Accessible OBS Presets for Affordable Computers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mobile-mastery-high-shots-with-your-smartphone/"><u>[Updated] Mobile Mastery High Shots with Your Smartphone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-music-mashups-for-windows-11-clips/"><u>[Updated] Music Mashups for Windows 11 Clips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-zoom-meetings-on-windows-10/"><u>[Updated] Navigating Zoom Meetings on Windows 10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/cognitive-conundrums-top-11-gk-video-hubs-for-2024/"><u>Cognitive Conundrums Top 11 GK Video Hubs for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-note-50-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme Note 50 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-shopping-tips-economical-gopro-cameras/"><u>In 2024, Smart Shopping Tips Economical GoPro Cameras</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-steps-to-convert-video-tweets-to-mp3-soundtracks/"><u>In 2024, Steps to Convert Video Tweets to MP3 Soundtracks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastery-of-visual-storytelling-advanced-techniques-with-luts-in-after-effects-for-2024/"><u>Mastery of Visual Storytelling Advanced Techniques with LUTs in After Effects for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mobile-artistry-ios-and-androids-creme-de-la-creme-of-image-stickers-for-2024/"><u>Mobile Artistry IOS and Android's Crème De La Crème of Image Stickers for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-nord-ce-3-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord CE 3 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-viral-power-couple-tiktok-and-twitter-trends/"><u>The Viral Power Couple TikTok & Twitter Trends</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-discover-every-shared-element-with-friends/"><u>[New] 2024 Approved Discover Every Shared Element with Friends</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-srt-in-windows-macos-environments/"><u>[New] Navigating SRT in Windows, macOS Environments</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-mobile-technology-for-dji-visual-storytelling/"><u>[Updated] Mastering Mobile Technology for DJi Visual Storytelling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-scriptwriting-for-sound-a-step-by-step-guide-with-examples/"><u>[Updated] Scriptwriting for Sound A Step-by-Step Guide with Examples</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-creating-an-eye-catching-collage/"><u>[Updated] Step-by-Step Guide to Creating an Eye-Catching Collage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-apk-journey-to-gaming-bliss-funimate-pro-guide/"><u>2024 Approved APK Journey to Gaming Bliss Funimate Pro Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-moto-g-5g-2023-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Moto G 5G (2023) Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/discover-everything-in-stardews-hidden-gem-ginger-isle/"><u>Discover Everything in Stardew's Hidden Gem, Ginger Isle</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortlessly-navigate-your-projects-using-the-complimentary-argon-tailwind-dashboard-by-creative-tim/"><u>Effortlessly Navigate Your Projects Using the Complimentary Argon Tailwind Dashboard by Creative Tim</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-gt-5-240wwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme GT 5 (240W)with/without a PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lol-library-top-picks-for-outstanding-meme-creators/"><u>In 2024, LOL Library Top Picks for Outstanding Meme Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smooth-shots-stronger-impressions-fixing-iphone-video-instability/"><u>In 2024, Smooth Shots, Stronger Impressions Fixing iPhone Video Instability</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/most-effective-5-image-editing-programs-on-iphone-x-7-8-for-2024/"><u>Most Effective 5 Image Editing Programs on iPhone (X, 7, 8) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/overlooked-wonders-latest-free-macspeech-software/"><u>Overlooked Wonders Latest Free macSpeech Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rhythms-of-romance-most-beloved-ballads-for-engagement-for-2024/"><u>Rhythms of Romance Most Beloved Ballads for Engagement for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2682470-9781515408413-the-dore-lectures-on-mental-science/"><u>The Dore Lectures on Mental Science | Free Book</u></a></li>
+<li><a href="https://win-net.techidaily.com/wiederholung-verlorener-daten-eine-schritt-fur-schritt-anleitung-zur-wiederherstellung-nicht-erkennbarer-datentrager/"><u>Wiederholung Verlorener Daten: Eine Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Nicht Erkennbarer Datenträger</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-12-13T01:10:26.410Z
-updated: 2024-12-17T23:34:37.361Z
+date: 2024-12-22T19:15:59.800Z
+updated: 2024-12-26T17:36:12.412Z
 tags: 
   - screen-recording
   - ai video
@@ -31,7 +31,7 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
@@ -39,10 +39,6 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -58,6 +54,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -71,6 +71,10 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -88,6 +92,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -99,10 +107,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -137,7 +141,7 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -167,10 +171,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -221,20 +221,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fix-initiated-graphic-output-regained-after-driver-malfunction/"><u>[Fix Initiated] Graphic Output Regained After Driver Malfunction</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-cross-media-content-flow-from-youtube-to-thirtyplus-others-for-2024/"><u>[New] Cross-Media Content Flow From YouTube to Thirty+ Others for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-beyond-the-norm-a-review-of-the-4kcg318-display-by-eizo/"><u>[New] In 2024, Beyond the Norm A Review of the 4KCG318 Display by EIZO</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-insights-for-accelerating-editing-tasks-efficiently/"><u>[New] Quick Insights for Accelerating Editing Tasks Efficiently</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-clarity-our-top-ten-camera-lens-recommendations-of-2024/"><u>[Updated] Capturing Clarity Our Top Ten Camera Lens Recommendations of 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-8-premium-websites-for-free-3d-text-psd-files/"><u>2024 Approved Explore the 8 Premium Websites for FREE 3D Text PSD Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-techniques-for-verbal-note-taking-expertise/"><u>2024 Approved Optimal Techniques for Verbal Note-Taking Expertise</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smiles-in-screens-make-with-kapwing/"><u>2024 Approved Smiles in Screens Make with Kapwing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-persistent-crashes-in-detroit-become-human-for-a-seamless-gaming-experience-on-pc/"><u>Fixing Persistent Crashes in Detroit: Become Human for a Seamless Gaming Experience on PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-nord-n30-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From OnePlus Nord N30 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-the-revamped-sony-bdp-s6700/"><u>In 2024, Inside the Revamped Sony BDP-S6700</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-guide-uploading-subtitles-via-social-networks/"><u>In 2024, Perfect Guide Uploading Subtitles via Social Networks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quickest-photo-scanner-in-windows-land-for-2024/"><u>Quickest Photo Scanner in Windows Land for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smart-image-management-adjusting-iphone-photo-sizes-for-2024/"><u>Smart Image Management Adjusting iPhone Photo Sizes for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ntegrating-existing-video-files-in-your-powerpoint-decks-for-2024/"><u>[New] Integrating Existing Video Files in Your PowerPoint Decks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nine-ways-to-unblock-live-feeds-on-firefoxchrome/"><u>[New] Nine Ways to Unblock Live Feeds on FireFox/Chrome</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eeking-behind-the-scenes-deciphering-youtubes-unlisted-content/"><u>[New] Peeking Behind the Scenes Deciphering YouTube's Unlisted Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-leading-av-creators-digital-edition-list/"><u>[Updated] Leading AV Creators Digital Edition List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-filters-for-smooth-streaming-sessions/"><u>[Updated] Prime Filters for Smooth Streaming Sessions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-amd-radeon-driver-for-windows-8-no-cost/"><u>Download AMD Radeon Driver for Windows 8 - No Cost</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prodigious-portfolio-creation-best-free-mac-software/"><u>In 2024, Prodigious Portfolio Creation Best FREE Mac Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-strategies-to-modify-user-numbers-on-tiktok/"><u>In 2024, Smart Strategies to Modify User Numbers on TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-stickies-across-computers/"><u>Maximizing Windows 11 Stickies Across Computers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-kinemasters-zoom-features-for-professional-results-for-2024/"><u>Navigating Kinemaster's Zoom Features for Professional Results for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029137991-pc/"><u>PCでヘッドフォンを使った直接的な録音・撮影の技術</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-harmony-in-vr-exploration-for-2024/"><u>Perfect Harmony in VR Exploration for 2024</u></a></li>
 </ul></div>
 

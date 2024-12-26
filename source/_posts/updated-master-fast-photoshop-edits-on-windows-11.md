@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Fast Photoshop Edits on Windows 11"
-date: 2024-12-13T21:45:47.134Z
-updated: 2024-12-17T23:52:22.514Z
+date: 2024-12-25T16:17:24.839Z
+updated: 2024-12-26T16:21:25.255Z
 tags: 
   - screen-recording
   - ai video
@@ -40,19 +40,23 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
 * Select the size and color of the fonts you wish to use from a range of palette
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/start-drawing-on-photos-in-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Draw on the images and videos effortlessly
 * You can also find an eraser tool with various sizes of erasers that allows you to erase your entire drawing or a part of it as per your choice when required
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Draw on Photos Online
 
@@ -66,7 +70,7 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the color from the range of palette available
@@ -76,13 +80,13 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -90,10 +94,6 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -112,16 +112,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-replay-rare-relationship-recaps/"><u>[Updated] 2024 Approved Replay Rare Relationship Recaps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lg-redefines-gaming-with-its-innovative-360-degree-vr-experience/"><u>2024 Approved LG Redefines Gaming with Its Innovative 360-Degree VR Experience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-pace-the-netflix-playback-guide/"><u>2024 Approved Mastering Pace The Netflix Playback Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-macaw-mambo-march/"><u>In 2024, Macaw Mambo March</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-tools-for-audio-infused-photography/"><u>In 2024, Pinnacle Tools for Audio Infused Photography</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-proven-strategies-for-successful-youtube-shorts/"><u>In 2024, Proven Strategies for Successful YouTube Shorts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rapid-diy-filming-ideas-for-aspiring-directors/"><u>In 2024, Rapid DIY Filming Ideas for Aspiring Directors</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/uncover-these-5-techniques-restore-deleted-word-documents-after-reboot/"><u>Uncover These 5 Techniques: Restore Deleted Word Documents After Reboot</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1720600623965-windows-stellar-data-recovery/"><u>Windows版フリーデータリカバリプログラム: Stellar Data Recovery(ステラデータリカバリ) - 失われた情報が見つかります！</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/be-profile-pics-templates-available-for-2024/"><u>YouTube Profile Pics Templates Available for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-amp-up-illumination-basic-steps-to-lighten-iphone-films/"><u>[New] Amp Up Illumination Basic Steps to Lighten iPhone Films</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exploring-whatsapp-voice-chat-features/"><u>[New] Exploring WhatsApp Voice Chat Features</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-depth-analysis-of-lgs-latest-360-cameras-for-the-year-2023/"><u>[New] In-Depth Analysis of LG's Latest 360 Cameras for the Year 2023</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-mac-guide-to-saving-roblox-adventures/"><u>[New] Ultimate Mac Guide to Saving Roblox Adventures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-enhancing-viewer-interest-with-thumbnails/"><u>[Updated] In 2024, Enhancing Viewer Interest with Thumbnails</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-leading-open-source-20-best-pubg-images-for-2024/"><u>[Updated] Leading Open Source 20 Best PUBG Images for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premiere-pro-power-tools-your-ultimate-2023-samples-free/"><u>[Updated] Premiere Pro Power Tools - Your Ultimate 2023 Samples (FREE)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplify-information-storage-via-mematic/"><u>[Updated] Simplify Information Storage via Mematic</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-social-media-savvy-the-best-25-hashtags-for-likes-and-followers/"><u>2024 Approved Social Media Savvy The Best 25 Hashtags for Likes and Followers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-lut-applications-in-premiere-pro/"><u>In 2024, Mastering LUT Applications in Premiere Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-musical-alchemy-transforming-previews-into-memories/"><u>In 2024, Musical Alchemy Transforming Previews Into Memories</u></a></li>
 </ul></div>
 

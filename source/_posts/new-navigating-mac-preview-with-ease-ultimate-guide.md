@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Mac Preview with Ease  Ultimate Guide\""
-date: 2024-12-16T03:13:24.169Z
-updated: 2024-12-17T20:08:08.994Z
+date: 2024-12-25T16:53:59.238Z
+updated: 2024-12-26T19:28:50.672Z
 tags: 
   - screen-recording
   - ai video
@@ -31,7 +31,7 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
@@ -54,6 +54,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -67,10 +71,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -99,6 +99,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -132,6 +136,10 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -148,10 +156,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -165,7 +169,7 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -202,10 +206,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -221,21 +221,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-cutting-edge-display-selections-10-mac-list/"><u>[New] 2024 Approved Cutting-Edge Display Selections #10 Mac List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-comprehensive-analysis-of-samsung-image-editor/"><u>[New] Comprehensive Analysis of Samsung Image Editor</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-enhancing-clarity-in-google-meet-calls/"><u>[New] Step-by-Step Enhancing Clarity in Google Meet Calls</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-edge-of-entertainment-advanced-tiktok-editing-hacks-for-2024/"><u>[Updated] Edge of Entertainment Advanced TikTok Editing Hacks for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-mobile-media-3-key-steps-to-stabilize-iphone-videos/"><u>[Updated] Mastering Mobile Media 3 Key Steps to Stabilize iPhone Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-smart-shelfings-leading-frame-apps-of-the-future/"><u>[Updated] Smart Shelfings Leading Frame Apps of the Future</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-superior-console-emulation-best-ps1-games-for-your-pc/"><u>[Updated] Superior Console Emulation Best PS1 Games for Your PC</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-guide-to-audio-acquisition-iphoneipad-edition-for-2024/"><u>[Updated] The Ultimate Guide to Audio Acquisition IPhone/iPad Edition for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-insearchofimprovedcameratech-beyond-mycam/"><u>2024 Approved InSearchOfImprovedCameraTech Beyond MyCam</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-of-the-best-ups-devices-to-secure-your-power/"><u>Best-of-the-Best UPS Devices to Secure Your Power</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-xr21-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia XR21 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-inversion-workshop/"><u>In 2024, Inversion Workshop</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mobile-tools-optimize-and-enhance-audio-faster/"><u>In 2024, Mobile Tools Optimize and Enhance Audio Faster</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inventory-of-videography-items-for-exploration-for-2024/"><u>Inventory of Videography Items for Exploration for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/snapchat-soundtrack-sourcebook-choosing-from-the-best-websites-for-2024/"><u>Snapchat Soundtrack Sourcebook Choosing From the Best Websites for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tips-for-finding-christian-choir-songs-online-and-personalizing-them-for-2024/"><u>Tips for Finding Christian Choir Songs Online & Personalizing Them for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-digital-dazzle-fine-tuning-video-chrominance-for-beauty/"><u>[New] 2024 Approved Digital Dazzle Fine-Tuning Video Chrominance for Beauty</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revitalize-your-footage-mastering-window-11-photos-and-storyremix-integration/"><u>[New] Revitalize Your Footage Mastering Window 11 Photos and StoryRemix Integration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-crafting-captivating-haul-videos/"><u>[New] Step-by-Step Crafting Captivating Haul Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-following-paths-those-whove-left-instagram/"><u>[Updated] 2024 Approved Following Paths Those Who've Left Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-low-cost-smartwatches-with-gaming-features/"><u>[Updated] Best Low-Cost Smartwatches with Gaming Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-7-key-techniques-to-make-your-instagram-unboxing-videos-shine/"><u>[Updated] In 2024, 7 Key Techniques to Make Your Instagram Unboxing Videos Shine</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>[Updated] In 2024, Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-clearer-internet-video-views/"><u>[Updated] Mastering Clearer Internet Video Views</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reflect-your-vision-affordable-personalization-of-professional-logo-designs-free/"><u>[Updated] Reflect Your Vision Affordable Personalization of Professional Logo Designs (Free)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-laugh-ledger-a-treasure-trove-of-free-meme-creations/"><u>2024 Approved Laugh Ledger A Treasure Trove of FREE Meme Creations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-brand-collaboration-on-youtube/"><u>2024 Approved Mastering Brand Collaboration on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-your-stories-with-free-templates/"><u>2024 Approved Premiere Your Stories with Free Templates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eight-key-considerations-for-making-an-informed-decision-on-a-desktop-pc-buy/"><u>Eight Key Considerations for Making an Informed Decision on a Desktop PC Buy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-easily-end-your-apple-music-membership-without-using-itunes-expert-tips/"><u>How To Easily End Your Apple Music Membership Without Using iTunes (Expert Tips)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/ig-peak-performers-iphone-plus-androids-top-covers-app/"><u>IG Peak Performers IPhone + Android's Top Covers App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-webcams-for-professional-sound-recording-for-2024/"><u>Premium Webcams for Professional Sound Recording for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-download-filmora-free-and-safe-avoiding-viruses-and-scams/"><u>Updated 2024 Approved Download Filmora Free and Safe Avoiding Viruses and Scams</u></a></li>
 </ul></div>
 
