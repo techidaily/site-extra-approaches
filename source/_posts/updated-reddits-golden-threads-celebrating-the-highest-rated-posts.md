@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Reddit's Golden Threads  Celebrating the Highest-Rated Posts\""
-date: 2024-12-21T19:08:20.830Z
-updated: 2024-12-26T16:41:04.979Z
+date: 2025-01-04T01:19:35.772Z
+updated: 2025-01-04T23:58:25.486Z
 tags: 
   - screen-recording
   - ai video
@@ -51,9 +51,17 @@ When writing the article (Nov., 2022), this Reddit post features over 400k votes
 
 ![times square billboard](https://images.wondershare.com/filmora/article-images/2023/01/times-square-billboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Its purpose is quite ironic. The point was to make this image of Chancellor Palpatine from Star Wars the first result on Google whenever someone searched for "The Senate."
 
 Sadly, the attempt failed but still received a lot of attention.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. [$GME GO BRRR (r/wallstreetbets)](https://www.reddit.com/r/wallstreetbets/comments/l8rf4k/times%5Fsquare%5Fright%5Fnow/)
 
@@ -93,10 +101,6 @@ The image shows an experienced gamer who spent countless hours beating a game, t
 
 You understand the pain if you've gone through something like this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. [All News Anchors Say the Same Thing(/r/videos)](https://www.reddit.com/r/videos/comments/88ll08/this%5Fis%5Fwhat%5Fhappens%5Fwhen%5Fone%5Fcompany%5Fowns%5Fdozens/)
 
 ![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
@@ -107,6 +111,10 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 
 97% of these 293k users upvoted and agreed that all news anchors say the same thing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. [Thirsty Frog Takes a Bath (r/aww)](https://www.reddit.com/r/aww/comments/90bu6w/heat%5Findex%5Fwas%5F110%5Fdegrees%5Fso%5Fwe%5Foffered%5Fhim%5Fa/)
 
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
@@ -116,10 +124,6 @@ Some things on Reddit don't have to make sense to get a lot of attention.
 Like this frog, for example. 99% out of the 313k voters on this post upvoted and loved watching this tiny frog take a bath on a hot summer day.
 
 That's all there is to it. No politics, no serious issues, and so on. Just a frog trying to cool off in a bottle cup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. [Battle for Net Neutrality (/r/books)](https://www.reddit.com/r/books/comments/7en6do/join%5Fthe%5Fbattle%5Ffor%5Fnet%5Fneutrality%5Fwe%5Fneed%5Fto/)
 
@@ -138,10 +142,6 @@ Millions of fans worldwide loved The Office with Steve Carell, a.k.a Michael Sco
 Well, a Reddit user made an edit of this clip and now it looks as if Will juggled four balls... then five.
 
 The post has a 98% upvote rate with 170k voters in total. The reason it's so popular is that The Office fans can't get enough of this show. Many say they never stop watching short clips of the show on Youtube and Reddit after finishing the entire series.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 10\. [Brave Soldier Buried Amongst His Devoted Troops (/r/todayilearned)](https://www.reddit.com/r/todayilearned/comments/7pbzcb/til%5Fafter%5Fcol%5Fshaw%5Fdied%5Fin%5Fbattle%5Fconfederates/)
 
@@ -184,7 +184,7 @@ When writing the article (Nov., 2022), this Reddit post features over 400k votes
 ![times square billboard](https://images.wondershare.com/filmora/article-images/2023/01/times-square-billboard.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Its purpose is quite ironic. The point was to make this image of Chancellor Palpatine from Star Wars the first result on Google whenever someone searched for "The Senate."
@@ -203,20 +203,20 @@ $GME stands for GameStop's stock name. BRR represents printing money. The idea b
 
 ![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as[/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
 
 If you know the famous song "Never Gonna Give You Up, " you know who this is. Well, this is the Reddit account of the artist Rick Astley himself, taking over the platform with a photo of himself he found in 1989.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. [NYC Taxi Drivers Calendar (/r/funny)](https://www.reddit.com/r/funny/comments/7mjw12/my%5Fcab%5Fdriver%5Ftonight%5Fwas%5Fso%5Fexcited%5Fto%5Fshare/)
 
 ![nyc taxi driver calendar](https://images.wondershare.com/filmora/article-images/2023/01/new-york-taxi-driver.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Another funny post in the official /r/funny subreddit itself. At this time, this one has 308k votes, 97% of which are Upvotes.
@@ -224,10 +224,6 @@ Another funny post in the official /r/funny subreddit itself. At this time, this
 The image depicts the New York spirit as an excited cab driver shows off his cab in the 2018 New York Taxi Driver calendar.
 
 What's even more interesting is that the driver commented on this Reddit post, letting everyone know that he also got the title "Mr. December" that year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. [Showing a Game You Mastered to Someone You Care About (/r/gaming)](https://www.reddit.com/r/gaming/comments/ccr8c8/take%5Fyour%5Ftime%5Fyou%5Fgot%5Fthis/)
 
@@ -246,7 +242,7 @@ You understand the pain if you've gone through something like this.
 ![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 293k users voted on this post, revealing what it looks like when a single company owns dozens of local news stations.
@@ -260,7 +256,7 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Some things on Reddit don't have to make sense to get a lot of attention.
@@ -282,7 +278,7 @@ It's a post with a title and a link to a site where anyone can join the battle. 
 ![reddit post of deangelo juggling balls the office](https://images.wondershare.com/filmora/article-images/2023/01/deangelo-juggling-balls-on-the-office.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Millions of fans worldwide loved The Office with Steve Carell, a.k.a Michael Scott. One of the funniest moments was when Will Ferrell juggled imaginary balls in the Dunder Mifflin office.
@@ -308,6 +304,10 @@ The Reddit post has over 4k comments, many of which feature thousands of upvotes
 ## Video – Top 10 Most Upvoted Posts on Reddit
 
 Apart from what been introduced to you above, we also prepared a video about the most upvoted posts on Reddit. If you have any interests, you can watch it and get a deeper understanding of why these posts are so popular.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -343,24 +343,18 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hook-creating-headline-helper/"><u>[New] Hook-Creating Headline Helper</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-elevate-your-live-experience-top-10-choices/"><u>[New] How to Elevate Your Live Experience Top 10 Choices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-leading-video-technology-of-2024-our-top-10-picks/"><u>[New] Leading Video Technology of 2024 – Our Top 10 Picks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-on-the-go-photography-revolution-with-3dlut-apps/"><u>[New] On-the-Go Photography Revolution with 3DLUT Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smartphones-meet-virtual-worlds-top-10-headsets/"><u>[New] Smartphones Meet Virtual Worlds - Top 10 Headsets</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-elevate-your-vr-experience-with-our-picks/"><u>[Updated] Elevate Your VR Experience with Our Picks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-exploring-benq-bl2711u-ultra-hd-monitor-deep-dive-for-2024/"><u>[Updated] Exploring BenQ BL2711U Ultra-HD Monitor Deep Dive for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-green-screen-video-magic-must-know-methods-for-2024/"><u>[Updated] Green Screen Video Magic Must-Know Methods for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-to-use-luts-to-obs-studio-and-download-free-lut-for-2024/"><u>[Updated] How to Use LUTs to OBS Studio & Download Free LUT for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-chronicle-custodians-circle-top-7-treasures/"><u>[Updated] In 2024, Chronicle Custodians Circle - Top 7 Treasures</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-investigating-the-realm-of-virtual-sticker-decoration/"><u>[Updated] Investigating the Realm of Virtual Sticker Decoration</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-real-time-hardware-for-vr/"><u>[Updated] Real-Time Hardware for VR</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-gopro-videos-the-ultimate-guide/"><u>2024 Approved Mastering Gopro Videos The Ultimate Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/eract-vibration-for-clear-captures/"><u>Counteract Vibration for Clear Captures</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-canon-printer-software-mp280-compatible-with-windows-10-8-and-7/"><u>Free Download: Canon Printer Software MP280 Compatible with Windows 10, 8 & #7</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-push-boundaries-expert-advice-on-snapchat-zooms/"><u>In 2024, Push Boundaries Expert Advice on Snapchat Zooms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-workspace-high-flying-space-for-2024/"><u>Leading Workspace High-Flying Space for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pros-picks-of-handheld-stabilizers-ensuring-perfect-videos-for-2024/"><u>Pro's Picks of Handheld Stabilizers Ensuring Perfect Videos for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pushing-boundaries-with-advanced-audacity-recording-for-2024/"><u>Pushing Boundaries with Advanced Audacity Recording for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-visual-aesthetics-mastering-vsco-styles-and-looks/"><u>[New] 2024 Approved Visual Aesthetics Mastering VSCO Styles and Looks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-mastering-photo-framing-best-web-and-app-solutions/"><u>[New] In 2024, Mastering Photo Framing Best Web and App Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-monitors-the-best-5-selection-for-ps5-gaming/"><u>[New] Premium Monitors The Best 5 Selection for PS5 Gaming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-digital-image-cropping-techniques/"><u>[Updated] Mastering Digital Image Cropping Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reverse-call-quality-declines-on-zoom-platforms/"><u>[Updated] Reverse Call Quality Declines on Zoom Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-video-to-mp3-converting-hacks/"><u>2024 Approved Instagram Video-to-MP3 Converting Hacks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pros-and-cons-ranking-the-best-7-aqua-cameras/"><u>2024 Approved Pros & Cons Ranking the Best 7 Aqua Cameras</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amplify-youtube-twits-with-superior-hd-views-for-2024/"><u>Amplify YouTube Twits with Superior HD Views for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciphering-rcs-protocol-next-level-sms-functionality-explained/"><u>Deciphering RCS Protocol: Next-Level SMS Functionality Explained</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-melodic-masterpieces-top-sites-for-legal-skype-files/"><u>In 2024, Melodic Masterpieces Top Sites for Legal Skype Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastery-in-motion-a-guide-for-expert-color-balancing-for-2024/"><u>Mastery in Motion A Guide for Expert Color Balancing for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-performing-intel-chipset-boards-for-optimal-gaming-experience/"><u>Top-Performing Intel Chipset Boards for Optimal Gaming Experience</u></a></li>
 </ul></div>
 

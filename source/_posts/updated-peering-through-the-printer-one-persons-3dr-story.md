@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Peering Through the Printer  One Person’s '3DR' Story\""
-date: 2024-12-21T16:05:02.395Z
-updated: 2024-12-26T18:10:40.225Z
+date: 2025-01-02T18:13:27.450Z
+updated: 2025-01-04T21:25:24.059Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and Cons of 3DR Solo
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -132,21 +132,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastery-guide-on-the-world-of-voice-recordings/"><u>[New] Mastery Guide on the World of Voice Recordings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-peek-into-hidden-social-interaction-on-platforms-like-youtube/"><u>[New] Peek Into Hidden Social Interaction on Platforms Like YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-secrets-for-successful-live-streams-on-youtube-with-a-tiny-fanbase/"><u>[New] Secrets for Successful Live Streams on YouTube with a Tiny Fanbase</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-data-driven-odyssey-of-youtubes-statistical-storytelling-2017-for-2024/"><u>[New] The Data-Driven Odyssey of YouTube's Statistical Storytelling (2017) for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-a-friendly-how-to-participating-in-tiktok-livestreams/"><u>[Updated] In 2024, A Friendly How-To Participating in TikTok Livestreams</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-innovative-igtv-editor-apps-for-creative-vertical-content/"><u>[Updated] Innovative IGTV Editor Apps for Creative Vertical Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-omniview-app-critical-look-over/"><u>[Updated] OmniView App Critical Look-Over</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-through-the-complexities-of-canon-time-lapse/"><u>2024 Approved Navigating Through the Complexities of Canon Time-Lapse</u></a></li>
-<li><a href="https://win-net.techidaily.com/a-step-by-step-tutorial-on-restoring-accidentally-erased-mp4-movie-files/"><u>A Step-by-Step Tutorial on Restoring Accidentally Erased MP4 Movie Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-integration-enhance-marketing-efforts-and-drive-sales-successfully/"><u>Cookiebot Integration: Enhance Marketing Efforts and Drive Sales Successfully</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fixing-the-elusive-issue-ghost-runners-deadly-glitches-on-windows-11-unveiled/"><u>Fixing the Elusive Issue: Ghost Runner's Deadly Glitches on Windows 11 Unveiled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quizzical-quests-top-trivia-video-platforms/"><u>In 2024, Quizzical Quests Top Trivia Video Platforms</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-poco-m6-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Poco M6 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/is-sns-hdr-pro-the-gold-standard-for-hdr-editors-in-2024/"><u>Is SNS HDR Pro the Gold Standard for HDR Editors, In 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lost-or-stolen-how-to-retrieve-your-missing-iphone-safely/"><u>Lost or Stolen? How to Retrieve Your Missing iPhone Safely</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/secrets-of-speed-instant-background-cleanse-techniques-for-2024/"><u>Secrets of Speed Instant Background Cleanse Techniques for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pulsating-performance-audio-addition-to-videos-on-win11/"><u>[New] Pulsating Performance Audio Addition to Videos on Win11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/irtual-masterclass-for-aspiring-filmmakers-on-youtube/"><u>[New] Virtual Masterclass for Aspiring Filmmakers on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selecting-superior-audio-our-picks-for-the-top-6-live-stream-enhancers/"><u>[Updated] Selecting Superior Audio Our Picks for the Top 6 Live-Stream Enhancers</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/chromefirefox/"><u>【Chrome・Firefox】動画ダウンロードソフトワックスにおける代替アプリケーションとその使い方</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-journey-to-unlicensed-beauty-open-source-portfolits/"><u>2024 Approved Journey to Unlicensed Beauty Open-Source Portfolits</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-buffering-pro-tips-for-optimizing-your-pcs-performance-in-street-fighter-6/"><u>Beat the Buffering: Pro Tips for Optimizing Your PC's Performance in Street Fighter 6</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-the-scene-without-breaking-the-bank-with-free-tools-for-2024/"><u>Capture the Scene without Breaking the Bank with Free Tools for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/osts-and-boost-creativity-8-online-spots-offering-free-eco-backdrops/"><u>Cut Costs and Boost Creativity 8 Online Spots Offering Free Eco-Backdrops</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c51-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme C51 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-robust-access-controls-via-powertoys/"><u>Implementing Robust Access Controls via PowerToys</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-achieving-professional-results-video-recordingediting-on-adobe-connect/"><u>In 2024, Achieving Professional Results Video Recording/Editing on Adobe Connect</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-savvy-techniques-for-storing-and-streaming-animated-images-for-2024/"><u>IPhone-Savvy Techniques for Storing and Streaming Animated Images for 2024</u></a></li>
 </ul></div>
 

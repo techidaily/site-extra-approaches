@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-12-22T19:15:59.800Z
-updated: 2024-12-26T17:36:12.412Z
+date: 2024-12-28T17:44:52.806Z
+updated: 2025-01-05T01:42:13.052Z
 tags: 
   - screen-recording
   - ai video
@@ -30,10 +30,6 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -54,10 +50,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -73,7 +65,7 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Crop in Preview
@@ -93,7 +85,7 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -107,6 +99,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -124,6 +120,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -140,10 +140,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -159,6 +155,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -221,17 +221,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ntegrating-existing-video-files-in-your-powerpoint-decks-for-2024/"><u>[New] Integrating Existing Video Files in Your PowerPoint Decks for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-nine-ways-to-unblock-live-feeds-on-firefoxchrome/"><u>[New] Nine Ways to Unblock Live Feeds on FireFox/Chrome</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/eeking-behind-the-scenes-deciphering-youtubes-unlisted-content/"><u>[New] Peeking Behind the Scenes Deciphering YouTube's Unlisted Content</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-leading-av-creators-digital-edition-list/"><u>[Updated] Leading AV Creators Digital Edition List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-filters-for-smooth-streaming-sessions/"><u>[Updated] Prime Filters for Smooth Streaming Sessions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-amd-radeon-driver-for-windows-8-no-cost/"><u>Download AMD Radeon Driver for Windows 8 - No Cost</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-prodigious-portfolio-creation-best-free-mac-software/"><u>In 2024, Prodigious Portfolio Creation Best FREE Mac Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-strategies-to-modify-user-numbers-on-tiktok/"><u>In 2024, Smart Strategies to Modify User Numbers on TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-stickies-across-computers/"><u>Maximizing Windows 11 Stickies Across Computers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-kinemasters-zoom-features-for-professional-results-for-2024/"><u>Navigating Kinemaster's Zoom Features for Professional Results for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029137991-pc/"><u>PCでヘッドフォンを使った直接的な録音・撮影の技術</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-harmony-in-vr-exploration-for-2024/"><u>Perfect Harmony in VR Exploration for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-iphone-photography-rotate-tilt-and-flip-effortlessly/"><u>[New] Master iPhone Photography Rotate, Tilt & Flip Effortlessly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-paving-the-way-for-individuality-in-the-digital-age-your-youtube-journey/"><u>[New] Paving the Way for Individuality in the Digital Age Your YouTube Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sns-vs-competitors-a-critical-hdr-software-comparison/"><u>[Updated] SNS vs Competitors A Critical HDR Software Comparison</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-photography-dampening-disarray/"><u>2024 Approved Precision Photography Dampening Disarray</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-google-pixel-8-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-features-of-the-latest-win11-release/"><u>In 2024, Innovative Features of the Latest Win11 Release</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-viewport-adjustment-iphones-zooming-guide/"><u>In 2024, Optimal Viewport Adjustment IPhone's Zooming Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photoshops-secret-weapon-advanced-techniques-for-3d-lut-mastery/"><u>In 2024, Photoshop's Secret Weapon Advanced Techniques for 3D Lut Mastery</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/level-cinema-selection-youtube-edition/"><u>Next-Level Cinema Selection - YouTube Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-chatgpt-to-augment-cognitive-behavioral-therapy-best-practices-and-insights/"><u>Using ChatGPT to Augment Cognitive Behavioral Therapy: Best Practices and Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-examination-of-the-ergonomic-features-in-the-x-chair-an-in-depth-executive-office-seat-analysis/"><u>ZDNet's Comprehensive Examination of the Ergonomic Features in the X-Chair: An In-Depth Executive Office Seat Analysis</u></a></li>
 </ul></div>
 

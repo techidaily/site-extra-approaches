@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Art of Reversed Color Photography"
-date: 2024-12-21T17:11:51.382Z
-updated: 2024-12-26T18:03:09.974Z
+date: 2025-01-01T17:29:50.832Z
+updated: 2025-01-04T16:01:11.251Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 During the age of analog photography, the image negative was one of the most important artifacts for photographers, because it enabled them to reproduce a picture as many times as they wanted. Years later photographers invert colors in photos for mostly aesthetical reasons since only a small number of photographers still take photos with analog cameras. Regardless of the type of camera you’re using, inverting colors in a photo is a straightforward process that doesn’t require too much effort. In this article, we are going to take you through some of the best options on Mac and PC computers, as well as Android phones and iPhones that let you invert colors in just a few easy steps. So, let’s dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Make Image Negative of a Digital Photo?
@@ -58,16 +58,12 @@ Besides creating image negatives, the Preview app lets you convert image files a
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can experiment with the values you assign to each of these sliders in order to get a more visually pleasing result.
@@ -81,7 +77,7 @@ You can experiment with the values you assign to each of these sliders in order 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/pinetools-invert-image-colors.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The platform’s homepage contains a number of categories of tools such as **Colors, Numbers, Text and Lists or Images**. Clicking on the **Images category** will grant you the access to all photo editing tools PineTools offers, so you just have to click on the **Invert Colors** options to start the process of inverting a photo online. Once the **Invert Colors window** loads, you can click on the **Choose File button** to select a photo you’d like to invert. When the upload is completed, simply click on the **Invert button** located near the bottom of the screen and the platform will automatically invert the colors in your photo. To save the watermark-free image with inverted colors you just have to click on **PNG, JPEG or WEBP file** formats that are displayed above the preview of the picture.
@@ -95,7 +91,7 @@ The platform’s homepage contains a number of categories of tools such as **Col
 ![ Covert color](https://images.wondershare.com/filmora/article-images/imageconverter-tjshome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In addition to a rich selection of effects you can apply to images, tjshome also lets you browse through **Funny Dumb Laws, Famous Quotes or Funny Status Messages** categories. Click on the **Image Filter** category in order to view all effects the platform offers. Make sure that the **Reverse Colors/Negate effect** is selected, and then scroll further down the page to **upload the photo you’d like to invert.** When the upload process is completed, you can check the Make **Public checkbox** if you want to add your photo to the tjshome’s gallery. Click on the **Submit** button, and then proceed to save the picture to your computer. This platform lets you invert images in three easy steps, but if you want to have more control over the process, it is better to use a more powerful photo editor.
@@ -142,6 +138,10 @@ Inverting colors in a photo is not a complicated process, but finding creative w
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -157,21 +157,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-for-filming-sims-adventures/"><u>[New] 2024 Approved Step-by-Step Guide for Filming Sims Adventures</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-entryway-investments-cost-effective-channels-for-newbies-for-2024/"><u>[New] Entryway Investments Cost-Effective Channels for Newbies for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-beginners-blueprint-zoom-clustered-conferencing/"><u>[New] In 2024, Beginner's Blueprint Zoom Clustered Conferencing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-your-beginners-guide-to-making-money-on-youtubers/"><u>[New] In 2024, Your Beginner's Guide to Making Money on YouTubers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seo-savvy-boosting-your-podcasts-discoverability-and-rankings/"><u>[New] SEO Savvy Boosting Your Podcast's Discoverability and Rankings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-title-your-photos-quickly-captioning-techniques-in-photos-app-win-11-for-2024/"><u>[New] Title Your Photos Quickly Captioning Techniques in Photos App Win 11 for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-farm-like-royalty-unveiling-the-best-7-stardew-upgrades/"><u>[Updated] Farm Like Royalty - Unveiling the Best 7 Stardew Upgrades</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-locations-to-grab-snapchat-chime-downloads/"><u>[Updated] Prime Locations to Grab Snapchat Chime Downloads</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-view-from-above-discover-our-top-11-bridge-camera-picks-for-2024/"><u>[Updated] View From Above Discover Our Top 11 Bridge Camera Picks for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-process-for-building-quality-srt-files/"><u>2024 Approved Step-by-Step Process for Building Quality SRT Files</u></a></li>
-<li><a href="https://games-able.techidaily.com/direct-controlled-races-wheels-edge-over-touchscreen-triumphs/"><u>Direct Controlled Races: Wheel's Edge Over Touchscreen Triumphs?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-softening-sonic-surge-gradual-volume-reduction-tutorial/"><u>In 2024, Softening Sonic Surge Gradual Volume Reduction Tutorial</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-great-dvr-debate-tivo-vs-comcasts-features-and-pricing/"><u>New The Great DVR Debate TiVo vs Comcasts Features and Pricing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pinnacle-of-1980s-movie-magic-in-editing-for-2024/"><u>Pinnacle of 1980S Movie Magic in Editing for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pocketful-skies-affordable-large-file-allocator-for-2024/"><u>Pocketful Skies - Affordable Large File Allocator for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-process-for-building-quality-srt-files-for-2024/"><u>Step-by-Step Process for Building Quality SRT Files for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-complete-process-to-tweak-your-instagram-voice/"><u>[New] 2024 Approved The Complete Process to Tweak Your Instagram Voice</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-preeminent-6-social-channels-for-commercial-expansion/"><u>[New] In 2024, Preeminent 6 Social Channels for Commercial Expansion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-laughs-and-lightheartedness/"><u>[New] IPhone Laughs & Lightheartedness</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-vs-pop-analyzing-gopro-and-polaroids-video-capabilities/"><u>[New] Pro Vs. Pop Analyzing GoPro and Polaroid's Video Capabilities</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-dive-into-a-friends-life-without-fuss-on-tiktok/"><u>[Updated] 2024 Approved How To Dive Into a Friend's Life Without Fuss on TikTok</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-navigating-the-world-of-sound-effects-in-youtube-videos/"><u>[Updated] 2024 Approved Navigating the World of Sound Effects in YouTube Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-guide-to-infectious-internet-memes-gifs/"><u>[Updated] 2024 Approved Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sharpen-your-scopes-essential-close-up-techniques-for-mines/"><u>[Updated] Sharpen Your Scopes Essential Close-Up Techniques for Mines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-audible-magic-cropping-and-edits-in-canva-videos/"><u>2024 Approved Crafting Audible Magic Cropping and Edits in Canva Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-your-audio-pazera-free-extractor-insights/"><u>2024 Approved Revolutionize Your Audio Pazera Free Extractor Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-share-laughter-easily-use-kapwing-to-make-memes/"><u>2024 Approved Share Laughter Easily - Use Kapwing to Make Memes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scale-up-snaps-no-loss-in-detail/"><u>In 2024, Scale Up Snaps - No Loss in Detail</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-bargain-alert-get-your-hands-on-the-apple-pencil-2nd-gen-for-just-95-dollars-shop-now-with-zdnet-exclusive-offer/"><u>Labor Day Bargain Alert: Get Your Hands on the Apple Pencil (2Nd Gen) for Just 95 Dollars – Shop Now with ZDNET Exclusive Offer!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-youtube-shorts-earnings-essentials-and-profit-prospects-for-2024/"><u>Maximizing Youtube Shorts Earnings Essentials and Profit Prospects for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/renowned-companies-advancing-virtual-reality-tech-for-2024/"><u>Renowned Companies Advancing Virtual Reality Tech for 2024</u></a></li>
 </ul></div>
 

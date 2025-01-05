@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Setting up PIP Mode in the YouTube App for iOS Devices"
-date: 2024-07-27T22:31:32.833Z
-updated: 2024-07-28T22:31:32.833Z
+date: 2024-12-31T19:17:33.036Z
+updated: 2025-01-05T03:10:13.996Z
 tags: 
   - screen-recording
   - ai video
@@ -23,8 +23,9 @@ Picture in Picture is now available on YouTube on all platforms and devices in t
 After opening the video in PIP mode, you can do things around on the screen of your device as the video plays on a floating window. You will be able to resize and drag the window along as you carry along with other activities on your phone or PC.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1\. How to enable Picture in Picture for YouTube on iPhone
 
 To enable PIP on iPhone on YouTube and use it better, you should be a premium YouTube subscriber. Picture in Picture on iPhone depends on the version of your phone. And here, I am going to tell you how to enable PIP on the latest versions of iPhones.
@@ -42,6 +43,10 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 
 ![shortcut application](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Tap **Allow Untrusted Shortcuts** in the Shortcut Application on your device
 2. Now go to the actual YouTube App and start to play a video
 3. As the video plays, tap on the **Share icon** then scroll to the right end of the list of sharing options for platforms and Apps. Tap the **More icon** at the right end.
@@ -49,15 +54,16 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 5. Tap on **YouTube PIP** and a burner will pop out at the top of your phone.
 6. Tap on the burner that pops out. It will direct you to the actual shortcut for YouTube. And you will need to install an additional Application (Scriptable App).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![scriptable app](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-3.jpg)
 
 1. Tap on **View in App Store** on the screen that appears. This will direct you to the App Store.
 2. On the next screen that appears, download [**Scriptable App**](https://apps.apple.com/us/app/scriptable/id1405459188). Get back to the home screen and launch Scriptable App once.
 
 ![download scriptable app](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Go to YouTube again and start any video. Tap the **Share icon**, scroll to the right and tap the **More icon**, go ahead and tap the YouTube PIP. And on the burner that pops up at the top of the screen of your phone, tap **OK**.
 
@@ -66,9 +72,9 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 And there you go, now you will be able to watch your videos on a floating screen. This procedure may be pretty tedious, but it is all worth it if you follow keenly to the end. You will do it only once.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. How to Disable Picture in Picture for YouTube on iPhone
 
 To use PIP on iPhone effectively, you may sometime need to deactivate it so that everything goes your way. And here is a very simple way to disable Picture in Picture in YouTube on your iPhone.
@@ -79,12 +85,13 @@ To use PIP on iPhone effectively, you may sometime need to deactivate it so that
 4. Scroll down. You will see the **Picture-in-Picture**
 5. Tap the switch button to switch it off. And there you are. You have disabled PIP for YouTube on iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3\. How to enable Picture in Picture for YouTube on Mac and iPad
 
 Picture in Picture is now a native quality utility feature on many Apps on different platforms. PIP has stayed for some time since it was developed and introduced for third-party utilization. However, YouTube is still left out of this. To enable PIP on Mac, you will need to go a step ahead to do it. Enjoying PIP on an iPad is also not a straightforward thing. All the same, Mac and iPad require very simple instructions to allow you to use Picture in Picture with them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### PIP on iPad
 
@@ -104,9 +111,6 @@ Before you use Picture in Picture in YouTube, you require two Apps on your devic
 4. Tap the **More icon**.
 5. Tap **YouTube PIP** and select **OK** on the burner that appears on the screen. This will produce a new floating window automatically on the screen. You can select a window resolution that fits you and go back to Home Screen. Your video will play in a floating window on your home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![floating window](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-6.jpg)
 
 ### PIP on Mac
@@ -124,9 +128,6 @@ And with the Control Commands, you can get into PIP on Mac very easily in only t
 1. Open a video on YouTube on a Web browser
 2. Press and hold on to the **Ctrl key** on your keyboard as you **left click** on the video twice, and you will be successful.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![get into pip on mac](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-7.jpg)
 
 ## Conclusion
@@ -161,5 +162,24 @@ Picture in Picture is a computer utility feature in the USA. It has not been lau
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-beyond-3d-a-comparative-guide-to-metaverse-and-omniverse-realities/"><u>[New] In 2024, Beyond 3D A Comparative Guide to Metaverse and Omniverse Realities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-optimizing-your-workflow-nvidia-screener-for-2024/"><u>[New] Optimizing Your Workflow NVIDIA Screener for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-iphone-laughs-and-lightheartedness/"><u>[Updated] 2024 Approved IPhone Laughs & Lightheartedness</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-nocturnal-nexus-versus-daylight-dominion/"><u>[Updated] Nocturnal Nexus Versus Daylight Dominion</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-10cssdand/"><u>最新技術:Windows 10のCドライブSSDへスムーズなコピー&移動ソフト</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-v-purse-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor V Purse Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-airtunes-on-your-apple-devices-quick-guide-to-repairs/"><u>In 2024, Mastering Airtunes on Your Apple Devices - Quick Guide to Repairs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-intricacies-of-previewing-off-facebook-activities/"><u>In 2024, Navigating the Intricacies of Previewing Off-Facebook Activities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-5-filters-elevating-submerged-cinematography/"><u>In 2024, Prime 5 Filters Elevating Submerged Cinematography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/inside-the-studio-how-magix-video-pro-x-simplifies-production/"><u>Inside the Studio How Magix Video Pro X Simplifies Production</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/introduction-to-basic-storytelling-constructs-for-2024/"><u>Introduction to Basic Storytelling Constructs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-games-with-kinemaster-app-android-analysis-for-2024/"><u>Mastering Games with KineMaster App - Android Analysis for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/muting-mastery-keeping-your-meeting-focus-on-google-go-for-2024/"><u>Muting Mastery Keeping Your Meeting Focus on Google Go for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-iphone-photo-fixes-expert-hacks-for-better-snapshots-for-2024/"><u>Quick iPhone Photo Fixes Expert Hacks for Better Snapshots for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/royal-rivals-top-10-ultimate-battle-royale-games-for-2024/"><u>Royal Rivals Top 10 Ultimate Battle Royale Games for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speech-styling-made-simple-tips-for-enriching-your-vocal-presence-affordably-for-2024/"><u>Speech Styling Made Simple Tips for Enriching Your Vocal Presence Affordably for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/what-happens-if-you-wipe-your-existing-iphone-before-transferring-to-a-fresh-model/"><u>What Happens if You Wipe Your Existing iPhone Before Transferring to a Fresh Model?</u></a></li>
+</ul></div>
 

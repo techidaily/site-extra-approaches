@@ -1,7 +1,7 @@
 ---
 title: "\"Slippery Surfaces  Olympic Winners of '22 for 2024\""
-date: 2024-12-20T18:04:14.413Z
-updated: 2024-12-26T18:10:14.691Z
+date: 2025-01-01T16:29:10.525Z
+updated: 2025-01-05T00:23:03.009Z
 tags: 
   - screen-recording
   - ai video
@@ -23,13 +23,13 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
@@ -44,10 +44,6 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
@@ -55,6 +51,10 @@ Russia’s Semen Elistratov wins the bronze medal.
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -68,13 +68,13 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -89,6 +89,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -107,10 +111,6 @@ For macOS 10.12 or later
 Step 1: Download and install Filmora on your computer. Launch the application and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
@@ -135,17 +135,18 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-best-8-youtube-editing-software-for-linux/"><u>[New] In 2024, Best 8 YouTube Editing Software for Linux</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-transforming-horizontal-footage-into-vertical-video-gold-on-igtv/"><u>[New] Transforming Horizontal Footage Into Vertical Video Gold on IGTV</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[Updated] From Hundreds to Millions A YouTube Growth Journey</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-painttool-pro-techniques-unveiled/"><u>[Updated] PaintTool Pro Techniques Unveiled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-instructions-on-chromes-pip-across-all-platforms/"><u>[Updated] Step-by-Step Instructions on Chrome’s PIP Across All Platforms</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-deadly-drafts-cutthroat-selection-of-top-zombie-titles/"><u>[Updated] The Deadly Drafts Cutthroat Selection of Top Zombie Titles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>2024 Approved Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-non-responsive-file-explorer-in-windows-10/"><u>Effective Solutions for Non-Responsive File Explorer in Windows 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fast-solutions-immediate-steps-to-resolve-your-youtube-playback-issues/"><u>Fast Solutions: Immediate Steps to Resolve Your YouTube Playback Issues</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-se-2022-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2022) Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 Plus</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-megadron-mastery-industrys-top-heavy-loaders/"><u>In 2024, Megadron Mastery Industry's Top Heavy Loaders</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-understanding-how-asmr-can-benefit-your-life/"><u>[New] In 2024, Understanding How ASMR Can Benefit Your Life</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mobile-magic-transform-your-snaps-at-zero-cost/"><u>[New] Mobile Magic Transform Your Snaps at Zero Cost</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-aviation-gadgets-purchase-now/"><u>[New] Prime Aviation Gadgets, Purchase Now</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-amplify-engagement-key-youtube-seo-gadgets-revealed/"><u>[Updated] 2024 Approved Amplify Engagement Key YouTube SEO Gadgets Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-journey-to-the-heart-of-windows-11s-newest-gems/"><u>[Updated] Journey to the Heart of Windows 11'S Newest Gems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-pro-grade-gopro-video-content-creation/"><u>[Updated] Mastering Pro-Grade GoPro Video Content Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enter-the-future-of-lettering-our-guide-to-the-best-9-websites-for-3d-graffiti-typefaces/"><u>Enter the Future of Lettering Our Guide to the Best 9 Websites for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-encountered-an-error-message-on-geforce-experience-easily/"><u>Fixing the 'Encountered an Error' Message on GeForce Experience Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-closeup-essential-filmmaking-tips/"><u>In 2024, Mastering the Art of Closeup Essential Filmmaking Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-hue-transformations-expert-tactics-revealed-for-2024/"><u>Mastering Hue Transformations Expert Tactics Revealed for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-out-memory-dump-files-on-windows-11/"><u>Step-by-Step Guide: Clearing Out Memory Dump Files on Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210440311-9780008520380-taurus-2023-your-personal-horoscope/"><u>Taurus 2023: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-and-wi-fi-security-how-to-retrieve-your-network-key-with-ease/"><u>Windows 11 and Wi-Fi Security: How to Retrieve Your Network Key with Ease</u></a></li>
 </ul></div>
 

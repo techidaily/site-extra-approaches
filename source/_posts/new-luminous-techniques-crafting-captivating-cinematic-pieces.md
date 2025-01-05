@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Luminous Techniques  Crafting Captivating Cinematic Pieces\""
-date: 2024-07-27T22:26:56.512Z
-updated: 2024-07-28T22:26:56.512Z
+date: 2024-12-29T00:37:38.956Z
+updated: 2025-01-05T02:02:08.004Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -51,22 +48,20 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -85,31 +80,38 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -142,5 +144,21 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-gopro-deep-dive-side-by-side-specification-comparison/"><u>[New] GoPro Deep Dive Side-by-Side Specification Comparison</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secrets-to-affordable-buying-of-gopro-devices/"><u>[New] Secrets to Affordable Buying of GoPro Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfect-your-igtv-shooting-skills-tips-for-smartphonedslr-cameras-for-2024/"><u>[Updated] Perfect Your IGTV Shooting Skills Tips for Smartphone/DSLR Cameras for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-shield-yourself-online-a-step-by-step-guide-for-smoothing-images-for-2024/"><u>[Updated] Shield Yourself Online A Step-by-Step Guide for Smoothing Images for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-eminent-exchanges-a-curated-list-of-top-reddit-posts/"><u>2024 Approved Eminent Exchanges A Curated List of Top Reddit Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-podcast-basics-crafting-your-first-rss-feed/"><u>2024 Approved Podcast Basics Crafting Your First RSS Feed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-filmmaking-achieving-complete-circles/"><u>In 2024, IPhone Filmmaking Achieving Complete Circles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-multitasking-media-expertise-in-using-picture-in-picture/"><u>In 2024, Navigating Multitasking Media Expertise in Using Picture-in-Picture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-hdr-portraits-with-our-expert-techniques/"><u>In 2024, Perfect HDR Portraits with Our Expert Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-screengrabzer-facebook-group/"><u>In 2024, ScreenGrabzer Facebook Group</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/interpreting-your-ps4-controllers-signals-the-secrets-behind-the-blue-white-red-and-orange-lights/"><u>Interpreting Your PS4 Controller's Signals: The Secrets Behind the Blue, White, Red, and Orange Lights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/one-airpod-louder-than-the-other-discover-four-effective-techniques-for-equalizing-sound/"><u>One AirPod Louder than the Other? Discover Four Effective Techniques for Equalizing Sound</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-far-cry-6-pc-stability-issues-and-preventing-crashes/"><u>Solving Far Cry 6 PC Stability Issues and Preventing Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-if-you-cant-launch-gta-5/"><u>Troubleshooting Steps If You Can't Launch GTA 5</u></a></li>
+</ul></div>
 
