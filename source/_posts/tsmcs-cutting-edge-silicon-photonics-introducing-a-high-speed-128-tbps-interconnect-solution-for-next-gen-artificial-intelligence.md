@@ -1,7 +1,7 @@
 ---
 title: "TSMC's Cutting-Edge Silicon Photonics: Introducing a High-Speed 12.8 Tbps Interconnect Solution for Next-Gen Artificial Intelligence"
-date: 2024-12-09T18:07:08.505Z
-updated: 2024-12-11T16:04:30.893Z
+date: 2025-01-06T16:09:48.667Z
+updated: 2025-01-11T22:21:45.386Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,22 +88,22 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-dividedimage-synopsis/"><u>[New] DividedImage Synopsis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-potion-powered-pronunciation-can-voice-changer-apps-be-real-magic-search-for-other-ways/"><u>[New] Potion-Powered Pronunciation Can Voice Changer Apps Be Real Magic? Search for Other Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premier-tools-for-post-production-of-dji-videos/"><u>[New] Premier Tools for Post-Production of DJi Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-constructive-communication-leads-to-more-subscribers-for-2024/"><u>[Updated] Constructive Communication Leads to More Subscribers for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-immerse-in-ideas-multitasking-activities-for-podcast-fans-for-2024/"><u>[Updated] Immerse in Ideas Multitasking Activities for Podcast Fans for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-storage-spend-best-prices-in-cloud-services/"><u>[Updated] Optimizing Storage Spend Best Prices in Cloud Services</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>[Updated] Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-giroptic-360cam-complete-review/"><u>2024 Approved Giroptic 360Cam Complete Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-practice-8-prompts-to-improve-task-focus-and-decrease-distractions/"><u>Best Practice 8 Prompts to Improve Task Focus & Decrease Distractions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beyond-boundaries-artificinas-intelligence-in-windows-11/"><u>Beyond Boundaries: Artificinas Intelligence in Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-melodious-messages-in-whatsapp/"><u>In 2024, Melodious Messages in WhatsApp</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-overcoming-firs-display-issues-in-face-to-face-conferencing/"><u>In 2024, Overcoming Fir's Display Issues in Face-to-Face Conferencing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photography-at-the-tip-of-your-fingers-top-10-apps/"><u>In 2024, Photography at the Tip of Your Fingers – Top 10 Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rev-up-with-hubsans-x4-fpv-quadcopter-review/"><u>In 2024, Rev Up with Hubsan's X4 FPV Quadcopter Review</u></a></li>
-<li><a href="https://win-forum.techidaily.com/locating-your-windows-11-powershell-edition-a-step-by-step-guide/"><u>Locating Your Windows 11 PowerShell Edition: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/time-travel-through-your-iphones-history-with-our-guide-to-viewing-past-notifications/"><u>Time Travel Through Your iPhone's History with Our Guide to Viewing Past Notifications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gif-mov-online-free-movavi/"><u>우아한 GIF-MOV 변환을 위해 Online Free 도구 - Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>[New] 2024 Approved Key Sites The 6 Most Vital Platforms for B2B Relationships</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-free-video-editing-apps-for-iphonesipads-for-2024/"><u>[New] Essential Free Video Editing Apps for iPhones/iPads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-soundtrack-synthesis-crafting-scenes-in-imovie/"><u>[New] Soundtrack Synthesis Crafting Scenes in iMovie</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-iphone-ios-voice-memos-recording-guide/"><u>[Updated] 2024 Approved Mastering iPhone IOS Voice Memos Recording Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-fight-like-a-warrior-5-intense-martial-arts-rpgs/"><u>[Updated] Fight Like a Warrior 5 Intense Martial Arts RPGs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-tools-for-clear-images/"><u>[Updated] In 2024, Essential Tools for Clear Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterpiece-on-your-screen-iphones-free-photoshop-alternatives/"><u>[Updated] Masterpiece on Your Screen – iPhone’s Free Photoshop Alternatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-your-fpv-flight-with-optimal-blades/"><u>2024 Approved Revolutionizing Your FPV Flight with Optimal Blades</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-snapshot-survival-guide-top-recorders-evaluated/"><u>2024 Approved SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embrace-multilingualism-effortlessly-mastering-chatgpt-written-in-the-stars-but-for-now-it-remains-an-enigma-a-testament-to-human-curiosity-and-ambition/"><u>Embrace Multilingualism Effortlessly: Mastering ChatGPT’ Written in the Stars, but for Now, It Remains an Enigma - a Testament to Human Curiosity and Ambition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-olympic-ice-showdown-highlights-of-speed-skating-short-track/"><u>In 2024, Olympic Ice Showdown Highlights of Speed Skating Short Track</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instagram-collage-made-simple-a-quick-how-to-for-2024/"><u>Instagram Collage Made Simple A Quick How-To for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/ranked-top-picks-for-free-skype-tones-for-2024/"><u>Ranked Top Picks for Free Skype Tones for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rhythm-of-motivation-discover-the-most-inspiring-exercinasaurus-rex-songs-for-2024/"><u>Rhythm of Motivation Discover the Most Inspiring Exercinasaurus Rex Songs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/srt-mastery-free-and-best-websites-in-top-8-lists-for-2024/"><u>SRT Mastery Free & Best Websites in Top 8 Lists for 2024</u></a></li>
 </ul></div>
 

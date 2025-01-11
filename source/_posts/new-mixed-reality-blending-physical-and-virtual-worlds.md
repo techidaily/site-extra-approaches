@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mixed Reality  Blending Physical and Virtual Worlds\""
-date: 2024-12-31T21:16:11.804Z
-updated: 2025-01-04T19:43:09.404Z
+date: 2025-01-09T21:00:43.922Z
+updated: 2025-01-11T17:14:12.962Z
 tags: 
   - screen-recording
   - ai video
@@ -26,30 +26,26 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Definition of MR
 
 [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/) and [Augmented Reality]( https://filmora.wondershare.com/virtual-reality/what-is-augmented-reality.html ) are terms relatively known in the simulation world. Mixed reality is the third term which is increasingly becoming popular and it refers to the merging or combination of virtual environments and real environments where both worlds can exist together. In other quarters, mixed reality is also known as “Hybrid Reality”.
 
  In mixed reality, the user is given the ability to explore the virtual environment and the real world seamlessly at the same time. Through the use space and coordinates, the virtual objects will be positioned on the real world and whenever you move towards the virtual objects, they become larger while moving away from them makes them smaller. Moving around the virtual objects will also give you different angles and perspectives. Additionally, mixed reality will allow users to manipulate the virtual objects and interact with them as if they were with them in the same place.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does Mixed Reality work
 
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Applications of Mixed Reality
 
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mixed Reality for sharing real-world virtual workspaces
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mixed reality for remote experts – over the shoulder coaching
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
  Most enterprises usually find it difficult to address all the support requests from all the clients in need of expert advice. It is not only costly to fly in specialists to fix things in different locations, but also time consuming. Besides, it is never adequate to troubleshoot an issue over the phone and video conferencing in such situations also have its limitations. But all these can now be avoided through the application of mixed reality for offering over the shoulder coaching remotely. With mixed reality, access to experts can be done quickly and inexpensively. For example, doctors in the healthcare industry can offer guidance and decisions to students or other doctors without the need of being in the actual locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The future of mixed reality
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
  Also, since mixed reality experiences take place in the physical world, individuals are likely to react to them more emotionally than to a mere digital experience. As the technology develops, it is imperative for developers as well as the intended users to be aware of such issues and be ready to address them accordingly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -95,20 +95,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-jokejigsaw-creator-humor-graphic-tool/"><u>[New] JokeJigsaw Creator Humor Graphic Tool</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-popular-photographs-their-narratives-unveiled/"><u>[New] Popular Photographs Their Narratives Unveiled</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-stream-on-discord-step-by-step-guide-for-2024/"><u>[Updated] How to Stream on Discord [Step-by-Step Guide] for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-top-ten-youtube-regulations-to-abide-by/"><u>[Updated] In 2024, Top Ten YouTube Regulations to Abide By</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-tiktok-media-with-zoom-techniques/"><u>2024 Approved Perfecting TikTok Media with Zoom Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-guide-to-the-voice-recorder-keyboard-shortcuts-on-windows-11/"><u>A Guide to the Voice Recorder Keyboard Shortcuts on Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/efficient-methods-for-swiftly-displaying-your-pcs-desktop-using-windows-10-features/"><u>Efficient Methods for Swiftly Displaying Your PC's Desktop Using Windows 10 Features</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pros-picks-5-best-low-frame-rate-recorders/"><u>In 2024, Pros' Picks 5 Best Low Frame Rate Recorders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterclass-in-using-zoom-for-youtube-live-streams-for-2024/"><u>Masterclass in Using Zoom for YouTube Live Streams for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-6s-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6s Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/setting-up-the-pip-feature-in-the-youtube-app-for-easy-video-streaming-for-2024/"><u>Setting up the PIP Feature in the YouTube App for Easy Video Streaming for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-asrock-z790i-lightning-wi-fi-board-review-packed-potency-in-a-petite-package/"><u>The ASROCK Z790I Lightning Wi-Fi Board Review - Packed Potency in a Petite Package</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-powerful-path-to-flawless-photo-edits-mastering-background-eraser-use-for-2024/"><u>The Powerful Path to Flawless Photo Edits Mastering Background Eraser Use for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-eye-appeal-the-top-3-ways-to-increase-instagram-visibility/"><u>[New] 2024 Approved Eye Appeal The Top 3 Ways to Increase Instagram Visibility</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-animated-design-kits/"><u>[New] Premium Animated Design Kits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-guide-seamless-audio-transitions/"><u>[Updated] Quick Guide Seamless Audio Transitions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-traffic-puller-genius/"><u>2024 Approved Masterful Traffic Puller Genius</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-simple-hdr-photography-methods/"><u>2024 Approved Mastering Simple HDR Photography Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-strategies-for-inclusion-in-the-apple-catalog/"><u>2024 Approved Proven Strategies for Inclusion in the Apple Catalog</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-scheduling-virtual-gatherings-with-zoom-an-android-users-handbook/"><u>2024 Approved Scheduling Virtual Gatherings with Zoom An Android User's Handbook</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/become-an-author-using-flipabook-creator-diy-ebooks-with-engaging-flip-pages-flipabooktoolscom/"><u>Become an Author Using flipaBook Creator: DIY Ebooks with Engaging Flip Pages [flipaBookTools.com]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-find-n3-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Find N3?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/captivating-audiencvith-effective-thumbnail-sizes/"><u>Captivating Audiencvith Effective Thumbnail Sizes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-safely-remove-graphics-drivers-using-windows-8s-safe-mode/"><u>How To Safely Remove Graphics Drivers Using Windows 8'S Safe Mode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/al-voice-modification-software-for-video-makers/"><u>Optimal Voice Modification Software for Video Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/periscope-savvy-the-ultimate-operational-manual-for-2024/"><u>Periscope Savvy The Ultimate Operational Manual for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/pioneer-djs-limited-time-offer-get-a-steal-on-professional-dj-software-at-the-namm-show-until-february-15th/"><u>Pioneer DJ's Limited-Time Offer - Get a Steal on Professional DJ Software at the NAMM Show Until February 15Th</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-picklist-of-digital-vault-services-for-2024/"><u>Premium Picklist of Digital Vault Services for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-project-management-through-filmora-knowledge-for-2024/"><u>Streamlining Project Management Through Filmora Knowledge for 2024</u></a></li>
 </ul></div>
 

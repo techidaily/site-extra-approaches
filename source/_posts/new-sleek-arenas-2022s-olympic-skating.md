@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sleek Arenas  2022'S Olympic Skating\""
-date: 2024-12-30T23:48:27.351Z
-updated: 2025-01-04T21:00:53.092Z
+date: 2025-01-09T21:45:48.149Z
+updated: 2025-01-11T19:56:18.048Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -34,12 +30,16 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
@@ -54,23 +54,27 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -98,10 +102,6 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
@@ -121,22 +121,24 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-secrets-to-excellent-screen-recordings-on-lenovo/"><u>[New] In 2024, Secrets to Excellent Screen Recordings on Lenovo</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elite-ios-gif-sources-reviewed-and-ranked-for-2024/"><u>[Updated] Elite iOS GIF Sources Reviewed and Ranked for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-grid-artistry-at-its-peak-the-definitive-10-for-insta-posts-for-2024/"><u>[Updated] Grid Artistry at Its Peak The Definitive 10 for Insta Posts for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premium-desktop-and-mobile-video-call-platforms-zoom-replacements-for-2024/"><u>[Updated] Premium Desktop & Mobile Video Call Platforms (Zoom Replacements) for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-ig-post-featuring-podcast-insight/"><u>[Updated] Quick IG Post Featuring Podcast Insight</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-launch-your-clips-free-intro-downloads/"><u>2024 Approved Launch Your Clips Free Intro Downloads</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-novel-windows-11-strategies-for-peak-performance/"><u>2024 Approved Novel Windows 11 Strategies for Peak Performance</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Passcode without Computer?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-dial-down-the-velocity-of-your-snapchat-videos/"><u>In 2024, How to Dial Down the Velocity of Your Snapchat Videos</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-14-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 14 Plus in the Best Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-key-landscapes-perfectly-capturing-live-streams/"><u>In 2024, Key Landscapes Perfectly Capturing Live Streams</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-low-volume-settings-in-os-xwindows/"><u>In 2024, Mastering Low-Volume Settings in OS X/Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-panopticon-perspective-analysis/"><u>In 2024, Panopticon Perspective Analysis</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-xr-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone XR</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quantum-hdr-simplified-a-photographers-guide-for-2024/"><u>Quantum HDR Simplified A Photographer's Guide for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/regain-access-on-your-pc-triple-action-strategies-for-bypassing-a-locked-windows-11-login-screen/"><u>Regain Access on Your PC: Triple-Action Strategies for Bypassing a Locked Windows 11 Login Screen</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/retro-aesthetics-integrating-yesterdays-vhs-tricks-into-modern-editing-for-2024/"><u>Retro Aesthetics Integrating Yesterday’s VHS Tricks Into Modern Editing for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-playful-pandemonium-curated-collection-of-outlandish-tiktok-games/"><u>[New] 2024 Approved Playful Pandemonium Curated Collection of Outlandish TikTok Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-tricks-adjusting-picture-size-efficiently/"><u>[New] IPhone Tricks Adjusting Picture Size Efficiently</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-complexities-of-3d-lut-filters-in-adobes-photosophatic-suite/"><u>[New] Navigating the Complexities of 3D LUT Filters in Adobe's PHOTOSOPHATIC Suite</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/imultaneously-stream-youtube-channels-for-2024/"><u>[New] Simultaneously Stream YouTube Channels for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-cross-platform-sharing-twitter-videos-on-instagram-highlights/"><u>[Updated] Cross-Platform Sharing Twitter Videos on Instagram Highlights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>[Updated] Launchpad Logic The Complete Framework for Founders of a Reviews Channel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-melding-audio-with-visuals-digitally/"><u>[Updated] Melding Audio With Visuals Digitally</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-manual-implementing-speech-to-text-with-google-docs/"><u>[Updated] Step-by-Step Manual Implementing Speech to Text with Google Docs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-how-to-master-free-online-and-offline-text-animations/"><u>2024 Approved How to Master Free Online & Offline Text Animations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-affinity-photos-features-to-excise-borders-effectively/"><u>2024 Approved Navigating Affinity Photo's Features to Excise Borders Effectively</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-artistry-unleashed-advanced-techniques-in-distorted-imagery/"><u>2024 Approved Photo Artistry Unleashed Advanced Techniques in Distorted Imagery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-photos-master-the-art-of-adding-motion-blur-effects/"><u>2024 Approved Pro Photos Master the Art of Adding Motion Blur Effects</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-graphic-content-canvas-boundary-elimination-trick/"><u>Enhance Your Graphic Content Canva's Boundary Elimination Trick</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-gionee-f3-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Gionee F3 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-reno-11-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo Reno 11 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foundations-in-digital-visual-narratives/"><u>In 2024, Foundations in Digital Visual Narratives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-make-quick-cash-on-reddit-with-these-no-experience-techniques/"><u>In 2024, Make Quick Cash on Reddit with These No Experience Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-setting-up-your-first-zoom-call-on-android/"><u>In 2024, Setting Up Your First Zoom Call on Android</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/navigating-compatibility-woes-the-reason-behind-missing-drivers-for-some-devices-exploring-solutions-with-yl-software/"><u>Navigating Compatibility Woes: The Reason Behind Missing Drivers for Some Devices - Exploring Solutions with YL Software</u></a></li>
 </ul></div>
 

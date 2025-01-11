@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-12-28T17:44:52.806Z
-updated: 2025-01-05T01:42:13.052Z
+date: 2025-01-05T21:37:25.869Z
+updated: 2025-01-11T18:23:50.913Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -63,10 +67,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -84,10 +84,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -101,7 +97,7 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -121,7 +117,7 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -140,6 +136,10 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -156,10 +156,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -171,6 +167,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -221,16 +221,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-master-iphone-photography-rotate-tilt-and-flip-effortlessly/"><u>[New] Master iPhone Photography Rotate, Tilt & Flip Effortlessly</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-paving-the-way-for-individuality-in-the-digital-age-your-youtube-journey/"><u>[New] Paving the Way for Individuality in the Digital Age Your YouTube Journey</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sns-vs-competitors-a-critical-hdr-software-comparison/"><u>[Updated] SNS vs Competitors A Critical HDR Software Comparison</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-photography-dampening-disarray/"><u>2024 Approved Precision Photography Dampening Disarray</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-google-pixel-8-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Google Pixel 8 Pro</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-features-of-the-latest-win11-release/"><u>In 2024, Innovative Features of the Latest Win11 Release</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-viewport-adjustment-iphones-zooming-guide/"><u>In 2024, Optimal Viewport Adjustment IPhone's Zooming Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photoshops-secret-weapon-advanced-techniques-for-3d-lut-mastery/"><u>In 2024, Photoshop's Secret Weapon Advanced Techniques for 3D Lut Mastery</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/level-cinema-selection-youtube-edition/"><u>Next-Level Cinema Selection - YouTube Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/using-chatgpt-to-augment-cognitive-behavioral-therapy-best-practices-and-insights/"><u>Using ChatGPT to Augment Cognitive Behavioral Therapy: Best Practices and Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-examination-of-the-ergonomic-features-in-the-x-chair-an-in-depth-executive-office-seat-analysis/"><u>ZDNet's Comprehensive Examination of the Ergonomic Features in the X-Chair: An In-Depth Executive Office Seat Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-complete-activity-inspection-guide-for-2024/"><u>[New] Complete Activity Inspection Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-visual-storytelling-with-vsco/"><u>[New] Mastering Visual Storytelling with VSCO</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fundamental-blueprints-to-enhance-facebook-ad-engagement/"><u>[Updated] 2024 Approved Fundamental Blueprints to Enhance Facebook Ad Engagement</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-rotation-video-mounting/"><u>[Updated] 2024 Approved Ultimate Rotation Video Mounting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-jokejigsaw-creator-humor-graphic-tool/"><u>[Updated] JokeJigsaw Creator Humor Graphic Tool</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-personal-aerial-companions-gps-drones-that-never-stray/"><u>[Updated] Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-programs-designing-animated-3d-worlds/"><u>[Updated] Premier Programs Designing Animated 3D Worlds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shot-solidity-choose-the-right-mobile-tripod/"><u>[Updated] Shot Solidity Choose the Right Mobile Tripod</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-strategies-for-streaming-fb-live-on-zoom-platform-for-2024/"><u>[Updated] Strategies for Streaming FB Live on Zoom Platform for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/meet-the-future-of-mobile-assistants-chatgpt-now-roams-in-apples-world/"><u>Meet the Future of Mobile Assistants: ChatGPT Now Roams in Apple's World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-sleek-new-kid-on-the-block-exploring-lgs-lightweight-gram-pro-17-now-on-sale-for-a-limited-time-in-october-insights/"><u>The Sleek New Kid on the Block: Exploring LG's Lightweight Gram Pro 17, Now on Sale for a Limited Time in October – Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iral-tactics-key-tags-for-boosting-youtube-short-clips-for-2024/"><u>Top Viral Tactics Key Tags for Boosting YouTube Short Clips for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/turbocharge-touch-ups-learn-speedy-skills-for-win10-photos-editing/"><u>Turbocharge Touch-Ups Learn Speedy Skills for WIN10 Photos Editing</u></a></li>
 </ul></div>
 

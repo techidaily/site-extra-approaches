@@ -1,7 +1,7 @@
 ---
 title: "\"Snowflakes and Champions  Highlights From Beijing Games for 2024\""
-date: 2025-01-03T03:36:00.023Z
-updated: 2025-01-05T00:26:11.401Z
+date: 2025-01-05T21:00:58.804Z
+updated: 2025-01-11T20:32:15.429Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Olympics Games are organized by International Olympic Committee after every four
 
 The grand opening ceremony was held on 4th February and the grand closing will be held on 20th February 2022 at Beijing National Stadium, China. There have already been some extraordinary and memorable moments in the various sports events and competitions in the Winter Olympics 2022\. Here are all the winter Olympics 2022 highlights you should not miss out. You can also check out Olympics video highlights 2022 whose link we have shared at the end of the article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## 1\. Lindsey Jacobellis Gives US Its First Beijing Olympics Gold
@@ -33,7 +37,7 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Nathan Chen Breaks World Record
@@ -53,7 +57,7 @@ Injuries are part of sports events but some injuries are gruesome and are result
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. US-Born Eileen Gu Wins Gold for China
@@ -61,10 +65,6 @@ She lost her balance before she could cross the finishing line and she slid acro
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
@@ -74,6 +74,10 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
@@ -81,10 +85,6 @@ Following the victory, he stated that he was sure to win the gold with eight lap
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
@@ -103,13 +103,13 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. American Favorite Out of the Tournament
@@ -121,7 +121,7 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
@@ -141,19 +141,24 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-present-moment-vr-equipment-review/"><u>[New] 2024 Approved Present Moment VR Equipment Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-quality-edits-the-ultimate-guide-to-pixlr/"><u>[New] Quick, Quality Edits The Ultimate Guide to Pixlr</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-discover-8-trusted-online-content-marketing-tools/"><u>[Updated] Discover 8 Trusted Online Content Marketing Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-displays-the-finest-screen-options-for-editors-2024/"><u>[Updated] Precision Displays - The Finest Screen Options For Editors, 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-v27mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo V27Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-peak-performance-tools-best-4k-cameras-for-professionals/"><u>In 2024, Peak Performance Tools Best 4K Cameras for Professionals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-prime-meme-blueprints/"><u>In 2024, Selecting Prime Meme Blueprints</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-action-cameras-for-thrill-seekers-for-2024/"><u>Leading Action Cameras for Thrill Seekers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-media-streaming-overcoming-windows-10-cast-failures-detailed-steps/"><u>Mastering Media Streaming: Overcoming Windows 10 Cast Failures [Detailed Steps]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/meditative-playlist-top-10-free-tracks-for-serenity-for-2024/"><u>Meditative Playlist Top 10 Free Tracks for Serenity for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/surligner-les-restrictions-disney-des-astuces-pour-sauvegarder-et-transformer-vos-films-disney-sur-dvd/"><u>Surligner Les Restrictions Disney : Des Astuces Pour Sauvegarder Et Transformer Vos Films Disney Sur DVD</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-elite-set-of-android-photoshoppers-for-2024/"><u>The Elite Set of Android Photoshoppers for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-mix-fold-3-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Mix Fold 3 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-best.techidaily.com/top-notch-cloning-software-gratis-fur-windows-operating-system-versionen-8-81-10-und-11/"><u>Top Notch Cloning Software Gratis Für Windows Operating System Versionen 8, 8.1, 10 Und 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exclusive-guide-10-immersive-youtube-vr-films/"><u>[New] In 2024, Exclusive Guide 10 Immersive YouTube VR Films</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-keep-and-store-your-linkedin-videos-with-these-high-quality-downloader-apps/"><u>[New] Keep and Store Your LinkedIn Videos with These High-Quality Downloader Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pathways-of-file-formats-navigating-from-srt-to-others/"><u>[New] Pathways of File Formats Navigating From SRT to Others</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-from-basics-to-alternatives-understanding-vidmas-capture-software/"><u>[Updated] In 2024, From Basics to Alternatives Understanding Vidma's Capture Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-revolutionizing-reality-top-vr-peripherals/"><u>[Updated] In 2024, Revolutionizing Reality Top VR Peripherals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-tips-for-erasing-borders-in-canva-graphics/"><u>[Updated] Professional Tips for Erasing Borders in Canva Graphics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shield-identities-blurring-techniques-for-photos/"><u>[Updated] Shield Identities Blurring Techniques for Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rapid-film-techniques-make-your-own-studio-at-home/"><u>2024 Approved Rapid Film Techniques Make Your Own Studio At Home</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-tiktok-broadcasts-with-zoom-protocols/"><u>2024 Approved Seamless TikTok Broadcasts with Zoom Protocols</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seize-the-moment-download-outro-samples-freepaid/"><u>2024 Approved Seize the Moment Download Outro Samples (Free/Paid)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-streamline-creative-filmmaking-with-instagrams-background-swap/"><u>2024 Approved Streamline Creative Filmmaking with Instagram's Background Swap</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-shines-with-super-bowl-seasons-top-promo-a-look-beyond-the-game-insights/"><u>Apple Shines with Super Bowl Season's Top Promo: A Look Beyond the Game - Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/bridging-the-gap-connecting-instagram-to-your-facebook-account-for-2024/"><u>Bridging the Gap Connecting Instagram to Your Facebook Account for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-simplifying-vfx-with-magix-video-pro-x/"><u>In 2024, Simplifying VFX with Magix Video Pro X</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-five-expert-techniques-for-personalized-commands/"><u>Mastering ChatGPT: Five Expert Techniques for Personalized Commands</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-comedy-photo-stylist-tool-for-2024/"><u>Premier Comedy Photo Stylist Tool for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/redefining-smartwatches-with-lg-watch-style-a-closer-look-at-wear-os-20-innovations/"><u>Redefining Smartwatches with LG Watch Style: A Closer Look at Wear OS 2.0 Innovations</u></a></li>
+<li><a href="https://win-community.techidaily.com/solving-the-mystery-restoring-visibility-of-your-m2-storage-device-in-windows-operating-systems/"><u>Solving the Mystery: Restoring Visibility of Your M.2 Storage Device in Windows Operating Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/719104-9781843586333-they-walk-among-us/"><u>They Walk Among Us | Free Book</u></a></li>
 </ul></div>
 

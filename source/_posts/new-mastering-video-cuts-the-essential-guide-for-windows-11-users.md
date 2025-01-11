@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Video Cuts  The Essential Guide for Windows 11 Users\""
-date: 2024-12-29T23:51:46.322Z
-updated: 2025-01-05T00:37:05.891Z
+date: 2025-01-05T22:06:47.474Z
+updated: 2025-01-11T19:36:10.023Z
 tags: 
   - screen-recording
   - ai video
@@ -45,15 +45,19 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
 
@@ -67,10 +71,6 @@ Here comes the step by step guide to trim video in VLC –
 
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
 3. Now, tap the 'Record' button again where you want to stop the recording. This clip automatically gets saved as an MP4 media file. You can find it within the 'Libraries/Videos' folder if it's a Windows 7 PC.
@@ -78,7 +78,7 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -88,13 +88,13 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,24 +112,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-hubs-for-virtual-typography/"><u>[New] Leading Hubs for Virtual Typography</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/implify-cross-platform-sharing-convert-spotify-lists-to-youtube-seamlessly/"><u>[New] Simplify Cross-Platform Sharing Convert Spotify Lists to YouTube Seamlessly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-into-new-dimensions-with-jaunt-vr-review/"><u>[New] Step Into New Dimensions with Jaunt VR Review</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-photo-perfection-on-snapchat/"><u>[Updated] 2024 Approved The Ultimate Guide to Photo Perfection on Snapchat</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-voting-victories-spotlight-on-reddits-hottest-threads-top-10/"><u>[Updated] 2024 Approved Voting Victories Spotlight on Reddit's Hottest Threads (Top 10)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>[Updated] Capturing Slide Decks via Webcam A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-essential-gear-guide-uncovering-the-best-streamer-webcams/"><u>[Updated] Essential Gear Guide Uncovering the Best Streamer Webcams</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-choices-for-cost-effective-sharp-4k-projection/"><u>[Updated] Prime Choices for Cost-Effective, Sharp 4K Projection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-remote-smile-engineer/"><u>[Updated] Remote Smile Engineer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-stay-ahead-of-the-curve-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>[Updated] Stay Ahead of the Curve Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-future-of-interaction-with-microsofts-hololens-review/"><u>[Updated] The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-serenity-through-stories-a-review-of-parent-driven-narrative-vids/"><u>2024 Approved Serenity Through Stories A Review of Parent-Driven Narrative Vids</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-android-guide-to-enjoy-virtual-reality/"><u>2024 Approved Step-by-Step Android Guide to Enjoy Virtual Reality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-amr-audio-files-to-mp3-top-4-methods-for-all-devices/"><u>Convert AMR Audio Files to MP3: Top 4 Methods for All Devices</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-add-youtube-annotations-and-cards-for-2024/"><u>How to Add YouTube Annotations and Cards for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mr-beasts-economic-impact-analysis/"><u>Mr. Beast's Economic Impact Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photo-framing-made-easy-leading-apps-and-sites-reviewed-for-2024/"><u>Photo Framing Made Easy Leading Apps and Sites Reviewed for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-websites-to-acquire-custom-youtube-ringtones-for-2024/"><u>Prime Websites to Acquire Custom YouTube Ringtones for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-best-free-video-special-effects-apps-for-ios-and-android/"><u>The Ultimate List Best Free Video Special Effects Apps for iOS and Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rise-above-the-crowd-how-to-amass-over-a-million-video-views/"><u>[New] Rise Above the Crowd How to Amass Over a Million Video Views</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-for-beginner-3d-lut-masters/"><u>[New] Step-by-Step for Beginner 3D LUT Masters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-exploring-the-depths-of-fraps-recorders/"><u>[Updated] Exploring the Depths of Fraps Recorders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leaders-list-of-gps-drones-with-precision-tracking/"><u>[Updated] Leader's List of GPS Drones with Precision Tracking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-waterproof-cams-7-compilation-review/"><u>[Updated] Leading Waterproof Cams #7 Compilation Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-crossroads-of-full-time-work-and-youtube-for-2024/"><u>[Updated] Navigating the Crossroads of Full-Time Work & YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-ios-leaders-the-10-ultimate-video-apps-to-know/"><u>2024 Approved IOS Leaders The 10 Ultimate Video Apps to Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-seamlessly-resize-and-clone-ssds-in-windows-1011-for-expansion/"><u>How to Seamlessly Resize and Clone SSDs in Windows 10/11 for Expansion</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-spark-10c-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Spark 10C</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mirthful-mayhem-makers/"><u>In 2024, Mirthful Mayhem Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-manual-implementing-speech-to-text-with-google-docs/"><u>In 2024, Step-by-Step Manual Implementing Speech to Text with Google Docs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-recognized-as-2021-excellence-champion/"><u>Mondly Recognized as 2021 Excellence Champion</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-a14-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sea-dwellers-in-focus-tips-for-shooting-stunning-gopro-video-below-water-for-2024/"><u>Sea Dwellers in Focus Tips for Shooting Stunning GoPro Video Below Water for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-starfield-from-freezingcrashing-on-your-computer-solutions-inside/"><u>Stop Starfield From Freezing/Crashing On Your Computer [Solutions Inside]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-distinctions-a-comparative-analysis-of-gpt-4-vs-gpt-navigating-through-5-major-variations/"><u>Unveiling the Distinctions: A Comparative Analysis of GPT-4 Vs. GPT-Navigating Through 5 Major Variations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone Photography 101  Simple Strategies\""
-date: 2025-01-02T03:57:11.191Z
-updated: 2025-01-04T23:30:00.958Z
+date: 2025-01-09T20:03:08.644Z
+updated: 2025-01-11T16:07:45.519Z
 tags: 
   - screen-recording
   - ai video
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
 **You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone Photography Tips
 
  Curiosity is the most important trait of any successful photographer because you have to be a tireless explorer of the world around you, in order to capture its beauty. The following tips will help you take your iPhone photography to a new level.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 **How to Avoid Sources of Light in a Shot:** The first and most basic rule of photography is to try to avoid having sources of light in your shot, and the best way to achieve this is to turn your back to the light source and have the subject of the photo positioned in the direction from which the light is coming from. If you do this, taking pictures that depict stark contrast of shadows and light will become much easier.
 
 ![take-use-shadows-in-photography](https://images.wondershare.com/filmora/article-images/take-use-shadows-in-photography.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image resource: Contrastly
 
@@ -63,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 ![golden-hour-photo](https://images.wondershare.com/filmora/article-images/golden-hour-photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image resource: Contrastly
@@ -75,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 **How to Use the Grid feature:** The Grid feature on iPhone camera app can help you master the rule of thirds because it will divide your screen into nine equal rectangles, so you can use each rectangle to improve the organization of the elements within a shot.
 
 ![grid-mode-iphone](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image resource: Macworld
 
@@ -92,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
 ![symetry-photography](https://images.wondershare.com/filmora/article-images/symetry-photography.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: PictureCorrect
 
 #### 3\.  Use Different Camera Angles to Depict a Scene
@@ -101,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 **How to Use Low-Angle Shots:** Every camera position that goes above this line is called the bird's eye view, and each camera position below this line is called a low-angle shot. Placing the camera below the level of your eyesight can be quite beneficial for the photo's aesthetic qualities because it will offer a unique view of the scene to the viewer.
 
 ![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: Storyboard Class
 
@@ -114,12 +110,16 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
 ![separate-the-foreground-from-background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Makeuseof
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -137,24 +137,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-online-jest-builder/"><u>[New] Online Jest Builder</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-srt-soundfile-compatibility-pc-and-mac/"><u>[New] SRT Soundfile Compatibility PC & Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-take-control-with-kinemaster-a-compreayer-guide-to-android-gameplay/"><u>[New] Take Control with KineMaster A Compreayer Guide to Android Gameplay</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtube-earnings-estimator-tools/"><u>[Updated] In 2024, YouTube Earnings Estimator Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-mobile-photography-strategies/"><u>[Updated] Professional Mobile Photography Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-guide-best-ways-to-recognize-sound-in-windows-11-devices/"><u>[Updated] Quick Guide Best Ways to Recognize Sound in Windows 11 Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reviewing-the-next-level-in-mobile-video-with-samsung-s8/"><u>[Updated] Reviewing the Next Level in Mobile Video with Samsung S8</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-gamers-blueprint-for-a-booming-youtube-channel/"><u>[Updated] The Gamer's Blueprint for a Booming YouTube Channel</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagrams-video-selfie-truthfulness-a-critical-look/"><u>2024 Approved Instagram's Video Selfie Truthfulness – A Critical Look</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-newcomers-pathway-maximizing-money-on-periscope-platform/"><u>2024 Approved Newcomer's Pathway Maximizing Money on Periscope Platform</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-paint-shop-pro-tricks/"><u>2024 Approved Premier Paint Shop Pro Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-watch-os-elevated-with-exciting-updates-what-to-look-forward-to-in-the-latest-version-gadget-review/"><u>Apple Watch OS Elevated with Exciting Updates - What to Look Forward To in the Latest Version | Gadget Review</u></a></li>
-<li><a href="https://facebook.techidaily.com/banishing-facebooks-buzz-to-silence-land/"><u>Banishing Facebook's Buzz to Silence Land</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-prevent-unsolicited-openings-of-search-bar-win11/"><u>How to Prevent Unsolicited Openings of Search Bar, Win11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Oppo A2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-5-image-alteration-apps-iphone-x78-edition/"><u>In 2024, Pinnacle 5 Image Alteration Apps IPhone X/7/8 Edition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-complex-projects-on-magix-video-pro-x-for-2024/"><u>Navigating Complex Projects on Magix Video Pro X for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/in-the-limelight-how-to-keep-youtube-cc-and-boost-views-for-2024/"><u>Stay in the Limelight How to Keep YouTube CC and Boost Views for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-converting-and-sharing-videos-from-youtube-to-tiktok/"><u>The Ultimate Guide to Converting and Sharing Videos From YouTube to TikTok</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-capture-professional-quality-with-complimentary-and-subscription-luts/"><u>[New] In 2024, Capture Professional Quality with Complimentary & Subscription LUTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>[Updated] From Pixels to Power The Ultra HD World of Samsung UE590</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinpointing-the-premier-top-10-pc-vr-headset-models-of-2-written-by-dr-jane-smith-on-january-15-2023/"><u>[Updated] Pinpointing the Premier Top 10 PC VR Headset Models of 2 Written by Dr. Jane Smith on January 15, 2023</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-speed-control-for-elite-pc-users/"><u>[Updated] Precision Speed Control for Elite PC Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shrinking-or-enlarging-images-on-your-iphone-effortlessly/"><u>[Updated] Shrinking or Enlarging Images on Your iPhone Effortlessly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ient-ad-elimination-select-7-android-adblockers/"><u>Efficient Ad Elimination Select 7 Android AdBlockers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-black-screen-issue-solutions-for-your-google-chrome-woes/"><u>Fixing the Black Screen Issue: Solutions for Your Google Chrome Woes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-setup-brothers-mfc-9330cdw-fan/"><u>Guide to Setup Brother's MFC-9330CDW Fan</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-how-to-fade-audio-in-lumafusion/"><u>In 2024, How To Fade Audio In Lumafusion</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seconds-in-a-snapshot-20mb-videography/"><u>In 2024, Seconds in a Snapshot 20MB Videography</u></a></li>
 </ul></div>
 

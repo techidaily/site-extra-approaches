@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Mac Preview with Ease  Ultimate Guide\""
-date: 2024-12-30T16:56:28.387Z
-updated: 2025-01-04T22:02:40.278Z
+date: 2025-01-08T18:40:29.723Z
+updated: 2025-01-11T19:33:15.552Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -50,6 +54,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -63,6 +71,10 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -80,6 +92,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -91,10 +107,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -113,7 +125,7 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -148,10 +160,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -163,10 +171,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -202,10 +206,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -221,24 +221,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-screen-times-best-and-worst-app-reviews/"><u>[New] 2024 Approved Screen Time's Best and Worst App Reviews</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-guide-to-longer-instagram-videos/"><u>[New] 2024 Approved The Ultimate Guide to Longer Instagram Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-gigglegenius-log-in-for-video-adventures/"><u>[New] GiggleGenius Log In for Video Adventures</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-live-tv-streams-combo-of-global-and-locals/"><u>[New] Leading Live TV Streams Combo of Global and Locals</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-masterful-selection-top-15-accessories-for-gopro-enthusiasts-for-2024/"><u>[New] Masterful Selection Top 15 Accessories for GoPro Enthusiasts for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-microcinema-plot-pointers/"><u>[New] Microcinema Plot Pointers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-speeding-up-video-in-microsoft-slides/"><u>[New] Speeding Up Video in Microsoft Slides</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-infusing-personality-into-instagram-stories-with-unique-icons/"><u>[Updated] Infusing Personality Into Instagram Stories with Unique Icons</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-key-principles-to-write-captivating-vlog-dialogues/"><u>[Updated] Key Principles to Write Captivating Vlog Dialogues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-skyward-savings-for-your-snaps-the-best-free-to-premium-cloud-storages/"><u>[Updated] Skyward Savings for Your Snaps The Best Free to Premium Cloud Storages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fortnite-performance-boosted-solutions-to-overcome-lag-problems/"><u>Fortnite Performance Boosted: Solutions to Overcome Lag Problems</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-iphone-photo-watermarks-the-top-apps-reviewed/"><u>In 2024, Master iPhone Photo Watermarks The Top Apps Reviewed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-navigating-the-social-landscape-choose-todays-best-tags/"><u>In 2024, Navigating the Social Landscape Choose Today's Best Tags</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/live-stream-showdown-pick-your-favorite-vmix-or-wirecast-for-2024/"><u>Live Stream Showdown Pick Your Favorite, VMix or Wirecast for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-script-development-arena-for-2024/"><u>Premier Script Development Arena for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/rapid-viewer-for-10-windows-photos-for-2024/"><u>Rapid Viewer for 10 Windows Photos for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/safe-practices-for-purchasing-and-trading-crypto-assets-tips-from-yl-computing-expertise/"><u>Safe Practices for Purchasing & Trading Crypto Assets - Tips From YL Computing Expertise</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-top-5-mac-streamers-for-2024/"><u>The Ultimate List of Top 5 Mac Streamers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-explore-the-premier-video-grabbing-tools-on-windows-10/"><u>[New] In 2024, Explore the Premier Video Grabbing Tools on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-voice-driven-operations-free-of-charge/"><u>[New] In 2024, Voice-Driven Operations, Free of Charge</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-tricks-for-enhanced-video-quality-via-nvidia-for-2024/"><u>[New] Tricks for Enhanced Video Quality via NVIDIA for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-the-secrets-of-auditory-success-on-youtube-videos/"><u>[New] Unlock the Secrets of Auditory Success on YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-delving-into-game-design-with-kinemaster-for-android-gamers/"><u>[Updated] 2024 Approved Delving Into Game Design with KineMaster for Android Gamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-digital-dimensions-metaverse-vs-omniverse-explained-for-2024/"><u>[Updated] Digital Dimensions Metaverse Vs. Omniverse Explained for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>[Updated] Picture-in-Picture Unveiled Your Guide to Firefox’s PIP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-parchment-creators/"><u>[Updated] Premier Parchment Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photodirector-masterclass-review/"><u>2024 Approved PhotoDirector Masterclass Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skip-the-hassle-find-4-ringtone-sources-here/"><u>2024 Approved Skip the Hassle Find 4 Ringtone Sources Here</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-spin-cycle-in-the-ice-arena-of-22/"><u>2024 Approved Spin Cycle in the Ice Arena of '22</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-the-digital-experience-through-zooming/"><u>In 2024, Sculpting the Digital Experience Through Zooming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-spectacular-visuals-the-power-of-tiktok-effects/"><u>In 2024, Spectacular Visuals The Power of TikTok Effects</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-image-restoration-with-stellars-guide-and-standard-edition-on-windows-platform/"><u>Mastering Image Restoration with Stellar's Guide and Standard Edition on Windows Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-level-drone-racing-techniques-and-quintessential-fpvs-for-2024/"><u>Pro-Level Drone Racing Techniques & Quintessential FPVs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-experiencing-the-indiana-jones-saga-correctly/"><u>Step-by-Step Process of Experiencing the Indiana Jones Saga Correctly</u></a></li>
+<li><a href="https://win-webster.techidaily.com/troubleshooting-tips-for-scanner-and-driver-compatibility-problems/"><u>Troubleshooting Tips for Scanner and Driver Compatibility Problems</u></a></li>
 </ul></div>
 

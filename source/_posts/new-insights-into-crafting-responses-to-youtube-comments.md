@@ -1,7 +1,7 @@
 ---
 title: "[New] Insights Into Crafting Responses to YouTube Comments"
-date: 2024-12-06T17:50:27.193Z
-updated: 2024-12-11T20:55:37.233Z
+date: 2025-01-07T18:34:11.897Z
+updated: 2025-01-11T20:38:09.834Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -61,7 +57,7 @@ Step1 Below the video itself, find the comment section.
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -83,16 +79,12 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
 
@@ -101,7 +93,7 @@ Step4 On the right side under the “Manage all history” section, click on “
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
@@ -133,6 +125,14 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -170,22 +170,24 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-exclusive-insights-into-windows-superior-video-players/"><u>[New] 2024 Approved Exclusive Insights Into Window's Superior Video Players</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-efficient-management-and-use-of-b-roll-footage/"><u>[New] In 2024, Efficient Management and Use of B-Roll Footage</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-steps-to-become-a-live-spectator-on-tiktok/"><u>[Updated] 2024 Approved Steps to Become a Live Spectator on TikTok</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-action-creating-engaging-gifs/"><u>[Updated] From Idea to Action Creating Engaging GIFs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-launchpad-gear-list-enhance-your-beginners-gopro-journey/"><u>[Updated] Launchpad Gear List - Enhance Your Beginner's GoPro Journey</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-instantaneously-assemble-aesthetic-fb-collage-posts/"><u>2024 Approved Instantaneously Assemble Aesthetic FB Collage Posts</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevating-your-channels-profits-with-impactful-and-effective-trailers-for-2024/"><u>Elevating Your Channels' Profits with Impactful and Effective Trailers for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-complexities-of-color-correction-using-luts/"><u>In 2024, Navigating the Complexities of Color Correction Using LUTs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sketch-mastery-on-mac-the-freest-software-lineup/"><u>In 2024, Sketch Mastery on Mac The Freest Software Lineup</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sound-excellence-on-a-shoestring-superior-asmr-mics-affordably/"><u>In 2024, Sound Excellence on a Shoestring - Superior ASMR Mics Affordably</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-free-online-video-smoothers-our-top-picks-for-2024/"><u>New Free Online Video Smoothers Our Top Picks for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-advanced-techniques-to-purify-recorded-audio-from-unwanted-echoes/"><u>New In 2024, Advanced Techniques to Purify Recorded Audio From Unwanted Echoes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimal-zooctorial-design-arrays-for-2024/"><u>Optimal Zooctorial Design Arrays for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/personalize-and-edit-iphone-ringtones-easily-for-2024/"><u>Personalize & Edit iPhone Ringtones Easily for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-accessing-and-downloading-podcasts-via-apple-device-for-2024/"><u>Step-by-Step Accessing & Downloading Podcasts via Apple Device for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-fixing-code-39-error-messages-on/"><u>The Ultimate Guide: Fixing Code 39 Error Messages On</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-infinix-hot-30-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Infinix Hot 30 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-best-meme-photo-editor/"><u>[New] Best Meme Photo Editor</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peculiar-pratfalls-memes-tailored-for-the-perfect-moment/"><u>[New] Peculiar Pratfalls Memes Tailored for the Perfect Moment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lens-leaders-battle-sj6-clashes-with-xiaomis-four-k-kickstarter/"><u>[Updated] Lens Leaders Battle SJ6 Clashes with Xiaomi’s Four-K Kickstarter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-pickers-best-websites-to-secure-snapalert-music/"><u>[Updated] Premium Pickers Best Websites to Secure SnapAlert Music</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photoshop-curves-decoded-a-beginners-guide/"><u>2024 Approved Photoshop Curves Decoded A Beginner's Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photoshop-stability-enhancement-essentiality/"><u>2024 Approved Photoshop Stability Enhancement - Essentiality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-guide-integrating-snap-camera-with-teams/"><u>2024 Approved Quick Guide Integrating Snap Camera with Teams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-start-shooting-smart-top-15-shot-techniques-for-beginners/"><u>2024 Approved Start Shooting Smart Top 15 Shot Techniques for Beginners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-smart-alternatives-to-chatgpt-apps-for-smartphones/"><u>7 Smart Alternatives to ChatGPT Apps for Smartphones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-huawei-nova-y71-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Huawei Nova Y71?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967853959-easy-installation-of-epson-wf-2750-printer-driver-free-download-now/"><u>Easy Installation of Epson WF-2750 Printer Driver – Free Download Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bring-back-contrast-iphone-hdr-video-tips-for-premiere-pro-users/"><u>In 2024, Bring Back Contrast IPhone HDR Video Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/luxury-leisure-levels-review-roundup-for-2024/"><u>LUXURY LEISURE LEVELS Review Roundup for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/remove-unsolicited-podcast-episodes-on-spotify-app-for-2024/"><u>Remove Unsolicited Podcast Episodes on Spotify App for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-nubia-red-magic-8s-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Nubia Red Magic 8S Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-ghostrunner-malfunction-on-windows-11-platforms-successfully/"><u>Troubleshooting Ghostrunner Malfunction on Windows 11 Platforms Successfully</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unbranded-video-merging-7-reliable-options-to-try/"><u>Unbranded Video Merging 7 Reliable Options to Try</u></a></li>
 </ul></div>
 
