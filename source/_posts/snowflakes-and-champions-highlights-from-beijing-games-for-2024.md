@@ -1,7 +1,7 @@
 ---
 title: "\"Snowflakes and Champions  Highlights From Beijing Games for 2024\""
-date: 2025-01-05T21:00:58.804Z
-updated: 2025-01-11T20:32:15.429Z
+date: 2025-01-13T08:57:32.705Z
+updated: 2025-01-17T01:48:06.138Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Olympics Games are organized by International Olympic Committee after every four
 The grand opening ceremony was held on 4th February and the grand closing will be held on 20th February 2022 at Beijing National Stadium, China. There have already been some extraordinary and memorable moments in the various sports events and competitions in the Winter Olympics 2022\. Here are all the winter Olympics 2022 highlights you should not miss out. You can also check out Olympics video highlights 2022 whose link we have shared at the end of the article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
@@ -35,10 +35,6 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Nathan Chen Breaks World Record
 
@@ -54,11 +50,11 @@ Injuries are part of sports events but some injuries are gruesome and are result
 
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
 
-She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
 ## 4\. US-Born Eileen Gu Wins Gold for China
 
@@ -74,11 +70,11 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
@@ -86,7 +82,15 @@ Yan Wengang becomes the first medalist from China in a sliding sport. In a four-
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
 
@@ -102,15 +106,7 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. American Favorite Out of the Tournament
 
@@ -118,10 +114,14 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
@@ -141,24 +141,21 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exclusive-guide-10-immersive-youtube-vr-films/"><u>[New] In 2024, Exclusive Guide 10 Immersive YouTube VR Films</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-keep-and-store-your-linkedin-videos-with-these-high-quality-downloader-apps/"><u>[New] Keep and Store Your LinkedIn Videos with These High-Quality Downloader Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pathways-of-file-formats-navigating-from-srt-to-others/"><u>[New] Pathways of File Formats Navigating From SRT to Others</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-from-basics-to-alternatives-understanding-vidmas-capture-software/"><u>[Updated] In 2024, From Basics to Alternatives Understanding Vidma's Capture Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-revolutionizing-reality-top-vr-peripherals/"><u>[Updated] In 2024, Revolutionizing Reality Top VR Peripherals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-tips-for-erasing-borders-in-canva-graphics/"><u>[Updated] Professional Tips for Erasing Borders in Canva Graphics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shield-identities-blurring-techniques-for-photos/"><u>[Updated] Shield Identities Blurring Techniques for Photos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rapid-film-techniques-make-your-own-studio-at-home/"><u>2024 Approved Rapid Film Techniques Make Your Own Studio At Home</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-tiktok-broadcasts-with-zoom-protocols/"><u>2024 Approved Seamless TikTok Broadcasts with Zoom Protocols</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seize-the-moment-download-outro-samples-freepaid/"><u>2024 Approved Seize the Moment Download Outro Samples (Free/Paid)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-streamline-creative-filmmaking-with-instagrams-background-swap/"><u>2024 Approved Streamline Creative Filmmaking with Instagram's Background Swap</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-shines-with-super-bowl-seasons-top-promo-a-look-beyond-the-game-insights/"><u>Apple Shines with Super Bowl Season's Top Promo: A Look Beyond the Game - Insights</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/bridging-the-gap-connecting-instagram-to-your-facebook-account-for-2024/"><u>Bridging the Gap Connecting Instagram to Your Facebook Account for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplifying-vfx-with-magix-video-pro-x/"><u>In 2024, Simplifying VFX with Magix Video Pro X</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-five-expert-techniques-for-personalized-commands/"><u>Mastering ChatGPT: Five Expert Techniques for Personalized Commands</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-comedy-photo-stylist-tool-for-2024/"><u>Premier Comedy Photo Stylist Tool for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/redefining-smartwatches-with-lg-watch-style-a-closer-look-at-wear-os-20-innovations/"><u>Redefining Smartwatches with LG Watch Style: A Closer Look at Wear OS 2.0 Innovations</u></a></li>
-<li><a href="https://win-community.techidaily.com/solving-the-mystery-restoring-visibility-of-your-m2-storage-device-in-windows-operating-systems/"><u>Solving the Mystery: Restoring Visibility of Your M.2 Storage Device in Windows Operating Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/719104-9781843586333-they-walk-among-us/"><u>They Walk Among Us | Free Book</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-universalaccess-tv-diverse-channels-with-a-local-twist/"><u>[New] 2024 Approved UniversalAccess TV Diverse Channels with a Local Twist</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-complete-breakdown-reviewing-2024s-video-show-features/"><u>[New] Complete Breakdown Reviewing 2024’S Video Show Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-global-leaders-in-real-time-gaming-streams/"><u>[New] Global Leaders in Real-Time Gaming Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphones-and-the-art-of-complete-circle-videos/"><u>[New] IPhones and the Art of Complete Circle Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-restore-windows-photo-viewer-efficiency-on-windows-10-pcs/"><u>[Updated] Restore Windows Photo Viewer Efficiency on Windows 10 PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-steps-to-acquire-free-picture-frame-videos/"><u>2024 Approved Steps to Acquire Free Picture Frame Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-secret-tactics-for-elevating-your-instagram-presence/"><u>2024 Approved Top-Secret Tactics for Elevating Your Instagram Presence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experiencing-lag-on-roblox-game-outage-or-connection-error/"><u>Experiencing Lag on Roblox - Game Outage or Connection Error?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-design-your-own-interactive-french-flipbook-with-flipbuilder/"><u>How To Design Your Own Interactive French Flipbook with FlipBuilder</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-your-logo-legacy-affordable-and-flexible-templates-for-customization/"><u>In 2024, Craft Your Logo Legacy Affordable & Flexible Templates for Customization</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionary-entry-tool-for-all-devices-this-year/"><u>In 2024, Revolutionary Entry Tool for All Devices This Year</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/music-service-migration-keeping-playlists-intact-for-2024/"><u>Music Service Migration Keeping Playlists Intact for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revamped-look-at-sonys-s6500-bdp-for-2024/"><u>Revamped Look at Sony's S6500 BDP for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-memes-with-these-7-top-gif-creation-techniques-for-2024/"><u>Revolutionize Your Memes with These 7 Top GIF Creation Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-potential-with-the-powerful-polaroid-xs-100i/"><u>Unleashing Potential with the Powerful Polaroid XS 100I</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
 </ul></div>
 

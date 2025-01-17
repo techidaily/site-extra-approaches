@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Access  Essential Windows 10 Tips for 2024\""
-date: 2024-07-27T22:19:38.643Z
-updated: 2024-07-28T22:19:38.643Z
+date: 2025-01-15T01:20:16.917Z
+updated: 2025-01-17T09:36:55.081Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b
 
 # Must-Know Windows 10 Tips and Tricks
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -39,9 +36,6 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 #### 2. Using Cortana in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -52,9 +46,6 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 #### 3. Additional Apps you should try
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
@@ -63,9 +54,6 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -82,9 +70,6 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
@@ -117,9 +102,6 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 #### 2. Using Cortana in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -154,9 +136,6 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
@@ -189,9 +168,6 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 #### 2. Using Cortana in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -210,9 +186,6 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -221,9 +194,6 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -232,22 +202,12 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
 
 #### 7. New Edge Browser
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
@@ -268,18 +228,12 @@ Windows is nowhere to rock the world! If you are so excited about updating your 
 
 #### 1. Personalize the Start Menu
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
 
 #### 2. Using Cortana in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -314,9 +268,6 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
@@ -357,5 +308,28 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-live-broadcast-showdown-obs-or-streamlabs-which-is-superior-for-2024/"><u>[New] Live Broadcast Showdown OBS or Streamlabs – Which Is Superior for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-movement-advanced-transition-techniques-with-kinemaster/"><u>[New] Mastering Movement Advanced Transition Techniques with Kinemaster</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peeps-funny-photos-iphones-style/"><u>[New] Peeps' Funny Photos, iPhones Style</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rhythm-reconstructor-bundle/"><u>[New] Rhythm Reconstructor Bundle</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-free-camera-screen-recorders-deep-dive-review-and-top-alternatives/"><u>[Updated] In 2024, Free Camera Screen Recorders Deep Dive Review and Top Alternatives</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-innovation-in-visuals-a-guide-to-the-leading-5-monitors-for-2024/"><u>[Updated] Innovation in Visuals A Guide to the Leading 5 Monitors for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>[Updated] Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-superior-facebook-extras-secure-video-grab-and-firefox-use/"><u>[Updated] Superior Facebook Extras Secure Video Grab & Firefox Use</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mirth-makers-zombie-fashionistas/"><u>2024 Approved Mirth Makers Zombie Fashionistas</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-evolution-of-color-formats-from-rgb-to-srgb/"><u>2024 Approved The Evolution of Color Formats From Rgb to Srgb</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-samsung-galaxy-a05-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Samsung Galaxy A05</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities/"><u>In 2024, Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-securing-a-spot-on-apples-listings/"><u>In 2024, Securing a Spot on Apple's Listings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rediscovering-archived-discussions-on-reddit-now-for-2024/"><u>Rediscovering Archived Discussions on Reddit Now for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-time-lapse-video-editors-for-creators-a-comprehensive-review-for-2024/"><u>The Best Time-Lapse Video Editors for Creators A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210303110-9781647501563-the-fire-that-never-dies/"><u>The Fire That Never Dies | Free Book</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

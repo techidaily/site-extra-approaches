@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating Picture-in-Picture on Safari's Ecosystem\""
-date: 2025-01-04T19:34:14.041Z
-updated: 2025-01-11T18:30:08.210Z
+date: 2025-01-15T22:59:43.069Z
+updated: 2025-01-16T20:12:41.444Z
 tags: 
   - screen-recording
   - ai video
@@ -23,10 +23,6 @@ The picture-in-picture feature is one of the standards and latest innovations in
 Thanks to this invention, users can reply to customers' emails while closing a new lead on Facetime. This article will teach you how to enable and disable the picture in picture mode in Safari on Mac, iPhone, and iPad. Stick with us!
 
 ![reply emails](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How to enable and disable picture in picture in Safari for Mac
 
@@ -57,6 +53,10 @@ When you enable this feature, the video will shrink and move to a corner on Mac'
 
 There is a play and pause button available also as well as the forward and backward if you wish to perform any of these activities. And again, you can decide to turn off this feature by repeating the procedure where you locate the small sound icon. But here, you select the mute this tab instead or click the "**X"** button at the top left corner to stop the video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. How to enable and disable picture in picture in Safari for iPhone
 
 As we have discussed earlier, users have a way to enable the picture in picture mode before launching iOS14, where the feature is incorporated in the settings. Thanks to Apple's new APIs, this functionality is no longer limited to watching videos while working on other apps with iOS 15\. However, the following procedure is how you can enable the picture in picture mode on your iPhone.
@@ -69,10 +69,14 @@ As we have discussed earlier, users have a way to enable the picture in picture 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** You perform the above procedure also to disable the feature. However, in the case of disabling the option, you turn **OFF** the toggle button for **Start PiP Automatically** to disable this function.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using the Picture in Picture feature on iPhones
@@ -82,10 +86,6 @@ Once you lunch this feature on iOS 14 or greater versions, it automatically shri
 To move the window to any screen part, simply tap and hold the video to drag and place it on any part of the screen you want. Another fantastic feature the iPhone offers is that it allows you to minimize the picture-in-picture window, and you will keep listening to the audio part of the video while working on other apps.
 
 ![move the window to any screen part](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To perform this minimizing feature, grab the window and move it to either side of the screen's edge. In doing so, the window will disappear, and you will keep hearing the sound only. But, on the screen side, where you move the window, you will see an arrow and a grabber indicating its presence, and you can use it to revive the video.
 
@@ -112,10 +112,6 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Using the Picture in Picture feature on iPhones
 
 Once you lunch this feature on iOS 14 or greater versions, it automatically shrinks to the top or bottom side of the screen. Here, you can perform several activities with the features, including resizing, moving, and aligning the video with the window. In the case of aligning, depending on your choice, it could be to the screen's top right, bottom right, top left, and bottom left.
@@ -129,11 +125,11 @@ To perform this minimizing feature, grab the window and move it to either side o
 ![move the window to screen's edge](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. How to enable and disable picture in picture in Safari for iPad
@@ -146,6 +142,10 @@ The picture in picture mode has been available on the iPad long before it was in
 * Here, toggle picture in picture ON to enable this feature; otherwise, toggle picture in picture OFF to disable the feature.
 
 Above all, you need to have it in the back of your mind that regardless of how you enable this feature, the app or website needs to support the picture in picture mode to work correctly. However, almost all website supports this feature, with YouTube being the top supporter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -181,24 +181,24 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-add-a-snapshot-to-your-instagram-story/"><u>[Updated] Add a Snapshot to Your Instagram Story</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-video-influencers-for-2024/"><u>[Updated] Elite Video Influencers for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/vimeo-2024top6/"><u>「Vimeo作品が好き? 2024年用無料ダウンロードプラットフォームTOP6選譲!動画コレクションを増やせる場所」</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-metagaming-mastery-top-10-friendly-games/"><u>2024 Approved Metagaming Mastery Top 10 Friendly Games</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-speaking-shifts-a-guide-to-free-fire-voices/"><u>2024 Approved Speaking Shifts A Guide to Free Fire Voices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-insert-a-linked-text-in-your-tiktok-bio/"><u>2024 Approved Step-by-Step Guide Insert a Linked Text in Your TikTok Bio</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728491830877-usb/"><u>修好后，此电脑上无法使用的USB设备现在可连接</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/android-device-capture-free-simplify-your-tech-life-for-2024/"><u>Android Device Capture - FREE! Simplify Your Tech Life for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/email-retrieval-made-easy-methods-for-identifying-your-account/"><u>Email Retrieval Made Easy: Methods for Identifying Your Account</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-officejet-pro-8740-drivers-for-your-pc-running-windows-11-10-or-8-download-now/"><u>Get the Newest HP OfficeJet Pro 8740 Drivers for Your PC Running Windows 11, 10 or 8 - Download Now</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-method-to-verify-and-update-your-tiktok-age/"><u>In 2024, Step-by-Step Method to Verify and Update Your TikTok Age</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-troubleshoot-vanished-facebook-videos-discover-our-top-12-fixes/"><u>In 2024, Troubleshoot Vanished Facebook Videos - Discover Our Top 12 Fixes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leap-into-the-future-a-guide-for-windows-11-installation-for-2024/"><u>Leap Into the Future A Guide for Windows 11 Installation for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximizing-your-iphones-photographic-skills-in-ios-11-for-2024/"><u>Maximizing Your iPhone's Photographic Skills in iOS 11 for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-photoplusvideo-integration-with-iphone-for-2024/"><u>Navigating Photo+Video Integration with iPhone for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfected-edits-on-the-go-leading-apps-for-macos-big-surs-video-editors-for-2024/"><u>Perfected Edits on the Go Leading Apps for macOS Big Sur's Video Editors for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/principles-of-crafting-alluring-video-scripts-for-2024/"><u>Principles of Crafting Alluring Video Scripts for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/professional-video-capture-techniques-mastering-movs-on-win10/"><u>Professional Video Capture Techniques Mastering MOVs on Win10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-your-images-into-nfts-the-best-generators-listed/"><u>Transform Your Images Into NFTs - The Best Generators Listed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-amplify-iphone-film-and-photo-experience-with-extra-gear-for-2024/"><u>[New] Amplify iPhone Film & Photo Experience with Extra Gear for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>[New] In 2024, Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pro-level-mac-photo-tips-unveiling-five-expert-techniques/"><u>[New] In 2024, Pro-Level Mac Photo Tips Unveiling Five Expert Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secrets-to-high-resolution-pics-on-deal/"><u>[New] Secrets to High-Resolution Pics on Deal</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-inalterable-action-plan-to-expunge-youtube-shorts-for-2024/"><u>[Updated] Inalterable Action Plan to Expunge YouTube Shorts for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-maximizing-your-broadcast-obs-on-android-devices/"><u>[Updated] Maximizing Your Broadcast OBS on Android Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-fixes-enhancing-images-in-windows-10s-photos-editor/"><u>[Updated] Quick Fixes Enhancing Images in Windows 10'S Photos Editor</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enlarge-your-videos-thumbnail-on-youtube-easily/"><u>2024 Approved Enlarge Your Video's Thumbnail on YouTube Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-strategies-against-photos-app-issues-on-windows-11/"><u>2024 Approved Proven Strategies Against Photos App Issues on Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/best-6-social-media-platforms-for-business-for-2024/"><u>Best 6 Social Media Platforms for Business for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-steps-keep-your-logitech-m310-perfectly-sync-with-updated-drivers/"><u>Comprehensive Steps: Keep Your Logitech M310 Perfectly Sync with Updated Drivers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-by-drfone-android/"><u>How to Bypass FRP from Tecno?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shot-perfecting-made-simple-the-best-cinematic-practices/"><u>In 2024, Shot Perfecting Made Simple The Best Cinematic Practices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/nighttime-novelties-with-vocalists-recommended-guide-for-2024/"><u>Nighttime Novelties with Vocalists Recommended Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-your-streamline-setup-unleashing-the-full-potential-of-floating-window-feature-for-2024/"><u>Perfect Your Streamline Setup Unleashing the Full Potential of Floating Window Feature for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-frames-per-second-for-high-impact-slow-motion-videos-for-2024/"><u>Prime Frames Per Second For High-Impact Slow Motion Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/reaching-more-posting-tiktok-videos-on-twitter-for-2024/"><u>Reaching More Posting TikTok Videos on Twitter for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/thanks-for-watching-outro-templates-free-and-paid-for-2024/"><u>Thanks For Watching Outro Templates (Free & Paid) for 2024</u></a></li>
 </ul></div>
 

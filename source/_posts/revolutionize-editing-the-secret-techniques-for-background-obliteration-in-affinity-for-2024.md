@@ -1,7 +1,7 @@
 ---
 title: "\"Revolutionize Editing  The Secret Techniques for Background Obliteration in Affinity for 2024\""
-date: 2025-01-05T20:02:02.798Z
-updated: 2025-01-11T16:18:07.409Z
+date: 2025-01-11T06:59:14.076Z
+updated: 2025-01-17T11:28:11.355Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Erase a White Background in Affinity Designer
@@ -48,10 +48,6 @@ Step3 To make a selection around your subject, first enable the **"Snap To Edges
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
 Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, and use the Selection Brush tool to manually correct the rough edges of your outline.
@@ -59,6 +55,10 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
@@ -94,7 +94,7 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Alternative of Affinity Photo
@@ -104,6 +104,10 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -120,10 +124,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -135,10 +135,6 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -162,6 +158,10 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -197,22 +197,22 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-cutting-edge-guide-to-youtube-audio-editing/"><u>[New] Cutting-Edge Guide to YouTube Audio Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-expert-a-complete-guide-to-youtube-chapter-addition/"><u>[New] From Basics to Expert A Complete Guide to YouTube Chapter Addition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-5-best-snipping-tools-for-pc/"><u>[New] In 2024, 5 Best Snipping Tools for Pc</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-skys-best-expertly-curated-list-of-drones-and-their-editing-pals/"><u>[New] Sky's Best Expertly Curated List of Drones & Their Editing Pals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-up-your-photo-game-basic-snapseed-skills-guide/"><u>[New] Step Up Your Photo Game Basic Snapseed Skills Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-best-8-online-photo-montage-maker/"><u>[Updated] Best 8 Online Photo Montage Maker</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-generating-attention-grabbing-video-teasers/"><u>[Updated] Generating Attention-Grabbing Video Teasers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-luminous-clips-discover-5-apps-that-shine-online/"><u>2024 Approved Luminous Clips Discover 5 Apps That Shine Online</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-fuss-trick-for-clownfish-tone-change-in-windows-domain/"><u>2024 Approved No-Fuss Trick for Clownfish Tone Change in Windows Domain</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-iphone-x-animoji-use-with-expert-tips/"><u>2024 Approved Perfecting iPhone X Animoji Use with Expert Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-drive-must-have-accessories-for-sj4000-owners/"><u>2024 Approved Transform Your Drive Must-Have Accessories for SJ4000 Owners</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-durability-and-joy-maisto-rc-rock-crawler-reviewed/"><u>Exploring the Durability and Joy: Maisto RC Rock Crawler Reviewed!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sky-magnificence-in-focus-leading-websites-uncovered/"><u>In 2024, Sky Magnificence in Focus Leading Websites Uncovered</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/infuse-joy-and-creativity-in-every-snap-with-anime-filters/"><u>Infuse Joy and Creativity in Every Snap with Anime Filters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/now-available-vr-hardware-specs-for-2024/"><u>Now Available VR Hardware Specs for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-camera-to-screen-how-to-edit-nikon-video-files-like-a-pro/"><u>Updated 2024 Approved From Camera to Screen How to Edit Nikon Video Files Like a Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mirth-mechanics-gratis-tools-to-amuse-and-entertain/"><u>[New] Mirth Mechanics Gratis Tools to Amuse and Entertain</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-top-6-ideal-helmet-harnesses-for-gopros/"><u>[New] Navigating Through Top 6 Ideal Helmet Harnesses for GoPros</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-techniques-for-altering-song-pace-on-spotify/"><u>[New] Optimal Techniques for Altering Song Pace on Spotify</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-preeminent-sites-to-amplify-youtube-traffic/"><u>[Updated] Preeminent Sites to Amplify YouTube Traffic</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-media-synergy-connecting-twitch-streams-with-fb-for-2024/"><u>[Updated] Social Media Synergy Connecting Twitch Streams with FB for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-launching-at-optimal-times-a-podcast-guide/"><u>2024 Approved Launching at Optimal Times A Podcast Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-pcs-speed-with-top-tier-memory-solutions-workstation-and-gamer-editions-revealed-by-zdnet/"><u>Boost Your PC's Speed with Top-Tier Memory Solutions: Workstation and Gamer Editions Revealed by ZDNET</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-ultimate-picks-for-high-quality-virtual-classrooms/"><u>Discover The Ultimate Picks For High-Quality Virtual Classrooms</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/get-the-latest-2016-samsung-galaxy-s7-edge-on-your-phone-with-these-simple-steps/"><u>Get the Latest 2016 Samsung Galaxy S7 Edge on Your Phone with These Simple Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/link-sounds-to-visual-elements-in-ppt-for-2024/"><u>Link Sounds to Visual Elements in PPT for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximize-your-cam-flagship-gear-with-ease-for-2024/"><u>Maximize Your Cam Flagship Gear with Ease for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/nikon-video-post-production-made-easy-tips-and-tricks-for-2024/"><u>Nikon Video Post-Production Made Easy Tips and Tricks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-edge-browser-setting-up-microsofts-defender-application-guard-in-win-11/"><u>Secure Edge Browser: Setting up Microsoft's Defender Application Guard in Win 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speedy-mobile-audio-playback-best-apps-ranked-for-2024/"><u>Speedy Mobile Audio Playback Best Apps Ranked for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-document-digitization-how-chatgpt-reads-pdfs/"><u>Streamlining Document Digitization: How ChatGPT Reads PDFs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/understanding-and-leveraging-snapchat-spotlight/"><u>Understanding and Leveraging Snapchat Spotlight</u></a></li>
 </ul></div>
 

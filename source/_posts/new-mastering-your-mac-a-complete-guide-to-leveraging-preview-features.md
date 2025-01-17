@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2025-01-05T21:37:25.869Z
-updated: 2025-01-11T18:23:50.913Z
+date: 2025-01-13T23:17:00.927Z
+updated: 2025-01-16T20:37:34.099Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -50,10 +54,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -67,6 +67,10 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -97,7 +101,7 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -116,10 +120,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -135,10 +135,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -169,7 +165,7 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -206,6 +202,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -221,18 +221,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-complete-activity-inspection-guide-for-2024/"><u>[New] Complete Activity Inspection Guide for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-visual-storytelling-with-vsco/"><u>[New] Mastering Visual Storytelling with VSCO</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fundamental-blueprints-to-enhance-facebook-ad-engagement/"><u>[Updated] 2024 Approved Fundamental Blueprints to Enhance Facebook Ad Engagement</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-rotation-video-mounting/"><u>[Updated] 2024 Approved Ultimate Rotation Video Mounting</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-jokejigsaw-creator-humor-graphic-tool/"><u>[Updated] JokeJigsaw Creator Humor Graphic Tool</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-personal-aerial-companions-gps-drones-that-never-stray/"><u>[Updated] Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premier-programs-designing-animated-3d-worlds/"><u>[Updated] Premier Programs Designing Animated 3D Worlds</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shot-solidity-choose-the-right-mobile-tripod/"><u>[Updated] Shot Solidity Choose the Right Mobile Tripod</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-strategies-for-streaming-fb-live-on-zoom-platform-for-2024/"><u>[Updated] Strategies for Streaming FB Live on Zoom Platform for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/meet-the-future-of-mobile-assistants-chatgpt-now-roams-in-apples-world/"><u>Meet the Future of Mobile Assistants: ChatGPT Now Roams in Apple's World</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-sleek-new-kid-on-the-block-exploring-lgs-lightweight-gram-pro-17-now-on-sale-for-a-limited-time-in-october-insights/"><u>The Sleek New Kid on the Block: Exploring LG's Lightweight Gram Pro 17, Now on Sale for a Limited Time in October – Insights</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/iral-tactics-key-tags-for-boosting-youtube-short-clips-for-2024/"><u>Top Viral Tactics Key Tags for Boosting YouTube Short Clips for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/turbocharge-touch-ups-learn-speedy-skills-for-win10-photos-editing/"><u>Turbocharge Touch-Ups Learn Speedy Skills for WIN10 Photos Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flawless-soundscape-secrets-to-high-resolution-audio-recording/"><u>[New] 2024 Approved Flawless Soundscape Secrets to High-Resolution Audio Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-belly-laughs-ledger-no-fee-funny-templates/"><u>[New] In 2024, Belly Laughs Ledger No-Fee Funny Templates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-video-magnification-system/"><u>2024 Approved Interactive Video Magnification System</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-stepwise-approach-to-snagging-youtube-playlists-efficiently/"><u>2024 Approved Stepwise Approach to Snagging YouTube Playlists Efficiently</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-crafting-your-personalbusiness-youtube-mobile-hub/"><u>In 2024, Crafting Your Personal/Business YouTube Mobile Hub</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-newest-list-of-engaging-podcast-dialogues/"><u>In 2024, Newest List of Engaging Podcast Dialogues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-frenzy-stories-of-popularity/"><u>In 2024, Photo Frenzy Stories of Popularity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-up-in-the-metaverse-game-with-these-critical-devices-top-7/"><u>In 2024, Step Up in the Metaverse Game with These Critical Devices (Top 7)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-premier-android-collage-program-selection/"><u>The Premier Android Collage Program Selection</u></a></li>
 </ul></div>
 

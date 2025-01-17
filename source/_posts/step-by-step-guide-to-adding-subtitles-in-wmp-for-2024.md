@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Adding Subtitles in WMP for 2024\""
-date: 2024-07-27T22:17:49.830Z
-updated: 2024-07-28T22:17:49.830Z
+date: 2025-01-14T16:25:34.301Z
+updated: 2025-01-17T06:07:33.445Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 # How to add subtitles to windows media player
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -32,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 Windows Media Player is still maintaining its wide popularity among users from every corner of world. There is no doubt to say that it hold impressive feature set with user friendly platform so people stay always curious to do adventurous things over it. The article below will help you to understand the trick to add subtitles into video clips using Window Media Player. By following few simple steps as discussed below, soon you will be able to gain access to your desired subtitles and then they can be merged with videos so easily. Keep reading:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step by Step Guide
 
 The process of adding subtitles to video clips is quite simple; you need to follow these steps: First of all, you need to install Windows media player on your Personal Computer. Prefer to get the latest version, it is easily available over internet and can be downloaded and installed by beginners too. Once your software tool is ready on your system then proceed ahead.
@@ -46,14 +44,19 @@ The process of adding subtitles to video clips is quite simple; you need to foll
 
 ![](https://images.wondershare.com/filmora/article-images/subtitle-wmp-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Now, it is time to download DirectVobSub codec and get it installed on your PC. This software is easily available in 32, 64 bit versions so you can easily access any of these. Simply install codec from this source; no need to work on configuration settings. Note that these codecs must be installed from a trusted source so that malware or virus attacks can be avoided.
 
 **Step 4:** Once you are done with step 3 then download Sharkoo7’s Advanced Codec from internet. Get it installed for Window Media Player and then open with 64 bit settings or 32 bit as per your device specifications. To open it, simply right click on icon and from drop down menu choose “Run as administrator”.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/subtitle-wmp-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Within very less time application will get opened with a fresh window on your system. Now move to tabs of different video file types then search for the option that says: “Disable Media Foundation for MP4/MKV and AVI etc”. Further, go to the swap tab and then disable window media foundation.
 
@@ -65,13 +68,13 @@ As soon as you will finish all these settings, your subtitles will appear perfec
 
 If you are searching for websites that can help you to download subtitles for your videos then this list can be useful for you:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 1. Moviesubtitles.com:
 
 You will be glad to know that this website offers subtitles in wide range of languages. Users can simply initiate search for latest subtitle files, most popular movies or most download subtitles. All these subtitles packs are available for free and they are usually packed in WinZip file formats.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. Subscene.com:
 
@@ -81,17 +84,15 @@ This website stays one of the top preferences lists of all professionals as well
 
 There is no doubt to say that TVSubtitles.com is well known as best site for TV show subtitle download needs. This platform contains largest collection of popular TV show subtitles from every corner of world and they are available in multiple languages. Some of the most commonly downloaded subtitle files use to be in Korean, Russian, German, Greek, French and English language.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 4. Tvsubs.net:
 
 One more online platform for downloading wide range of subtitles and the best thing to know about this website is that it possesses user friendly platform that has super cool appearance. As soon as you will open your website you will notice that well placed search box. Yeah! This is your biggest need when you need to search for subtitles. Enter your details inside this search box and it will soon bring all desired results to your computer screen. One can also access this site for uploading movie subtitles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -99,12 +100,27 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-music-extraction-choose-the-right-apps-for-youtube-and-mp3/"><u>[New] 2024 Approved Effortless Music Extraction Choose the Right Apps for YouTube & MP3</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-easy-to-use-games-recorders-ranked-no-1-10/"><u>[New] In 2024, Easy-to-Use Games Recorders Ranked No. 1-10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-10-youtube-business-channels-to-create-one-easily/"><u>[New] In 2024, Top 10 YouTube Business Channels to Create One Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-insert-audio-files-into-powerpoint-sequences/"><u>[Updated] Insert Audio Files Into PowerPoint Sequences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-methods-for-sticker-elimination-in-tiktoks/"><u>2024 Approved Masterful Methods for Sticker Elimination in TikToks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-ranked-motors-the-quintessential-guide-to-flight-mastery/"><u>2024 Approved Top-Ranked Motors The Quintessential Guide to Flight Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-instantaneous-google-collage-a-speedy-diy-method/"><u>In 2024, Instantaneous Google Collage A Speedy DIY Method</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-selection-of-top-8-high-quality-free-online-translators/"><u>In 2024, Mastering Selection of Top 8 High-Quality Free Online Translators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-melody-match-maker-audio-ambience-for-videos/"><u>In 2024, Melody Match-Maker Audio Ambience For Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-renowned-companies-advancing-virtual-reality-tech/"><u>In 2024, Renowned Companies Advancing Virtual Reality Tech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximize-viewing-experience-best-4k-downloader-apps-for-2024/"><u>Maximize Viewing Experience Best 4K Downloader Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-flawless-mkv-playback-with-chromecast-streaming/"><u>The Ultimate Guide to Flawless MKV Playback with Chromecast Streaming</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Photo Perfection  Implement These 10 Composition Tenets\""
-date: 2025-01-06T20:09:01.873Z
-updated: 2025-01-11T22:12:19.134Z
+date: 2025-01-16T03:23:24.244Z
+updated: 2025-01-16T17:07:32.376Z
 tags: 
   - screen-recording
   - ai video
@@ -34,21 +34,25 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Leading Lines
 
  Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
 
 ![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Symmetry
 
  For the perfect photo composition with an iPhone, one should understand what all make for the right composition. Photographers divide the frame they want to click into rough patterns and position the subject at the right place to get wonderful shots. Both man-made and natural symmetry and patterns represent eye-catching compositions. You can either take a shot following the symmetric patterns or break them to make the subject stand out by adding focal points and tension.
 
 ![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Framing
 
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Diagonals
@@ -66,29 +70,21 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Shape
 
  Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
 
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Leave Empty Space
 
  You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
 
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Direction of Subject
 
@@ -97,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fill Your Frame
@@ -106,6 +102,14 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Break the Rules
 
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
@@ -113,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclsion
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
  Images come from the Internet
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -143,21 +143,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-elevate-your-twitter-video-experience-full-hd-edition/"><u>[New] In 2024, Elevate Your Twitter Video Experience Full HD Edition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-pixel-perfection-in-image-integration-for-2024/"><u>[New] Pixel Perfection in Image Integration for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-the-full-potential-of-your-gopro-4k-recordings/"><u>[New] Unlock the Full Potential of Your GoPro 4K Recordings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-advanced-strategies-to-elevate-client-spots-and-product-endorsements/"><u>[Updated] Advanced Strategies to Elevate Client Spots and Product Endorsements</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-sparkling-access-methods-for-new-users/"><u>[Updated] In 2024, Sparkling Access Methods for New Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-rapid-video-rendering-in-powerpoint-presentations/"><u>[Updated] Rapid Video Rendering in PowerPoint Presentations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-revealed-secrets-top-15-stabilizers-and-holders-for-gopro/"><u>[Updated] Revealed Secrets Top 15 Stabilizers & Holders for GoPro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-saving-gifs-on-your-iphone-a-step-by-step-approach/"><u>[Updated] Saving GIFs on Your iPhone - A Step-by-Step Approach</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-scrutinizing-high-quality-brightness-in-hd-imaging/"><u>[Updated] Scrutinizing High-Quality Brightness in HD Imaging</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-methods-for-a-no-ads-experience-on-social-platforms/"><u>2024 Approved Methods for a No-Ads Experience on Social Platforms</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210330604-9781087974897-healing-growth-and-forgiveness/"><u>Healing, Growth, and Forgiveness | Free Book</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-huawei-nova-y71-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Huawei Nova Y71 FRP?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-ffxp-the-user-manual/"><u>In 2024, Navigating FFXP The User Manual</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-ffxp-your-step-by-step-handbook/"><u>In 2024, Navigating Through FFXP Your Step-by-Step Handbook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/setting-up-your-microphone-on-windows-11-for-2024/"><u>Setting Up Your Microphone on Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-rewind-revolution-novel-strategies-for-youtube-viewers/"><u>[New] In 2024, The Rewind Revolution Novel Strategies for YouTube Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterpieces-of-radio-scripting-artistry/"><u>[New] Masterpieces of Radio Scripting Artistry</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mobile-methods-for-capturing-snapchat-content-for-2024/"><u>[New] Mobile Methods for Capturing Snapchat Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-to-weave-narrative-into-visual-content/"><u>[New] Techniques to Weave Narrative Into Visual Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-payload-pilots-drone-superlatives/"><u>[Updated] Pinnacle Payload Pilots Drone Superlatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-video-recording-on-iphone-meets-instant-photos/"><u>[Updated] Pro Video Recording on iPhone Meets Instant Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-secrets-of-the-trade-perfecting-sticker-removal-in-tiktoks/"><u>2024 Approved Secrets of the Trade Perfecting Sticker Removal in TikToks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-correctly-optimize-jetprinter-performance-in-windows/"><u>Configure Correctly: Optimize JetPrinter Performance in Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-interactive-learning-activities/"><u>In 2024, Interactive Learning Activities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jokejuxtaposer-quickly-craft-memes-for-all-occasions/"><u>In 2024, JokeJuxtaposer Quickly Craft Memes for All Occasions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>In 2024, Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-radiance-in-android-video-editing/"><u>In 2024, Radiance in Android Video Editing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/real-time-speech-processing-and-action-at-no-charge/"><u>Real-Time Speech Processing & Action at No Charge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shaping-the-look-of-your-systems-point-of-interest/"><u>Shaping the Look of Your System's Point-of-Interest</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-amazons-basic-tablet-holder-portability-and-convenience-combined/"><u>The Ultimate Guide to Amazon's Basic Tablet Holder: Portability and Convenience Combined</u></a></li>
 </ul></div>
 
