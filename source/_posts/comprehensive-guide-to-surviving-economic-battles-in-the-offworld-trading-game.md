@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
-date: 2025-01-11T09:56:31.613Z
-updated: 2025-01-17T04:24:35.757Z
+date: 2025-01-22T18:19:29.862Z
+updated: 2025-01-23T16:47:40.485Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
@@ -13,12 +13,16 @@ thumbnail: https://www.lifewire.com/thmb/YvejJSb8geFdG7p1fbjrHPlywLo=/400x300/fi
 
 2.7
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/HYgHMUDMFh7JI98Hj0JMbI2wcpw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -62,10 +66,6 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
@@ -73,7 +73,7 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -83,10 +83,6 @@ Lifewire / Kelsey Simon
  I did continue forward, even though I was already disinterested, hoping the game would become more gripping. After the memory room, you’ll wake to another platform where a being tells you you’ve suffered a great injury and they are in your mind. He tries to explain who you are but before he gets too far, you’ll be attacked by something called the Sorrow. Eventually, you’ll wake in the real world, enter the game’s main city, and be able to talk to the wealth of characters living there. You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
 
@@ -108,6 +104,10 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -117,7 +117,7 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -165,17 +165,20 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-see-your-subscribers-on-youtube-for-2024/"><u>[New] How to See Your Subscribers on YouTube for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premier-auto-track-cam-mount-for-smooth-shots/"><u>[New] Premier Auto-Track Cam Mount for Smooth Shots</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-analysis-of-excellent-zoom-screen-recorders/"><u>[Updated] In-Depth Analysis of Excellent Zoom Screen Recorders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-full-sphere-video-via-iphone/"><u>[Updated] Step-by-Step Guide to Full-Sphere Video via iPhone</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-frustration-expert-tips-and-tricks-for-dealing-with-steam-error-code-80/"><u>Eliminating Frustration: Expert Tips and Tricks for Dealing with Steam Error Code 80</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-a05s-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy A05s Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi 13T Pro Phone Without Password?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-background-selection-tips/"><u>In 2024, Masterful Background Selection Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-phone-lens-magic-creating-high-horizons/"><u>In 2024, Phone Lens Magic Creating High Horizons</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-reducing-sound-levels-gradually-with-easy-steps-in-lumafusion/"><u>In 2024, Reducing Sound Levels Gradually with Easy Steps in Lumafusion</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/why-now-is-the-perfect-moment-for-a-retro-dos-gaming-adventure-the-ultimate-guide/"><u>Why Now Is the Perfect Moment for a Retro DOS Gaming Adventure - The Ultimate Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-eco-conscious-screen-tech-guide/"><u>[New] Eco-Conscious Screen Tech Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-inside-the-high-definition-world-of-nikon-j5/"><u>[New] In 2024, Inside the High-Definition World of Nikon J5</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-must-have-devices-for-exploration-videos/"><u>[New] Must-Have Devices for Exploration Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-shadows-and-highlights-with-iphone-lighting-tips/"><u>[New] Perfect Shadows & Highlights with IPhone Lighting Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-collage-creation-a-step-by-step-guide-for-google-images/"><u>[New] Quick Collage Creation A Step-by-Step Guide for Google Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-iphone-photo-and-video-transfers-guide/"><u>[New] Seamless iPhone Photo & Video Transfers Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smartphones-and-beyond-the-leading-vr-headsets/"><u>[New] Smartphones and Beyond The Leading VR Headsets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-race-through-the-olympics-top-sections-2022/"><u>[Updated] 2024 Approved Race Through the Olympics Top Sections, 2022</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-tier-streaming-tech-ranking-5-top-conference-recorder-devices/"><u>[Updated] 2024 Approved Top-Tier Streaming Tech Ranking 5 Top Conference Recorder Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-control-youtube-audio-mobiledesktop-approach-for-2024/"><u>[Updated] Control YouTube Audio Mobile/Desktop Approach for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-is-an-m1-macbook-air-smarter-and-faster-for-editing/"><u>[Updated] Is an M1 MacBook Air Smarter and Faster for Editing?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-a-different-way-to-naming-your-channel-with-filmora-for-2024/"><u>Finding a Different Way to Naming Your Channel with Filmora for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-phone-without-password-by-drfone-android/"><u>How To Unlock Lava Yuva 2 Phone Without Password?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-revealing-clarity-mastering-the-eraser-feature-in-psx/"><u>In 2024, Revealing Clarity Mastering the Eraser Feature in PSX</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-twelve-full-frame-video-tech-lists-for-2024/"><u>Premium Twelve Full Frame Video Tech Lists for 2024</u></a></li>
 </ul></div>
 

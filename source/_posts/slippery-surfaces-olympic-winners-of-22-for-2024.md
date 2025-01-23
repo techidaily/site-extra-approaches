@@ -1,7 +1,7 @@
 ---
 title: "\"Slippery Surfaces  Olympic Winners of '22 for 2024\""
-date: 2025-01-14T16:24:48.810Z
-updated: 2025-01-17T00:39:36.124Z
+date: 2025-01-16T16:35:30.623Z
+updated: 2025-01-23T16:15:28.789Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
@@ -44,13 +44,13 @@ Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -64,16 +64,16 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -109,7 +109,7 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -135,19 +135,16 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-mobile-video-enhancers-for-high-quality-gopro-videos/"><u>[New] Leading Mobile Video Enhancers for High-Quality GoPro Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-virtual-world-real-profit-for-game-makers/"><u>[Updated] Virtual World, Real Profit for Game Makers</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-fixes-get-out-of-the-endless-booting-loop-on-your-device/"><u>Expert Fixes: Get Out of the Endless Booting Loop on Your Device</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-transform-your-aifc-tracks-into-m4r-mp3s-using-movavis-free-tool-online/"><u>How to Transform Your AIFC Tracks Into M4R MP3s Using Movavi's Free Tool Online!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-12-mini-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 12 mini to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-instantaneous-facial-obscuring-technique/"><u>In 2024, Instantaneous Facial Obscuring Technique</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-multitasking-top-15-ideas-for-podcast-enthusiasts/"><u>In 2024, Master the Art of Multitasking Top 15 Ideas for Podcast Enthusiasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-typefaces-for-effects-select-10-titles/"><u>In 2024, Mastering Typefaces for Effects Select 10 Titles</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-potential-your-guide-to-effective-improvements/"><u>In 2024, Unlocking Potential Your Guide to Effective Improvements</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/journey-through-filmora-editing-10-standout-functions-for-2024/"><u>Journey Through Filmora Editing 10 Standout Functions for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/resolving-driver-software-conflicts-expert-tips-from-yl-computing/"><u>Resolving Driver Software Conflicts - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/snap-happy-with-iphone-burst-mode-for-2024/"><u>Snap-Happy with iPhone Burst Mode for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-list-of-trending-instagram-hashtags-for-success-for-2024/"><u>The Ultimate List of Trending Instagram Hashtags for Success for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-failed-to-create-graphics-device-problem-for-improved-performance/"><u>Troubleshooting and Correcting 'Failed to Create Graphics Device' Problem for Improved Performance</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-sharpfocusx7-size-your-photography-right/"><u>[New] In 2024, SharpFocusX7 Size Your Photography Right</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-innovation-vr-controllers-reviewed/"><u>[New] Leading Innovation VR Controllers Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pros-picks-8-superior-tripods-for-4k-videos/"><u>[New] Pro's Picks 8 Superior Tripods for 4K Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-shift-techniques-using-3dlut-on-mobile/"><u>[New] Quick-Shift Techniques Using 3DLUT on Mobile</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tips-and-tricks-for-perfect-tweets-with-videos/"><u>[Updated] In 2024, Tips and Tricks for Perfect Tweets with Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-y17s-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y17s Phone When You Forget the Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-12-pro-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 12 Pro to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-13c-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi 13C for Free? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instagram-snapshot-of-an-enlightening-episode-for-2024/"><u>Instagram Snapshot of an Enlightening Episode for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/memelores-premier-10-templates-for-2024/"><u>Memelore's Premier 10 Templates for 2024</u></a></li>
 </ul></div>
 

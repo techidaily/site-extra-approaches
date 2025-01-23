@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Peering Through the Printer  One Person’s '3DR' Story\""
-date: 2025-01-15T18:13:08.905Z
-updated: 2025-01-17T01:38:09.824Z
+date: 2025-01-16T17:09:12.983Z
+updated: 2025-01-23T16:55:46.880Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and Cons of 3DR Solo
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -132,21 +132,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-asmr-microphones-impressive-audio-at-economical-costs/"><u>[New] Premium ASMR Microphones Impressive Audio at Economical Costs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-transforming-images-into-engaging-animation-projects/"><u>[Updated] In 2024, Transforming Images Into Engaging Animation Projects</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-integrating-multimedia-for-iphone-users/"><u>[Updated] Integrating Multimedia for iPhone Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-quintessential-memes-the-creation-guide-for-2024/"><u>[Updated] Quintessential Memes The Creation Guide for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-laugh-loom-imgur-memomaker/"><u>2024 Approved Laugh Loom Imgur MemoMaker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-world-of-drone-video-manipulation/"><u>2024 Approved Navigating the World of Drone Video Manipulation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-securing-sound-speed-increase-in-the-digital-world-of-spotify/"><u>2024 Approved Securing Sound Speed Increase in the Digital World of Spotify</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beating-lag-and-improving-response-time-essential-techniques-for-optimal-play-in-chivalry-2/"><u>Beating Lag & Improving Response Time: Essential Techniques for Optimal Play in Chivalry 2</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comment-installer-des-logiciels-sur-un-disque-dur-externe-pour-ordinateur/"><u>Comment Installer Des Logiciels Sur Un Disque Dur Externe Pour Ordinateur ?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratuit-gebaseerd-ogg-videos-in-mp4-format-vervangen-kortsluiteren-met-movavi/"><u>Gratuit Gebaseerd Ogg-Video's in MP4 Format Vervangen - Kortsluiteren Met Movavi</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/intense-dissection-unveiling-the-secrets-of-the-bublcam-camera-for-2024/"><u>Intense Dissection Unveiling the Secrets of the Bublcam Camera for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/premium-beach-scenes-and-seaside-landscapes-for-desktop-backgrounds-by-yl-software/"><u>Premium Beach Scenes & Seaside Landscapes for Desktop Backgrounds by YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-a34-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A34 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/selecting-the-best-the-top-5-fpv-goggles-list-for-2024/"><u>Selecting the Best The Top 5 FPV Goggles List for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211347183-9781959930648-the-black-pearl/"><u>The Black Pearl | Free Book</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-linked-data-packet-dynamics/"><u>Understanding Linked Data Packet Dynamics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-cuts-the-essential-guide-for-windows-11-users/"><u>[New] Mastering Video Cuts The Essential Guide for Windows 11 Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smartest-3d-apps-available-on-android/"><u>[New] Smartest 3D Apps Available on Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-personalizing-presents-top-ten-e-commerce-stores-for-custom-boxes/"><u>[Updated] Personalizing Presents? Top Ten E-Commerce Stores for Custom Boxes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-why-does-your-facebook-message-feature-a-blue-emoji-uncovering-its-relevance/"><u>[Updated] Why Does Your FaceBook Message Feature a Blue Emoji? Uncovering Its Relevance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-a54-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-spark-10c-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Spark 10C Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mac-screen-casting-and-microphone-integration-for-2024/"><u>Mac Screen Casting and Microphone Integration for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-hdri-everything-you-need-to-know-about-hdri/"><u>New 2024 Approved What Is HDRI? Everything You Need to Know About HDRI</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/preservation-in-audio-how-ffmpeg-handles-originality-for-2024/"><u>Preservation in Audio How FFmpeg Handles Originality for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quantum-hdr-everything-you-may-want-to-know-about-quantum-hdr-for-2024/"><u>Quantum HDR Everything You May Want to Know About Quantum HDR for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/samsungs-image-crafting-app-benefits-and-insights-for-2024/"><u>Samsung's Image Crafting App Benefits & Insights for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-personalized-health-top-7-reasons-with-chatgpt/"><u>The Future of Personalized Health: Top 7 Reasons with ChatGPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-samsung-galaxy-watch-active-an-essential-wearable-for-fitness-enthusiasts-and-wellbeing-monitors/"><u>The Samsung Galaxy Watch Active - An Essential Wearable for Fitness Enthusiasts and Wellbeing Monitors</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-zte-nubia-z60-ultra-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on ZTE Nubia Z60 Ultra</u></a></li>
 </ul></div>
 

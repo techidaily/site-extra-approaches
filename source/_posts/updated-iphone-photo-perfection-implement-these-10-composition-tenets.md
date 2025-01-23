@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Photo Perfection  Implement These 10 Composition Tenets\""
-date: 2025-01-16T03:23:24.244Z
-updated: 2025-01-16T17:07:32.376Z
+date: 2025-01-22T18:45:02.980Z
+updated: 2025-01-23T17:51:02.592Z
 tags: 
   - screen-recording
   - ai video
@@ -34,15 +34,15 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Leading Lines
 
  Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
 
 ![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Symmetry
 
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Framing
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Diagonals
@@ -71,7 +71,11 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shape
@@ -86,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Direction of Subject
 
  Like all the photography composition rules, it is important to take note of the direction of the subject in a photograph. This is known as the ‘Rule of Space’ and it leads the viewer towards the subject’s direction of motion. For example, if there is a person walking on the road, then there should be space ahead of him. If there is a person sitting in a bench or rock, he should be clicked facing into the frame, and there should be space in front of him. It will help the viewer’s eyes to go along with the direction he is facing and take notice of the other subjects such as, other people walking in front him, or any pet moving around etc.
@@ -93,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fill Your Frame
@@ -103,11 +111,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Break the Rules
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
 
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclsion
 
@@ -143,20 +143,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-rewind-revolution-novel-strategies-for-youtube-viewers/"><u>[New] In 2024, The Rewind Revolution Novel Strategies for YouTube Viewers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-masterpieces-of-radio-scripting-artistry/"><u>[New] Masterpieces of Radio Scripting Artistry</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mobile-methods-for-capturing-snapchat-content-for-2024/"><u>[New] Mobile Methods for Capturing Snapchat Content for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-techniques-to-weave-narrative-into-visual-content/"><u>[New] Techniques to Weave Narrative Into Visual Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-payload-pilots-drone-superlatives/"><u>[Updated] Pinnacle Payload Pilots Drone Superlatives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-video-recording-on-iphone-meets-instant-photos/"><u>[Updated] Pro Video Recording on iPhone Meets Instant Photos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secrets-of-the-trade-perfecting-sticker-removal-in-tiktoks/"><u>2024 Approved Secrets of the Trade Perfecting Sticker Removal in TikToks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-correctly-optimize-jetprinter-performance-in-windows/"><u>Configure Correctly: Optimize JetPrinter Performance in Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-interactive-learning-activities/"><u>In 2024, Interactive Learning Activities</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-jokejuxtaposer-quickly-craft-memes-for-all-occasions/"><u>In 2024, JokeJuxtaposer Quickly Craft Memes for All Occasions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>In 2024, Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-radiance-in-android-video-editing/"><u>In 2024, Radiance in Android Video Editing</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/real-time-speech-processing-and-action-at-no-charge/"><u>Real-Time Speech Processing & Action at No Charge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shaping-the-look-of-your-systems-point-of-interest/"><u>Shaping the Look of Your System's Point-of-Interest</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-amazons-basic-tablet-holder-portability-and-convenience-combined/"><u>The Ultimate Guide to Amazon's Basic Tablet Holder: Portability and Convenience Combined</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-complete-instruction-manual-for-telegram-desktop/"><u>[New] 2024 Approved Complete Instruction Manual for Telegram Desktop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-resource-for-instagram-livestreams-via-obs-software/"><u>[New] 2024 Approved The Ultimate Resource for Instagram Livestreams via OBS Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oost-your-visual-storytelling-key-strategies-for-solo-videos-for-2024/"><u>[New] Boost Your Visual Storytelling Key Strategies for Solo Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-photoplusvideo-integration-with-iphone/"><u>[New] Navigating Photo+Video Integration with iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reddits-supreme-judges-the-most-upvoted-posts-ever/"><u>[New] Reddit's Supreme Judges The Most Upvoted Posts Ever</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-standout-reddit-content-an-exclusive-look-at-top-10-threads/"><u>[New] Standout Reddit Content An Exclusive Look at Top 10 Threads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-instant-media-transformation-enhance-fb-videos-to-hdmp4-on-the-fly/"><u>[Updated] 2024 Approved Instant Media Transformation Enhance FB Videos to HD/MP4 on the Fly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-navigating-keyword-strategies-for-youtube-success/"><u>[Updated] In 2024, Navigating Keyword Strategies for YouTube Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stay-ahead-of-the-curve-with-iphone-and-androids-best-photo-sticker-apps/"><u>[Updated] Stay Ahead of the Curve with iPhone and Android's Best Photo Sticker Apps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-14-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone 14 Plus</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enhance-playstation-5-performance-and-connectivity-through-discord-syncing/"><u>Enhance PlayStation 5 Performance & Connectivity Through Discord Syncing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing-for-2024/"><u>Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-data-keepers-expert-top-10-selections-for-2024/"><u>Prime Data Keepers Expert Top 10 Selections for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-best-methods-for-converting-xvid-videos-into-high-quality-mp4-formats/"><u>The Best Methods for Converting XviD Videos Into High-Quality MP4 Formats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/toms-tech-review-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-best-no-cost-global-voice-chat-platforms/"><u>Top 5 Best No-Cost Global Voice Chat Platforms</u></a></li>
 </ul></div>
 

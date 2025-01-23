@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2025-01-13T23:17:00.927Z
-updated: 2025-01-16T20:37:34.099Z
+date: 2025-01-17T16:11:38.542Z
+updated: 2025-01-23T18:35:08.043Z
 tags: 
   - screen-recording
   - ai video
@@ -37,7 +37,7 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -54,6 +54,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -67,10 +71,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -88,6 +88,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -99,10 +103,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -165,7 +165,7 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -203,7 +203,7 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -221,14 +221,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flawless-soundscape-secrets-to-high-resolution-audio-recording/"><u>[New] 2024 Approved Flawless Soundscape Secrets to High-Resolution Audio Recording</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-belly-laughs-ledger-no-fee-funny-templates/"><u>[New] In 2024, Belly Laughs Ledger No-Fee Funny Templates</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-video-magnification-system/"><u>2024 Approved Interactive Video Magnification System</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-stepwise-approach-to-snagging-youtube-playlists-efficiently/"><u>2024 Approved Stepwise Approach to Snagging YouTube Playlists Efficiently</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-crafting-your-personalbusiness-youtube-mobile-hub/"><u>In 2024, Crafting Your Personal/Business YouTube Mobile Hub</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-newest-list-of-engaging-podcast-dialogues/"><u>In 2024, Newest List of Engaging Podcast Dialogues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-frenzy-stories-of-popularity/"><u>In 2024, Photo Frenzy Stories of Popularity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-up-in-the-metaverse-game-with-these-critical-devices-top-7/"><u>In 2024, Step Up in the Metaverse Game with These Critical Devices (Top 7)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-premier-android-collage-program-selection/"><u>The Premier Android Collage Program Selection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-5-video-recording-software-timelapse-edition/"><u>[New] 2024 Approved Best 5 Video Recording Software Timelapse Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-the-ultimate-guide-to-becoming-a-tiktok-live-companion/"><u>[New] In 2024, The Ultimate Guide to Becoming a TikTok Live Companion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-professional-streams-from-obs-to-insta-for-2024/"><u>[New] Professional Streams From OBS to Insta for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-skyline-success-on-iphone-top-landscape-shots-techniques/"><u>[New] Skyline Success on iPhone Top Landscape Shots Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-next-decades-digital-marketing-shifts-in-facebook-advertising/"><u>[Updated] 2024 Approved Next Decade's Digital Marketing Shifts in Facebook Advertising</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-edge-imaging-the-most-excellent-4k-cams/"><u>[Updated] Leading Edge Imaging The Most Excellent 4K Cams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-clip-cinema-scenario/"><u>2024 Approved Quick Clip Cinema Scenario</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-6s-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 6s and iPad</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-professionally-enhancing-photos-with-effective-use-of-3d-lut-filters/"><u>In 2024, Professionally Enhancing Photos with Effective Use of 3D LUT Filters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sharpen-up-discover-the-best-online-photo-fixers/"><u>In 2024, Sharpen Up! Discover the Best Online Photo Fixers</u></a></li>
 </ul></div>
 

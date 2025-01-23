@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Savvy with an iPhone  Ideal Perspectives Uncovered for 2024\""
-date: 2025-01-11T12:23:35.953Z
-updated: 2025-01-16T19:06:03.176Z
+date: 2025-01-22T17:24:30.403Z
+updated: 2025-01-23T16:46:33.922Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 
 ![close-up-angle.](https://images.wondershare.com/filmora/article-images/close-up-angle.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Digital Care Solutions
 
  A close up is the type of shot that depicts only a small fraction of a scene or a detail. These shots are frequently used for portraits that show only a portion of a human face or some interesting detail. Furthermore, product photography relies heavily on close-ups because it often depicts fruit, and all sorts of tiny objects, that would be too small to photograph in a wide-angle shot.
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 ![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image resource: google
@@ -61,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 #### 3\.  Straight Up - Take Pictures of things above you
 
 ![straight-shots-iphone](https://images.wondershare.com/filmora/article-images/straight-shots-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: Digital Photography Review
 
@@ -79,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 ![bird-eye-view-shots](https://images.wondershare.com/filmora/article-images/bird-eye-view-shots.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image resource: Google
@@ -92,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 
 ![use-frame-photography](https://images.wondershare.com/filmora/article-images/use-frame-photography.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image resource: Chris Utano Photography
 
  All photos have a rectangular shape, and depicting the same shape within a photo creates instant dynamics between the shape you captured in a photo and its literal shape. A frame can be literally anything from a window in your room to a crack in the wall or even an old photo frame, and each item you use as a frame will give the photo a special atmosphere.
@@ -107,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 ![shoot-trought-another-subject](https://images.wondershare.com/filmora/article-images/shoot-trought-another-subject.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image resource: Digital Photo Secrets
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
  If you take a photo through a glass of water you'll be able to create a distorted image of the view behind the glass. Taking photos through transparent objects can be a lot of fun, but it is often more complicated than it seems. Controlling aperture, exposure or focus manually from your iPhone may help you get better results because you'll be able to decide where the focal point of the photo will be or fine-tune the amount of light your iPhone camera can pick up.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -137,15 +137,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-expert-tips-to-cut-through-false-social-endorsements/"><u>[New] 2024 Approved Expert Tips to Cut Through False Social Endorsements</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-windows-11-wallpaper-transitions/"><u>[New] Perfect Windows 11 Wallpaper Transitions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-demystifying-the-anatomy-of-a-great-yt-short-video/"><u>[Updated] Demystifying the Anatomy of a Great YT Short Video</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-explore-interaction-tips-for-uploading-videos-from-twitter-snapchat-for-2024/"><u>[Updated] Explore Interaction Tips for Uploading Videos From Twitter (Snapchat) for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-seamless-guide-integrating-instagram-with-tiktok/"><u>[Updated] Seamless Guide Integrating Instagram with TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-rhyme-and-groove-top-20-rap-sensations-on-tiktok-today/"><u>2024 Approved Rhyme & Groove Top 20 Rap Sensations on TikTok Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/high-performance-gaming-guide-enhancing-escape-from-tarkov-fps/"><u>High-Performance Gaming Guide: Enhancing Escape From Tarkov FPS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-start-a-product-review-channel-for-2024/"><u>How to Start a Product Review Channel for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-portable-canvas-apps-for-windows-free-and-charged/"><u>In 2024, Prime Portable Canvas Apps for Windows Free and Charged</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/steady-craft-fights-against-camera-jiggles-for-2024/"><u>Steady Craft Fights Against Camera Jiggles for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-understanding-youtubes-privacy-options-for-viewers/"><u>[New] In 2024, Understanding YouTube's Privacy Options for Viewers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-filmmakers-companion-filmora-for-youtube-trailers/"><u>[Updated] In 2024, Filmmaker's Companion Filmora for YouTube Trailers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-insta-wow-moments-7-must-follow-strategies-for-striking-reels/"><u>2024 Approved Insta-Wow Moments 7 Must-Follow Strategies for Striking Reels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smooth-strategy-perfecting-your-instagram-grid/"><u>2024 Approved Smooth Strategy Perfecting Your Instagram Grid</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-exploring-earth-with-high-res-the-mi-drone-review/"><u>In 2024, Exploring Earth with High Res The MI Drone Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters/"><u>In 2024, Mastering Visual Impact A Comprehensive Guide to Zoom's Video Filters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-next-era-cinema-vrs-role-in-entertainment/"><u>In 2024, Next Era Cinema VR's Role in Entertainment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-peek-inside-how-do-vr-headsets-connect/"><u>In 2024, Peek Inside How Do VR Headsets Connect?</u></a></li>
+<li><a href="https://facebook.techidaily.com/soundscapes-on-facebook-expanded-audio-hub-unveiled/"><u>Soundscapes on Facebook: Expanded Audio Hub Unveiled</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-collection-of-no-cost-online-music-libraries-you-can-trust/"><u>Ultimate Collection of No-Cost Online Music Libraries You Can Trust</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-11-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 11 Pro Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-say-goodbye-to-shaky-cam-mastering-video-stabilization-in-fcpx/"><u>Updated Say Goodbye to Shaky Cam Mastering Video Stabilization in FCPX</u></a></li>
 </ul></div>
 

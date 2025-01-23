@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Renewal of Photo Viewing Capabilities in Windows 10 - Guide\""
-date: 2025-01-15T10:09:52.824Z
-updated: 2025-01-16T17:49:13.402Z
+date: 2025-01-17T17:57:39.249Z
+updated: 2025-01-23T17:59:21.945Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -55,6 +59,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 ## Method 1 to restore Windows Photo Viewer
@@ -68,10 +76,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -88,7 +92,7 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
@@ -96,11 +100,7 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -110,7 +110,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -130,22 +130,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-dive-into-audacity-simple-steps-to-record-on-mac-devices/"><u>[New] In 2024, Dive Into Audacity Simple Steps to Record on Mac Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-sharing-videos-tweet-tumble-route/"><u>[New] In 2024, Sharing Videos Tweet-Tumble Route</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-parrot-powered-prowess-a-fresh-lens-on-bebop-2/"><u>[New] Parrot-Powered Prowess – A Fresh Lens on Bebop 2</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-spectacular-sportscasting-techniques-on-demand/"><u>[Updated] In 2024, Spectacular Sportscasting Techniques on Demand</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-headsets-elevating-drone-use/"><u>[Updated] Pioneering Headsets Elevating Drone Use</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-review-ultra-hd-blade-cam-at-full-spectrum/"><u>[Updated] Review Ultra HD Blade Cam at Full Spectrum</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-stay-ahead-of-the-game-use-mematic/"><u>2024 Approved Stay Ahead of the Game - Use Mematic</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/efficient-strategies-for-remote-computer-administration/"><u>Efficient Strategies for Remote Computer Administration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-mac-experience-with-hot-corners-a-comprehensive-setup-and-benefits-guide/"><u>Enhance Your Mac Experience with Hot Corners: A Comprehensive Setup and Benefits Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/market-mastery-strategys-first-impressions-for-2024/"><u>Market Mastery Strategy's First Impressions for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterminds-of-making-magic-top-6-in-nft-innovation-for-2024/"><u>Masterminds of Making Magic Top 6 in NFT Innovation for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-business-cloud-data-solutions-for-2024/"><u>Premier Business Cloud Data Solutions for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/premium-audio-transformation-tool-free-mp3-creation-from-mpa-files/"><u>Premium Audio Transformation Tool Free MP3 Creation From MPA Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/savory-scenes-mastering-the-art-of-eating-focused-filmography-for-2024/"><u>Savory Scenes Mastering the Art of Eating-Focused Filmography for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplifying-your-mac-experience-setting-custom-finder-visibility-rules/"><u>Simplifying Your Mac Experience: Setting Custom Finder Visibility Rules</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/top-10-solutions-for-resolving-onedrive-sync-issues-on-windows-11/"><u>Top 10 Solutions for Resolving OneDrive Sync Issues on Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigate-the-clouds-and-crowd-fb-livestreams-via-dji/"><u>[New] In 2024, Navigate the Clouds and Crowd FB Livestreams via DJI</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-nightmares-unleashed-8-must-play-zombie-games-explored/"><u>[New] In 2024, Nightmares Unleashed 8 Must-Play Zombie Games Explored</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-next-level-capturing-hero-4-and-hero-5-reviewed-for-2024/"><u>[New] Next Level Capturing Hero 4 & Hero 5 Reviewed for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-radiance-and-refine-essential-editing-secrets-revealed/"><u>[New] Radiance and Refine Essential Editing Secrets Revealed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-inside-look-the-best-youtube-makeup-artists-of-today/"><u>[Updated] 2024 Approved Inside Look The Best YouTube Makeup Artists of Today</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-step-by-step-guide-to-image-text-overlay-online/"><u>[Updated] 2024 Approved Step-by-Step Guide to Image Text Overlay Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-tips-for-truly-tuning-into-your-iphone-podcasts/"><u>[Updated] 2024 Approved Tips for Truly Tuning Into Your iPhone Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-photo-frames-leading-software-reviews/"><u>[Updated] Mastering Photo Frames Leading Software Reviews</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-panasonic-hx-a1-wearable-action-camera-review/"><u>[Updated] Panasonic HX-A1 Wearable Action Camera Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-radio-playscript-artistry/"><u>[Updated] Prime Radio Playscript Artistry</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-insiders-look-at-vlc-functionality-on-macbooks/"><u>2024 Approved Insider's Look at VLC Functionality on MacBooks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quelling-video-quirks-in-photobooths/"><u>In 2024, Quelling Video Quirks in Photobooths</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/istruzioni-e-strategie-ottimali-per-la-gestione-dei-mezzi-di-comunicazione/"><u>Istruzioni E Strategie Ottimali per La Gestione Dei Mezzi Di Comunicazione</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/snappy-gaming-moments-with-these-top-5-recording-strategies-on-windows-11-for-2024/"><u>Snappy Gaming Moments with These Top 5 Recording Strategies on Windows 11 for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-simplify-your-workflow-10-essential-timecode-calculators-for-filmmakers/"><u>Updated In 2024, Simplify Your Workflow 10 Essential Timecode Calculators for Filmmakers</u></a></li>
 </ul></div>
 
