@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mixed Reality  Blending Physical and Virtual Worlds\""
-date: 2025-01-20T17:27:24.746Z
-updated: 2025-01-23T16:51:35.814Z
+date: 2025-01-27T02:19:02.481Z
+updated: 2025-01-31T03:17:40.868Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Definition of MR
@@ -36,17 +36,25 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  In mixed reality, the user is given the ability to explore the virtual environment and the real world seamlessly at the same time. Through the use space and coordinates, the virtual objects will be positioned on the real world and whenever you move towards the virtual objects, they become larger while moving away from them makes them smaller. Moving around the virtual objects will also give you different angles and perspectives. Additionally, mixed reality will allow users to manipulate the virtual objects and interact with them as if they were with them in the same place.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does Mixed Reality work
 
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Applications of Mixed Reality
 
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mixed Reality for sharing real-world virtual workspaces
 
@@ -54,17 +62,9 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mixed reality for remote experts – over the shoulder coaching
 
  Most enterprises usually find it difficult to address all the support requests from all the clients in need of expert advice. It is not only costly to fly in specialists to fix things in different locations, but also time consuming. Besides, it is never adequate to troubleshoot an issue over the phone and video conferencing in such situations also have its limitations. But all these can now be avoided through the application of mixed reality for offering over the shoulder coaching remotely. With mixed reality, access to experts can be done quickly and inexpensively. For example, doctors in the healthcare industry can offer guidance and decisions to students or other doctors without the need of being in the actual locations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The future of mixed reality
 
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -95,22 +95,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-journey-into-the-future-of-video-clarity-in-depth-vce-22-review/"><u>[New] Journey Into the Future of Video Clarity - In-Depth VCE 2.2 Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-google-docs-transcription-functionality/"><u>[New] Mastering Google Docs Transcription Functionality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-nows-vr-innovation-snapshot/"><u>[New] Now's VR Innovation Snapshot</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-top-5-virtual-reality-drones/"><u>[New] Prime Top 5 Virtual Reality Drones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-color-concealment-in-premiere/"><u>[New] Quick Color Concealment in Premiere</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-from-passive-to-profitable-youtube-success-on-the-worlds-biggest-social-network/"><u>[Updated] In 2024, From Passive to Profitable YouTube Success on the World's Biggest Social Network</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-impact-making-an-engaging-podcast-trailer/"><u>[Updated] Maximizing Impact Making an Engaging Podcast Trailer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-nostalgic-film-techniques-for-contemporary-projects-using-vhs/"><u>[Updated] Nostalgic Film Techniques for Contemporary Projects Using VHS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exciting-sports-flicks-the-ultimate-list-of-greatest-hits-you-need-to-see-today/"><u>Exciting Sports Flicks: The Ultimate List of Greatest Hits You Need to See Today</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quieting-down-the-sound-a-step-by-step-logic-pro-method/"><u>In 2024, Quieting Down the Sound A Step-by-Step Logic Pro Method</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterpiece-episodes-for-airwaves-for-2024/"><u>Masterpiece Episodes for Airwaves for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ottimizza-il-tuo-futuro-strategie-innovative-per-superare-gli-ostacoli/"><u>Ottimizza Il Tuo Futuro: Strategie Innovative per Superare Gli Ostacoli</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-pickers-best-websites-to-secure-snapalert-music/"><u>Premium Pickers Best Websites to Secure SnapAlert Music</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-non-launching-relinks-in-granblue-fantasy-effective-strategies-explained/"><u>Troubleshooting Non-Launching Relinks in Granblue Fantasy: Effective Strategies Explained</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/understanding-instagrams-video-limit-policy/"><u>Understanding Instagram's Video Limit Policy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasked-ai-deep-dive-anti-vpn-action/"><u>Unmasked AI Deep Dive, Anti-VPN Action</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-apple-watch-series-6-refined-improvements-maintaining-market-leadership/"><u>Unveiling the Apple Watch Series 6: Refined Improvements Maintaining Market Leadership</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-guide-to-efficiently-convert-vimeo-videos-to-audible-files-for-2024/"><u>[New] Guide to Efficiently Convert Vimeo Videos to Audible Files for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-integrating-mixer-with-macos-for-smooth-streaming/"><u>[New] Integrating Mixer with macOS for Smooth Streaming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leveraging-windows-media-player-your-cd-conversion-companion/"><u>[New] Leveraging Windows Media Player Your CD Conversion Companion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-zoom-with-skype-a-guide-to-seamless-video-calls/"><u>[New] Navigating Zoom with Skype A Guide to Seamless Video Calls</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-soundtrack-switch-up-effortlessly-moving-your-music-queue/"><u>[New] Soundtrack Switch-Up Effortlessly Moving Your Music Queue</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlock-facebook-slide-in-content-access-for-2024/"><u>[New] Unlock Facebook Slide-In Content Access for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-best-10-free-downloads-legal-meditation-melodies-for-2024/"><u>[Updated] Best 10 Free Downloads Legal Meditation Melodies for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-picshot-enhancing-creativity-in-digital-collage-art/"><u>[Updated] Picshot Enhancing Creativity in Digital Collage Art</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-excellent-canon-temp-video-series/"><u>2024 Approved Crafting Excellent Canon Temp Video Series</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pure-green-sets-free-templates-boosting-filmmaking-and-videography-skills/"><u>2024 Approved Pure Green Sets Free Templates Boosting Filmmaking and Videography Skills</u></a></li>
+<li><a href="https://article-files.techidaily.com/demystifying-the-use-of-slug-lines-in-film-scripts-for-2024/"><u>Demystifying the Use of Slug Lines in Film Scripts for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/doom-eternal-wont-start-solve-your-game-launch-issues-with-these-steps/"><u>DOOM Eternal Won't Start? Solve Your Game Launch Issues with These Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-s23plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy S23+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-6s-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 6s to PC | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-guide-accessorizing-windows-with-a-clownfish-speech-modifier/"><u>In 2024, Quick Guide Accessorizing Windows with a Clownfish Speech Modifier</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-twitter-video-converters-guide-for-2024/"><u>Premier Twitter Video Converters Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionary-viewfinder-unstoppable-video-meet-the-xs-100i-for-2024/"><u>Revolutionary Viewfinder, Unstoppable Video - Meet the XS 100I for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/soluzione-rapida-per-la-mancata-opzione-di-riproduzione-in-itunes-6-metodi-efficaci/"><u>Soluzione Rapida per La Mancata Opzione Di Riproduzione in iTunes: 6 Metodi Efficaci</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/twitch-time-jump-recapturing-lost-moments/"><u>Twitch Time Jump Recapturing Lost Moments</u></a></li>
 </ul></div>
 

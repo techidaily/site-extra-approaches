@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Fast Photoshop Edits on Windows 11"
-date: 2025-01-20T16:40:32.382Z
-updated: 2025-01-23T18:43:14.760Z
+date: 2025-01-28T19:48:56.858Z
+updated: 2025-01-30T18:01:11.836Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 * [**Part1: How to Draw On Photos App in Windows 10**](#part1)
 * [**Part2: How to Draw on Photos Online**](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -45,7 +41,7 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
@@ -53,18 +49,10 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/start-drawing-on-photos-in-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Draw on the images and videos effortlessly
 * You can also find an eraser tool with various sizes of erasers that allows you to erase your entire drawing or a part of it as per your choice when required
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Draw on Photos Online
 
@@ -78,7 +66,7 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the color from the range of palette available
@@ -89,13 +77,25 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,19 +112,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-live-streaming-scenery-ideas/"><u>[New] Optimal Live Streaming Scenery Ideas</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-video-production-leveraging-windows-movie-maker-on-windows-8/"><u>[New] Seamless Video Production Leveraging Windows Movie Maker on Windows 8</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-to-visual-story-crafting-gifs-from-captivating-videos/"><u>[Updated] 2024 Approved Vimeo to Visual Story Crafting GIFs From Captivating Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastering-iphone-image-arrangement-top-10-tips/"><u>[Updated] In 2024, Mastering iPhone Image Arrangement Top 10 Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-make-every-picture-pop-with-these-10-online-photo-fixers/"><u>[Updated] Make Every Picture Pop with These 10 Online Photo Fixers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-photopeas-background-erase-technique/"><u>[Updated] Mastering Photopea's Background Erase Technique</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtube-timestamp-addition-for-desktop-and-mobile-devices-for-2024/"><u>[Updated] Mastering YouTube Timestamp Addition for Desktop & Mobile Devices for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-7-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone 7 Without Apple ID Password?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-a-copy-of-your-interactions-with-openais-chatbot/"><u>Making a Copy of Your Interactions with OpenAI's Chatbot</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photo-perfection-how-to-erase-background-noise-with-ease-for-2024/"><u>Photo Perfection How to Erase Background Noise with Ease for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pro-cameras-who-wins-gopro-and-garmin-virb-comparison-for-2024/"><u>Pro Cameras, Who Wins? GoPro & Garmin VIRB Comparison for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-boosting-traffic-on-youtube-mastering-the-art-of-video-outros/"><u>[New] 2024 Approved Boosting Traffic on YouTube Mastering the Art of Video Outros</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-whats-new-in-photography-an-updated-look-at-lg-360-cameras/"><u>[New] 2024 Approved What's New in Photography An Updated Look at LG 360 Cameras</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-download-mastery-11-key-youtube-extractors/"><u>[Updated] 2024 Approved Download Mastery 11 Key YouTube Extractors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-guide-to-avoid-instagram-auto-suggest-feature/"><u>[Updated] Guide to Avoid Instagram Auto-Suggest Feature</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-rewind-to-glory-with-top-5-pc-ps1-emulation-tools/"><u>[Updated] In 2024, Rewind to Glory with Top 5 PC PS1 Emulation Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shape-viral-memes-using-adobe/"><u>[Updated] Shape Viral Memes Using Adobe</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-up-your-sj4000-game-with-these-accessories/"><u>[Updated] Step Up Your SJ4000 Game with These Accessories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-digital-documentation-at-its-best-with-ezvide-software/"><u>In 2024, Digital Documentation at Its Best with EZvide Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-graphic-design-career-pathways-unveiled/"><u>In 2024, Mastering Graphic Design Career Pathways Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-applying-a-realistic-motion-blur-in-photoshop-for-2024/"><u>Step-by-Step Guide to Applying a Realistic Motion Blur in Photoshop for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978540611-step-by-step-tutorial-how-to-get-and-enhance-your-mbox-prise-drives-for-windows/"><u>Step-by-Step Tutorial: How to Get and Enhance Your MBox Prise Drives for Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-enhancing-overwatchs-frames-per-second-fps/"><u>Troubleshooting and Enhancing Overwatch's Frames Per Second (FPS)</u></a></li>
 </ul></div>
 

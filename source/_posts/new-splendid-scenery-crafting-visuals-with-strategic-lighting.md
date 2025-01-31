@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Splendid Scenery  Crafting Visuals with Strategic Lighting\""
-date: 2024-07-27T22:04:02.835Z
-updated: 2024-07-28T22:04:02.835Z
+date: 2025-01-27T00:07:49.739Z
+updated: 2025-01-31T05:43:43.319Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -55,19 +52,17 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -81,34 +76,41 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -142,5 +144,26 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-picture-perfect-presentation-software-for-impeccable-photo-framing/"><u>[New] Picture Perfect Presentation Software for Impeccable Photo Framing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-process-for-photo-backdrop-erasure/"><u>[New] Step-by-Step Process for Photo Backdrop Erasure</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-finest-visual-experience-top-10-monitors-for-mac-owners-for-2024/"><u>[New] The Finest Visual Experience - Top 10 Monitors for Mac Owners for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revealing-historys-best-anime-openers/"><u>2024 Approved Revealing History's Best Anime Openers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-secrets-to-unforgettable-borders-in-your-instagram-shots/"><u>2024 Approved The Secrets to Unforgettable Borders in Your Instagram Shots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-what-to-do-if-you-encounter-a-missing-ac1st16dll-file/"><u>Expert Advice: What to Do If You Encounter a Missing ac1st16.dll File</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-activate-auto-hdr-setting-in-windows-11/"><u>How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-nokia-xr21-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Nokia XR21 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-f15-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy F15 5G Lock Screen Password</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-12-pro-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 12 Pro Max Smoothly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-srt-output-from-adobe-premiere/"><u>In 2024, Mastering SRT Output From Adobe Premiere</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-new-horizons-in-video-codecs-comparing-av1-and-vp9/"><u>In 2024, New Horizons in Video Codecs Comparing Av1 and VP9</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speedy-upgrade-leading-android-video-tuners/"><u>In 2024, Speedy Upgrade Leading Android Video Tuners</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/iphone-audio-troubles-heres-how-you-can-restore-perfect-sound-quality/"><u>IPhone Audio Troubles? Here's How You Can Restore Perfect Sound Quality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-techniques-to-maximize-your-spotify-ad-reach-for-2024/"><u>Key Techniques to Maximize Your Spotify Ad Reach for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/manipulating-photography-captions-for-2024/"><u>Manipulating Photography Captions for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-collage-artistry-with-precision-for-2024/"><u>Mastering Collage Artistry with Precision for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-insights-from-tom-the-authority-in-computer-hardware-review/"><u>Tech Insights From Tom: The Authority in Computer Hardware Review</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2010-file-error-stellar-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2010 File Error | Stellar</u></a></li>
+</ul></div>
 

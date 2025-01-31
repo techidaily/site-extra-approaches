@@ -1,7 +1,7 @@
 ---
 title: "\"[New] LUTs Simplified  Your Guide to Better Photos\""
-date: 2025-01-21T17:10:06.934Z
-updated: 2025-01-23T17:01:33.823Z
+date: 2025-01-23T16:43:23.981Z
+updated: 2025-01-30T21:08:39.340Z
 tags: 
   - screen-recording
   - ai video
@@ -51,7 +51,7 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -71,7 +71,7 @@ Choose Adjustment Layer
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 load 3d lut
@@ -83,7 +83,7 @@ load 3d lut
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here's the first method
@@ -92,6 +92,10 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -109,10 +113,6 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -124,7 +124,7 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -157,21 +157,24 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-a-day-in-the-life-on-facebook-enhancing-participation/"><u>[New] 2024 Approved A Day in the Life on Facebook Enhancing Participation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-dull-to-delightful-text-that-tumbles-and-twirls/"><u>[New] 2024 Approved From Dull to Delightful Text that Tumbles and Twirls</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-enhance-your-content-creating-engaging-loop-videos-for-ig-for-2024/"><u>[New] Enhance Your Content Creating Engaging Loop Videos for IG for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigate-the-maze-of-gopro-4k-an-editors-manual/"><u>[New] Navigate the Maze of GoPro 4K An Editor's Manual</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-professionals-picks-windows-11-video-creation-apps/"><u>[New] Professionals' Picks Windows 11 Video Creation Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-creating-an-auditory-ambiance-choosing-background-music-for-trailers/"><u>[Updated] Creating an Auditory Ambiance Choosing Background Music for Trailers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>[Updated] Masterclass in Image Detail Removing Obscuring Elements with Photopea</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-fix-tweeter-conversion-for-social-sharing/"><u>[Updated] Quick-Fix Tweeter Conversion for Social Sharing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-is-consumer-feedback-compensated-in-vlogs/"><u>2024 Approved Is Consumer Feedback Compensated in Vlogs?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bypassing-youtube-previews-the-invisible-button-hack/"><u>Bypassing YouTube Previews The Invisible Button Hack</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-vlogging-effective-use-of-jump-cuts/"><u>Elevate Vlogging Effective Use of Jump Cuts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-persistent-gameplay-interruptions-in-samurai-warriors-navigating-through-pc-crashes/"><u>Fixing Persistent Gameplay Interruptions in Samurai Warriors Navigating Through PC Crashes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-spoken-words-to-written-text-ppt-innovation-guide/"><u>From Spoken Words to Written Text PPT Innovation Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-free-themes-for-dynamic-youtuber-profiles/"><u>In 2024, Free Themes for Dynamic YouTuber Profiles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pivotal-moments-in-figure-skating-22-highlights/"><u>In 2024, Pivotal Moments in Figure Skating '22 Highlights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-peak-performance-lipo-cells-for-drones/"><u>In 2024, Selecting Peak Performance LiPo Cells for Drones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-broadcast-essentials-for-macos-users-on-mixer/"><u>[New] Live Broadcast Essentials for macOS Users on Mixer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-srt-to-txt-translation-the-fastest-guide/"><u>[New] Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-tutorial-on-how-to-use-igtv-effectively/"><u>[New] Step-by-Step Tutorial on How to Use IGTV Effectively</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-cutting-edge-excellence-top-editors-for-videos/"><u>[Updated] 2024 Approved Cutting Edge Excellence Top Editors for Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-luxury-sedan-sj4000s-best-kept-secrets-gear-up/"><u>[Updated] Luxury Sedan SJ4000's Best-Kept Secrets Gear Up</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-adobe-cloud-essential-storage-insights-and-top-alternatives/"><u>[Updated] Mastering Adobe Cloud Essential Storage Insights & Top Alternatives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-secure-recording-methods-for-sensitive-whatsapp-discussions-for-2024/"><u>[Updated] Secure Recording Methods for Sensitive WhatsApp Discussions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-premier-iphone-gif-application-compendium/"><u>2024 Approved The Premier iPhone GIF Application Compendium</u></a></li>
+<li><a href="https://video-capture.techidaily.com/diverse-iptv-content-distribution-for-2024/"><u>Diverse IPTV Content Distribution for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-performance-intel-chipset-updates-for-win-11781/"><u>Enhance Performance: Intel Chipset Updates for Win 11/7/8.1</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-missing-d3dx928dll-error-on-your-pc-effective-solutions/"><u>Fix Missing d3dx9_28.dll Error on Your PC - Effective Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/highlights-of-short-track-speed-skating-olympics-2022-for-2024/"><u>Highlights of Short Track Speed Skating Olympics 2022 for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-12-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 12 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-video-editing-on-windows-11-platform/"><u>In 2024, Seamless Video Editing on Windows 11 Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snap-fast-moments-iphone-methods-for-blur-effects/"><u>In 2024, Snap Fast Moments IPhone Methods for Blur Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterful-video-chats-best-webcams-for-zoom-6-for-2024/"><u>Masterful Video Chats Best Webcams for Zoom #6 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-nuances-of-sound-reduction-in-pp-projects-for-2024/"><u>Navigating the Nuances of Sound Reduction in PP Projects for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-common-issues-with-initializing-smartaudio/"><u>Resolved: Common Issues with Initializing SmartAudio</u></a></li>
 </ul></div>
 

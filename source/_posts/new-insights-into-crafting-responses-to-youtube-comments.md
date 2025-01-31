@@ -1,7 +1,7 @@
 ---
 title: "[New] Insights Into Crafting Responses to YouTube Comments"
-date: 2025-01-07T18:34:11.897Z
-updated: 2025-01-11T20:38:09.834Z
+date: 2025-01-24T02:56:07.448Z
+updated: 2025-01-31T02:55:21.346Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ If you are a content creator who makes product reviews, the comment section is a
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is YouTube Comment
 
@@ -56,10 +60,6 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -79,22 +79,22 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
@@ -107,6 +107,10 @@ Among the comments you see on a video, you might notice some that YouTube has la
 For example, you might click on a notification, and YouTube takes you to a particular video. Then, when somebody else views and leaves a comment on that video, YouTube will often add the “Highlighted Comment” label on the comment to make it easy for you to spot it when you next go back to that video.
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
 
@@ -127,11 +131,7 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -170,24 +170,22 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-best-meme-photo-editor/"><u>[New] Best Meme Photo Editor</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-peculiar-pratfalls-memes-tailored-for-the-perfect-moment/"><u>[New] Peculiar Pratfalls Memes Tailored for the Perfect Moment</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-lens-leaders-battle-sj6-clashes-with-xiaomis-four-k-kickstarter/"><u>[Updated] Lens Leaders Battle SJ6 Clashes with Xiaomi’s Four-K Kickstarter</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-pickers-best-websites-to-secure-snapalert-music/"><u>[Updated] Premium Pickers Best Websites to Secure SnapAlert Music</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photoshop-curves-decoded-a-beginners-guide/"><u>2024 Approved Photoshop Curves Decoded A Beginner's Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photoshop-stability-enhancement-essentiality/"><u>2024 Approved Photoshop Stability Enhancement - Essentiality</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-guide-integrating-snap-camera-with-teams/"><u>2024 Approved Quick Guide Integrating Snap Camera with Teams</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-start-shooting-smart-top-15-shot-techniques-for-beginners/"><u>2024 Approved Start Shooting Smart Top 15 Shot Techniques for Beginners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-smart-alternatives-to-chatgpt-apps-for-smartphones/"><u>7 Smart Alternatives to ChatGPT Apps for Smartphones</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-huawei-nova-y71-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Huawei Nova Y71?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722967853959-easy-installation-of-epson-wf-2750-printer-driver-free-download-now/"><u>Easy Installation of Epson WF-2750 Printer Driver – Free Download Now</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-bring-back-contrast-iphone-hdr-video-tips-for-premiere-pro-users/"><u>In 2024, Bring Back Contrast IPhone HDR Video Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/luxury-leisure-levels-review-roundup-for-2024/"><u>LUXURY LEISURE LEVELS Review Roundup for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/remove-unsolicited-podcast-episodes-on-spotify-app-for-2024/"><u>Remove Unsolicited Podcast Episodes on Spotify App for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-nubia-red-magic-8s-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Nubia Red Magic 8S Pro to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-ghostrunner-malfunction-on-windows-11-platforms-successfully/"><u>Troubleshooting Ghostrunner Malfunction on Windows 11 Platforms Successfully</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unbranded-video-merging-7-reliable-options-to-try/"><u>Unbranded Video Merging 7 Reliable Options to Try</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-oculus-spectacular-expert-reviews-and-choices/"><u>[New] Oculus Spectacular Expert Reviews and Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-scopesight-appraisal-review/"><u>[New] ScopeSight Appraisal Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tream-masters-list-elite-software-and-devices-for-youtubers/"><u>[New] Stream Masters List Elite Software & Devices for Youtubers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-screen-recording-software-a-comprehensive-analysis/"><u>[Updated] Essential Screen Recording Software A Comprehensive Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-tricks-efficiently-cropping-photos-online/"><u>[Updated] Professional Tricks Efficiently Cropping Photos Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shine-bright-easy-brightening-for-iphones-visual-content/"><u>[Updated] Shine Bright Easy Brightening for iPhone's Visual Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-speed-maximization-mastery-selecting-winning-converters-for-os-xwin-srt/"><u>[Updated] Speed Maximization Mastery Selecting Winning Converters for OS X/Win SRT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-real-time-streaming-vs-recorded-videos-twitch-vs-youtube-showdown/"><u>2024 Approved Real-Time Streaming vs Recorded Videos Twitch vs YouTube Showdown</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/access-unlimited-12-stream-livestream-content-for-2024/"><u>Access Unlimited 12-Stream Livestream Content for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fix-for-hcmon-driver-error-during-setup-process/"><u>Comprehensive Fix for HCMON Driver Error During Setup Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-microsoft-print-to-pdf-failures-a-user-friendly-fix-for-windows-1011-users/"><u>Dealing with Microsoft Print to PDF Failures: A User-Friendly Fix for Windows 10/11 Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-hidden-gems-with-the-zte-blade-a3y-high-end-features-on-a-midrange-plan/"><u>Discovering Hidden Gems with The ZTE Blade A3Y: High-End Features on a Midrange Plan</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diverse-genres-captivated-audiences-within-limit/"><u>Diverse Genres, Captivated Audiences (Within Limit)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-free-gameplay-understanding-and-solving-call-of-duty-vanguards-dev-error-5573/"><u>Error Free Gameplay: Understanding and Solving Call of Duty Vanguard's Dev Error 5573</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-ppros-full-screen-vista-your-handbook-for-2024/"><u>Inside PPro's Full-Screen Vista Your Handbook for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/storage-sizing-film-duration-in-gb-for-2024/"><u>Storage Sizing Film Duration in GB for 2024</u></a></li>
 </ul></div>
 

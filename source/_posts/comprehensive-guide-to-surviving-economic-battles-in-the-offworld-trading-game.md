@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
-date: 2025-01-22T18:19:29.862Z
-updated: 2025-01-23T16:47:40.485Z
+date: 2025-01-28T22:46:56.909Z
+updated: 2025-01-30T20:53:38.472Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to Surviving Economic Battles in the Offworld Trading Game
@@ -13,17 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/YvejJSb8geFdG7p1fbjrHPlywLo=/400x300/fi
 
 2.7
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/HYgHMUDMFh7JI98Hj0JMbI2wcpw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -43,6 +35,10 @@ Lifewire / Kelsey Simon
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
 
 2.7
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## inXile Entertainment Torment: Tides of Numenera
 
@@ -72,10 +68,6 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
  This whole introduction is slow moving and boring, and getting through it is rough. But even past this, things don’t necessarily pick up and get more interesting. The game has such a heavy hand with its narration, telling you the game’s visuals even though you can see them right there on your screen. The whole game reads like someone wrote a novel, couldn’t publish it, and then decided making a[video game](https://www.lifewire.com/best-gaming-consoles-4154610) was a better idea, and instead of trimming the fat, they left every unnecessary description and detail in the game’s prompt.
@@ -89,6 +81,10 @@ Lifewire / Kelsey Simon
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -104,10 +100,6 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -116,11 +108,11 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -129,6 +121,10 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -141,6 +137,10 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -165,20 +165,22 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-eco-conscious-screen-tech-guide/"><u>[New] Eco-Conscious Screen Tech Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-inside-the-high-definition-world-of-nikon-j5/"><u>[New] In 2024, Inside the High-Definition World of Nikon J5</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-must-have-devices-for-exploration-videos/"><u>[New] Must-Have Devices for Exploration Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-shadows-and-highlights-with-iphone-lighting-tips/"><u>[New] Perfect Shadows & Highlights with IPhone Lighting Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-collage-creation-a-step-by-step-guide-for-google-images/"><u>[New] Quick Collage Creation A Step-by-Step Guide for Google Images</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-iphone-photo-and-video-transfers-guide/"><u>[New] Seamless iPhone Photo & Video Transfers Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smartphones-and-beyond-the-leading-vr-headsets/"><u>[New] Smartphones and Beyond The Leading VR Headsets</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-race-through-the-olympics-top-sections-2022/"><u>[Updated] 2024 Approved Race Through the Olympics Top Sections, 2022</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-tier-streaming-tech-ranking-5-top-conference-recorder-devices/"><u>[Updated] 2024 Approved Top-Tier Streaming Tech Ranking 5 Top Conference Recorder Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-control-youtube-audio-mobiledesktop-approach-for-2024/"><u>[Updated] Control YouTube Audio Mobile/Desktop Approach for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-is-an-m1-macbook-air-smarter-and-faster-for-editing/"><u>[Updated] Is an M1 MacBook Air Smarter and Faster for Editing?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ng-a-different-way-to-naming-your-channel-with-filmora-for-2024/"><u>Finding a Different Way to Naming Your Channel with Filmora for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-phone-without-password-by-drfone-android/"><u>How To Unlock Lava Yuva 2 Phone Without Password?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-revealing-clarity-mastering-the-eraser-feature-in-psx/"><u>In 2024, Revealing Clarity Mastering the Eraser Feature in PSX</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-twelve-full-frame-video-tech-lists-for-2024/"><u>Premium Twelve Full Frame Video Tech Lists for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-audio-equipment-matched-with-4k-cameras/"><u>[New] Best Audio Equipment Matched with 4K Cameras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-start-guide-making-your-gifs-count-as-emoji-stickers-in-telegram/"><u>[New] Quick-Start Guide Making Your GIFS Count as Emoji Stickers in Telegram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-transformative-notetaking-the-mematic-way/"><u>[New] Transformative Notetaking The Mematic Way</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-conceptualists-engineering-marvel-online-worlds/"><u>[Updated] 2024 Approved Conceptualists Engineering Marvel Online Worlds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-betting-basement-bookmarks-for-2024/"><u>[Updated] BETTING BASEMENT BOOKMARKS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pros-choice-of-top-slo-mo-mobile-photography-apps-on-ios-and-android/"><u>2024 Approved Pro's Choice of Top Slo-Mo Mobile Photography Apps on iOS & Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-clicks-big-smiles-crafting-memes-easily/"><u>2024 Approved Quick Clicks, Big Smiles Crafting Memes Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-finest-freebie-html-programs-elite-picks-for-windows-users/"><u>Discover the Finest Freebie HTML Programs: Elite Picks for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-r9-graphics-drivers-for-windows-10-users/"><u>Fixing R9 Graphics Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-odyssey-cutting-edge-vr-headset-lineup/"><u>In 2024, Metaverse Odyssey Cutting-Edge VR Headset Lineup</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-peak-performance-powerhouses-gadgets-galore/"><u>In 2024, Peak Performance Powerhouses, Gadgets Galore</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-the-art-of-video-editing-complimentary-top-pp-tools-for-2024/"><u>Master the Art of Video Editing Complimentary, Top PP Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mastering-canon-footage-a-step-by-step-video-editing-guide-for-2024/"><u>Mastering Canon Footage A Step-by-Step Video Editing Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-browser-black-screens-with-ease-for-2024/"><u>Navigate Browser Black Screens with Ease for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-iphone-camera-not-auto-focusing-woes-for-2024/"><u>Navigating iPhone Camera Not Auto-Focusing Woes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fix-hacks-to-combat-frequent-crashes-in-deathloop-pc-version/"><u>Quick Fix Hacks to Combat Frequent Crashes in Deathloop PC Version</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stepwise-approach-to-downloading-movie-maker-6/"><u>Stepwise Approach to Downloading Movie Maker 6</u></a></li>
 </ul></div>
 

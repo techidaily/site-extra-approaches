@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sleek Arenas  2022'S Olympic Skating\""
-date: 2025-01-19T18:07:08.740Z
-updated: 2025-01-23T16:21:59.521Z
+date: 2025-01-24T03:21:45.109Z
+updated: 2025-01-30T17:54:27.635Z
 tags: 
   - screen-recording
   - ai video
@@ -30,16 +30,12 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
@@ -47,24 +43,16 @@ Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United Stat
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
@@ -74,7 +62,15 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -95,6 +91,10 @@ For macOS 10.12 or later
 Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
@@ -121,18 +121,18 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-expanding-digital-presence-stream-to-youtube-plus-additional-platforms/"><u>[New] In 2024, Expanding Digital Presence Stream to YouTube + Additional Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-nuances-of-slow-motion-video-with-gopro-hero-10/"><u>[New] Navigating the Nuances of Slow Motion Video with GoPro Hero 10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-pixelpanorama-crafting-collage-vids-on-gear/"><u>[New] PixelPanorama Crafting Collage Vids on Gear</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quickstreamsuccess-essential-tips-for-flawless-live-podcast-streams/"><u>[New] QuickStreamSuccess Essential Tips for Flawless Live Podcast Streams</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ime-capsule-of-knowledge-top-10-history-channels-for-students-for-2024/"><u>[New] Time Capsule of Knowledge Top 10 History Channels for Students for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-grasping-youtube-seo-a-guide-to-keyword-discovery-for-2024/"><u>[Updated] Grasping YouTube SEO A Guide to Keyword Discovery for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-jokes-aplenty-incorrante-guide-to-snapchats-cartoon-filters/"><u>[Updated] Jokes Aplenty Incorrante Guide to Snapchat's Cartoon Filters</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-f15-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy F15 5G Device SIM</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/effortlessly-share-data-with-your-htc-desire-eye-through-usb-bluetooth-or-wireless-connection/"><u>Effortlessly Share Data with Your HTC Desire Eye Through USB, Bluetooth or Wireless Connection</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-take-portrait-photo-with-old-iphone-x8-plus7-plus-for-2024/"><u>How to Take Portrait Photo with Old iPhone X/8 Plus/7 Plus for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-new-frontiers-a-guide-to-metaverse-promotion/"><u>In 2024, Navigating New Frontiers A Guide to Metaverse Promotion</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/1726030144580-iphonewav/"><u>IPhoneにおけるWAV形式の音楽再生不能の解決策</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/laylist-wizard-youtube-music-edition-for-2024/"><u>The Playlist Wizard YouTube Music Edition for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfect-timing-for-instagram-loops-key-strategies-revealed/"><u>[New] Perfect Timing for Instagram Loops Key Strategies Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-remote-conferences-with-focused-scopes/"><u>[New] Perfecting Remote Conferences with Focused Scopes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/pin-the-story-right-youtube-video-angles-demystified-guide-for-2024/"><u>[New] Spin the Story Right YouTube Video Angles Demystified (Guide) for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instagram-share-of-todays-thought-provoking-talk/"><u>[Updated] Instagram Share of Today's Thought-Provoking Talk</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-90-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor 90 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-15-pro-max-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/improve-your-pictures-a-comprehensive-guide-to-upping-photo-clarity-on-pcs-macbooks-iphones-and-android-systems/"><u>Improve Your Pictures: A Comprehensive Guide to Upping Photo Clarity on PCs, MacBooks, iPhones, and Android Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-snapshits-pro-photography-edits-guide/"><u>In 2024, Mastering Snapshits Pro Photography Edits Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-days-to-launch-podcasts-for-2024/"><u>Navigating Days to Launch Podcasts for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pioneering-strategies-to-escalate-your-channels-popularity/"><u>Pioneering Strategies to Escalate Your Channel's Popularity</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-new-era-of-content-tiktok-eats-into-facebooks-pieces/"><u>The New Era of Content: TikTok Eats Into Facebook’s Pieces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-from-script-writing-to-final-audio-in-videos-for-2024/"><u>Ultimate Guide From Script Writing to Final Audio in Videos for 2024</u></a></li>
 </ul></div>
 
