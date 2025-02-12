@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mellow Melodies  Gradual Audio Decline in Garageband\""
-date: 2025-01-30T01:05:47.622Z
-updated: 2025-01-31T02:12:26.682Z
+date: 2025-02-07T18:29:45.740Z
+updated: 2025-02-12T17:04:29.048Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ Step1 Turn on the application and open the song from the home screen.
 
 ![open songs in garageband](https://images.wondershare.com/filmora/article-images/2022/07/open-songs-in-garageband.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Press the track> show the master track from the icon menu, and then the master track will come below the last track.
 
 Step3 Choose the mix> produce volume fade out on the main output option.
@@ -62,16 +58,12 @@ Step3 Scroll down to the fade-out option and turn it.
 
 ![fade audio garageband iphone](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-garageband-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Hit the done icon.
 
 The fade-out option doesn't offer you much set of control. It usually works as a master track and includes the fade-out effect over all the track channels. You won't be able to edit the fade-out; in simple words, it will automatically select a point where the feature will start working, and it will also control the speed and intensity of the volume drop. It is one of the best features for fading short tracks as it won't lose much audio.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Garageband Alternative to Fade Audio on Mac
@@ -85,6 +77,10 @@ Suppose you are searching for a great MP3 editor that offers various file format
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![use filmora editor](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This application also offers many features that make the users curious about the application. This application can easily add background music to any video file. You can also change the media file with benefits like split audio, volume adjustment, and adjusting audio. This application also offers audio denoise and equalizer features. You can gather more information by exploring the application.
 
@@ -109,7 +105,7 @@ Choose the create option to save the new file if you are done with the adjusting
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -143,7 +139,11 @@ Choose the create option to save the new file if you are done with the adjusting
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -174,16 +174,19 @@ According to the survey, one of the most searched topics is **how to fade music 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-decoding-the-best-hdr-cameras-for-professionals-for-2024/"><u>[New] Decoding the Best HDR Cameras for Professionals for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leveraging-googles-platform-for-podcast-distribution/"><u>[New] Leveraging Google's Platform for Podcast Distribution</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-solutions-transforming-images-into-videos/"><u>[New] Optimal Solutions Transforming Images Into Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-shutterbug-simplified-iphone-tools-for-effective-cropping/"><u>[New] Shutterbug Simplified IPhone Tools for Effective Cropping</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-roadmap-to-powerful-instagram-partnerships-and-campaigns/"><u>[New] The Roadmap to Powerful Instagram Partnerships & Campaigns</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-spice-up-social-media-create-memes-on-kapwing/"><u>[Updated] Spice Up Social Media - Create Memes on Kapwing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reveal-the-rare-5-effortless-ways-to-enhance-views/"><u>2024 Approved Reveal the Rare 5 Effortless Ways to Enhance Views</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-saber-stability-issues-heres-how-you-can-stop-the-game-from-crashing/"><u>Beat Saber Stability Issues? Here's How You Can Stop the Game From Crashing!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-ultimate-list-best-fb-videos-to-watch/"><u>In 2024, The Ultimate List Best FB Videos To Watch</u></a></li>
-<li><a href="https://extra-support.techidaily.com/marvelous-monitors-top-10-macbooks-with-4k-resolution-for-2024/"><u>Marvelous Monitors Top 10 MacBooks with 4K Resolution for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-audio-problems-with-windows-10-and-7-speakers/"><u>Solved: Troubleshooting Audio Problems with Windows 10 & 7 Speakers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rethink-periscope-6-innovative-video-apps-for-iphones-and-android/"><u>[New] Rethink Periscope 6 Innovative Video Apps for iPhones & Android</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-visibility-with-youtube-branding-techniques/"><u>[Updated] Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-the-new-picsart-full-guide-and-review-of-update-2024/"><u>[Updated] Inside the New PicsArt - Full Guide & Review of Update 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-powering-up-your-action-footage-one-gadget-at-a-time/"><u>[Updated] Powering Up Your Action Footage, One Gadget at a Time</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-methods-to-master-time-lapse-creation/"><u>[Updated] Proven Methods to Master Time Lapse Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smilescribbler-share-laughter-digitally/"><u>[Updated] SmileScribbler Share Laughter Digitally</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-top-9-premium-wedding-films-online-youtube-and-vimeo/"><u>[Updated] Top 9 Premium Wedding Films Online Youtube & Vimeo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-winning-marketing-campaigns-based-on-market-research-data/"><u>2024 Approved Crafting Winning Marketing Campaigns Based on Market Research Data</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ace-windows-10-tricks-to-save-time-and-energy-for-2024/"><u>Ace Windows 10 Tricks to Save Time & Energy for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-defrag-a-hard-disk-drive-in-windows-11/"><u>How to Defrag a Hard Disk Drive in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-examples-14-dynamic-text-animations/"><u>In 2024, Prime Examples 14 Dynamic Text Animations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rewind-on-request-swift-iphone-video-flip/"><u>In 2024, Rewind on Request Swift iPhone Video Flip</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/reimagining-action-recording-with-intova-edge-x/"><u>Reimagining Action Recording with Intova Edge X</u></a></li>
 </ul></div>
 

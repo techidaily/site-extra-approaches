@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Peering Through the Printer  One Person’s '3DR' Story\""
-date: 2025-01-24T05:04:26.212Z
-updated: 2025-01-31T00:09:06.479Z
+date: 2025-02-11T19:04:53.371Z
+updated: 2025-02-12T16:02:41.019Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and Cons of 3DR Solo
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -132,15 +132,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-streamline-content-summaries-top-templates-examples/"><u>[New] Streamline Content Summaries Top Templates Examples</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-what-are-luts-and-how-they-change-your-photo/"><u>[New] What Are LUTs and How They Change Your Photo</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-followers-to-brand-ambassadors-the-five-pillars-of-influencer-success/"><u>[Updated] From Followers to Brand Ambassadors The Five Pillars of Influencer Success</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-safeguarding-sound-quality-while-speeding-up-tracks/"><u>[Updated] Safeguarding Sound Quality While Speeding Up Tracks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elite-assortment-advanced-webcam-mounts-for-2024/"><u>Elite Assortment Advanced Webcam Mounts for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-converting-speech-to-text-with-google-docs/"><u>In 2024, Mastering the Art of Converting Speech to Text with Google Docs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-how-can-i-improve-the-video-resolution-and-enhance-video-quality-what-is-the-best-video-quality-enhancement-software-check-our-list-of-10-/"><u>New 2024 Approved How Can I Improve the Video Resolution and Enhance Video Quality? What Is the Best Video Quality Enhancement Software? Check Our List of 10 Best Free and Paid Video Enhancers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionary-flight-technology-exploring-mavic-pro-for-2024/"><u>Revolutionary Flight Technology – Exploring Mavic Pro for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/the-malware-menace-how-specific-viruses-lead-to-file-deletion-and-loss/"><u>The Malware Menace: How Specific Viruses Lead to File Deletion and Loss</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-meizu-21-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Meizu 21 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-pushing-up-conversions-with-high-roi-animated-advertisements-on-fb-for-2024/"><u>[New] Pushing Up Conversions with High-ROI Animated Advertisements on FB for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-strategic-thinking-keywords-that-lead-to-online-victory/"><u>[Updated] 2024 Approved Strategic Thinking Keywords that Lead to Online Victory</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-dslrs-for-hand-drawn-animators/"><u>[Updated] 2024 Approved Top DSLRs for Hand-Drawn Animators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-moto-z2s-brainpower-examined-in-detail/"><u>[Updated] Moto Z2's Brainpower Examined in Detail</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-audio-prime-websites-for-turning-video-melodies-into-sound-effects/"><u>[Updated] Seamless Audio Prime Websites for Turning Video Melodies Into Sound Effects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wmam4a-movavi/"><u>「免費WMA・M4A形式のオンライン音楽ファイル変換 - Movavi」</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-srt-to-subconvert-the-ultimate-guide/"><u>2024 Approved SRT to SUBCONVERT The Ultimate Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-honor-play-40c-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Honor Play 40C to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lenovo-thinkphone-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lenovo ThinkPhone FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-introduction-to-vlogging-tools-for-getting-started/"><u>In 2024, Introduction to Vlogging Tools for Getting Started</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-sound-settings-woes-mute-without-the-silent-switch/"><u>IPhone Sound Settings Woes: Mute Without the Silent Switch?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209636710-9781547573158-meditacao-como-superar-o-medo-a-raiva-e-a-depressao/"><u>Meditação : Como Superar O Medo, A Raiva E A Depressão | Free Book</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picking-the-best-dronecamera-package-for-2024/"><u>Picking the Best Drone/Camera Package for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-in-frame-multimedia-experience-on-mac/"><u>The Ultimate Guide to In-Frame Multimedia Experience on Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Mac Preview with Ease  Ultimate Guide\""
-date: 2025-01-24T06:39:28.099Z
-updated: 2025-01-31T04:16:55.472Z
+date: 2025-02-09T17:49:07.391Z
+updated: 2025-02-12T16:54:54.766Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -50,10 +54,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -67,6 +67,10 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -84,6 +88,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -95,10 +103,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -116,6 +120,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -131,10 +139,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -152,6 +156,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -163,10 +171,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -202,10 +206,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -221,22 +221,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digital-diary-keepers-securely-download-tweets-videos/"><u>[New] 2024 Approved Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-panorama-pioneers-determining-the-best-360-cams/"><u>[New] Panorama Pioneers Determining the Best 360 Cams</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-brief-bliss-in-photo-collage-crafting-the-google-way/"><u>[Updated] Brief Bliss in Photo Collage Crafting - The Google Way</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-skype-audio-archive-mp3-techniques-free-edition/"><u>[Updated] In 2024, Skype Audio Archive MP3 Techniques, Free Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-skype-voice-to-mp3-the-economical-choice/"><u>[Updated] In 2024, Skype Voice to MP3 The Economical Choice</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-insiders-look-at-3d-lut-design/"><u>[Updated] Insider's Look at 3D LUT Design</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-your-vision-with-these-6-premier-nft-tools/"><u>[Updated] Master Your Vision with These 6 Premier NFT Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-and-the-evolution-of-short-form-videos-a-2023-perspective/"><u>2024 Approved Facebook and the Evolution of Short-Form Videos A 2023 Perspective</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-television-take-pot-perspectives/"><u>2024 Approved INTERACTIVE TELEVISION TAKE Pot Perspectives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revival-artisan-selection/"><u>2024 Approved Revival Artisan Selection</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-spark-20-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Spark 20 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-content-creation-conundrums-understanding-the-differences-between-igtv-and-youtube/"><u>In 2024, Content Creation Conundrums Understanding the Differences Between IGTV and YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-video-calls-merging-zoom-and-skype-expertise/"><u>In 2024, Perfecting Video Calls Merging ZOOM and SKYPE Expertise</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-zoom-screen-sharpness-users-handbook/"><u>In 2024, Perfecting Zoom Screen Sharpness User's Handbook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-royalty-free-clip-art-strategies-and-sources/"><u>In 2024, Royalty-Free Clip Art Strategies and Sources</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/scouring-the-internet-for-superior-pixel-ringtone-sources-for-2024/"><u>Scouring the Internet for Superior Pixel Ringtone Sources for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lava-agni-2-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lava Agni 2 5G FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-lowering-volume-steps-in-logic-pro-audio-editing/"><u>[New] Lowering Volume Steps in Logic Pro Audio Editing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-money-no-problem-the-best-free-subtitles-apps-for-2024/"><u>[New] No Money, No Problem The Best Free Subtitles Apps for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sculpting-stories-with-specialty-fonts-in-after-effects/"><u>[New] Sculpting Stories with Specialty Fonts in After Effects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-exclusive-video-player-for-high-quality-avi-on-devices/"><u>[Updated] 2024 Approved Exclusive Video Player for High-Quality AVI on Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-preeminent-visionaries-of-av-artistry-online/"><u>[Updated] The Preeminent Visionaries of AV Artistry Online</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-inside-the-world-of-digital-screen-recording/"><u>2024 Approved Inside the World of Digital Screen Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-the-metaverse-with-friends-top-10-games/"><u>2024 Approved Navigate the Metaverse with Friends - Top 10 Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-of-immersion-insights-on-lgs-360-vr-headset/"><u>2024 Approved The Future of Immersion Insights on LG's 360 VR Headset</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-anker-30-speedy-hub-evaluation-unleash-your-devices-full-potential/"><u>Comprehensive Anker 3.0 Speedy Hub Evaluation: Unleash Your Device's Full Potential</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 6s to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-of-video-top-5-slow-motion-cams/"><u>In 2024, Pinnacle of Video Top 5 Slow Motion Cams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rekindling-the-classics-top-80s-video-effects-for-cutting-edge-films/"><u>In 2024, Rekindling the Classics Top 80S Video Effects for Cutting-Edge Films</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-business-sky-storage-choice-for-2024/"><u>Prime Business Sky-Storage Choice for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-facial-smoothing-motion-blur-techniques-in-picsart-for-2024/"><u>Seamless Facial Smoothing Motion Blur Techniques in Picsart for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/why-wont-my-system-start-exploring-causes-with-yl-computing-and-yl-software-solutions/"><u>Why Won't My System Start? Exploring Causes with YL Computing and YL Software Solutions</u></a></li>
 </ul></div>
 

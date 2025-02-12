@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Integrating Secondary Shots  Tips and Tricks\""
-date: 2025-01-27T17:47:48.074Z
-updated: 2025-01-31T06:16:54.867Z
+date: 2025-02-07T17:24:50.170Z
+updated: 2025-02-12T16:23:43.879Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -35,6 +31,10 @@ B roll has been used from the first silent movies, including D.W. Griffith's 191
 B roll can be utilized for establishing shots as well as close-ups of items. It is used by filmmakers when they lack the funds for pricey films or when they want to showcase their originality. It's also a fantastic method for narrating stories devoid of conversation. It might be anything, such a view of a landscape or a person's hands holding up a sign with words on it.
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Methods to use b roll
 
@@ -48,29 +48,25 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
@@ -82,19 +78,23 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -130,20 +130,22 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-building-size/"><u>[New] Building Size</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-resolution-showdown-gopro-vs-polaroids-editing-experience/"><u>[New] Resolution Showdown GoPro Vs. Polaroid's Editing Experience</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-comparative-content-crusade-analyzing-your-videos-against-others/"><u>[Updated] Comparative Content Crusade Analyzing Your Videos Against Others'</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimal-graphics-setup-for-high-res-editing/"><u>[Updated] Optimal Graphics Setup for High Res Editing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-samsungs-rival-the-leading-cameras-to-match-your-gear-360-needs/"><u>2024 Approved Samsung’s Rival The Leading Cameras to Match Your Gear 360 Needs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-utilizing-royalty-free-beats-in-your-youtube-clips/"><u>2024 Approved Utilizing Royalty-Free Beats in Your YouTube Clips</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortless-inclusion-of-linktree-in-your-tiktok-bio/"><u>Effortless Inclusion of Linktree in Your TikTok Bio</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Phone without PIN</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>In 2024, Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-snippets-from-cinema-to-skillful-editors-arsenal/"><u>In 2024, Snippets From Cinema to Skillful Editors' Arsenal</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/most-reliable-vehicle-monitoring-cameras-ranked-for-2024/"><u>Most Reliable Vehicle Monitoring Cameras Ranked for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/online-capture-screen-to-youtube-posting-with-pcmac-for-2024/"><u>Online Capture Screen-to-YouTube Posting with PC/Mac for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-safe-mode-activating-tpm-and-secure-boot-before-windows-11-update/"><u>Setting SAFE Mode: Activating TPM & Secure Boot Before Windows 11 Update</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mirth-makers-zombie-fashionistas/"><u>[New] Mirth Makers Zombie Fashionistas</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-google-voice-call-logging-with-ease-for-2024/"><u>[New] Navigating Google Voice Call Logging with Ease for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nikons-leap-to-4k-the-d500-breakdown/"><u>[New] Nikon's Leap to 4K The D500 Breakdown</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-blueprint-for-stellar-unboxing-videos-on-tiktok/"><u>[New] The Blueprint for Stellar Unboxing Videos on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-6-apps-for-creating-film-captions-in-various-languages/"><u>[New] Top 6 Apps for Creating Film Captions in Various Languages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterful-video-text-techniques-ranked/"><u>[Updated] Masterful Video Text Techniques - Ranked</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-monetizing-video-how-much-does-a-single-streamer-earn-for-2024/"><u>[Updated] Monetizing Video How Much Does a Single Streamer Earn for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-stabilization-tech-iphoneandroiddslr-focused/"><u>[Updated] Optimal Stabilization Tech IPhone/Android/DSLR Focused</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-significant-tenets-of-interactive-storytelling/"><u>2024 Approved Significant Tenets of Interactive Storytelling</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy S23 FE FRP Bypass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastery-in-motion-an-in-depth-look-at-polarrs-toolset/"><u>In 2024, Mastery in Motion An In-Depth Look at Polarr’s Toolset</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-must-have-add-ons-for-your-gopro-adventure/"><u>In 2024, Must-Have Add-Ons for Your GoPro Adventure</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>In 2024, The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-your-clean-sweep-fixing-win11-ccleaner/"><u>Saving Your Clean Sweep: Fixing Win11 CCleaner</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seeking-the-perfect-samsung-gear-360-replacement-our-list-of-2023s-best-cameras-for-2024/"><u>Seeking the Perfect Samsung Gear 360 Replacement Our List of 2023'S Best Cameras for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-only-one-airpod-wont-charge-or-work/"><u>What To Do When Only One AirPod Won’t Charge or Work?</u></a></li>
 </ul></div>
 

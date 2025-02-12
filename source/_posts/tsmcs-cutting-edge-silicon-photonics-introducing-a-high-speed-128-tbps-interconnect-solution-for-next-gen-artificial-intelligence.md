@@ -1,7 +1,7 @@
 ---
 title: "TSMC's Cutting-Edge Silicon Photonics: Introducing a High-Speed 12.8 Tbps Interconnect Solution for Next-Gen Artificial Intelligence"
-date: 2025-01-06T16:09:48.667Z
-updated: 2025-01-11T22:21:45.386Z
+date: 2025-02-07T17:50:55.200Z
+updated: 2025-02-12T16:21:55.212Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,22 +88,20 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>[New] 2024 Approved Key Sites The 6 Most Vital Platforms for B2B Relationships</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-free-video-editing-apps-for-iphonesipads-for-2024/"><u>[New] Essential Free Video Editing Apps for iPhones/iPads for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-soundtrack-synthesis-crafting-scenes-in-imovie/"><u>[New] Soundtrack Synthesis Crafting Scenes in iMovie</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-iphone-ios-voice-memos-recording-guide/"><u>[Updated] 2024 Approved Mastering iPhone IOS Voice Memos Recording Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-fight-like-a-warrior-5-intense-martial-arts-rpgs/"><u>[Updated] Fight Like a Warrior 5 Intense Martial Arts RPGs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-tools-for-clear-images/"><u>[Updated] In 2024, Essential Tools for Clear Images</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterpiece-on-your-screen-iphones-free-photoshop-alternatives/"><u>[Updated] Masterpiece on Your Screen – iPhone’s Free Photoshop Alternatives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-your-fpv-flight-with-optimal-blades/"><u>2024 Approved Revolutionizing Your FPV Flight with Optimal Blades</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-snapshot-survival-guide-top-recorders-evaluated/"><u>2024 Approved SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embrace-multilingualism-effortlessly-mastering-chatgpt-written-in-the-stars-but-for-now-it-remains-an-enigma-a-testament-to-human-curiosity-and-ambition/"><u>Embrace Multilingualism Effortlessly: Mastering ChatGPT’ Written in the Stars, but for Now, It Remains an Enigma - a Testament to Human Curiosity and Ambition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-olympic-ice-showdown-highlights-of-speed-skating-short-track/"><u>In 2024, Olympic Ice Showdown Highlights of Speed Skating Short Track</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instagram-collage-made-simple-a-quick-how-to-for-2024/"><u>Instagram Collage Made Simple A Quick How-To for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/ranked-top-picks-for-free-skype-tones-for-2024/"><u>Ranked Top Picks for Free Skype Tones for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/rhythm-of-motivation-discover-the-most-inspiring-exercinasaurus-rex-songs-for-2024/"><u>Rhythm of Motivation Discover the Most Inspiring Exercinasaurus Rex Songs for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/srt-mastery-free-and-best-websites-in-top-8-lists-for-2024/"><u>SRT Mastery Free & Best Websites in Top 8 Lists for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-high-resolution-passport-portraits-download-for-free-and-print-your-document/"><u>[New] 2024 Approved High-Resolution Passport Portraits - Download for FREE & Print Your Document</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-iphone-and-android-tips-direct-video-sharing-to-twitter-no-retweets/"><u>[New] 2024 Approved IPhone & Android Tips Direct Video Sharing to Twitter No Retweets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-ppc-advertising-essential-guidance-for-newbies-on-social-platforms/"><u>[New] Navigating the World of PPC Advertising Essential Guidance for Newbies on Social Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-archive-in-minutes-with-these-tools/"><u>[Updated] In 2024, Instagram Archive in Minutes with These Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-reimagining-time-flow-a-thorough-2024-app-review/"><u>[Updated] Reimagining Time Flow A Thorough 2024 App Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-secrets-to-successful-vocal-sessions-for-video-content/"><u>[Updated] Secrets to Successful Vocal Sessions for Video Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-boosting-visuals-high-definition-on-twitter-vids/"><u>2024 Approved Boosting Visuals High-Definition on Twitter Vids</u></a></li>
+<li><a href="https://win-net.techidaily.com/four-effective-strategies-to-recover-deleted-documents-from-your-usb-drive/"><u>Four Effective Strategies to Recover Deleted Documents From Your USB Drive</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-reno-11f-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insight-dji-paper-bird-goggles-functionality/"><u>In 2024, Insight DJI Paper Bird Goggles Functionality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-tiktok-videos-efficient-techniques-for-numerical-edits/"><u>In 2024, Perfecting TikTok Videos Efficient Techniques for Numerical Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picscanners-face-blurring-made-easy-for-everyone/"><u>In 2024, PicScanner's Face-Blurring Made Easy for Everyone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-video-mastery-with-iphone-unveiling-top-8-tips-for-success/"><u>In 2024, Pro Video Mastery with iPhone Unveiling Top 8 Tips for Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rapid-revamp-top-8-video-speed-enhancers-for-android/"><u>In 2024, Rapid Revamp Top 8 Video Speed Enhancers for Android</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-8-ambiance-sounds-to-enhance-youtube-beginnings-for-2024/"><u>Top 8 Ambiance Sounds to Enhance YouTube Beginnings for 2024</u></a></li>
 </ul></div>
 

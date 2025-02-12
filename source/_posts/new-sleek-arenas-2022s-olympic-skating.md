@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sleek Arenas  2022'S Olympic Skating\""
-date: 2025-01-24T03:21:45.109Z
-updated: 2025-01-30T17:54:27.635Z
+date: 2025-02-10T17:25:36.782Z
+updated: 2025-02-12T16:59:57.390Z
 tags: 
   - screen-recording
   - ai video
@@ -35,20 +35,20 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
@@ -58,18 +58,18 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
@@ -92,10 +92,6 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
@@ -107,6 +103,10 @@ Step 4: You need to add all imported media files to Video Timeline while you sho
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -121,18 +121,21 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-perfect-timing-for-instagram-loops-key-strategies-revealed/"><u>[New] Perfect Timing for Instagram Loops Key Strategies Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfecting-remote-conferences-with-focused-scopes/"><u>[New] Perfecting Remote Conferences with Focused Scopes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/pin-the-story-right-youtube-video-angles-demystified-guide-for-2024/"><u>[New] Spin the Story Right YouTube Video Angles Demystified (Guide) for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instagram-share-of-todays-thought-provoking-talk/"><u>[Updated] Instagram Share of Today's Thought-Provoking Talk</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-90-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor 90 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-15-pro-max-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/improve-your-pictures-a-comprehensive-guide-to-upping-photo-clarity-on-pcs-macbooks-iphones-and-android-systems/"><u>Improve Your Pictures: A Comprehensive Guide to Upping Photo Clarity on PCs, MacBooks, iPhones, and Android Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-snapshits-pro-photography-edits-guide/"><u>In 2024, Mastering Snapshits Pro Photography Edits Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-days-to-launch-podcasts-for-2024/"><u>Navigating Days to Launch Podcasts for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/pioneering-strategies-to-escalate-your-channels-popularity/"><u>Pioneering Strategies to Escalate Your Channel's Popularity</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-new-era-of-content-tiktok-eats-into-facebooks-pieces/"><u>The New Era of Content: TikTok Eats Into Facebook’s Pieces</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-guide-from-script-writing-to-final-audio-in-videos-for-2024/"><u>Ultimate Guide From Script Writing to Final Audio in Videos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-social-sharing-simplified-photos-from-your-device-now/"><u>[New] 2024 Approved Social Sharing Simplified Photos From Your Device Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-invent-iconic-image-jokes/"><u>[New] Invent Iconic Image Jokes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-filmmaker-forecasts-group/"><u>[New] Prime Filmmaker Forecasts Group</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-tips-innovative-lens-creation-on-snapchat-for-2024/"><u>[Updated] Quick Tips Innovative Lens Creation on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-launching-into-youtube-success-a-starter-guide-for-profit/"><u>2024 Approved Launching Into Youtube Success A Starter Guide for Profit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snap-away-the-best-cams-for-novice-photographers/"><u>2024 Approved Snap Away The Best Cams for Novice Photographers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-google-pixel-8-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Google Pixel 8 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>In 2024, Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-win11s-leading-free-screen-capture-software-ranked-1-5/"><u>In 2024, Win11's Leading Free Screen Capture Software Ranked #1-5</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/innovative-video-sharing-best-practices-for-live-monitor-display/"><u>Innovative Video Sharing Best Practices for Live Monitor Display</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-altitude-with-djis-new-gadget-for-2024/"><u>Mastering Altitude with DJI's New Gadget for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-gpu-choices-4k-editing-and-rendering-for-2024/"><u>Optimal GPU Choices 4K Editing & Rendering for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smart-setup-for-your-windows-11-journey-for-2024/"><u>Smart Setup for Your Windows 11 Journey for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streamlining-console-experience-with-computer-playback-tech/"><u>Streamlining Console Experience with Computer Playback Tech</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transform-your-videos-simple-steps-to-include-youtube-subtitlescc/"><u>Transform Your Videos Simple Steps to Include YouTube Subtitles/CC</u></a></li>
 </ul></div>
 
