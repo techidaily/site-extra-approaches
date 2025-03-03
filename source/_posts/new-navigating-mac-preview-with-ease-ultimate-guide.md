@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Mac Preview with Ease  Ultimate Guide\""
-date: 2025-02-09T17:49:07.391Z
-updated: 2025-02-12T16:54:54.766Z
+date: 2025-02-24T07:46:30.121Z
+updated: 2025-03-02T21:48:55.447Z
 tags: 
   - screen-recording
   - ai video
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 The **Preview app** is a built-in program in macOS, and works as a default viewer for the image and PDF files that your Mac computer has. Because Preview is also an editing software, you don’t need to look for any other third-party tool for basic photo and PDF manipulations.
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
@@ -68,10 +64,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -87,10 +79,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 **Step 3: Crop the Photo**
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
 
@@ -119,10 +107,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -155,10 +139,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -221,21 +201,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-lowering-volume-steps-in-logic-pro-audio-editing/"><u>[New] Lowering Volume Steps in Logic Pro Audio Editing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-money-no-problem-the-best-free-subtitles-apps-for-2024/"><u>[New] No Money, No Problem The Best Free Subtitles Apps for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sculpting-stories-with-specialty-fonts-in-after-effects/"><u>[New] Sculpting Stories with Specialty Fonts in After Effects</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-exclusive-video-player-for-high-quality-avi-on-devices/"><u>[Updated] 2024 Approved Exclusive Video Player for High-Quality AVI on Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-preeminent-visionaries-of-av-artistry-online/"><u>[Updated] The Preeminent Visionaries of AV Artistry Online</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-inside-the-world-of-digital-screen-recording/"><u>2024 Approved Inside the World of Digital Screen Recording</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-the-metaverse-with-friends-top-10-games/"><u>2024 Approved Navigate the Metaverse with Friends - Top 10 Games</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-of-immersion-insights-on-lgs-360-vr-headset/"><u>2024 Approved The Future of Immersion Insights on LG's 360 VR Headset</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-anker-30-speedy-hub-evaluation-unleash-your-devices-full-potential/"><u>Comprehensive Anker 3.0 Speedy Hub Evaluation: Unleash Your Device's Full Potential</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 6s to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-of-video-top-5-slow-motion-cams/"><u>In 2024, Pinnacle of Video Top 5 Slow Motion Cams</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rekindling-the-classics-top-80s-video-effects-for-cutting-edge-films/"><u>In 2024, Rekindling the Classics Top 80S Video Effects for Cutting-Edge Films</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-business-sky-storage-choice-for-2024/"><u>Prime Business Sky-Storage Choice for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-facial-smoothing-motion-blur-techniques-in-picsart-for-2024/"><u>Seamless Facial Smoothing Motion Blur Techniques in Picsart for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/why-wont-my-system-start-exploring-causes-with-yl-computing-and-yl-software-solutions/"><u>Why Won't My System Start? Exploring Causes with YL Computing and YL Software Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-macrofocusadvance-magnify-and-resize-pristine-pics/"><u>[New] MacroFocusAdvance Magnify & Resize Pristine Pics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peak-choice-top-five-high-definition-cameras/"><u>[New] Peak Choice Top Five High Definition Cameras</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-complete-guide-navigating-google-podcast-app/"><u>[Updated] Complete Guide Navigating Google Podcast App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-video-devices-direct-headset-screens/"><u>[Updated] Premium Video Devices Direct Headset Screens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-safaris-picture-in-picture-settings-simplified/"><u>[Updated] Safari’s Picture In Picture Settings Simplified</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-srt-insertion-a-complete-guide-to-mp4-improvement/"><u>2024 Approved Mastering SRT Insertion A Complete Guide to MP4 Improvement</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/driving-engagement-and-visibility-effective-strategies-for-fb-video-marketing/"><u>Driving Engagement and Visibility Effective Strategies for FB Video Marketing</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y77t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insiders-guide-to-pro-windows-10-expertise/"><u>In 2024, Insider's Guide to Pro WINDOWS 10 Expertise</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-chromes-picture-in-picture-for-multi-screen-browsing/"><u>In 2024, Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing</u></a></li>
+<li><a href="https://common-error.techidaily.com/lower-your-pcs-cpu-load-by-correcting-audio-device-isolation-issues-in-windows/"><u>Lower Your PC's CPU Load by Correcting Audio Device Isolation Issues in Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210942366-9780719840845-reiki/"><u>Reiki | Free Book</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-srt-and-mp4-fusion-the-ultimate-guide-for-2024/"><u>Seamless SRT & MP4 Fusion – The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-testimonial-thousands-saved-one-recovery-at-a-time/"><u>The Ultimate Testimonial: Thousands Saved, One Recovery at a Time</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-the-secrets-of-the-best-features-on-the-newly-reviewed-samsung-galaxy-tab-s5e/"><u>Unlocking the Secrets of the Best Features on the Newly Reviewed Samsung Galaxy Tab S5e</u></a></li>
 </ul></div>
 

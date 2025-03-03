@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Integrating Secondary Shots  Tips and Tricks\""
-date: 2025-02-07T17:24:50.170Z
-updated: 2025-02-12T16:23:43.879Z
+date: 2025-02-28T19:15:52.031Z
+updated: 2025-03-03T05:38:15.808Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -52,17 +48,9 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
 
@@ -78,19 +66,11 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
 
@@ -130,22 +110,16 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mirth-makers-zombie-fashionistas/"><u>[New] Mirth Makers Zombie Fashionistas</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-google-voice-call-logging-with-ease-for-2024/"><u>[New] Navigating Google Voice Call Logging with Ease for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-nikons-leap-to-4k-the-d500-breakdown/"><u>[New] Nikon's Leap to 4K The D500 Breakdown</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-blueprint-for-stellar-unboxing-videos-on-tiktok/"><u>[New] The Blueprint for Stellar Unboxing Videos on TikTok</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-6-apps-for-creating-film-captions-in-various-languages/"><u>[New] Top 6 Apps for Creating Film Captions in Various Languages</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterful-video-text-techniques-ranked/"><u>[Updated] Masterful Video Text Techniques - Ranked</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-monetizing-video-how-much-does-a-single-streamer-earn-for-2024/"><u>[Updated] Monetizing Video How Much Does a Single Streamer Earn for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimal-stabilization-tech-iphoneandroiddslr-focused/"><u>[Updated] Optimal Stabilization Tech IPhone/Android/DSLR Focused</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-significant-tenets-of-interactive-storytelling/"><u>2024 Approved Significant Tenets of Interactive Storytelling</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy S23 FE FRP Bypass</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastery-in-motion-an-in-depth-look-at-polarrs-toolset/"><u>In 2024, Mastery in Motion An In-Depth Look at Polarr’s Toolset</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-must-have-add-ons-for-your-gopro-adventure/"><u>In 2024, Must-Have Add-Ons for Your GoPro Adventure</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>In 2024, The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/saving-your-clean-sweep-fixing-win11-ccleaner/"><u>Saving Your Clean Sweep: Fixing Win11 CCleaner</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seeking-the-perfect-samsung-gear-360-replacement-our-list-of-2023s-best-cameras-for-2024/"><u>Seeking the Perfect Samsung Gear 360 Replacement Our List of 2023'S Best Cameras for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-when-only-one-airpod-wont-charge-or-work/"><u>What To Do When Only One AirPod Won’t Charge or Work?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-multi-lens-modifiers-for-creative-video-effects/"><u>[New] Multi-Lens Modifiers for Creative Video Effects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-progopro-sessions-four-meets-five/"><u>[New] ProGoPro Sessions Four Meets Five</u></a></li>
+<li><a href="https://techidaily.com/solved-cyberpunk-2077-looks-blurry/"><u>[SOLVED] Cyberpunk 2077 Looks Blurry</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-guide-to-streamlined-subscription-links-for-video-channels/"><u>[Updated] In 2024, Guide to Streamlined Subscription Links for Video Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visionary-writing-spanning-eight-cinematic-divisions/"><u>[Updated] Visionary Writing Spanning Eight Cinematic Divisions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mystic-modulation-is-this-speech-shifting-software-authentic-or-fiction-discover-substitutes/"><u>2024 Approved Mystic Modulation Is This Speech-Shifting Software Authentic or Fiction? Discover Substitutes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-voice-capture-made-easy-the-ultimate-ipad-guide/"><u>2024 Approved Voice Capture Made Easy The Ultimate iPad Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/exhaustive-index-supported-video-formats-on-the-google-chromecast-device/"><u>Exhaustive Index: Supported Video Formats on the Google Chromecast Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oneplus-nord-n30-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My OnePlus Nord N30 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-refresh-your-digital-realm-selecting-splendid-windows-11-walls/"><u>In 2024, Refresh Your Digital Realm Selecting Splendid Windows 11 Walls</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-garageband-tutorial-for-podcast-creation-for-2024/"><u>Step-by-Step GarageBand Tutorial for Podcast Creation for 2024</u></a></li>
 </ul></div>
 

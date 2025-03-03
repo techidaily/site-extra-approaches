@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Renewal of Photo Viewing Capabilities in Windows 10 - Guide\""
-date: 2025-02-06T18:44:32.322Z
-updated: 2025-02-12T17:44:49.710Z
+date: 2025-02-28T20:05:17.937Z
+updated: 2025-03-03T07:31:13.310Z
 tags: 
   - screen-recording
   - ai video
@@ -57,10 +57,6 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -87,17 +83,9 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -105,15 +93,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -130,16 +110,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-engaging-tiktok-personal-frames-ideas-that-pop-for-2024/"><u>[New] Engaging TikTok Personal Frames Ideas That Pop for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastermind-mind-games-trivia-channel-hunt-for-24/"><u>[New] Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfecting-pixels-11-proven-methods-for-better-colors/"><u>[New] Perfecting Pixels 11 Proven Methods for Better Colors</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-content-creation-and-currency-maximizing-youtube-wealth-for-2024/"><u>[Updated] Content Creation & Currency Maximizing YouTube Wealth for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-jokegenius-easy-login-creative-video-making/"><u>2024 Approved JokeGenius Easy Login, Creative Video Making</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-proart-pa-329q-a-review-of-asuss-leading-edge-4k-monitoring-technology/"><u>2024 Approved ProArt PA 329Q A Review of Asus's Leading-Edge 4K Monitoring Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/clearing-up-your-game-space-a-fix-for-when-fortnite-runs-out-of-video-memory/"><u>Clearing Up Your Game Space – A Fix for When Fortnite Runs Out of Video Memory</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-lenovo-wifi-error-by-installing-appropriate-drivers/"><u>How to Fix Your Lenovo Wifi Error by Installing Appropriate Drivers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-motorola-moto-g14-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Motorola Moto G14</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-8plus-free-easy-to-use-downloader-apps-for-instagrams-creative-videos/"><u>In 2024, 8+ Free, Easy-to-Use Downloader Apps for Instagram's Creative Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastering-pixiz-for-creating-dynamic-photo-videos-for-2024/"><u>Mastering Pixiz for Creating Dynamic Photo Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-preserve-your-roblox-experience-with-flawless-recording-mac/"><u>[New] How to Preserve Your Roblox Experience with Flawless Recording (Mac)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-vr-experience-a-review-of-top-oculus-models/"><u>[New] Optimal VR Experience A Review of Top Oculus Models</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sonic-sharing-adding-music-to-your-whatsapp-status/"><u>[New] Sonic Sharing Adding Music to Your WhatsApp Status</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-srt-audio-file-handling-for-oses/"><u>[New] SRT Audio File Handling for OSes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-broadcast-like-a-ghost-anonymous-instagram-strategies/"><u>[Updated] 2024 Approved Broadcast Like a Ghost Anonymous Instagram Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-and-ios-a-beginners-approach-to-vr-videos/"><u>[Updated] IPhone & IOS A Beginner's Approach to VR Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-vector-image-creators-the-ultimate-10-tool-guide/"><u>[Updated] Leading Vector Image Creators The Ultimate 10-Tool Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rich-archive-of-cost-effective-superior-vector-graphics-websites/"><u>[Updated] Rich Archive of Cost-Effective, Superior Vector Graphics Websites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-your-iphone-photo-mosaic-skills/"><u>2024 Approved Perfect Your iPhone Photo Mosaic Skills</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-successfully-creating-a-d3d-device-after-previous-failures/"><u>Comprehensive Guide to Successfully Creating a D3D Device After Previous Failures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/extend-your-macbooks-charged-hours-with-expert-tips-learn-more-on-zdnet/"><u>Extend Your MacBook's Charged Hours with Expert Tips - Learn More on ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-kick-start-your-digital-broadcast-today/"><u>How to Kick-Start Your Digital Broadcast Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-overcoming-pixelation-during-youtube-video-streams/"><u>In 2024, Overcoming Pixelation During YouTube Video Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/patent-or-not-no-future-for-xbox-s-disk/"><u>Patent or Not, No Future for Xbox S Disk</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/removing-logos-from-your-videos-tips-and-tricks-for-a-clearer-image/"><u>Removing Logos From Your Videos: Tips and Tricks for a Clearer Image</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unraveling-windows-10-complexities-simplified/"><u>Unraveling Windows 10 Complexities Simplified</u></a></li>
 </ul></div>
 

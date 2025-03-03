@@ -1,7 +1,7 @@
 ---
 title: "\"Snowflakes and Champions  Highlights From Beijing Games for 2024\""
-date: 2025-02-05T18:20:53.264Z
-updated: 2025-02-12T18:19:46.791Z
+date: 2025-02-23T16:12:30.919Z
+updated: 2025-03-03T11:03:23.753Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Olympics Games are organized by International Olympic Committee after every four
 
 The grand opening ceremony was held on 4th February and the grand closing will be held on 20th February 2022 at Beijing National Stadium, China. There have already been some extraordinary and memorable moments in the various sports events and competitions in the Winter Olympics 2022\. Here are all the winter Olympics 2022 highlights you should not miss out. You can also check out Olympics video highlights 2022 whose link we have shared at the end of the article.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## 1\. Lindsey Jacobellis Gives US Its First Beijing Olympics Gold
@@ -33,10 +29,6 @@ The grand opening ceremony was held on 4th February and the grand closing will b
 American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowboard cross at Beijing Winter Olympics. She broke the deadlock for the United States at Winter Olympics by giving her country the first gold. In fact, Lindsey Jacobellis had to wait 16 years to wind her maiden gold at the Olympics.
 
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
 
@@ -46,15 +38,7 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-breaks-world-record.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
 
@@ -69,10 +53,6 @@ She lost her balance before she could cross the finishing line and she slid acro
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
@@ -100,10 +80,6 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
 We are all aware of the tensions between Ukraine and Russia are at their peak and there are many experts who believe the countries are on the verge of declaring war. Even though The Winter Olympics should have ideally been an apolitical event, Ukrainian skeleton athlete Vladyslav Heraskevych flashed a sign that read “No War in Ukraine” to spark a political controversy.
@@ -117,10 +93,6 @@ He showed the sign directly to the cameras after he finished his run at Beijing 
 US skater Vincent Zhou has tested positive for coronavirus and therefore, he is out of the Winter Olympics. Naturally, Zhou was in tears and extremely emotional as he was a top medal contender. He did take part in the team free skate event but he struggle to perform at his best even though the US team managed to win silver at the event.
 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
 
@@ -141,18 +113,20 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-download-facebook-story-5-methods-for-2024/"><u>[New] How to Download Facebook Story [5 Methods] for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-plotlines-writers-who-changed-film/"><u>[New] Pinnacle Plotlines Writers Who Changed Film</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-desktop-merging-images-seamlessly/"><u>[Updated] Mastering Desktop Merging Images Seamlessly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premier-perks-for-your-gopro-camera/"><u>[Updated] Premier Perks for Your GoPro Camera</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-pros-picks-elevating-gaming-broadcast-with-top-5-cam-tech/"><u>[Updated] Pro's Picks Elevating Gaming Broadcast with Top 5 Cam Tech</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-revolutionary-entry-tool-for-all-devices-this-year/"><u>[Updated] Revolutionary Entry Tool for All Devices This Year</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-seasons-finest-ice-artistry-2022-highlights-for-2024/"><u>[Updated] Season's Finest Ice Artistry - 2022 Highlights for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-choosing-top-8-free-srt-services/"><u>[Updated] The Ultimate Guide to Choosing Top 8 Free SRT Services</u></a></li>
-<li><a href="https://games-able.techidaily.com/beginning-gaming-adventures-on-linux-with-steam-your-ultimate-guide/"><u>Beginning Gaming Adventures on Linux with Steam - Your Ultimate Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g34-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G34 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2023-initialization-problems-fixed-learn-how-to-start-your-game/"><u>Football Manager 2023 Initialization Problems Fixed - Learn How to Start Your Game!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-10-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Reno 10 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-2024-approved-unlocking-global-audiences-top-video-language-converters/"><u>Updated 2024 Approved Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[New] Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-step-by-step-guide-to-crafting-exciting-mobile-intros/"><u>[Updated] 2024 Approved Step-By Step Guide to Crafting Exciting Mobile Intros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-embrace-9-festive-feasts-watch-holiday-epics-at-zero-cost-online-for-2024/"><u>[Updated] Embrace 9 Festive Feasts Watch Holiday Epics at Zero Cost Online for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-excellent-macos-converters-top-5-picklist/"><u>[Updated] Excellent macOS Converters Top 5 Picklist</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-chuckling-chords-crafting-top-tier-meme-content/"><u>[Updated] In 2024, Chuckling Chords Crafting Top-Tier Meme Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-merging-melodies-the-art-of-crossfading/"><u>[Updated] Merging Melodies The Art of Crossfading</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-selection-of-budget-friendly-4k-projectors/"><u>[Updated] Premium Selection of Budget-Friendly 4K Projectors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-into-the-world-of-precise-editing-tiktok-number-modification/"><u>[Updated] Step Into the World of Precise Editing TikTok Number Modification</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-guide-to-googles-augmented-reality-sticker-features/"><u>2024 Approved A Guide to Google's Augmented Reality Sticker Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mac-enthusiasts-take-on-screenflow-software-review/"><u>2024 Approved Mac Enthusiast's Take on ScreenFlow Software Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-12-mini-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-screen-partnership-contracts-downloadable/"><u>In 2024, Screen Partnership Contracts, Downloadable</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lilliputian-storyboard-outline-for-2024/"><u>Lilliputian Storyboard Outline for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-windows-data-evaluation-guide-for-2024/"><u>Quick Windows Data Evaluation Guide for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-free-downloader-apps-unlimited-youtube-videos-on-mac-without-savevid/"><u>Top Free Downloader Apps: Unlimited YouTube Videos on Mac Without Savevid</u></a></li>
 </ul></div>
 

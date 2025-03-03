@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2025-02-08T18:05:00.729Z
-updated: 2025-02-12T17:52:02.448Z
+date: 2025-03-01T03:42:34.697Z
+updated: 2025-03-03T09:05:01.173Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -68,10 +64,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -87,10 +79,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 **Step 3: Crop the Photo**
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
 
@@ -136,10 +124,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -155,10 +139,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -221,20 +201,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-troubleshooting-mute-reviving-sound-in-obs-recordings/"><u>[New] 2024 Approved Troubleshooting Mute Reviving Sound in OBS Recordings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-high-definition-selecting-prime-lenses-for-professional-video/"><u>[New] Mastering High Definition Selecting Prime Lenses for Professional Video</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-media-landsranking-with-magix-video-pro-x/"><u>[New] Navigating Media Landsranking with Magix Video Pro X</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-landscape-intricacies-of-using-the-background-eraser-feature/"><u>[New] Navigating the Landscape Intricacies of Using the Background Eraser Feature</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reel-radiance-the-ultimate-5-tools-to-brighten-media/"><u>[Updated] Reel Radiance The Ultimate 5 Tools to Brighten Media</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/artists-essential-tools-top-tier-canvas-tablets-of-the-new-era/"><u>Artist's Essential Tools: Top-Tier Canvas Tablets of the New Era</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comprendiendo-los-metodos-de-copia-de-seguridad-incremental-y-diferencial-en-soluciones-informaticas-modernas/"><u>Comprendiendo Los Métodos De Copia De Seguridad Incremental Y Diferencial en Soluciones Informáticas Modernas</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-how-to-create-amazing-mosaic-photo-collage/"><u>In 2024, How to Create Amazing Mosaic Photo Collage</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-image-presentations-how-to-add-text-and-captions-to-videos-within-windows-10-photos/"><u>In 2024, Innovating Image Presentations How to Add Text and Captions to Videos Within Windows 10 Photos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/optimiser-les-videos-en-haute-definition-hd-et-4k-sous-windows-and-macos/"><u>Optimiser Les Vidéos en Haute Définition (HD) Et 4K Sous Windows & macOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-7a-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel 7a has been deleted.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/samsung-m2020-fresh-drivers-download-for-optimal-performance/"><u>Samsung M2020 - Fresh Drivers Download for Optimal Performance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-into-expertise-modifying-numbers-on-tiktok-profiles-for-2024/"><u>Step Into Expertise Modifying Numbers on TikTok Profiles for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-into-the-metaverse-analyzing-6-engrossing-cases-for-2024/"><u>Step Into the Metaverse Analyzing 6 Engrossing Cases for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unlock-smooth-video-flow-from-your-photobooth-app-for-2024/"><u>Unlock Smooth Video Flow From Your Photobooth App for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionary-6-applications-to-enhance-photo-editing-experience/"><u>[New] Revolutionary 6 Applications to Enhance Photo Editing Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-christian-ringtone-guide-selection-tips/"><u>[Updated] 2024 Approved Christian Ringtone Guide – Selection Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-screen-capture-mastery-with-irecorder/"><u>[Updated] In 2024, Screen Capture Mastery with iRecorder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-users-ultimate-podcast-download-techniques/"><u>[Updated] IPhone Users' Ultimate Podcast Download Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-desktop-image-merging-tips/"><u>[Updated] Professional Desktop Image Merging Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-spotlight-on-professional-shoots-innovative-lighting-techniques/"><u>[Updated] Spotlight on Professional Shoots Innovative Lighting Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-daily-use-to-extraordinary-experiences-phones-into-vr/"><u>2024 Approved From Daily Use to Extraordinary Experiences Phones Into VR</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-video-ventures-uploading-to-twtplustumble-feeds/"><u>2024 Approved Video Ventures Uploading to Twt+Tumble Feeds</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-instructions-for-revitalizing-windows-pc-performance-with-updated-motherboard-drivers/"><u>Complete Instructions for Revitalizing Windows PC Performance with Updated Motherboard Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-zte-axon-40-lite-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-conversational-agents-like-chatgpt-for-advanced-emotional-intelligence-training/"><u>Leveraging Conversational Agents Like ChatGPT for Advanced Emotional Intelligence Training</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-crafting-your-own-insta-tones-for-2024/"><u>Step-By-Step Guide to Crafting Your Own Insta Tones for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-learn-the-basics-of-adding-music-and-effects-to-imovie-videos/"><u>Updated 2024 Approved Learn the Basics of Adding Music and Effects to iMovie Videos</u></a></li>
 </ul></div>
 

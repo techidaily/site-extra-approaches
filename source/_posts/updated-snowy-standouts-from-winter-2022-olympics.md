@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Snowy Standouts From Winter 2022 Olympics"
-date: 2025-02-07T17:51:28.502Z
-updated: 2025-02-12T16:18:13.806Z
+date: 2025-02-25T02:37:45.803Z
+updated: 2025-03-03T12:36:51.253Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,6 @@ Injuries are part of sports events but some injuries are gruesome and are result
 
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
 ## 4\. US-Born Eileen Gu Wins Gold for China
@@ -57,10 +53,6 @@ She lost her balance before she could cross the finishing line and she slid acro
 Born in America, Eileen Gu represented China at Winter Olympics and managed to win the gold medal in the inaugural freeski big air event. Therefore, she will go down in the history as the first woman to win the gold medal for freeski big air event. She stunned everyone by completing two off-axis rotations in the air.
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
@@ -72,10 +64,6 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
@@ -84,25 +72,13 @@ Yan Wengang becomes the first medalist from China in a sliding sport. In a four-
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
 
 21-year-old Chloe Kim became back-to-back Olympic champion by dominating in the halfpipe. The American confirmed a gold medal on the first run itself. Her runs had 1080, a switch 900, and a switch backside of 540\. It further added another 1080\. She dominated the Snowboarding Women's Halfpipe Final with 94 points. Spain's Queralkt Castellet won silver and the bronze went to Sena Tomita of Japan.
 
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
@@ -111,10 +87,6 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. American Favorite Out of the Tournament
 
@@ -141,24 +113,17 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-money-smart-sports-photography-innovation-on-a-dime/"><u>[New] Money-Smart Sports Photography - Innovation on a Dime</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-picture-playback-selecting-the-top-8k-panels/"><u>[New] Perfect Picture Playback Selecting the Top 8K Panels</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-shorts-description-everything-you-need-to-know-for-2024/"><u>[New] YouTube Shorts Description Everything You Need to Know for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-transition-your-tunes-transferring-collections-between-services/"><u>[Updated] 2024 Approved Transition Your Tunes Transferring Collections Between Services</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-learn-how-to-rewind-video-ordering-on-android/"><u>[Updated] Learn How to Rewind Video Ordering on Android</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-methods-to-rectify-obs-fullscreen-crash-for-2024/"><u>[Updated] Methods to Rectify OBS Fullscreen Crash for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-soundtracks-for-snickers-ringtones-best-online-sources/"><u>[Updated] Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-comprehensive-list-of-zoom-transcription-software-freepaid/"><u>2024 Approved Comprehensive List of Zoom Transcription Software (Free/Paid)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximize-your-streams-impact-our-recommendations-for-best-9-filters/"><u>2024 Approved Maximize Your Stream's Impact Our Recommendations for Best 9 Filters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-peak-visionary-suite-feedback/"><u>2024 Approved Peak Visionary Suite Feedback</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-skew-it-right-a-step-by-step-guide-for-photo-warping/"><u>2024 Approved Skew It Right A Step-by-Step Guide for Photo Warping</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-ultimate-guide-to-increasing-traffic-with-powerful-social-media-videos/"><u>2024 Approved The Ultimate Guide to Increasing Traffic with Powerful Social Media Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-videographers-playbook-for-sims-games/"><u>2024 Approved The Videographer's Playbook for Sims Games</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mg2522-driver-update-how-to-get-it-now/"><u>Canon MG2522 Driver Update: How to Get It Now</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-perks-of-antops-at-127-the-marriage-of-elegant-design-and-no-cost-live-channels/"><u>Discover the Perks of Antop's AT-127: The Marriage of Elegant Design and No Cost Live Channels</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-elevating-marketing-through-real-peoples-endorsements/"><u>In 2024, Elevating Marketing Through Real People’s Endorsements</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-hue-transformations-in-post-production/"><u>In 2024, Mastering Hue Transformations in Post-Production</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-google-photos-essential-tips-and-tricks-for-2024/"><u>Mastering Google Photos Essential Tips and Tricks for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-webm-video-optimization-best-online-compression-software/"><u>New WebM Video Optimization Best Online Compression Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secure-and-updated-altering-numbers-in-tiktok-profiles/"><u>[New] Secure and Updated Altering Numbers in TikTok Profiles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-building-bridges-pathways-for-graphic-design-aspirants/"><u>[Updated] Building Bridges Pathways for Graphic Design Aspirants</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-curate-a-facebook-playlist-via-phonetablet/"><u>[Updated] How to Curate a Facebook Playlist via Phone/Tablet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-skype-audio-archive-mp3-techniques-free-edition/"><u>[Updated] Skype Audio Archive MP3 Techniques, Free Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-your-fb-profile-top-tips-for-impressive-biographies/"><u>2024 Approved Mastering Your FB Profile Top Tips for Impressive Biographies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-new-realm-of-jaunt-vr/"><u>2024 Approved Navigating the New Realm of Jaunt VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-start-combining-mac-obs-and-streamlabs-power/"><u>2024 Approved Quick Start Combining Mac, OBS & Streamlabs Power</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/geekom-unveils-compact-powerhouse-ax8-mini-computer-boasting-13th-gen-intel-and-ryzen-7000-processors/"><u>GeekOm Unveils Compact Powerhouse: AX8 Mini Computer Boasting 13Th Gen Intel & Ryzen 7000 Processors</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-jocular-joke-crafting-a-step-by-step-guide-to-memelore/"><u>In 2024, Jocular Joke-Crafting A Step-by-Step Guide to Memelore</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-chapter-inclusion-in-youtube-videos-professional-edition/"><u>In 2024, Navigating Chapter Inclusion in YouTube Videos Professional Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-adding-custom-actions-to-file-context-menus/"><u>Windows 10/11: Adding Custom Actions to File Context Menus</u></a></li>
 </ul></div>
 

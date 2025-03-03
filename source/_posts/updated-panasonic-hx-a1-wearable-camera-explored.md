@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Panasonic HX-A1 Wearable Camera Explored\""
-date: 2025-02-07T16:11:33.673Z
-updated: 2025-02-12T16:41:50.926Z
+date: 2025-02-27T23:58:42.112Z
+updated: 2025-03-03T13:26:38.572Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -66,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 | Waterproof, dustproof, shockproof and freeze proof. No additional housing or case needed to take it underwater as a replacement glass cover for lens is also included. | Not compatible for 4K shooting                                                                         |
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Accessories in the box
 
@@ -108,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Features
 
 #### **1. Video and photo quality**
@@ -140,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
@@ -151,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -171,20 +151,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-professional-moving-less-imagery-tips/"><u>[New] Professional Moving-Less Imagery Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-securing-yourself-from-motion-sickness-in-vr/"><u>[New] Securing Yourself From Motion Sickness in VR</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smilesphere-endless-possibrancies-in-meme-land/"><u>[New] SmileSphere Endless Possibrancies in Meme Land</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-spiritual-slow-motion-tutorial/"><u>[New] Spiritual Slow Motion Tutorial</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-essential-steadicams-to-boost-the-performance-of-your-dslr-cameras/"><u>[Updated] 2024 Approved Essential Steadicams to Boost the Performance of Your DSLR Cameras</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-which-is-better-for-streamers-obs-studio-or-fraps/"><u>[Updated] 2024 Approved Which Is Better for Streamers, OBS Studio or Fraps?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-approach-to-stream-flawless-events-with-zoom-on-youtube/"><u>[Updated] Step-by-Step Approach to Stream Flawless Events with Zoom on YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-how-to-maintain-youtube-session-in-the-background/"><u>2024 Approved How to Maintain YouTube Session in the Background</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sculpting-soft-amplitude-in-fl-studio-tracks/"><u>2024 Approved Sculpting Soft Amplitude in FL Studio Tracks</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/danish-films-your-gateway-to-authentic-linguistic-fluency/"><u>Danish Films: Your Gateway to Authentic Linguistic Fluency</u></a></li>
-<li><a href="https://games-able.techidaily.com/notifying-of-violations-how-to-report-on-screen-offenses-xbox/"><u>Notifying of Violations: How to Report On-Screen Offenses (Xbox)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-6-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 6 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionary-capturing-best-5-cameras-for-slow-mo-for-2024/"><u>Revolutionary Capturing Best 5 Cameras for Slow Mo for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/steps-to-post-music-on-social-media-stories-for-2024/"><u>Steps to Post Music on Social Media Stories for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-speed-edit-windows-11-photos-like-a-pro-for-2024/"><u>Unleash Speed Edit Windows 11 Photos Like a Pro for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-guide-to-turning-tiktok-music-into-your-cell-phone-ringtone/"><u>[New] In 2024, Guide to Turning TikTok Music Into Your Cell Phone Ringtone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-next-gen-cuts-select-best-6-video-editing-apps-for-mac-big-sur/"><u>[New] In 2024, Next-Gen Cuts Select Best 6 Video Editing Apps for Mac Big Sur</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-youtube-livestream-game-plan-for-2024/"><u>[Updated] Elevate Your YouTube Livestream Game Plan for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-overcoming-missed-frames-in-real-time-streaming-for-2024/"><u>[Updated] Overcoming Missed Frames in Real-Time Streaming for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-7-cameras-unbeatable-in-underwater-shooting/"><u>[Updated] Prime 7 Cameras Unbeatable In Underwater Shooting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-soundtrack-switch-up-effortlessly-moving-your-music-queue/"><u>[Updated] Soundtrack Switch-Up Effortlessly Moving Your Music Queue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-revenue-breakdown-a-deep-dive-into-podcast-finances/"><u>2024 Approved Revenue Breakdown A Deep Dive Into Podcast Finances</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-social-media-savvy-quick-fire-tips-for-aspiring-online-marketers/"><u>2024 Approved Social Media Savvy Quick-Fire Tips for Aspiring Online Marketers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-key-steps-to-accurate-and-effective-market-research-analysis/"><u>In 2024, Key Steps to Accurate and Effective Market Research Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-pros-playbook-3-ways-to-record-competitive-games/"><u>In 2024, The Pro's Playbook 3 Ways to Record Competitive Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-edge-computers-for-your-office-for-2024/"><u>Leading-Edge Computers for Your Office for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-elevate-your-videos-3-simple-ways-to-add-transitions-in-fcp/"><u>New In 2024, Elevate Your Videos 3 Simple Ways to Add Transitions in FCP</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/top-10-hilarious-tweets-galore/"><u>Top 10 Hilarious Tweets Galore</u></a></li>
 </ul></div>
 
